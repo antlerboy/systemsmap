@@ -1,56 +1,56 @@
 [
   {
+    "name": "Google Calendar",
+    "url": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fsystemdynamics.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
+    "foundOn": "https://systemdynamics.org/events/",
+    "checkedAt": "2026-09-05T16:57:08+00:00"
+  },
+  {
     "name": "RSD SYMPOSIUM & REPOSITORY",
     "url": "https://rsdsymposium.org/",
     "foundOn": "https://systemic-design.org/",
-    "checkedAt": "2026-09-05T16:50:03+00:00"
+    "checkedAt": "2026-09-05T16:57:08+00:00"
   },
   {
     "name": "Google Calendar",
     "url": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fifsr.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
     "foundOn": "https://ifsr.org/events/",
-    "checkedAt": "2026-09-05T16:50:03+00:00"
+    "checkedAt": "2026-09-05T16:57:08+00:00"
   },
   {
     "name": "17th ICSD & 5th ANZSYS conference 1999",
     "url": "http://www.systemdynamics.org/conferences/1999/index.htm",
     "foundOn": "https://www.anzsys.org/",
-    "checkedAt": "2026-09-05T16:50:03+00:00"
+    "checkedAt": "2026-09-05T16:57:08+00:00"
   },
   {
     "name": "Download the flyer for the Conference",
     "url": "https://www.alarassociation.org/sites/default/files/ALtd_Docs/Events/2026Conf/ALARA2026ConfFlyerLG.pdf",
     "foundOn": "https://www.anzsys.org/",
-    "checkedAt": "2026-09-05T16:50:03+00:00"
+    "checkedAt": "2026-09-05T16:57:08+00:00"
   },
   {
     "name": "https://www.tepunahamatatini.ac.nz/conferences/symposium-2026",
     "url": "https://www.tepunahamatatini.ac.nz/conferences/symposium-2026",
     "foundOn": "https://www.anzsys.org/",
-    "checkedAt": "2026-09-05T16:50:03+00:00"
+    "checkedAt": "2026-09-05T16:57:08+00:00"
   },
   {
     "name": "https://alarassociation.org/events/conferences/alara-2024-conference",
     "url": "https://alarassociation.org/events/conferences/alara-2024-conference",
     "foundOn": "https://www.anzsys.org/",
-    "checkedAt": "2026-09-05T16:50:03+00:00"
-  },
-  {
-    "name": "Google Calendar",
-    "url": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fsystemdynamics.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-    "foundOn": "https://systemdynamics.org/events/",
-    "checkedAt": "2026-09-05T16:50:03+00:00"
+    "checkedAt": "2026-09-05T16:57:08+00:00"
   },
   {
     "name": "Google Calendar",
     "url": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.sociocracyforall.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
     "foundOn": "https://www.sociocracyforall.org/events/",
-    "checkedAt": "2026-09-05T16:50:03+00:00"
+    "checkedAt": "2026-09-05T16:57:08+00:00"
   },
   {
     "name": "The Events Calendar",
     "url": "https://theeventscalendar.com/products/wordpress-events-calendar/?utm_medium=plugin-tec&utm_source=banner&utm_campaign=in-app",
     "foundOn": "https://www.sociocracyforall.org/events/",
-    "checkedAt": "2026-09-05T16:50:03+00:00"
+    "checkedAt": "2026-09-05T16:57:08+00:00"
   }
 ]
