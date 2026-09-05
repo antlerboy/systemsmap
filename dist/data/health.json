@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-09-05T16:41:47+00:00",
-  "events": 71,
-  "upcoming": 52,
+  "checkedAt": "2026-09-05T16:50:03+00:00",
+  "events": 140,
+  "upcoming": 103,
   "sources": 30,
-  "collecting": 8,
-  "failed": 13
+  "collecting": 11,
+  "failed": 5
 }

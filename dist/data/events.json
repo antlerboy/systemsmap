@@ -1,8 +1,51 @@
 {
-  "generatedAt": "2026-09-05T16:41:47+00:00",
+  "generatedAt": "2026-09-05T16:50:03+00:00",
   "windowStart": "2026-06-07",
   "windowEnd": "2028-03-08",
   "events": [
+    {
+      "id": "40c59e798a90e2456a35dcd0",
+      "title": "Sociocracy and us. Individual, collective, and society",
+      "start": "2026-06-09T15:00:00+00:00",
+      "end": "2026-06-09T16:00:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Venus – SoFA Zoom Room, https://zoom.sociocracyforall.org/venus-zoom-299978898",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "<p>What kind of a vision of change does sociocracy match? Can individuals\\' needs be met while building organizations? What is the relationship between the collective and individuals anyway? </p>\\n",
+      "url": "https://www.sociocracyforall.org/event/sociocracy-and-us-individual-collective-and-society/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?posts_per_page=13&eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "0 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://www.sociocracyforall.org/event/sociocracy-and-us-individual-collective-and-society/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
     {
       "id": "20a07e5e74504b8b2f14d672",
       "title": "(Victor Ganon)",
@@ -39,7 +82,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1982695886",
       "recurrenceId": "2026-06-10 12:00:00-04:00",
       "stale": false,
@@ -83,7 +126,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.cecan.ac.uk/events/cecan-webinar-testing-learning-and-adapting-introducing-the-new-test-and-learn-annex-to-the-magenta-book/",
       "recurrenceId": "",
       "stale": false,
@@ -127,7 +170,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU2104129735",
       "recurrenceId": "2026-06-16 09:00:00+02:00",
       "stale": false,
@@ -175,7 +218,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1984141035",
       "recurrenceId": "2026-06-17",
       "stale": false,
@@ -220,7 +263,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2026-06-17 12:00:00-04:00",
       "stale": false,
@@ -268,7 +311,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1984141035",
       "recurrenceId": "2026-06-18",
       "stale": false,
@@ -316,7 +359,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1984141035",
       "recurrenceId": "2026-06-19",
       "stale": false,
@@ -363,7 +406,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1984147448",
       "recurrenceId": "2026-06-22",
       "stale": false,
@@ -409,7 +452,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.cecan.ac.uk/events/cecan-conference-2026-global-perspectives-on-complex-evaluation/",
       "recurrenceId": "",
       "stale": false,
@@ -417,6 +460,49 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "f97857505121f9febdcf5a2f",
+      "title": "Basic Elements of Sociocracy",
+      "start": "2026-06-26T16:00:00+00:00",
+      "end": "2026-06-26T19:00:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "<p>Learn the fundations of sociocracy Three tiers: Register for the Fall 2026 Academy Level 1 course and the fee for this webinar will be deducted from the Academy tuition. For any questions about registration contact events@sociocracyforall.org. About this class Are you interested in learning more about some of the basic principles of sociocracy? Or perhaps […]</p>\\n",
+      "url": "https://www.sociocracyforall.org/event/basic-elements-of-sociocracy-webinar/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?posts_per_page=13&eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://www.sociocracyforall.org/event/basic-elements-of-sociocracy-webinar/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "e9509aff3d5137eb6362e5eb",
@@ -454,7 +540,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://cssociety.org/event/5e704c78-1f96-44d2-a917-12e60df5c1cb/",
       "recurrenceId": "",
       "stale": false,
@@ -501,7 +587,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1984149661",
       "recurrenceId": "2026-06-29",
       "stale": false,
@@ -548,7 +634,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1984149661",
       "recurrenceId": "2026-06-30",
       "stale": false,
@@ -595,7 +681,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1984149661",
       "recurrenceId": "2026-07-01",
       "stale": false,
@@ -603,6 +689,49 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "2e9bf690979c8a0c1536be49",
+      "title": "Sociocracy+ transformative social systems",
+      "start": "2026-07-01T15:00:00+00:00",
+      "end": "2026-07-01T16:00:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Venus – SoFA Zoom Room, https://zoom.sociocracyforall.org/venus-zoom-299978898",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "<p>How does sociocracy relate to other social systems, like Nonviolent Communication, Theory U, permaculture, or liberating structures? What kinds of environments does sociocracy thrive in, i in which environments does sociocracy reach its limits?<br />\\nIn this event, we stretch into the biggest vision we can stretch into - a world where systems like sociocracy are common sesne.</p>\\n",
+      "url": "https://www.sociocracyforall.org/event/sociocracy-transformative-social-systems/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?posts_per_page=13&eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "0 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://www.sociocracyforall.org/event/sociocracy-transformative-social-systems/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "e66c2f02fdc8b62d541ead37",
@@ -639,7 +768,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU2125607720",
       "recurrenceId": "2026-07-03 15:00:00+02:00",
       "stale": false,
@@ -684,7 +813,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2026-07-15 12:00:00-04:00",
       "stale": false,
@@ -692,6 +821,49 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "205d507841e8734b00a5bf0b",
+      "title": "Systems Practice Forum @ ISDC2026",
+      "start": "2026-07-24T09:00:00+02:00",
+      "end": "2026-07-24T18:00:00+02:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "TU Delft, Aula Conference Center, Mekelweg 5, 2628 CC, Delft, Netherlands",
+      "country": "Netherlands",
+      "latitude": 52.00220458732,
+      "longitude": 4.3732514972736,
+      "locationPrecision": "published",
+      "format": "in-person",
+      "organiser": "MIT System Dynamics Group",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "<p>Explore real-world applications, interactive workshops, and case studies to enhance your organization\\'s impact through System Dynamics and systems thinking.</p>\\n",
+      "url": "https://systemdynamics.org/event/systems-practice-forum-isdc2026/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "250 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://systemdynamics.org/event/systems-practice-forum-isdc2026/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "4fc08fcb2c47ef70a3e9f34c",
@@ -728,7 +900,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://ifsr.org/event/conversational-confluences-american-society-for-cybernetics-conference-2026/#event",
       "recurrenceId": "",
       "stale": false,
@@ -736,6 +908,136 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "0cecb3891ffc6ed35f46caa1",
+      "title": "System Dynamics Learning Hub 2026 – SASDC – Stream 3 (Pollution Dynamics): Session 1",
+      "start": "2026-08-04T18:00:00+02:00",
+      "end": "2026-08-04T20:00:00+02:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "The South Africa System Dynamics Chapter (SASDC)",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics",
+        "complexity"
+      ],
+      "description": "<p>The Learning Hub is an interactive, hands-on learning experience that will help you explore the behaviour of complex systems through guided exercises and discussions. Held in 4 streams throughout the year, the Hub provides a structured and engaging environment to deepen your understanding of system dynamics through practical applications for all skill levels. The process […]</p>\\n",
+      "url": "https://systemdynamics.org/event/system-dynamics-learning-hub-2026-sasdc-stream-3-pollution-dynamics-session-1/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://systemdynamics.org/event/system-dynamics-learning-hub-2026-sasdc-stream-3-pollution-dynamics-session-1/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "f3727ffadf28bfee34b21cc9",
+      "title": "Roadmap to Implement Sociocracy – Free (donations appreciated)",
+      "start": "2026-08-06T15:00:00+00:00",
+      "end": "2026-08-06T16:00:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Mars – SoFA Zoom Room, https://zoom.sociocracyforall.org/mars-zoom-180463541",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "<p>Join this free one-hour webinar to learn how to implement sociocracy, common challenges, and what resources are available through Sociocracy For All to help you at each step. </p>\\n",
+      "url": "https://www.sociocracyforall.org/event/roadmap-to-implement-sociocracy/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?posts_per_page=13&eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "76.71 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://www.sociocracyforall.org/event/roadmap-to-implement-sociocracy/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "d8c293b9d8ef0e9be47b7f2c",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2026-08-11T11:00:00-04:00",
+      "end": "2026-08-11T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "<p>Monthly meeting led by the AI in System Dynamics Education Task Force to guide educators in responsibly integrating AI into SD teaching.</p>\\n",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2026-08-11/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2026-08-11/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "2cd09377028a8ebe1ea2e6d7",
@@ -773,7 +1075,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2026-08-19 12:00:00-04:00",
       "stale": false,
@@ -821,7 +1123,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU2133404103",
       "recurrenceId": "2026-08-20",
       "stale": false,
@@ -829,6 +1131,135 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "aebf90cba4d24ebd40dbe2c9",
+      "title": "SDS Policy Council Meeting (August 2026)",
+      "start": "2026-08-20T11:00:00-04:00",
+      "end": "2026-08-20T12:30:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "<p>Monthly meetings of the Policy Council occur on the 3rd Thursday of the month with the exception of conference month and holiday weeks. All Society members are welcome to attend. Login to access the zoom link which will be displayed here to members 15 minutes prior to the start of the meeting.</p>\\n",
+      "url": "https://systemdynamics.org/event/sds-policy-council-meeting-august-2026/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://systemdynamics.org/event/sds-policy-council-meeting-august-2026/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "523147b0ddcf8306916f9236",
+      "title": "XMILE Technical Committee Meeting (August 2026)",
+      "start": "2026-08-21T10:00:00-04:00",
+      "end": "2026-08-21T10:45:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "",
+      "url": "https://systemdynamics.org/event/xmile-technical-committee-meeting-august-2026/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "0 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://systemdynamics.org/event/xmile-technical-committee-meeting-august-2026/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "bebc6f58da4d93c4392f3328",
+      "title": "SD Tools/XMILE Users Group (August 2026)",
+      "start": "2026-08-21T11:00:00-04:00",
+      "end": "2026-08-21T11:45:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "",
+      "url": "https://systemdynamics.org/event/sd-tools-xmile-users-group-august-2026/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "0 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://systemdynamics.org/event/sd-tools-xmile-users-group-august-2026/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "c61960ae94820bda3b8defa3",
@@ -866,7 +1297,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://cssociety.org/event/075b0114-b4bd-4efc-8d1a-9d5a4d6a2eca/",
       "recurrenceId": "",
       "stale": false,
@@ -874,6 +1305,355 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "d774192494ed8546b96529a2",
+      "title": "Nonviolent Communication Basics 3 x 2hs",
+      "start": "2026-08-24T15:00:00+00:00",
+      "end": "2026-08-24T17:00:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "<p>This is a 3-session introduction class to compassionate communication (Nonviolent Communication, NVC). The class covers basic concepts with all sessions being participatory with time for questions and answers.</p>\\n",
+      "url": "https://www.sociocracyforall.org/event/nonviolent-communication-basics-aug-2026/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?posts_per_page=13&eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://www.sociocracyforall.org/event/nonviolent-communication-basics-aug-2026/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "169eea14b9f18798786086d2",
+      "title": "Annual Psychology and Human Behavior SIG Meeting (August 2026)",
+      "start": "2026-08-25T10:00:00-04:00",
+      "end": "2026-08-25T11:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "Psychology and Human Behavior SIG",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "<p>Please join us for our annual Psychology and Human Behavior SIG meeting. The first presentation will focus on emotional dynamics, and the second on cognitive algebra. Next, we will discuss the SIG’s plans for the upcoming year. Part 1. (25 minutes) Emotions as Dynamical, Self-Organizing Patterns of Salience: An Illustrative Model for Accessing Other Minds Through […]</p>\\n",
+      "url": "https://systemdynamics.org/event/psychology-and-human-behavior-sig-meeting-august-2026/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "0 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://systemdynamics.org/event/psychology-and-human-behavior-sig-meeting-august-2026/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "de5e9a27f58cfd51073e46e8",
+      "title": "Introduction to Sociocracy: 2-session class",
+      "start": "2026-08-26T16:00:00+00:00",
+      "end": "2026-08-26T19:00:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "<p>Learn and practice the basics of sociocracy In this class you will be introduced to basic principles of sociocracy with many examples and practice opportunities. All sessions are participatory with time for questions and answers. Friday, September 19, 2025 at 14:00 UTC / 10:00 EDT Event time in your time zone: Class Schedule This is […]</p>\\n",
+      "url": "https://www.sociocracyforall.org/event/introduction-to-sociocracy-august2026/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?posts_per_page=13&eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "100 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://www.sociocracyforall.org/event/introduction-to-sociocracy-august2026/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "db2f6fed4f94506198d50221",
+      "title": "Place, Poly-Capital, and the Power to Change Systems",
+      "start": "2026-08-27T08:00:00-04:00",
+      "end": "2026-08-27T09:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "<p>Eva Gladek shares lessons from 14 years of systems change, showing how regional action and capital can drive regenerative transformation.</p>\\n",
+      "url": "https://systemdynamics.org/event/place-poly-capital-and-the-power-to-change-systems/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "0 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://systemdynamics.org/event/place-poly-capital-and-the-power-to-change-systems/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "ab71cd26cf83a6e910e16a5c",
+      "title": "Water SIG Meeting (August 2026)",
+      "start": "2026-08-27T11:00:00-04:00",
+      "end": "2026-08-27T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "Water SIG",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "<p>Please join us on Thursday, August 27th at 11am New York time to work on an intro to SD and Water roadmap for self-guided learning and brainstorm on how to crowdsource a GIS map of system dynamics models of river basins and aquifers. CT is thinking of creating something like this https://suave-net.sdsc.edu/main/file=suavedemos_Transboundary_Groundwater_Research_2024.csv&view=grid. If you have [",
+      "url": "https://systemdynamics.org/event/water-sig-meeting-august-2026/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "0 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://systemdynamics.org/event/water-sig-meeting-august-2026/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "72f5655d3387afef89f200d7",
+      "title": "Pre-College Education SIG Annual Meeting",
+      "start": "2026-08-27T13:00:00-04:00",
+      "end": "2026-08-27T13:45:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "Pre College Education SIG",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "<p>Dear Colleagues, We would like to invite you to attend our System Dynamics Society Pre-College Special Interest Group annual meeting. Please join our discussion about spreading systems thinking (ST) and system dynamics (SD) modeling in precollege education, globally. The SIG meeting will happen on Thursday, August 27 at 1:00pm New York. Many exciting activities are […]</p>\\n",
+      "url": "https://systemdynamics.org/event/pre-college-education-sig-meeting-august-2026/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "0 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://systemdynamics.org/event/pre-college-education-sig-meeting-august-2026/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "aadc3d71128b252947889423",
+      "title": "Student Chapter General Meeting",
+      "start": "2026-08-27T15:00:00+02:00",
+      "end": "2026-08-27T16:00:00+02:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "Student Chapter",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "<p>During this meeting, we will follow up on discussions from the annual meeting last month, with a focus on finding an alternative communication method/platform from the mass mailing list to better advertise events, connect prospective volunteers with opportunities, and foster an improved sense of community within the chapter.</p>\\n",
+      "url": "https://systemdynamics.org/event/student-chapter-general-meeting/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "0 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://systemdynamics.org/event/student-chapter-general-meeting/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "eb4d9c856f7a83ae54a879f8",
+      "title": "System Mapping Meets AI: Practical Ways AI Can Support Your Mapping Process",
+      "start": "2026-09-01T11:00:00-04:00",
+      "end": "2026-09-01T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Explore five practical roles AI can play in system mapping, from knowledge aggregation to storytelling, while understanding its benefits, risks, and limitations.",
+      "url": "https://systemdynamics.org/event/system-mapping-meets-ai-practical-ways-ai-can-support-your-mapping-process/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/month/"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?eventDisplay=past"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "0 USD",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://systemdynamics.org/event/system-mapping-meets-ai-practical-ways-ai-can-support-your-mapping-process/#event",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "1327388df871e880b96550b4",
@@ -910,7 +1690,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "11809-1788339600-1789149600@metaphorum.org",
       "recurrenceId": "2026-09-02 09:00:00+02:00",
       "stale": false,
@@ -953,7 +1733,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://csh.ac.at/events/follow-up-workshop-at-csh-copenhagen-health-complexity-center/",
       "recurrenceId": "",
       "stale": false,
@@ -961,6 +1741,194 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "7e45dbcc72f0f92d35f38eeb",
+      "title": "Journée Intégration Master Immunotherapies and Systems Immunology (ITSI)",
+      "start": "2026-09-07T14:00:00+03:00",
+      "end": "2026-09-07T19:00:00+03:00",
+      "allDay": false,
+      "timezone": "Europe/Helsinki",
+      "location": "ISC-PIF, 113 rue Nationale, Paris, Paris, 75013, France",
+      "country": "France",
+      "latitude": 48.857,
+      "longitude": 2.352,
+      "locationPrecision": "city",
+      "format": "in-person",
+      "organiser": "Institut des systèmes complexes Paris Île-de-France",
+      "organisationIds": [
+        "iscpif"
+      ],
+      "topics": [
+        "complexity"
+      ],
+      "description": "Journée d’intégration des étudiants de Master Immunotherapies and Systems Immunology de Sorbonne Université. Cliquer pour accéder à itsi_master_2-v3_0.pdf",
+      "url": "https://iscpif.fr/evenements/journee-integration-master-immunotherapies-and-systems-immunology-itsi/",
+      "sources": [
+        {
+          "id": "iscpif",
+          "name": "Institut des systèmes complexes Paris Île-de-France",
+          "url": "https://iscpif.fr/evenements/?lang=en%2F&ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "68714-1788789600-1788807600@iscpif.fr",
+      "recurrenceId": "2026-09-07 14:00:00+03:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "e5215a1c196db05bc2f610a6",
+      "title": "CoPil RE2 France Life Imaging",
+      "start": "2026-09-08T10:00:00+03:00",
+      "end": "2026-09-08T16:00:00+03:00",
+      "allDay": false,
+      "timezone": "Europe/Helsinki",
+      "location": "ISC-PIF, 113 rue Nationale, Paris, Paris, 75013, France",
+      "country": "France",
+      "latitude": 48.857,
+      "longitude": 2.352,
+      "locationPrecision": "city",
+      "format": "in-person",
+      "organiser": "Institut des systèmes complexes Paris Île-de-France",
+      "organisationIds": [
+        "iscpif"
+      ],
+      "topics": [
+        "complexity"
+      ],
+      "description": "Réunion du comité de pilotage du réseau d’expertise « instrumentations et innovations technologiques » de l’infrastructure de recherche France Life Imaging. Accueil",
+      "url": "https://iscpif.fr/evenements/copil-re2-france-life-imaging/",
+      "sources": [
+        {
+          "id": "iscpif",
+          "name": "Institut des systèmes complexes Paris Île-de-France",
+          "url": "https://iscpif.fr/evenements/?lang=en%2F&ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "67790-1788861600-1788883200@iscpif.fr",
+      "recurrenceId": "2026-09-08 10:00:00+03:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "aa08d98937a0f551ab398dda",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2026-09-08T11:00:00-04:00",
+      "end": "2026-09-08T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2026-09-08/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2026-09-08/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2026-09-08/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002295-1788865200-1788868800@systemdynamics.org",
+      "recurrenceId": "2026-09-08 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "b07b0d21a3ba6d9ff469fe4a",
+      "title": "Academy (Level 1, two cohorts for all time zones)",
+      "start": "2026-09-08T12:00:00-04:00",
+      "end": "2026-09-08T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "SoFA Zoom (Multi-Room)",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "complexity",
+        "systems"
+      ],
+      "description": "The 5-month program covers all the parts of sociocracy in weekly 2h meetings Clarity on vision, mission, aims Designing circle structures, circle roles and operational roles Co-developing proposals, consent decision and integrating objections Selection process (simple and complex) Sociocracy and equity and inclusion Meeting format, minutes, backlogs Social-emotional challenges and how to address t",
+      "url": "https://www.sociocracyforall.org/event/academy-level-1/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?ical=1"
+        },
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?posts_per_page=13"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10003063-1788868800-1788868800@www.sociocracyforall.org",
+      "recurrenceId": "2026-09-08 12:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "ef5ba3c76d8f11ddf271f5c1",
@@ -996,7 +1964,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://csh.ac.at/events/copenhagen-health-complexity-center-talks/",
       "recurrenceId": "",
       "stale": false,
@@ -1031,7 +1999,7 @@
         {
           "id": "csh",
           "name": "Complexity Science Hub",
-          "url": "https://csh.ac.at/events/"
+          "url": "https://csh.ac.at/events/interpreting-ai-at-work-direct-use-workplace-support-and-technological-displacement-concerns/"
         }
       ],
       "status": "scheduled",
@@ -1039,7 +2007,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://csh.ac.at/events/interpreting-ai-at-work-direct-use-workplace-support-and-technological-displacement-concerns/",
       "recurrenceId": "",
       "stale": false,
@@ -1047,6 +2015,145 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "2aaa2f88e33a9bb06318bfb5",
+      "title": "Free introduction: What is sociocracy?",
+      "start": "2026-09-09T22:00:00+00:00",
+      "end": "2026-09-09T23:00:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "Are you tired of power games in your organizations? Do you have hope that collaboration in organizations could bring out the best in people? Do you think organizations could be places of synergy, collaboration, growth, and deep and authentic connection? This webinar is giving an overview of sociocracy. We will talk about: better listening consent decision making and circle structure examples from ",
+      "url": "https://www.sociocracyforall.org/event/free-info-session-september-2026/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?ical=1"
+        },
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/event/free-info-session-september-2026/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10003098-1788991200-1788994800@www.sociocracyforall.org",
+      "recurrenceId": "2026-09-09 22:00:00+00:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "c149c85c9e33ea2d58a2536e",
+      "title": "Weaving Our Wisdom, a Professional Partner unconference",
+      "start": "2026-09-10T13:00:00+00:00",
+      "end": "2026-09-10T15:00:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "For members and prospective members of the Professional Partner Program. This two our “unconference” is an opportunity to break out of our Communities of Practice and share our burning questions and the wisdom we’ve gained from our professional experience. Prospective Professional Partners should have at least a Facilitator level certification. Notice: JavaScript is required for this content.",
+      "url": "https://www.sociocracyforall.org/event/weaving-our-wisdom-a-professional-partner-unconference/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?ical=1"
+        },
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/event/weaving-our-wisdom-a-professional-partner-unconference/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10003250-1789045200-1789052400@www.sociocracyforall.org",
+      "recurrenceId": "2026-09-10 13:00:00+00:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "16add3561fd02630fbcb9f07",
+      "title": "Conseil d'administration de l AFSCET",
+      "start": "2026-09-10T15:30:00+03:00",
+      "end": "2026-09-10T17:30:00+03:00",
+      "allDay": false,
+      "timezone": "Europe/Helsinki",
+      "location": "ISC-PIF, 113 rue Nationale, Paris, Paris, 75013, France",
+      "country": "France",
+      "latitude": 48.857,
+      "longitude": 2.352,
+      "locationPrecision": "city",
+      "format": "in-person",
+      "organiser": "Institut des systèmes complexes Paris Île-de-France",
+      "organisationIds": [
+        "iscpif"
+      ],
+      "topics": [
+        "complexity"
+      ],
+      "description": "Conseil d’administration de l AFSCET https://afscet.asso.fr",
+      "url": "https://iscpif.fr/evenements/conseil-dadministration-de-l-afscet-2/",
+      "sources": [
+        {
+          "id": "iscpif",
+          "name": "Institut des systèmes complexes Paris Île-de-France",
+          "url": "https://iscpif.fr/evenements/?lang=en%2F&ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "68370-1789054200-1789061400@iscpif.fr",
+      "recurrenceId": "2026-09-10 15:30:00+03:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "b17a1c7d3facba5840dc0ce2",
@@ -1082,7 +2189,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://csh.ac.at/events/ias-csh-connection-workshop/",
       "recurrenceId": "",
       "stale": false,
@@ -1090,6 +2197,103 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "eb2d0279e9c15b722b8806c3",
+      "title": "Formation Gestion de données de phenotypage",
+      "start": "2026-09-15T09:00:00+03:00",
+      "end": "2026-09-15T17:00:00+03:00",
+      "allDay": false,
+      "timezone": "Europe/Helsinki",
+      "location": "ISC-PIF, 113 rue Nationale, Paris, Paris, 75013, France",
+      "country": "France",
+      "latitude": 48.857,
+      "longitude": 2.352,
+      "locationPrecision": "city",
+      "format": "in-person",
+      "organiser": "Institut des systèmes complexes Paris Île-de-France",
+      "organisationIds": [
+        "iscpif"
+      ],
+      "topics": [
+        "complexity"
+      ],
+      "description": "L’infrastructure nationale de recherche Phenome-Emphasis met à disposition son expertise et propose une formation d’une journée dédiée au partage, à la structuration et à la réutilisation des données de phénotypage des plantes. Pourquoi cette formation ? Les industriels du végétal, de l’agro-technologie et de la recherche expriment un besoin croissant de fiabiliser, valoriser et sécuriser leurs fl",
+      "url": "https://iscpif.fr/evenements/formation-gestion-de-donnees-de-phenotypage/",
+      "sources": [
+        {
+          "id": "iscpif",
+          "name": "Institut des systèmes complexes Paris Île-de-France",
+          "url": "https://iscpif.fr/evenements/?lang=en%2F&ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "67832-1789462800-1789491600@iscpif.fr",
+      "recurrenceId": "2026-09-15 09:00:00+03:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "3d26efdeef08948099e11d13",
+      "title": "Implementing the Self-Managing Enterprise with Agentic AI",
+      "start": "2026-09-15T11:00:00-04:00",
+      "end": "2026-09-15T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://us02web.zoom.us/j/87049920798",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "complexity",
+        "system-dynamics"
+      ],
+      "description": "Tuesday, September 15 at 11 am New York | 4 pm London | 11 pm Beijing This session builds on the June 2026 webinar “Agentic AI and the Self-Managing Enterprise” which showed how we – and AI agents – make decisions through policies that try to close a gap between a current state of the system and a target for that state. Overview This webinar goes on to explain the mechanisms by which collaboration",
+      "url": "https://systemdynamics.org/event/implementing-the-self-managing-enterprise-with-agentic-ai/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/month/"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/event/implementing-the-self-managing-enterprise-with-agentic-ai/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002629-1789470000-1789473600@systemdynamics.org",
+      "recurrenceId": "2026-09-15 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "4dec19fa8acdd341a3e7dfbd",
@@ -1126,7 +2330,7 @@
       "price": "FREE",
       "access": "All welcome",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/pulapka-struktury-czyli-jak-sposob-w-jaki-sie-organizujemy-determinuje-przestrzen-mozliwych",
       "recurrenceId": "",
       "stale": false,
@@ -1134,6 +2338,155 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "161f827f37b4dc2da6d0789b",
+      "title": "2026 Conference Proceedings Submission Deadline",
+      "start": "2026-09-15T23:59:00-04:00",
+      "end": "2026-09-15T23:59:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Last day for authors to update submission information and upload files for the Conference Proceedings. These materials will be permanently and publicly available online after the close of the conference. Poster, parallel, and plenary presenters are encouraged to submit an extended abstract (or slides, for practitioner applications) in lieu of the full paper for the Conference Proceedings so that t",
+      "url": "https://systemdynamics.org/event/2026-conference-proceedings-submission-deadline/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/month/"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/event/2026-conference-proceedings-submission-deadline/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002244-1789516740-1789516740@systemdynamics.org",
+      "recurrenceId": "2026-09-15 23:59:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "62db5db07e0233109879489b",
+      "title": "Conseil d'Administration de l AFSCET",
+      "start": "2026-09-16T08:00:00+03:00",
+      "end": "2026-09-16T17:00:00+03:00",
+      "allDay": false,
+      "timezone": "Europe/Helsinki",
+      "location": "ISC-PIF, 113 rue Nationale, Paris, Paris, 75013, France",
+      "country": "France",
+      "latitude": 48.857,
+      "longitude": 2.352,
+      "locationPrecision": "city",
+      "format": "in-person",
+      "organiser": "Institut des systèmes complexes Paris Île-de-France",
+      "organisationIds": [
+        "iscpif"
+      ],
+      "topics": [
+        "complexity"
+      ],
+      "description": "Conseil d’administration de l AFSCET Discussion des futures orientations de l association",
+      "url": "https://iscpif.fr/evenements/conseil-dadministration-de-l-afscet/",
+      "sources": [
+        {
+          "id": "iscpif",
+          "name": "Institut des systèmes complexes Paris Île-de-France",
+          "url": "https://iscpif.fr/evenements/?lang=en%2F&ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "67803-1789545600-1789578000@iscpif.fr",
+      "recurrenceId": "2026-09-16 08:00:00+03:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "03b06983d7f6371cfedc13fe",
+      "title": "Economics SIG Online Seminar",
+      "start": "2026-09-16T11:00:00-04:00",
+      "end": "2026-09-16T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/economics-sig-online-seminar/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Economics SIG Online Seminar Presenter: Prof.Khalid Saeed (Worchester Polytechnic Institute) Date and Time: Wednesday, September 16, 11 AM (New York Time) Title: “An operational theory of firm inspired by Forrester’s Industrial Dynamics”",
+      "url": "https://systemdynamics.org/event/economics-sig-online-seminar/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/month/"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/event/economics-sig-online-seminar/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002719-1789556400-1789560000@systemdynamics.org",
+      "recurrenceId": "2026-09-16 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "58a77b114bca7c845fe99b64",
@@ -1171,7 +2524,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2026-09-16 12:00:00-04:00",
       "stale": false,
@@ -1214,7 +2567,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://csh.ac.at/events/wednesday-salon-with-ljubica-nedelkoska/",
       "recurrenceId": "",
       "stale": false,
@@ -1269,7 +2622,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "2396-1789635600-1789833600@ifsr.org",
       "recurrenceId": "2026-09-17 09:00:00+02:00",
       "stale": false,
@@ -1277,6 +2630,97 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "e439c1886a4d6c989368c0da",
+      "title": "SDS Policy Council Meeting (September 2026)",
+      "start": "2026-09-17T11:00:00-04:00",
+      "end": "2026-09-17T12:30:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/sds-policy-council-meeting-september-2026/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Monthly meetings of the Policy Council occur on the 3rd Thursday of the month with the exception of conference month and holiday weeks. All Society members are welcome to attend. Login to access the zoom link which will be displayed here to members 15 minutes prior to the start of the meeting.",
+      "url": "https://systemdynamics.org/event/sds-policy-council-meeting-september-2026/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/month/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002714-1789642800-1789648200@systemdynamics.org",
+      "recurrenceId": "2026-09-17 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "93403190c4cbaf025caf7d7e",
+      "title": "Journée de rentrée",
+      "start": "2026-09-18T09:00:00+03:00",
+      "end": "2026-09-18T17:00:00+03:00",
+      "allDay": false,
+      "timezone": "Europe/Helsinki",
+      "location": "ISC-PIF, 113 rue Nationale, Paris, Paris, 75013, France",
+      "country": "France",
+      "latitude": 48.857,
+      "longitude": 2.352,
+      "locationPrecision": "city",
+      "format": "in-person",
+      "organiser": "Institut des systèmes complexes Paris Île-de-France",
+      "organisationIds": [
+        "iscpif"
+      ],
+      "topics": [
+        "complexity"
+      ],
+      "description": "La journée de rentrée est l’occasion pour l’ensemble des membres du laboratoire de présenter leurs travaux de recherche et de renforcer la dynamique scientifique collective. Il y aura notamment la présentation des nouveaux membres du laboratoire, des collaborations scientifiques et des nouveaux séminaires. La journée s’achève par une conférence d’un.e invité.e extérieur. https://sphere.cnrs.fr",
+      "url": "https://iscpif.fr/evenements/journee-de-rentree/",
+      "sources": [
+        {
+          "id": "iscpif",
+          "name": "Institut des systèmes complexes Paris Île-de-France",
+          "url": "https://iscpif.fr/evenements/?lang=en%2F&ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "67972-1789722000-1789750800@iscpif.fr",
+      "recurrenceId": "2026-09-18 09:00:00+03:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "de1734466a5ee9163041163a",
@@ -1312,7 +2756,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://asc-cybernetics.org/initiatives/speaker-series-wg/speaker-series-season-71/",
       "recurrenceId": "",
       "stale": false,
@@ -1357,7 +2801,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://csh.ac.at/events/dis-master-class-nonadditive-entropies/",
       "recurrenceId": "",
       "stale": false,
@@ -1401,7 +2845,7 @@
       "price": "£250 (discounts available)",
       "access": "All welcome",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/sysprac26-conference",
       "recurrenceId": "",
       "stale": false,
@@ -1444,7 +2888,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://csh.ac.at/events/postdoc-appreciation-week-austria-paw-data-visualization-crash-course/",
       "recurrenceId": "",
       "stale": false,
@@ -1452,6 +2896,332 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "3865680f42a79c4b306104ff",
+      "title": "Academy 2 (Level 2)",
+      "start": "2026-09-21T17:30:00-04:00",
+      "end": "2026-09-21T19:30:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "SoFA Zoom (Multi-Room)",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "",
+      "url": "https://www.sociocracyforall.org/event/academy-level-2/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?ical=1"
+        },
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?posts_per_page=13"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10003064-1790011800-1790019000@www.sociocracyforall.org",
+      "recurrenceId": "2026-09-21 17:30:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "23c1ffac01eed108eeb00e3c",
+      "title": "Sociocracy in Cooperatives Community of Practice",
+      "start": "2026-09-22T13:00:00+00:00",
+      "end": "2026-09-22T14:00:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "Community of Practice — Sociocracy For All in Cooperatives This is a quarterly Community of Practice for people actively working in cooperatives and engaging questions of governance, participation, facilitation, and organizational structure. Our gathering will take place on Sept 22 at 1pm ET and will be hosted by Leander Roth and Michelle Tsutsumi from the Sociocracy For All Co-op Circle. Future s",
+      "url": "https://www.sociocracyforall.org/event/20260922-sociocracy-in-cooperatives-community-of-practice/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?ical=1"
+        },
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/event/20260922-sociocracy-in-cooperatives-community-of-practice/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10003246-1790082000-1790085600@www.sociocracyforall.org",
+      "recurrenceId": "2026-09-22 13:00:00+00:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "cc7d9f58adf30120766f769e",
+      "title": "Shared Power, Shared Purpose: An Introduction to Sociocracy for Unitarian Universalists",
+      "start": "2026-09-22T19:00:00+00:00",
+      "end": "2026-09-22T20:30:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "",
+      "url": "https://www.sociocracyforall.org/event/unitarian-universalist-sociocracy/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?ical=1"
+        },
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?posts_per_page=13"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10003248-1790103600-1790109000@www.sociocracyforall.org",
+      "recurrenceId": "2026-09-22 19:00:00+00:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "4ea7881787bfa0b2c8810aab",
+      "title": "TwinFarms : comité de suivi à 18 mois",
+      "start": "2026-09-24T09:00:00+03:00",
+      "end": "2026-09-24T18:00:00+03:00",
+      "allDay": false,
+      "timezone": "Europe/Helsinki",
+      "location": "ISC-PIF, 113 rue Nationale, Paris, Paris, 75013, France",
+      "country": "France",
+      "latitude": 48.857,
+      "longitude": 2.352,
+      "locationPrecision": "city",
+      "format": "in-person",
+      "organiser": "Institut des systèmes complexes Paris Île-de-France",
+      "organisationIds": [
+        "iscpif"
+      ],
+      "topics": [
+        "complexity"
+      ],
+      "description": "TwinFarms : déployer des jumeaux numériques pour favoriser l’innovation agroécologique. Projet du PEPR Agroécologie et Numérique, comité de suivi à 18 mois",
+      "url": "https://iscpif.fr/evenements/twinfarms-comite-de-suivi-a-18-mois/",
+      "sources": [
+        {
+          "id": "iscpif",
+          "name": "Institut des systèmes complexes Paris Île-de-France",
+          "url": "https://iscpif.fr/evenements/?lang=en%2F&ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "67418-1790240400-1790272800@iscpif.fr",
+      "recurrenceId": "2026-09-24 09:00:00+03:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "468e7de53a14c5ab0ca80ccf",
+      "title": "Réunion plénière finale du projet système complexe BEECOME2",
+      "start": "2026-09-24T09:30:00+03:00",
+      "end": "2026-09-24T17:30:00+03:00",
+      "allDay": false,
+      "timezone": "Europe/Helsinki",
+      "location": "ISC-PIF, 113 rue Nationale, Paris, Paris, 75013, France",
+      "country": "France",
+      "latitude": 48.857,
+      "longitude": 2.352,
+      "locationPrecision": "city",
+      "format": "in-person",
+      "organiser": "Institut des systèmes complexes Paris Île-de-France",
+      "organisationIds": [
+        "iscpif"
+      ],
+      "topics": [
+        "complexity"
+      ],
+      "description": "Restitution des résultats du projet BEECOME2 sur la modélisation des trajectoires de transition",
+      "url": "https://iscpif.fr/evenements/reunion-pleniere-finale-du-projet-systeme-complexe-beecome2/",
+      "sources": [
+        {
+          "id": "iscpif",
+          "name": "Institut des systèmes complexes Paris Île-de-France",
+          "url": "https://iscpif.fr/evenements/?lang=en%2F&ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "68778-1790242200-1790271000@iscpif.fr",
+      "recurrenceId": "2026-09-24 09:30:00+03:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "f15486e6492c091073c2e8ab",
+      "title": "Facilitation Practice - 6 sessions",
+      "start": "2026-09-24T18:00:00+00:00",
+      "end": "2026-09-24T20:00:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "This class is a potent combination of short teachings and lots of practice to mature as a facilitator and address the most common pitfalls. Every session has a theme: Integrating objections I+II, Staying on topic I+II, Dealings with feelings, Muddy situations. Register here",
+      "url": "https://www.sociocracyforall.org/event/facilitation-practice-6-sessions-september-2026/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?ical=1"
+        },
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?posts_per_page=13"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10003167-1790272800-1790280000@www.sociocracyforall.org",
+      "recurrenceId": "2026-09-24 18:00:00+00:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "44713106c1417acce76f35ce",
+      "title": "Psychological Safety and Conflict Resolution Planning",
+      "start": "2026-09-25T16:00:00+00:00",
+      "end": "2026-09-25T18:00:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "About this class How can sociocracy create a culture where all voices can be heard, disagreement is welcome, and people feel comfortable to be themselves? This training will highlight how the concepts of psychological safety and generative conflict can be intentionally cultivated through your facilitation and implementation of sociocracy. This is for you if: You have struggled to hold objections o",
+      "url": "https://www.sociocracyforall.org/event/psychological-safety-and-conflict-resolution-planning/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?ical=1"
+        },
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/event/psychological-safety-and-conflict-resolution-planning/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10003247-1790352000-1790359200@www.sociocracyforall.org",
+      "recurrenceId": "2026-09-25 16:00:00+00:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "32a80acaa0ac0b73cd6f3b4f",
@@ -1487,7 +3257,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://csh.ac.at/events/evolution-of-gender-diversity-in-computer-science-and-physics-conferences/",
       "recurrenceId": "",
       "stale": false,
@@ -1495,6 +3265,191 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "f16368538b0244d31dcefb7e",
+      "title": "From Bees to Feedback Loops: Building Systems Literacy from Childhood to Leadership",
+      "start": "2026-09-29T11:00:00-04:00",
+      "end": "2026-09-29T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/from-bees-to-feedback-loops-building-systems-literacy-from-childhood-to-leadership/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "complexity",
+        "system-dynamics"
+      ],
+      "description": "September 29, 2026 at 11 am New York | 4 pm London | 11 pm Beijing | Time Converter From Bees to Feedback Loops: Building Systems Literacy from Childhood to Leadership What if the habits of mind children develop noticing interconnections, patterns, and feedback loops are the same ones adults need to address climate change, fix broken systems, and lead through complexity? This interactive seminar m",
+      "url": "https://systemdynamics.org/event/from-bees-to-feedback-loops-building-systems-literacy-from-childhood-to-leadership/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/month/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002496-1790679600-1790683200@systemdynamics.org",
+      "recurrenceId": "2026-09-29 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "ef9e42990123cad797391dff",
+      "title": "Complex R.O.M.E. Workshop",
+      "start": "2026-09-30",
+      "end": "2026-10-02",
+      "allDay": true,
+      "timezone": null,
+      "location": "None Online Event: Yes",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "online",
+      "organiser": "Complex Systems Society",
+      "organisationIds": [
+        "css"
+      ],
+      "topics": [
+        "complexity"
+      ],
+      "description": "",
+      "url": "https://cssociety.org/event/7fc28031-3253-4626-8492-06700bb5428a/",
+      "sources": [
+        {
+          "id": "css",
+          "name": "Complex Systems Society",
+          "url": "https://cssociety.org/event/7fc28031-3253-4626-8492-06700bb5428a/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [
+        "Date-only listing; check the organiser for session times."
+      ],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "https://cssociety.org/event/7fc28031-3253-4626-8492-06700bb5428a/",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "14c3b3401a97be7701b308eb",
+      "title": "CSIIT",
+      "start": "2026-09-30T09:00:00+03:00",
+      "end": "2026-10-01T17:00:00+03:00",
+      "allDay": false,
+      "timezone": "Europe/Helsinki",
+      "location": "ISC-PIF, 113 rue Nationale, Paris, Paris, 75013, France",
+      "country": "France",
+      "latitude": 48.857,
+      "longitude": 2.352,
+      "locationPrecision": "city",
+      "format": "in-person",
+      "organiser": "Institut des systèmes complexes Paris Île-de-France",
+      "organisationIds": [
+        "iscpif"
+      ],
+      "topics": [
+        "complexity"
+      ],
+      "description": "Réunion de la CSIIT",
+      "url": "https://iscpif.fr/evenements/csiit/",
+      "sources": [
+        {
+          "id": "iscpif",
+          "name": "Institut des systèmes complexes Paris Île-de-France",
+          "url": "https://iscpif.fr/evenements/?lang=en%2F&ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "68414-1790758800-1790874000@iscpif.fr",
+      "recurrenceId": "2026-09-30 09:00:00+03:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "08d1341ffbe9818eb6b62130",
+      "title": "Participatory modelling of the WEF nexus through causal loop diagrams in a cassava processing hub in Nigeria",
+      "start": "2026-10-01T10:00:00-04:00",
+      "end": "2026-10-01T11:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/participatory-modelling-of-the-wef-nexus-through-causal-loop-diagrams-in-a-cassava-processing-hub-in-nigeria/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Please join the Water SIG, Nigerian Chapter, Agriculture & Food SIG, Energy SIG, and Environment and Natural Resources Management (ENRM) SIG for a 1-hr meeting on Thursday, October 1st @ 10am New York (Time Converter) for Dr. Oluwaseun Tosin Bamigboye’s presentation on “Participatory modelling of the WEF nexus through causal loop diagrams in a cassava processing hub in Nigeria.” Short Description:",
+      "url": "https://systemdynamics.org/event/participatory-modelling-of-the-wef-nexus-through-causal-loop-diagrams-in-a-cassava-processing-hub-in-nigeria/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/month/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002708-1790848800-1790852400@systemdynamics.org",
+      "recurrenceId": "2026-10-01 10:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "45a924295856edfda96ed2f7",
@@ -1531,7 +3486,7 @@
       "price": "kostenlos",
       "access": "Members only + Guests",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/internalisierte-verbindlichkeiten-gegenwartig-aber-unsichtbar",
       "recurrenceId": "",
       "stale": false,
@@ -1575,7 +3530,7 @@
       "price": "FREE to members",
       "access": "Members only",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/scio-uk-virtual-development-event-october-2026",
       "recurrenceId": "",
       "stale": false,
@@ -1623,7 +3578,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU2133404975",
       "recurrenceId": "2026-10-08",
       "stale": false,
@@ -1668,7 +3623,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://cssociety.org/event/5ea1ef85-35de-4e54-9a0c-772f4dcd0185/",
       "recurrenceId": "",
       "stale": false,
@@ -1676,6 +3631,54 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "b3235464d6e293baf43b6304",
+      "title": "Free introduction: What is sociocracy?",
+      "start": "2026-10-09T16:00:00+00:00",
+      "end": "2026-10-09T17:00:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "Are you tired of power games in your organizations? Do you have hope that collaboration in organizations could bring out the best in people? Do you think organizations could be places of synergy, collaboration, growth, and deep and authentic connection? This webinar is giving an overview of sociocracy. We will talk about: better listening consent decision making and circle structure examples from ",
+      "url": "https://www.sociocracyforall.org/event/free-info-session-october-2026/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?ical=1"
+        },
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/event/free-info-session-october-2026/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10001906-1791561600-1791565200@www.sociocracyforall.org",
+      "recurrenceId": "2026-10-09 16:00:00+00:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "33ec149dc98e48ff47cd39a5",
@@ -1716,7 +3719,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU2133405689",
       "recurrenceId": "2026-10-13",
       "stale": false,
@@ -1724,6 +3727,103 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "0eeae55230765479bc97a864",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2026-10-13T11:00:00-04:00",
+      "end": "2026-10-13T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2026-10-13/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2026-10-13/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002296-1791889200-1791892800@systemdynamics.org",
+      "recurrenceId": "2026-10-13 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "96bd305e277dde60c1a69980",
+      "title": "System Dynamics Learning Hub 2026 - SASDC - Stream 4 (Multi-echelon supply chain dynamics): Session 1",
+      "start": "2026-10-13T18:00:00+02:00",
+      "end": "2026-10-13T20:00:00+02:00",
+      "allDay": false,
+      "timezone": "Africa/Johannesburg",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "complexity",
+        "system-dynamics"
+      ],
+      "description": "The Learning Hub is an interactive, hands-on learning experience that will help you explore the behaviour of complex systems through guided exercises and discussions. Held in 4 streams throughout the year, the Hub provides a structured and engaging environment to deepen your understanding of system dynamics through practical applications for all skill levels. The process for each stream is: Sessio",
+      "url": "https://systemdynamics.org/event/system-dynamics-learning-hub-2026-sasdc-stream-4-multi-echelon-supply-chain-dynamics-session-1/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002579-1791914400-1791921600@systemdynamics.org",
+      "recurrenceId": "2026-10-13 18:00:00+02:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "4722c0fc20f597ddb501599a",
@@ -1760,7 +3860,7 @@
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics",
       "recurrenceId": "",
       "stale": false,
@@ -1768,6 +3868,54 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "6b0b11af2f09b09cdd6226cb",
+      "title": "SDS Policy Council Meeting (October 2026)",
+      "start": "2026-10-15T11:00:00-04:00",
+      "end": "2026-10-15T12:30:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/sds-policy-council-meeting-october-2026/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Monthly meetings of the Policy Council occur on the 3rd Thursday of the month with the exception of conference month and holiday weeks. All Society members are welcome to attend. Login to access the zoom link which will be displayed here to members 15 minutes prior to the start of the meeting.",
+      "url": "https://systemdynamics.org/event/sds-policy-council-meeting-october-2026/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002715-1792062000-1792067400@systemdynamics.org",
+      "recurrenceId": "2026-10-15 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "1cf1d5872670d36e41a30df6",
@@ -1804,7 +3952,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.cecan.ac.uk/events/cecan-webinar-place-based-evaluation-is-missing-the-point-about-place/",
       "recurrenceId": "",
       "stale": false,
@@ -1850,7 +3998,7 @@
       "notes": [
         "Title year differs from the published date. Check with the organiser."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/scio-nl-monthly-meeting-october-2025-live-woerden-and-dutch",
       "recurrenceId": "",
       "stale": false,
@@ -1898,7 +4046,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU2133406596",
       "recurrenceId": "2026-10-18",
       "stale": false,
@@ -1906,6 +4054,56 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "04088520338aeb58c1cb587d",
+      "title": "The 40th annual European Simulation and Modelling Conference - ESM '2026",
+      "start": "2026-10-21",
+      "end": "2026-10-24",
+      "allDay": true,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "ESM®’2026 October 21-23, 2026, National Engineering School (ENIM), Metz, France CONFERENCE PAGE LINK: https://www.eurosis.org/conf/esm/2026/index.html The ESM®’2026 (The 40th annual European Simulation and Modelling Conference), formally known as the European Simulation Multiconference is the original international European conference concerned with state of the art technology in modelling and sim",
+      "url": "https://systemdynamics.org/event/the-40th-annual-european-simulation-and-modelling-conference-esm-2026/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [
+        "Date-only listing; check the organiser for session times."
+      ],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002376-1792540800-1792799999@systemdynamics.org",
+      "recurrenceId": "2026-10-21",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "86a47df894443fca6e8505ed",
@@ -1943,7 +4141,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2026-10-21 12:00:00-04:00",
       "stale": false,
@@ -1951,6 +4149,54 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "6284cd4393ef96f4761d9c85",
+      "title": "Introduction to Sociocracy in Intentional Communities (Live Webinar)",
+      "start": "2026-10-22T12:00:00-07:00",
+      "end": "2026-10-22T15:30:00-07:00",
+      "allDay": false,
+      "timezone": "America/Los_Angeles",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "Explore the foundations of sociocracy for intentional communities—consent-based decisions, circle structure, and tools for transparent, collaborative governance. Led by facilitator Adam Barnfather, who helps communities thrive through dynamic governance. 👉 Click the title above to register.",
+      "url": "https://www.sociocracyforall.org/event/introduction-to-sociocracy-in-intentional-communities-live-webinar/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?ical=1"
+        },
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?posts_per_page=13"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10003249-1792670400-1792683000@www.sociocracyforall.org",
+      "recurrenceId": "2026-10-22 12:00:00-07:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "434d1742f601499996707a4d",
@@ -1987,7 +4233,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "11834-1793005200-1793203200@metaphorum.org",
       "recurrenceId": "2026-10-26 09:00:00+00:00",
       "stale": false,
@@ -1995,6 +4241,54 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "22379be6c80dcb72dd094cde",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2026-11-10T11:00:00-05:00",
+      "end": "2026-11-10T12:00:00-05:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2026-11-10/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2026-11-10/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002297-1794308400-1794312000@systemdynamics.org",
+      "recurrenceId": "2026-11-10 11:00:00-05:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "32f1ffca50f269104da5d02b",
@@ -2031,7 +4325,7 @@
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics-2",
       "recurrenceId": "",
       "stale": false,
@@ -2077,7 +4371,7 @@
       "notes": [
         "Title year differs from the published date. Check with the organiser."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/scio-nl-monthly-meeting-november-2025-live-woerden-and-dutch-0",
       "recurrenceId": "",
       "stale": false,
@@ -2121,7 +4415,7 @@
       "price": "FREE",
       "access": "All welcome",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/scio-uk-virtual-open-meeting-november-2026",
       "recurrenceId": "",
       "stale": false,
@@ -2166,7 +4460,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2026-11-18 12:00:00-05:00",
       "stale": false,
@@ -2174,6 +4468,54 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "05eca5671a69ad307b2d8873",
+      "title": "6th Annual Online Conference: Sociocracy in Intentional Communities — Fumbling Better Together",
+      "start": "2026-11-21T15:30:00+00:00",
+      "end": "2026-11-21T21:30:00+00:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "Sociocracy For All",
+      "organisationIds": [
+        "sociocracy"
+      ],
+      "topics": [
+        "systems"
+      ],
+      "description": "description goes here",
+      "url": "https://www.sociocracyforall.org/event/intentional-communities-conference-2026/",
+      "sources": [
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?ical=1"
+        },
+        {
+          "id": "sociocracy",
+          "name": "Sociocracy For All",
+          "url": "https://www.sociocracyforall.org/events/list/?posts_per_page=13"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10003216-1795275000-1795296600@www.sociocracyforall.org",
+      "recurrenceId": "2026-11-21 15:30:00+00:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "3c7f267a057b86293598c301",
@@ -2211,7 +4553,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://cssociety.org/event/48d831be-35b8-4789-81ed-6ef517743032/",
       "recurrenceId": "",
       "stale": false,
@@ -2219,6 +4561,104 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "84ba6ab1cc55be569a831beb",
+      "title": "Winter Simulation Conference - WSC 2026",
+      "start": "2026-12-06",
+      "end": "2026-12-10",
+      "allDay": true,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Starts: Dec 6, 2026 09:00 (UTC) Ends: Dec 9, 2026 17:00 (UTC) Location: Scottish Event Campus | SEC Centre Exhibition Way Glasgow, Scotland, G3 8YW CONFERENCE PAGE LINK: https://connect.informs.org/events/event-description?CalendarEventKey=ee46557f-68b4-4194-8d29-01954ea33cf5&Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events",
+      "url": "https://systemdynamics.org/event/winter-simulation-conference-wsc-2026/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/page/2/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [
+        "Date-only listing; check the organiser for session times."
+      ],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002377-1796515200-1796860799@systemdynamics.org",
+      "recurrenceId": "2026-12-06",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "affe222c71d2f7c459c39f5f",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2026-12-08T11:00:00-05:00",
+      "end": "2026-12-08T12:00:00-05:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2026-12-08/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2026-12-08/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/page/2/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002298-1796727600-1796731200@systemdynamics.org",
+      "recurrenceId": "2026-12-08 11:00:00-05:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "a48deb0769c42fcaa1cbdc3b",
@@ -2255,7 +4695,7 @@
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics-0",
       "recurrenceId": "",
       "stale": false,
@@ -2301,7 +4741,7 @@
       "notes": [
         "Title year differs from the published date. Check with the organiser."
       ],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/scio-nl-monthly-meeting-december-2025-live-woerden-and-dutch",
       "recurrenceId": "",
       "stale": false,
@@ -2346,7 +4786,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2026-12-16 12:00:00-05:00",
       "stale": false,
@@ -2390,7 +4830,7 @@
       "price": "kostenlos",
       "access": "Members only + Guests",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/kybernetik-stammtisch-jahresabschluss-offene-beitrage-1",
       "recurrenceId": "",
       "stale": false,
@@ -2398,6 +4838,104 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "5a4e9833c2d8e2a0f2c34269",
+      "title": "Systems Young Investigator Award Deadline",
+      "start": "2026-12-31",
+      "end": "2027-01-01",
+      "allDay": true,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Young Investigator Award This award will be given to one young investigator in recognition of their excellence in the field of systems. The deadline for nominations is 31 December 2026. Prize: – CHF 1000; – An electronic certificate; – A voucher to waive the Article Processing Charges (APCs) for one submission in the journal (subject to peer review)—valid for one year. Please review the Young Inve",
+      "url": "https://systemdynamics.org/event/systems-young-investigator-award-deadline/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/page/2/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [
+        "Date-only listing; check the organiser for session times."
+      ],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002716-1798675200-1798761599@systemdynamics.org",
+      "recurrenceId": "2026-12-31",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "000383ba69115bb5e641a4bc",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2027-01-12T11:00:00-05:00",
+      "end": "2027-01-12T12:00:00-05:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-01-12/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-01-12/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/page/2/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002299-1799751600-1799755200@systemdynamics.org",
+      "recurrenceId": "2027-01-12 11:00:00-05:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "6d4ee2410e6cd5ea0561b8c7",
@@ -2434,7 +4972,7 @@
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics-1",
       "recurrenceId": "",
       "stale": false,
@@ -2479,7 +5017,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-01-20 12:00:00-05:00",
       "stale": false,
@@ -2487,6 +5025,54 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "99a5f90e89a0632b36183ed2",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2027-02-09T11:00:00-05:00",
+      "end": "2027-02-09T12:00:00-05:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-02-09/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-02-09/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/page/2/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002300-1802170800-1802174400@systemdynamics.org",
+      "recurrenceId": "2027-02-09 11:00:00-05:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "b4274dd5f114f839848e70ee",
@@ -2523,7 +5109,7 @@
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics-3",
       "recurrenceId": "",
       "stale": false,
@@ -2531,6 +5117,54 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "efc297f629367b9b25ff0780",
+      "title": "Oceania Chapter: 2027 Systems Thinking & Modelling Symposium​",
+      "start": "2027-02-11T10:00:00+11:00",
+      "end": "2027-02-12T17:00:00+11:00",
+      "allDay": false,
+      "timezone": "Australia/Sydney",
+      "location": "UNSW canberra, UNSW Canberra City, 37 Constitution Ave, Reid ACT 2612, Australia, ACT, 2612, Australia",
+      "country": "Australia",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "hybrid",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "HYBRID EVENT 12 February 2027, 10:00 am-5:00 pm – UNSW Canberra City (Reid) and online We invite you to join us for the 2027 Oceania Chapter Symposium to learn about current work applying systems thinking and system dynamics modelling within industry, government, and academia. Symposium Information Cost Registration is free. Location In person: UNSW Canberra City Lecture Theatre 00.25, Ground floo",
+      "url": "https://systemdynamics.org/event/oceania-chapter-2027-systems-thinking-modelling-symposium/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/page/2/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002660-1802340000-1802451600@systemdynamics.org",
+      "recurrenceId": "2027-02-11 10:00:00+11:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "4bf30e9ab74a27b22a1b0e5e",
@@ -2568,7 +5202,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-02-17 12:00:00-05:00",
       "stale": false,
@@ -2576,6 +5210,54 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "65a3612bc6956e8c48ecd80f",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2027-03-09T11:00:00-05:00",
+      "end": "2027-03-09T12:00:00-05:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-03-09/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-03-09/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/page/2/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002301-1804590000-1804593600@systemdynamics.org",
+      "recurrenceId": "2027-03-09 11:00:00-05:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "71bffb597c7ac4b49224cacf",
@@ -2612,7 +5294,7 @@
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics-4",
       "recurrenceId": "",
       "stale": false,
@@ -2657,7 +5339,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-03-17 12:00:00-04:00",
       "stale": false,
@@ -2665,6 +5347,104 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "8571c909cf05e38e5ae4501f",
+      "title": "Systems Travel Award Deadline",
+      "start": "2027-03-31",
+      "end": "2027-04-01",
+      "allDay": true,
+      "timezone": "America/New_York",
+      "location": "Location not published",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "unknown",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "This award provides financial support for one PhD student or postdoctoral fellow to attend an international conference in the field of systems, to be held in 2027, in order to deliver a presentation, present a poster, or both. The deadline for applications is 31 March 2027. Prize: – CHF 500; – An electronic certificate. Please review the Travel Award guidelines at https://www.mdpi.com/journal/syst",
+      "url": "https://systemdynamics.org/event/systems-travel-award-deadline/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/page/2/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [
+        "Date-only listing; check the organiser for session times."
+      ],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002717-1806451200-1806537599@systemdynamics.org",
+      "recurrenceId": "2027-03-31",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
+    },
+    {
+      "id": "ad52d10e476e16654760f737",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2027-04-13T11:00:00-04:00",
+      "end": "2027-04-13T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-04-13/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-04-13/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/page/2/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002302-1807614000-1807617600@systemdynamics.org",
+      "recurrenceId": "2027-04-13 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "a25a51e8a39e820e7d8f3991",
@@ -2702,7 +5482,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-04-21 12:00:00-04:00",
       "stale": false,
@@ -2710,6 +5490,54 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "f52766894bb0c2230687cc43",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2027-05-11T11:00:00-04:00",
+      "end": "2027-05-11T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-05-11/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-05-11/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/page/2/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002303-1810033200-1810036800@systemdynamics.org",
+      "recurrenceId": "2027-05-11 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "a625dfec133b92f5abdc8e12",
@@ -2746,7 +5574,7 @@
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics-5",
       "recurrenceId": "",
       "stale": false,
@@ -2791,7 +5619,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-05-19 12:00:00-04:00",
       "stale": false,
@@ -2799,6 +5627,54 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "635bb73c200d85eac1ac3db2",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2027-06-08T11:00:00-04:00",
+      "end": "2027-06-08T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-06-08/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-06-08/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/page/2/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002304-1812452400-1812456000@systemdynamics.org",
+      "recurrenceId": "2027-06-08 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "6ec9223fb4b9fb48a6441236",
@@ -2836,7 +5712,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-06-16 12:00:00-04:00",
       "stale": false,
@@ -2844,6 +5720,54 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "21cf7854293c62c441be007e",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2027-07-13T11:00:00-04:00",
+      "end": "2027-07-13T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-07-13/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-07-13/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        },
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/page/2/"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002305-1815476400-1815480000@systemdynamics.org",
+      "recurrenceId": "2027-07-13 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "44d62b31abd1821b1ad08659",
@@ -2881,7 +5805,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-07-21 12:00:00-04:00",
       "stale": false,
@@ -2889,6 +5813,49 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "d44d9e20f5723c27739f7725",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2027-08-10T11:00:00-04:00",
+      "end": "2027-08-10T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-08-10/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-08-10/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002306-1817895600-1817899200@systemdynamics.org",
+      "recurrenceId": "2027-08-10 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "d98d1b6a9b31fa0f8765b5e9",
@@ -2926,7 +5893,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-08-18 12:00:00-04:00",
       "stale": false,
@@ -2934,6 +5901,49 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "46457f59a962d0e130d00390",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2027-09-14T11:00:00-04:00",
+      "end": "2027-09-14T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-09-14/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-09-14/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002307-1820919600-1820923200@systemdynamics.org",
+      "recurrenceId": "2027-09-14 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "16af12772eb53ba8e53a4a66",
@@ -2971,7 +5981,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-09-15 12:00:00-04:00",
       "stale": false,
@@ -2979,6 +5989,49 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "6446401b3c97231f8cb6dbad",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2027-10-12T11:00:00-04:00",
+      "end": "2027-10-12T12:00:00-04:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-10-12/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-10-12/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002308-1823338800-1823342400@systemdynamics.org",
+      "recurrenceId": "2027-10-12 11:00:00-04:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "9f5d8e42b76bae149d3e7249",
@@ -3016,7 +6069,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-10-20 12:00:00-04:00",
       "stale": false,
@@ -3024,6 +6077,49 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "a7edaea75b552d60af618806",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2027-11-09T11:00:00-05:00",
+      "end": "2027-11-09T12:00:00-05:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-11-09/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-11-09/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002309-1825758000-1825761600@systemdynamics.org",
+      "recurrenceId": "2027-11-09 11:00:00-05:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "24de630fae8f4c015cd5e39a",
@@ -3061,7 +6157,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-11-17 12:00:00-05:00",
       "stale": false,
@@ -3069,6 +6165,49 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "97040c85de3e2d7e8e45136c",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2027-12-14T11:00:00-05:00",
+      "end": "2027-12-14T12:00:00-05:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-12-14/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2027-12-14/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002310-1828782000-1828785600@systemdynamics.org",
+      "recurrenceId": "2027-12-14 11:00:00-05:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "fd100f06aa4472157f498571",
@@ -3106,7 +6245,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-12-15 12:00:00-05:00",
       "stale": false,
@@ -3114,6 +6253,49 @@
       "sequence": 0,
       "updatedAt": "2026-09-05T16:41:47+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
+    },
+    {
+      "id": "56a689054fe1f5a4bcab360d",
+      "title": "AI in System Dynamics Education | Task Force Monthly Meeting",
+      "start": "2028-01-11T11:00:00-05:00",
+      "end": "2028-01-11T12:00:00-05:00",
+      "allDay": false,
+      "timezone": "America/New_York",
+      "location": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2028-01-11/",
+      "country": "",
+      "latitude": null,
+      "longitude": null,
+      "locationPrecision": null,
+      "format": "in-person",
+      "organiser": "System Dynamics Society",
+      "organisationIds": [
+        "system-dynamics"
+      ],
+      "topics": [
+        "system-dynamics"
+      ],
+      "description": "Time: 11:00 a.m. New York | 4:00 p.m. London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please login to see the Zoom link. A button to join the meeting will be shown to logged in users. These monthly meetings, led by the AI in System Dynamics Education Task Force of the Pre-College Education Special Interest Group, provide a space to collaborate on the responsible integration of artifi",
+      "url": "https://systemdynamics.org/event/ai-in-system-dynamics-education-task-force-monthly-meeting-2/2028-01-11/",
+      "sources": [
+        {
+          "id": "system-dynamics",
+          "name": "System Dynamics Society",
+          "url": "https://systemdynamics.org/events/list/?ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-09-05T16:50:03+00:00",
+      "sourceUid": "10002311-1831201200-1831204800@systemdynamics.org",
+      "recurrenceId": "2028-01-11 11:00:00-05:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-09-05T16:50:03+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
       "id": "4f0ed857b71349a52898d148",
@@ -3151,7 +6333,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2028-01-19 12:00:00-05:00",
       "stale": false,
@@ -3196,7 +6378,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-09-05T16:41:47+00:00",
+      "lastSeen": "2026-09-05T16:50:03+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2028-02-16 12:00:00-05:00",
       "stale": false,
