@@ -1,0 +1,245 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Systems Events Map//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Online events
+REFRESH-INTERVAL:P1D
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+SUMMARY:(Victor Ganon)
+DTSTART:20260610T160000Z
+DTEND:20260610T170000Z
+DTSTAMP:20260905T164147Z
+UID:20a07e5e74504b8b2f14d672@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:Metaphorum\nWho: Victor Ganon Wed_6_MayWebinar:_'URUguay_CIBer
+ nético:_Successfully_implementing_Stafford_Beer's_ideas’_by_Victor_Gano
+ nParticipate: https://www.tickettailor.com/checkout/view-event/id/6939543/
+ chk/57f3/?entry_link=%2Fall-tickets%2Fmetaphorum1%2F%3Fbg_fill%3Dfalse%26m
+ inimal%3Dtrue%26ref%3Dwebsite_widget%26show_date_filter%3Dtrue%26show_logo
+ %3Dfalse%26show_search_filter%3Dtrue%26show_sort%3Dtrue%2\nhttps://teamup.
+ com/ksok8ra1xif3viq4no/events/1982695886
+LAST-MODIFIED:20260905T164147Z
+LOCATION:Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/1982695886
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CECAN Webinar – Testing\, Learning and Adapting: Introducing the
+  New Test and Learn Annex to the Magenta Book
+DTSTART:20260615T120000Z
+DTSTAMP:20260905T164147Z
+UID:82b5b2e91de670fe1d51d2ba@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,Systems thinking
+DESCRIPTION:CECAN\n\nhttps://www.cecan.ac.uk/events/cecan-webinar-testing-
+ learning-and-adapting-introducing-the-new-test-and-learn-annex-to-the-mage
+ nta-book/
+LAST-MODIFIED:20260905T164147Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cecan.ac.uk/events/cecan-webinar-testing-learning-and-adap
+ ting-introducing-the-new-test-and-learn-annex-to-the-magenta-book/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CECAN Conference 2026: Global Perspectives on Complex Evaluation
+DTSTART;VALUE=DATE:20260623
+DTSTAMP:20260905T164147Z
+UID:77cc687bc93b331ffa1be132@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,Systems thinking
+DESCRIPTION:CECAN\n\nhttps://www.cecan.ac.uk/events/cecan-conference-2026-
+ global-perspectives-on-complex-evaluation/\nDate-only listing\; check the 
+ organiser for session times.
+LAST-MODIFIED:20260905T164147Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cecan.ac.uk/events/cecan-conference-2026-global-perspectiv
+ es-on-complex-evaluation/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSD15 PLURALITIES (Systemic Design Association)
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+DTSTAMP:20260905T164147Z
+UID:c3c7111b41559bbda4dd2512@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking,Systemic design
+DESCRIPTION:Systemic Design Association\nWho: Systemic Design Association 
+ Hosted by Politecnico di Torino. https://rsdsymposium.org/ On campus sessi
+ ons and livestream.\nhttps://teamup.com/ksok8ra1xif3viq4no/events/21334041
+ 03\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20260905T164147Z
+LOCATION:R. Joaquim Távora\, 1240 - Vila Mariana\, São Paulo - SP\, 0401
+ 5-013\, Brazil
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2133404103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pułapka struktury\, czyli jak sposób w jaki się organizujemy de
+ terminuje przestrzeń możliwych rozwiązań.
+DTSTART:20260915T160000Z
+DTEND:20260915T173000Z
+DTSTAMP:20260905T164147Z
+UID:4dec19fa8acdd341a3e7dfbd@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics
+DESCRIPTION:SCiO Polska\n\nhttps://www.systemspractice.org/events/pulapka-
+ struktury-czyli-jak-sposob-w-jaki-sie-organizujemy-determinuje-przestrzen-
+ mozliwych
+LAST-MODIFIED:20260905T164147Z
+LOCATION:Online event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.systemspractice.org/events/pulapka-struktury-czyli-jak-spo
+ sob-w-jaki-sie-organizujemy-determinuje-przestrzen-mozliwych
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speaker Series 7#1: Cyber-Renaissance
+DTSTART:20260920T160000Z
+DTSTAMP:20260905T164147Z
+UID:de1734466a5ee9163041163a@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics
+DESCRIPTION:American Society for Cybernetics (ASC)\n\nhttps://asc-cybernet
+ ics.org/initiatives/speaker-series-wg/speaker-series-season-71/
+LAST-MODIFIED:20260905T164147Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://asc-cybernetics.org/initiatives/speaker-series-wg/speaker-seri
+ es-season-71/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internalisierte Verbindlichkeiten - gegenwärtig aber unsichtbar
+DTSTART:20261001T170000Z
+DTEND:20261001T183000Z
+DTSTAMP:20260905T164147Z
+UID:45a924295856edfda96ed2f7@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics
+DESCRIPTION:SCiO DACH\n\nhttps://www.systemspractice.org/events/internalis
+ ierte-verbindlichkeiten-gegenwartig-aber-unsichtbar
+LAST-MODIFIED:20260905T164147Z
+LOCATION:Online event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.systemspractice.org/events/internalisierte-verbindlichkeit
+ en-gegenwartig-aber-unsichtbar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCiO UK Virtual Development Event - October 2026
+DTSTART:20261006T120000Z
+DTEND:20261006T140000Z
+DTSTAMP:20260905T164147Z
+UID:0c7c4ba62ecca20d592ff572@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics
+DESCRIPTION:SCiO UK\n\nhttps://www.systemspractice.org/events/scio-uk-virt
+ ual-development-event-october-2026
+LAST-MODIFIED:20260905T164147Z
+LOCATION:Online event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.systemspractice.org/events/scio-uk-virtual-development-eve
+ nt-october-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSD15 PLURALITIES (Scientific Committee\, hosted by Politecnico di
+  Torino)
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260905T164147Z
+UID:e1a0594c80afc692c0df6616@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking,Systemic design
+DESCRIPTION:Scientific Committee\\\, hosted by Politecnico di Torino\nWho:
+  Scientific Committee\, hosted by Politecnico di Torino Online Paper Talks
+  presented by authors. Various facilitators. https://rsdsymposium.org/\nht
+ tps://teamup.com/ksok8ra1xif3viq4no/events/2133404975\nDate-only listing\;
+  check the organiser for session times.
+LAST-MODIFIED:20260905T164147Z
+LOCATION:https://events.zoom.us/eo/AtULk9kZNsX5vQlgZoWZ2t1vjvz86R6OWyqBv00
+ QO_0XK-DZYNEQ~AggLXsr32QYFjq8BlYLZ5I06Dg
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2133404975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSD15 PLURALITIES (RSD15-Turin on campus event)
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260905T164147Z
+UID:33ec149dc98e48ff47cd39a5@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking,Systemic design
+DESCRIPTION:RSD15-Turin on campus event\nWho: RSD15-Turin on campus event 
+ Register https://www.rsd15.org/contacts Livestream sessions https://events
+ .zoom.us/eo/AtULk9kZNsX5vQlgZoWZ2t1vjvz86R6OWyqBv00QO\\_0XK-DZYNEQ~AggLXsr
+ 32QYFjq8BlYLZ5I06Dg: https://events.zoom.us/eo/AtULk9kZNsX5vQlgZoWZ2t1vjvz
+ 86R6OWyqBv00QO_0XK-DZYNEQ~AggLXsr32QYFjq8BlYLZ5I06Dg\nhttps://teamup.com/k
+ sok8ra1xif3viq4no/events/2133405689\nDate-only listing\; check the organis
+ er for session times.
+LAST-MODIFIED:20260905T164147Z
+LOCATION:Castello del Valentino\, Turin\, Italy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2133405689
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CECAN Webinar – Place-Based Evaluation Is Missing the Point Abou
+ t Place
+DTSTART:20261015T110000Z
+DTSTAMP:20260905T164147Z
+UID:1cf1d5872670d36e41a30df6@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,Systems thinking
+DESCRIPTION:CECAN\n\nhttps://www.cecan.ac.uk/events/cecan-webinar-place-ba
+ sed-evaluation-is-missing-the-point-about-place/
+LAST-MODIFIED:20260905T164147Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cecan.ac.uk/events/cecan-webinar-place-based-evaluation-is
+ -missing-the-point-about-place/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCiO UK Virtual Open Meeting - November 2026
+DTSTART:20261116T183000Z
+DTEND:20261116T210000Z
+DTSTAMP:20260905T164147Z
+UID:76da874472c5593ae9184169@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics
+DESCRIPTION:SCiO UK\n\nhttps://www.systemspractice.org/events/scio-uk-virt
+ ual-open-meeting-november-2026
+LAST-MODIFIED:20260905T164147Z
+LOCATION:Online event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.systemspractice.org/events/scio-uk-virtual-open-meeting-no
+ vember-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kybernetik-Stammtisch - Jahresabschluss - offene Beiträge
+DTSTART:20261217T180000Z
+DTEND:20261217T193000Z
+DTSTAMP:20260905T164147Z
+UID:1a0badea163b9e590bf3ffa3@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics
+DESCRIPTION:SCiO DACH\n\nhttps://www.systemspractice.org/events/kybernetik
+ -stammtisch-jahresabschluss-offene-beitrage-1
+LAST-MODIFIED:20260905T164147Z
+LOCATION:Online event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.systemspractice.org/events/kybernetik-stammtisch-jahresabs
+ chluss-offene-beitrage-1
+END:VEVENT
+END:VCALENDAR

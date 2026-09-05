@@ -1,0 +1,86 @@
+name: Collect events and publish
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: systemsmap-publication
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: github.event_name != 'issues' || (github.event.label.name == 'approved' && github.event.sender.login == github.repository_owner)
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install event parsers
+        run: pip install -r requirements.txt
+      - name: Accept an owner-reviewed submission
+        if: github.event_name == 'issues'
+        run: python scripts/accept_submission.py
+      - name: Validate calendar handling
+        run: python -m unittest discover -s tests -v
+      - name: Collect published calendars and event pages
+        run: python scripts/collect.py
+      - name: Validate publication
+        run: python scripts/validate.py
+      - name: Save the collection and source health
+        run: |
+          git config user.name 'Systems events map'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data dist/data dist/feeds
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh events, calendar feeds, and source health'
+            git push
+          fi
+      - name: Collection summary
+        run: |
+          python - <<'PY'
+          import json, os
+          h=json.load(open('dist/data/health.json'))
+          with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as f:
+            f.write(f"## Systems events map\n\n{h['events']} events, {h['upcoming']} upcoming. {h['collecting']} sources yielded dated events out of {h['sources']} checked.\n\n")
+            f.write('Source health and provenance are published with the map.\n')
+          PY
+      - name: Check GitHub Pages availability
+        id: availability
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import os, requests
+          r=requests.get('https://api.github.com/repos/'+os.environ['GITHUB_REPOSITORY']+'/pages',headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json'},timeout=20)
+          enabled=r.status_code==200
+          with open(os.environ['GITHUB_OUTPUT'],'a') as f:f.write('enabled='+str(enabled).lower()+'\n')
+          if not enabled:
+            with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as f:f.write('\nGitHub Pages is not enabled or accessible. The public hosted edition reads this updated collection directly. To also publish on github.io, select GitHub Actions under Settings → Pages.\n')
+          PY
+      - name: Configure GitHub Pages
+        if: steps.availability.outputs.enabled == 'true'
+        uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.availability.outputs.enabled == 'true'
+        with:
+          path: dist
+      - name: Publish the website and calendar feeds
+        if: steps.availability.outputs.enabled == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4

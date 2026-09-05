@@ -1,0 +1,343 @@
+[
+  {
+    "id": "scio",
+    "name": "SCiO — international chapters",
+    "url": "https://www.systemspractice.org/events",
+    "adapter": "scio",
+    "topics": [
+      "systems",
+      "cybernetics"
+    ],
+    "region": "International",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": "scio-courses",
+    "name": "SCiO — courses",
+    "url": "https://www.systemspractice.org/livecourses",
+    "adapter": "scio",
+    "topics": [
+      "systems"
+    ],
+    "region": "International",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": "asc",
+    "name": "American Society for Cybernetics (ASC)",
+    "url": "https://asc-cybernetics.org/",
+    "feeds": [
+      "https://ics.teamup.com/feed/ksok1qhw323snqy99e/0.ics"
+    ],
+    "adapter": "asc",
+    "topics": [
+      "cybernetics"
+    ],
+    "region": "International",
+    "timezone": "America/New_York",
+    "feedsExclusive": true
+  },
+  {
+    "id": "community",
+    "name": "Cybernetics and Systems Community Calendar",
+    "url": "https://asc-cybernetics.org/calendar/",
+    "feeds": [
+      "https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics"
+    ],
+    "adapter": "auto",
+    "topics": [
+      "cybernetics",
+      "systems"
+    ],
+    "region": "International",
+    "timezone": "UTC",
+    "feedsExclusive": true
+  },
+  {
+    "id": "ifsr",
+    "name": "International Federation for Systems Research (IFSR)",
+    "url": "https://ifsr.org/events/",
+    "feeds": [
+      "https://ifsr.org/events/?ical=1"
+    ],
+    "adapter": "auto",
+    "topics": [
+      "systems",
+      "cybernetics"
+    ],
+    "region": "International",
+    "timezone": "Europe/Vienna"
+  },
+  {
+    "id": "isss",
+    "name": "International Society for the Systems Sciences (ISSS)",
+    "url": "https://www.isss.org/",
+    "adapter": "auto",
+    "topics": [
+      "systems"
+    ],
+    "region": "International"
+  },
+  {
+    "id": "isss-lab",
+    "name": "ISSS Lab — events",
+    "url": "https://wiki.lab.isss.org/events",
+    "adapter": "isss_lab",
+    "topics": [
+      "systems"
+    ],
+    "region": "International",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "cybsoc",
+    "name": "The Cybernetics Society (CybSoc)",
+    "url": "https://cybsoc.org/events.html",
+    "adapter": "auto",
+    "topics": [
+      "cybernetics"
+    ],
+    "region": "United Kingdom / online",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": "systems-innovation",
+    "name": "Systems Innovation",
+    "url": "https://www.systemsinnovation.network/events",
+    "adapter": "auto",
+    "topics": [
+      "systems",
+      "complexity"
+    ],
+    "region": "International"
+  },
+  {
+    "id": "system-dynamics",
+    "name": "System Dynamics Society",
+    "url": "https://systemdynamics.org/events/",
+    "adapter": "auto",
+    "topics": [
+      "system-dynamics"
+    ],
+    "region": "International",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "santa-fe",
+    "name": "Santa Fe Institute",
+    "url": "https://www.santafe.edu/events/upcoming",
+    "adapter": "auto",
+    "topics": [
+      "complexity"
+    ],
+    "region": "United States / international",
+    "timezone": "America/Denver"
+  },
+  {
+    "id": "csh",
+    "name": "Complexity Science Hub",
+    "url": "https://csh.ac.at/events/",
+    "adapter": "auto",
+    "topics": [
+      "complexity"
+    ],
+    "region": "Austria / international",
+    "timezone": "Europe/Vienna"
+  },
+  {
+    "id": "css",
+    "name": "Complex Systems Society",
+    "url": "https://cssociety.org/events",
+    "adapter": "css",
+    "topics": [
+      "complexity"
+    ],
+    "region": "International"
+  },
+  {
+    "id": "metaphorum",
+    "name": "Metaphorum",
+    "url": "https://metaphorum.org/events/",
+    "adapter": "auto",
+    "topics": [
+      "systems",
+      "cybernetics"
+    ],
+    "region": "International"
+  },
+  {
+    "id": "wosc",
+    "name": "World Organisation of Systems and Cybernetics",
+    "url": "https://wosc.world/",
+    "adapter": "auto",
+    "topics": [
+      "systems",
+      "cybernetics"
+    ],
+    "region": "International"
+  },
+  {
+    "id": "rsd",
+    "name": "Relating Systems Thinking and Design (RSD)",
+    "url": "https://rsdsymposium.org/",
+    "adapter": "auto",
+    "topics": [
+      "systemic-design",
+      "systems"
+    ],
+    "region": "International"
+  },
+  {
+    "id": "sda",
+    "name": "Systemic Design Association",
+    "url": "https://systemic-design.org/",
+    "adapter": "auto",
+    "topics": [
+      "systemic-design"
+    ],
+    "region": "International"
+  },
+  {
+    "id": "ukss",
+    "name": "UK Systems Society",
+    "url": "https://www.ukss.org.uk/",
+    "adapter": "auto",
+    "topics": [
+      "systems"
+    ],
+    "region": "United Kingdom",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": "anzsys",
+    "name": "ANZSYS",
+    "url": "https://anzsys.org/",
+    "adapter": "auto",
+    "topics": [
+      "systems"
+    ],
+    "region": "Australia and New Zealand"
+  },
+  {
+    "id": "necsi",
+    "name": "New England Complex Systems Institute",
+    "url": "https://necsi.edu/events",
+    "adapter": "auto",
+    "topics": [
+      "complexity"
+    ],
+    "region": "United States / international",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "cecan",
+    "name": "CECAN",
+    "url": "https://www.cecan.ac.uk/events/",
+    "adapter": "cecan",
+    "topics": [
+      "complexity",
+      "systems"
+    ],
+    "region": "United Kingdom",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": "iscpif",
+    "name": "Institut des systèmes complexes Paris Île-de-France",
+    "url": "https://iscpif.fr/events/",
+    "adapter": "auto",
+    "topics": [
+      "complexity"
+    ],
+    "region": "France / international",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": "griffith",
+    "name": "Griffith Centre for Systems Innovation",
+    "url": "https://www.griffith.edu.au/griffith-business-school/centre-systems-innovation/events",
+    "adapter": "auto",
+    "topics": [
+      "systems"
+    ],
+    "region": "Australia",
+    "timezone": "Australia/Brisbane"
+  },
+  {
+    "id": "cabrera",
+    "name": "Cabrera Research Lab",
+    "url": "https://www.cabreraresearch.org/",
+    "adapter": "auto",
+    "topics": [
+      "systems"
+    ],
+    "region": "United States / online",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "water-center",
+    "name": "Waters Center for Systems Thinking",
+    "url": "https://waterscenterst.org/",
+    "adapter": "auto",
+    "topics": [
+      "systems"
+    ],
+    "region": "United States / online",
+    "timezone": "America/Phoenix"
+  },
+  {
+    "id": "ideo",
+    "name": "School of System Change",
+    "url": "https://schoolofsystemchange.org/events",
+    "adapter": "auto",
+    "topics": [
+      "systems"
+    ],
+    "region": "International",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": "cynefin",
+    "name": "The Cynefin Company",
+    "url": "https://thecynefin.co/events/",
+    "adapter": "auto",
+    "topics": [
+      "complexity",
+      "systems"
+    ],
+    "region": "International",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": "sociocracy",
+    "name": "Sociocracy For All",
+    "url": "https://www.sociocracyforall.org/events/",
+    "adapter": "auto",
+    "topics": [
+      "systems"
+    ],
+    "region": "International",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "incose",
+    "name": "INCOSE — events",
+    "url": "https://www.incose.org/events",
+    "adapter": "auto",
+    "topics": [
+      "systems"
+    ],
+    "region": "International"
+  },
+  {
+    "id": "isss-japan",
+    "name": "Japan Society for Systems Science",
+    "url": "https://jss-soci.org/",
+    "adapter": "auto",
+    "topics": [
+      "systems"
+    ],
+    "region": "Japan",
+    "timezone": "Asia/Tokyo"
+  }
+]
