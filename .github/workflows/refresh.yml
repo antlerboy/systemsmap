@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
   pages: write
   id-token: write
 
@@ -33,6 +34,20 @@ jobs:
           cache: pip
       - name: Install event parsers
         run: pip install -r requirements.txt
+      - name: Prepare submission review labels
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import os, requests
+          root='https://api.github.com/repos/'+os.environ['GITHUB_REPOSITORY']+'/labels'
+          headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json'}
+          for name,color,description in [('submission','137f81','Public event, feed, or page proposed for review'),('approved','165dd4','Reviewed by the owner and accepted for collection')]:
+            r=requests.get(root+'/'+name,headers=headers,timeout=20)
+            if r.status_code==404:
+              requests.post(root,headers=headers,json={'name':name,'color':color,'description':description},timeout=20).raise_for_status()
+            else:r.raise_for_status()
+          PY
       - name: Accept an owner-reviewed submission
         if: github.event_name == 'issues'
         run: python scripts/accept_submission.py

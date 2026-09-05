@@ -48,6 +48,9 @@ END:VCALENDAR\r
         source={k:v for k,v in SOURCE.items() if k!='timezone'}
         e=collect.normalise(dict(title='Unknown timezone',start='2026-10-20T10:00:00',url='https://example.org/event'),source,'https://example.org/event')
         self.assertFalse(e['calendarEligible']);self.assertEqual(len(Calendar.from_ical(collect.make_calendar([e],'Test')).walk('VEVENT')),0)
+    def test_website_url_is_not_a_physical_venue(self):
+        e=collect.normalise(dict(title='Systems seminar',start='2026-10-20',location='https://example.org/event',url='https://example.org/event'),SOURCE,'https://example.org/event')
+        self.assertEqual(e['format'],'unknown');self.assertIsNone(e['latitude'])
     def test_all_day_exclusive_end_and_unicode_roundtrip(self):
         e=collect.normalise(dict(title='Cybernétique, São Paulo; systems',start='2026-10-20',end='2026-10-22',location='São Paulo, Brazil',url='https://example.org/event'),SOURCE,'https://example.org/event')
         cal=Calendar.from_ical(collect.make_calendar([e],'Test'));item=cal.walk('VEVENT')[0]

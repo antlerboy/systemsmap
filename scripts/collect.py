@@ -53,6 +53,8 @@ CITIES = {
  'hong kong':(22.319,114.169,'Hong Kong'), 'singapore':(1.352,103.820,'Singapore'),
  'taipei':(25.033,121.565,'Taiwan'), 'seoul':(37.567,126.978,'South Korea'),
  'bengaluru':(12.972,77.595,'India'), 'bangalore':(12.972,77.595,'India'),
+ 'binghamton':(42.098,-75.918,'United States'), 'granada':(37.177,-3.599,'Spain'),
+ 'stuttgart':(48.776,9.183,'Germany'), 'canberra':(-35.281,149.130,'Australia'),
  'delhi':(28.614,77.209,'India'), 'mumbai':(19.076,72.878,'India'),
  'sydney':(-33.869,151.209,'Australia'), 'melbourne':(-37.814,144.963,'Australia'),
  'brisbane':(-27.470,153.026,'Australia'), 'adelaide':(-34.929,138.601,'Australia'),
@@ -136,7 +138,8 @@ def normalise(raw,source,url):
     desc=clean(raw.get('description'))
     online=bool(re.search(r'\bonline\b|\bzoom\b|virtual|webinar|teams\.microsoft|meet\.google',loc,re.I))
     virtual=raw.get('virtual',False)
-    fmt=raw.get('format') or ('hybrid' if (virtual and loc and not online) else 'online' if online or virtual else 'in-person' if loc and not re.search(r'\btbc\b|to be|TBA',loc,re.I) else 'unknown')
+    url_only=bool(re.match(r'^https?://\S+$',loc))
+    fmt=raw.get('format') or ('hybrid' if (virtual and loc and not online and not url_only) else 'online' if online or virtual else 'in-person' if loc and not url_only and not re.search(r'\btbc\b|to be|TBA',loc,re.I) else 'unknown')
     lat=raw.get('lat');lon=raw.get('lon');country=clean(raw.get('country'))
     precision='published' if lat is not None and lon is not None else None
     if fmt in ('in-person','hybrid') and lat is None:
