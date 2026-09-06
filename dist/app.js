@@ -113,15 +113,23 @@
   document.addEventListener('click',e=>{const t=e.target.closest('[data-event],[data-download],[data-reset]');if(!t)return;if(t.dataset.event)openEvent(t.dataset.event);if(t.dataset.download)download(events.filter(x=>x.id===t.dataset.download));if(t.hasAttribute('data-reset'))$('#filters').reset();});
   $('#feed').addEventListener('change',updateFeed);$('#copy-feed').addEventListener('click',async()=>{try{await navigator.clipboard.writeText($('#feed-url').href);$('#copy-status').textContent='Subscription URL copied.';}catch{$('#copy-status').textContent='Copy the link from ‘View the feed URL’ below.';$('#feed-url').closest('details').open=true;}});
   $('#submission-kind').addEventListener('change',()=>{const event=['event','auto'].includes($('#submission-kind').value);$('#submission-dates').hidden=!event;$('#submission-location').hidden=!event;});
-  $('#submission').addEventListener('submit',e=>{
+  $('#submission').addEventListener('submit',async e=>{
     e.preventDefault();const form=e.currentTarget,d=Object.fromEntries(new FormData(form));
     let url;try{url=new URL(d.url.replace(/^webcal:/,'https:'));if(!['https:','http:'].includes(url.protocol)||url.username||url.password)throw Error();}catch{$('#submission-status').textContent='Please enter a public https:// or webcal:// URL.';return;}
     if(d.start&&d.end&&d.end<d.start){$('#submission-status').textContent='The end date must be on or after the start date.';return;}
     if(d.timezone){try{new Intl.DateTimeFormat('en',{timeZone:d.timezone});}catch{$('#submission-status').textContent='Use an IANA time zone such as Europe/London, or leave it blank.';return;}}
-    const proposal={kind:d.kind,title:d.title.trim()||null,url:url.href,organiser:d.organiser.trim()||null,start:d.start||null,end:d.end||null,startTime:d.startTime||null,endTime:d.endTime||null,timezone:d.timezone.trim()||null,location:d.location.trim(),topics:d.topic?[d.topic]:[],description:d.description.trim(),language:d.language.trim(),languageRequirement:d.languageRequirement.trim(),interpretation:d.interpretation.trim(),access:d.access.trim(),audienceCountries:d.audienceCountries.split(';').map(s=>s.trim()).filter(Boolean),audienceRegions:d.audienceRegions.split(';').map(s=>s.trim()).filter(Boolean)};
-    const body='Please review this public '+d.kind+' submission.\n\n```json\n'+JSON.stringify(proposal,null,2)+'\n```\n\nSubmitted through the Systems events map. Inclusion requires maintainer review.';
-    const target=new URL('https://github.com/antlerboy/systemsmap/issues/new');target.searchParams.set('title','Submission: '+(proposal.title||url.hostname+url.pathname).slice(0,180));target.searchParams.set('body',body);target.searchParams.set('labels','submission');
-    $('#submission-status').textContent='Opening GitHub. Your submission is sent when you choose ‘Create’ there.';window.location.assign(target.href);
+    const proposal={kind:d.kind,title:d.title.trim()||null,url:url.href,organiser:d.organiser.trim()||null,start:d.start||null,end:d.end||null,startTime:d.startTime||null,endTime:d.endTime||null,timezone:d.timezone.trim()||null,location:d.location.trim(),topics:d.topic?[d.topic]:[],description:d.description.trim(),language:d.language.trim(),languageRequirement:d.languageRequirement.trim(),interpretation:d.interpretation.trim(),access:d.access.trim(),website:d.website||'',audienceCountries:d.audienceCountries.split(';').map(s=>s.trim()).filter(Boolean),audienceRegions:d.audienceRegions.split(';').map(s=>s.trim()).filter(Boolean)};
+    const button=form.querySelector('button[type="submit"]');button.disabled=true;
+    $('#submission-status').textContent='Sending your link…';
+    try{
+      const response=await fetch('https://events.transduction.systems/api/submissions',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(proposal),signal:AbortSignal.timeout(20000)});
+      const result=await response.json();
+      if(!response.ok||!result.received)throw Error(result.error||'The link could not be saved. Please try again.');
+      $('#submission-status').textContent=result.message+' Reference: '+result.id.slice(0,8)+'.';
+      form.reset();
+    }catch(error){$('#submission-status').textContent=error.name==='TimeoutError'?'The connection timed out. Please try again; duplicate links are recognised.':error.message||'Couldn’t send your link. Please try again.';}
+    finally{button.disabled=false;}
+
   });
   load();
 })();

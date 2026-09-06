@@ -30,11 +30,13 @@ Subscriptions refresh when the receiving calendar app polls. Downloaded ICS file
 
 ## Submissions
 
-Quick submission requires only a public URL. Optional details are collapsed. The on-page form prepares a structured GitHub issue; plain links in issues are also accepted. A GitHub account is required and submission is completed on GitHub; an unsent proposal is never claimed as received. Include only public information.
+The public form accepts a URL directly without an account or email address. Optional details are collapsed. A durable D1 inbox behind `https://events.transduction.systems/api/submissions` acknowledges receipt before the form clears. The service preserves the existing events and PSTA redirects. Honeypot, request-size, duplicate, origin, and daily submission limits reduce abuse.
 
-On issue creation or editing, `extract_submission.py` extracts JSON-LD events, ICS feeds, or supported event-page facts and posts a preview for review. Ambiguous dates, blocked pages, and missing facts stay in the queue. Multi-event pages become source proposals. No submission is automatically published.
+Submissions and optional details are public; the form asks for public information only. IP addresses are not stored. A daily salted IP hash is used only for rate limits and is never included in the public queue.
 
-The owner reviews the source, dates, time zone, access, language requirements, and scope. Apply the `approved` label to a valid structured submission to add it automatically. Only approval by the repository owner triggers this path. Link-only approvals are re-parsed; an event without a verified date, title, organiser, or required time zone must be completed before publication. Accepted feeds and pages join the daily scan. Corrections can be supplied through issues or pull requests.
+The daily collection runs `review_public_submissions.py` to extract up to 20 new links per scan using the existing safe fetcher and event parsers. Extracted proposals appear in `dist/data/submission-review.json` and `submissions.html`. Failed or ambiguous extraction stays marked for manual review. Nothing is automatically added to the map. The owner accepts reviewed entries into `data/approved-events.json` or registers an ongoing source in `data/sources.json`.
+
+The earlier GitHub issue queue and approval workflow remain available for maintainers and corrections. Visitors do not need GitHub. Owner-approved issue submissions still use `accept_submission.py`; the public link inbox uses the same event data fields and parser.
 
 ## Maintenance
 

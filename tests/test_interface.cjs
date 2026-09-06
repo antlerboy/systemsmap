@@ -1,8 +1,8 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
 const fields=new Map(),handlers=new Map();
 function el(s){if(!fields.has(s))fields.set(s,{value:'',textContent:'',addEventListener:(n,cb)=>handlers.set(s+':'+n,cb),querySelector:()=>null});return fields.get(s);}
-let target;
-const context={URL,URLSearchParams,Intl,Date,TextEncoder,console,setTimeout,location:{hostname:'test',search:'',pathname:'/',hash:'',assign:u=>target=u},history:{replaceState(){}},document:{querySelector:el,addEventListener(){}},FormData:class{constructor(form){return Object.entries(form.values)}}};
+let requestBody,resetCount=0,fail=false;
+const context={URL,URLSearchParams,Intl,Date,TextEncoder,console,setTimeout,location:{hostname:'test',search:'',pathname:'/',hash:''},AbortSignal,fetch:async(url,options)=>{requestBody=JSON.parse(options.body);return {ok:!fail,json:async()=>fail?{error:'Storage unavailable'}:{received:true,id:'12345678-test',message:'Link received.'}}},history:{replaceState(){}},document:{querySelector:el,addEventListener(){}},FormData:class{constructor(form){return Object.entries(form.values)}}};
 context.window=context;vm.createContext(context);
 let src=fs.readFileSync('dist/app.js','utf8').replace('  load();','  globalThis.test={match,place,focus,languages,ics};');
 vm.runInContext(src,context);
@@ -11,6 +11,10 @@ el('#period').value='all';el('#country').value='Poland';el('#language').value='P
 assert(context.test.match(e));el('#language').value='English';assert(!context.test.match(e));el('#language').value='';el('#country').value='Europe';assert(!context.test.match(e));
 assert(context.test.place(e).includes('Poland'));assert(!context.test.place(e).includes('anywhere'));assert(context.test.ics([e]).replace(/\r\n /g,'').includes('Language requirements: Discussion in Polish'));
 const values={url:'https://example.org/event',kind:'auto',title:'',organiser:'',start:'',end:'',startTime:'',endTime:'',timezone:'',location:'',topic:'',description:'',language:'',languageRequirement:'',interpretation:'',access:'',audienceCountries:'',audienceRegions:''};
-handlers.get('#submission:submit')({preventDefault(){},currentTarget:{values}});
-assert(target);const body=new URL(target).searchParams.get('body');const proposal=JSON.parse(body.match(/```json\n([\s\S]*?)\n```/)[1]);assert.equal(proposal.url,values.url);assert.equal(proposal.title,null);assert.equal(proposal.kind,'auto');
-console.log('Verified country/language filtering, calendar requirements, and URL-only submission.');
+(async()=>{
+const button={disabled:false},form={values,querySelector:()=>button,reset:()=>resetCount++};
+await handlers.get('#submission:submit')({preventDefault(){},currentTarget:form});
+assert.equal(requestBody.url,values.url);assert.equal(requestBody.title,null);assert.equal(requestBody.kind,'auto');assert.equal(resetCount,1);assert.equal(button.disabled,false);assert(el('#submission-status').textContent.includes('Link received'));
+fail=true;await handlers.get('#submission:submit')({preventDefault(){},currentTarget:form});assert.equal(resetCount,1);assert.equal(button.disabled,false);assert(el('#submission-status').textContent.includes('Storage unavailable'));
+console.log('Verified country/language filtering, calendar details, anonymous receipt, and preserved input on submission failure.');
+})().catch(error=>{console.error(error);process.exitCode=1;});

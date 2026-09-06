@@ -1,0 +1,14 @@
+{
+  "name": "systems-events-canonical-redirect",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-redirect.mjs",
+    "db:generate": "drizzle-kit generate",
+    "test": "node tests/submission-service.test.mjs"
+  },
+  "devDependencies": {
+    "drizzle-kit": "0.31.10",
+    "drizzle-orm": "0.45.2"
+  }
+}

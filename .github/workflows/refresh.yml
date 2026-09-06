@@ -57,6 +57,8 @@ jobs:
           node tests/test_interface.cjs
       - name: Collect published calendars and event pages
         run: python scripts/collect.py
+      - name: Extract public link submissions for review
+        run: python scripts/review_public_submissions.py
       - name: Validate publication
         run: python scripts/validate.py
       - name: Save the collection and source health
