@@ -56,9 +56,9 @@ BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20260811T150000Z
 DTEND:20260811T160000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260906T192030Z
 UID:d8c293b9d8ef0e9be47b7f2c@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\n<p>Monthly meeting led by the AI in S
  ystem Dynamics Education Task Force to guide educators in responsibly inte
@@ -66,8 +66,8 @@ DESCRIPTION:System Dynamics Society\n<p>Monthly meeting led by the AI in S
  uirements: Not specified\nInterpretation: Not specified\nAccess: See organ
  iser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-tas
  k-force-monthly-meeting-2/2026-08-11/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Location not published
+LAST-MODIFIED:20260906T192030Z
+LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/ai-in-system-dynamics-education-task-
@@ -77,9 +77,9 @@ BEGIN:VEVENT
 SUMMARY:SDS Policy Council Meeting (August 2026)
 DTSTART:20260820T150000Z
 DTEND:20260820T163000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260906T192030Z
 UID:aebf90cba4d24ebd40dbe2c9@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\n<p>Monthly meetings of the Policy Cou
  ncil occur on the 3rd Thursday of the month with the exception of conferen
@@ -89,8 +89,8 @@ DESCRIPTION:System Dynamics Society\n<p>Monthly meetings of the Policy Cou
  nguage requirements: Not specified\nInterpretation: Not specified\nAccess:
   See organiser\nhttps://systemdynamics.org/event/sds-policy-council-meetin
  g-august-2026/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Location not published
+LAST-MODIFIED:20260906T192030Z
+LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/sds-policy-council-meeting-august-202
@@ -100,16 +100,16 @@ BEGIN:VEVENT
 SUMMARY:XMILE Technical Committee Meeting (August 2026)
 DTSTART:20260821T140000Z
 DTEND:20260821T144500Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260906T192030Z
 UID:523147b0ddcf8306916f9236@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\n\nLanguage: Not specified\nLanguage r
  equirements: Not specified\nInterpretation: Not specified\nAccess: See org
  aniser\nhttps://systemdynamics.org/event/xmile-technical-committee-meeting
  -august-2026/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Location not published
+LAST-MODIFIED:20260906T192030Z
+LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/xmile-technical-committee-meeting-aug
@@ -119,16 +119,16 @@ BEGIN:VEVENT
 SUMMARY:SD Tools/XMILE Users Group (August 2026)
 DTSTART:20260821T150000Z
 DTEND:20260821T154500Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260906T192030Z
 UID:bebc6f58da4d93c4392f3328@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\n\nLanguage: Not specified\nLanguage r
  equirements: Not specified\nInterpretation: Not specified\nAccess: See org
  aniser\nhttps://systemdynamics.org/event/sd-tools-xmile-users-group-august
  -2026/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Location not published
+LAST-MODIFIED:20260906T192030Z
+LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/sd-tools-xmile-users-group-august-202
@@ -138,9 +138,9 @@ BEGIN:VEVENT
 SUMMARY:Annual Psychology and Human Behavior SIG Meeting (August 2026)
 DTSTART:20260825T140000Z
 DTEND:20260825T150000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260906T192030Z
 UID:169eea14b9f18798786086d2@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:Psychology and Human Behavior SIG\n<p>Please join us for our a
  nnual Psychology and Human Behavior SIG meeting. The first presentation wi
@@ -151,8 +151,8 @@ DESCRIPTION:Psychology and Human Behavior SIG\n<p>Please join us for our a
   Not specified\nLanguage requirements: Not specified\nInterpretation: Not 
  specified\nAccess: See organiser\nhttps://systemdynamics.org/event/psychol
  ogy-and-human-behavior-sig-meeting-august-2026/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Location not published
+LAST-MODIFIED:20260906T192030Z
+LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/psychology-and-human-behavior-sig-mee
@@ -162,9 +162,9 @@ BEGIN:VEVENT
 SUMMARY:Place\, Poly-Capital\, and the Power to Change Systems
 DTSTART:20260827T120000Z
 DTEND:20260827T130000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260906T192030Z
 UID:db2f6fed4f94506198d50221@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\n<p>Eva Gladek shares lessons from 14 
  years of systems change\, showing how regional action and capital can driv
@@ -172,8 +172,8 @@ DESCRIPTION:System Dynamics Society\n<p>Eva Gladek shares lessons from 14
  equirements: Not specified\nInterpretation: Not specified\nAccess: See org
  aniser\nhttps://systemdynamics.org/event/place-poly-capital-and-the-power-
  to-change-systems/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Location not published
+LAST-MODIFIED:20260906T192030Z
+LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/place-poly-capital-and-the-power-to-c
@@ -183,9 +183,9 @@ BEGIN:VEVENT
 SUMMARY:Water SIG Meeting (August 2026)
 DTSTART:20260827T150000Z
 DTEND:20260827T160000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260906T192030Z
 UID:ab71cd26cf83a6e910e16a5c@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:Water SIG\n<p>Please join us on Thursday\, August 27th at 11am
   New York time to work on an intro to SD and Water roadmap for self-guided
@@ -196,8 +196,8 @@ DESCRIPTION:Water SIG\n<p>Please join us on Thursday\, August 27th at 11am
  ified\nLanguage requirements: Not specified\nInterpretation: Not specified
  \nAccess: See organiser\nhttps://systemdynamics.org/event/water-sig-meetin
  g-august-2026/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Location not published
+LAST-MODIFIED:20260906T192030Z
+LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/water-sig-meeting-august-2026/
@@ -206,9 +206,9 @@ BEGIN:VEVENT
 SUMMARY:Pre-College Education SIG Annual Meeting
 DTSTART:20260827T170000Z
 DTEND:20260827T174500Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260906T192030Z
 UID:72f5655d3387afef89f200d7@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:Pre College Education SIG\n<p>Dear Colleagues\, We would like 
  to invite you to attend our System Dynamics Society Pre-College Special In
@@ -219,8 +219,8 @@ DESCRIPTION:Pre College Education SIG\n<p>Dear Colleagues\, We would like
  cified\nLanguage requirements: Not specified\nInterpretation: Not specifie
  d\nAccess: See organiser\nhttps://systemdynamics.org/event/pre-college-edu
  cation-sig-meeting-august-2026/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Location not published
+LAST-MODIFIED:20260906T192030Z
+LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/pre-college-education-sig-meeting-aug
@@ -230,9 +230,9 @@ BEGIN:VEVENT
 SUMMARY:Student Chapter General Meeting
 DTSTART:20260827T130000Z
 DTEND:20260827T140000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260906T192030Z
 UID:aadc3d71128b252947889423@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:Student Chapter\n<p>During this meeting\, we will follow up on
   discussions from the annual meeting last month\, with a focus on finding 
@@ -242,8 +242,8 @@ DESCRIPTION:Student Chapter\n<p>During this meeting\, we will follow up on
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
  ent/student-chapter-general-meeting/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Location not published
+LAST-MODIFIED:20260906T192030Z
+LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/student-chapter-general-meeting/
@@ -253,9 +253,9 @@ SUMMARY:System Mapping Meets AI: Practical Ways AI Can Support Your Mappin
  g Process
 DTSTART:20260901T150000Z
 DTEND:20260901T160000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260906T192030Z
 UID:eb4d9c856f7a83ae54a879f8@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nExplore five practical roles AI can p
  lay in system mapping\, from knowledge aggregation to storytelling\, while
@@ -263,8 +263,8 @@ DESCRIPTION:System Dynamics Society\nExplore five practical roles AI can p
  ified\nLanguage requirements: Not specified\nInterpretation: Not specified
  \nAccess: See organiser\nhttps://systemdynamics.org/event/system-mapping-m
  eets-ai-practical-ways-ai-can-support-your-mapping-process/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Location not published
+LAST-MODIFIED:20260906T192030Z
+LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/system-mapping-meets-ai-practical-way
