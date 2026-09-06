@@ -134,7 +134,7 @@
   load();
 })();
 
-(() => {
+document.addEventListener('DOMContentLoaded', () => {
   const tidy = root => {
     if (root.nodeType === Node.TEXT_NODE) {
       if (root.parentElement?.closest('script,style,input,textarea,code,pre')) return;
@@ -153,4 +153,4 @@
       else for(const node of record.addedNodes) tidy(node);
     }
   }).observe(document.body,{childList:true,characterData:true,subtree:true});
-})();
+});
