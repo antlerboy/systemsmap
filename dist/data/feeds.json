@@ -2,22 +2,22 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 140
+    "events": 142
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 32
+    "events": 33
   },
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 75
+    "events": 77
   },
   {
     "id": "topic-cybernetics",
     "name": "Cybernetics",
-    "events": 56
+    "events": 58
   },
   {
     "id": "topic-complexity",

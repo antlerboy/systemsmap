@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Cybernetics in the Annex: Commemorating Stafford Beer’s Centenary + Summer Conferences Recap",
+    "url": "https://guild.host/events/cybernetics-in-the-annex-tbara6",
+    "organiser": "Systems Thinking Ontario",
+    "location": "OCAD University, 205 Richmond St W, Room 115, Toronto, Canada",
+    "topics": [
+      "systems",
+      "cybernetics"
+    ],
+    "format": "hybrid",
+    "country": "Canada",
+    "language": "Not specified",
+    "languageRequirement": "",
+    "interpretation": "",
+    "access": "Register for in-person attendance or the online link",
+    "price": "Free",
+    "audienceCountries": [
+      "Canada"
+    ],
+    "audienceRegions": [
+      "Ontario"
+    ],
+    "kind": "event",
+    "description": "Allenna Leonard discusses Stafford Beer’s work on organisational viability and participatory decision-making, followed by a discussion of recent systems conferences. Moderated by Zaid Khan.",
+    "start": "2026-09-08T18:30:00-04:00",
+    "end": "2026-09-08T20:15:00-04:00",
+    "startTime": "18:30",
+    "endTime": "20:15",
+    "timezone": "America/Toronto",
+    "uid": "submission-1",
+    "submission": "https://github.com/antlerboy/systemsmap/issues/1"
+  },
+  {
+    "title": "Fire and Ice: The Conception, Birth and Infancy of Cybernetics.",
+    "url": "https://events.manchester.ac.uk/event/event:r2y-ms8q8jbe-n4ev9n/fire-and-ice-the-conception-birth-and-infancy-of-cybernetics",
+    "organiser": "Digital Futures, University of Manchester",
+    "location": "University of Manchester, Manchester, United Kingdom",
+    "topics": [
+      "systems",
+      "cybernetics"
+    ],
+    "format": "in-person",
+    "country": "United Kingdom",
+    "language": "Not specified",
+    "languageRequirement": "",
+    "interpretation": "",
+    "access": "General public welcome; registration required",
+    "price": "Free",
+    "audienceCountries": [],
+    "audienceRegions": [],
+    "kind": "event",
+    "description": "The opening seminar in the nine-part ‘Meat the Machine’ series on the history of cybernetics and its implications for society and technology.",
+    "start": "2026-09-24T13:00:00+01:00",
+    "end": "2026-09-24T15:00:00+01:00",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "timezone": "Europe/London",
+    "uid": "submission-2",
+    "submission": "https://github.com/antlerboy/systemsmap/issues/2"
+  }
+]

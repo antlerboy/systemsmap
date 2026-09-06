@@ -42,9 +42,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "20a07e5e74504b8b2f14d672",
@@ -87,9 +91,13 @@
       "recurrenceId": "2026-06-10 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "82b5b2e91de670fe1d51d2ba",
@@ -131,9 +139,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "b067b6cb36f6bb4cc865f26a",
@@ -175,9 +187,13 @@
       "recurrenceId": "2026-06-16 09:00:00+02:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "10db3efe03a92ed580c6c5e7",
@@ -223,9 +239,13 @@
       "recurrenceId": "2026-06-17",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "4e7e1c3191c2bb4737353dda",
@@ -268,9 +288,13 @@
       "recurrenceId": "2026-06-17 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "d6ccd18843f7c2eccd8e9eed",
@@ -316,9 +340,13 @@
       "recurrenceId": "2026-06-18",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "b7e8c1616c5b59584758fe0f",
@@ -364,9 +392,13 @@
       "recurrenceId": "2026-06-19",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "3b754d6dd593040c94cb0cff",
@@ -411,9 +443,13 @@
       "recurrenceId": "2026-06-22",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "77cc687bc93b331ffa1be132",
@@ -457,9 +493,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "f97857505121f9febdcf5a2f",
@@ -500,9 +540,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "e9509aff3d5137eb6362e5eb",
@@ -545,9 +589,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "104c5b109934da8ee37f6120",
@@ -592,9 +640,13 @@
       "recurrenceId": "2026-06-29",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "be664c9ad0929fb658efaa13",
@@ -639,9 +691,13 @@
       "recurrenceId": "2026-06-30",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "1a8943c6449fe2b6a58d6deb",
@@ -686,9 +742,13 @@
       "recurrenceId": "2026-07-01",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "2e9bf690979c8a0c1536be49",
@@ -729,9 +789,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "e66c2f02fdc8b62d541ead37",
@@ -773,9 +837,13 @@
       "recurrenceId": "2026-07-03 15:00:00+02:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "743419255f36b0886d4f5d36",
@@ -818,9 +886,13 @@
       "recurrenceId": "2026-07-15 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "205d507841e8734b00a5bf0b",
@@ -861,9 +933,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "4fc08fcb2c47ef70a3e9f34c",
@@ -905,9 +981,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "0cecb3891ffc6ed35f46caa1",
@@ -949,9 +1029,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "f3727ffadf28bfee34b21cc9",
@@ -992,9 +1076,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "d8c293b9d8ef0e9be47b7f2c",
@@ -1035,9 +1123,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "2cd09377028a8ebe1ea2e6d7",
@@ -1080,9 +1172,13 @@
       "recurrenceId": "2026-08-19 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "c3c7111b41559bbda4dd2512",
@@ -1128,9 +1224,13 @@
       "recurrenceId": "2026-08-20",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "aebf90cba4d24ebd40dbe2c9",
@@ -1171,9 +1271,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "523147b0ddcf8306916f9236",
@@ -1214,9 +1318,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "bebc6f58da4d93c4392f3328",
@@ -1257,9 +1365,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "c61960ae94820bda3b8defa3",
@@ -1302,9 +1414,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "d774192494ed8546b96529a2",
@@ -1345,9 +1461,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "169eea14b9f18798786086d2",
@@ -1388,9 +1508,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "de5e9a27f58cfd51073e46e8",
@@ -1431,9 +1555,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "db2f6fed4f94506198d50221",
@@ -1474,9 +1602,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "ab71cd26cf83a6e910e16a5c",
@@ -1517,9 +1649,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "72f5655d3387afef89f200d7",
@@ -1560,9 +1696,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "aadc3d71128b252947889423",
@@ -1603,9 +1743,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "eb4d9c856f7a83ae54a879f8",
@@ -1651,9 +1795,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "1327388df871e880b96550b4",
@@ -1695,9 +1843,13 @@
       "recurrenceId": "2026-09-02 09:00:00+02:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "09dd4320f2c9407a3b7a08a7",
@@ -1738,9 +1890,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "7e45dbcc72f0f92d35f38eeb",
@@ -1781,9 +1937,13 @@
       "recurrenceId": "2026-09-07 14:00:00+03:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "e5215a1c196db05bc2f610a6",
@@ -1824,9 +1984,13 @@
       "recurrenceId": "2026-09-08 10:00:00+03:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "aa08d98937a0f551ab398dda",
@@ -1877,9 +2041,13 @@
       "recurrenceId": "2026-09-08 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "b07b0d21a3ba6d9ff469fe4a",
@@ -1926,9 +2094,13 @@
       "recurrenceId": "2026-09-08 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "ef5ba3c76d8f11ddf271f5c1",
@@ -1969,9 +2141,65 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
+    },
+    {
+      "id": "2e96c1af7848b3132733a6fb",
+      "title": "Cybernetics in the Annex: Commemorating Stafford Beer’s Centenary + Summer Conferences Recap",
+      "start": "2026-09-08T18:30:00-04:00",
+      "end": "2026-09-08T20:15:00-04:00",
+      "allDay": false,
+      "timezone": "America/Toronto",
+      "location": "OCAD University, 205 Richmond St W, Room 115, Toronto, Canada",
+      "country": "Canada",
+      "latitude": 43.653,
+      "longitude": -79.383,
+      "locationPrecision": "city",
+      "format": "hybrid",
+      "audienceCountries": [
+        "Canada"
+      ],
+      "audienceRegions": [
+        "Ontario"
+      ],
+      "organiser": "Systems Thinking Ontario",
+      "organisationIds": [
+        "community-submissions"
+      ],
+      "topics": [
+        "systems",
+        "cybernetics"
+      ],
+      "description": "Allenna Leonard discusses Stafford Beer’s work on organisational viability and participatory decision-making, followed by a discussion of recent systems conferences. Moderated by Zaid Khan.",
+      "url": "https://guild.host/events/cybernetics-in-the-annex-tbara6",
+      "sources": [
+        {
+          "id": "community-submissions",
+          "name": "Systems Thinking Ontario",
+          "url": "https://guild.host/events/cybernetics-in-the-annex-tbara6"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "languageRequirement": "",
+      "interpretation": "",
+      "price": "Free",
+      "access": "Register for in-person attendance or the online link",
+      "notes": [],
+      "lastSeen": "2026-09-06T19:18:42+00:00",
+      "sourceUid": "submission-1",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
       "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-06T19:18:42+00:00"
     },
     {
       "id": "cb5f64c3c79ca091a73f440a",
@@ -2012,9 +2240,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "2aaa2f88e33a9bb06318bfb5",
@@ -2060,9 +2292,13 @@
       "recurrenceId": "2026-09-09 22:00:00+00:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "c149c85c9e33ea2d58a2536e",
@@ -2108,9 +2344,13 @@
       "recurrenceId": "2026-09-10 13:00:00+00:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "16add3561fd02630fbcb9f07",
@@ -2151,9 +2391,13 @@
       "recurrenceId": "2026-09-10 15:30:00+03:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "b17a1c7d3facba5840dc0ce2",
@@ -2194,9 +2438,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "eb2d0279e9c15b722b8806c3",
@@ -2237,9 +2485,13 @@
       "recurrenceId": "2026-09-15 09:00:00+03:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "3d26efdeef08948099e11d13",
@@ -2291,9 +2543,13 @@
       "recurrenceId": "2026-09-15 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "4dec19fa8acdd341a3e7dfbd",
@@ -2335,9 +2591,15 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Poland"
+      ],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "161f827f37b4dc2da6d0789b",
@@ -2388,9 +2650,13 @@
       "recurrenceId": "2026-09-15 23:59:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "62db5db07e0233109879489b",
@@ -2431,9 +2697,13 @@
       "recurrenceId": "2026-09-16 08:00:00+03:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "03b06983d7f6371cfedc13fe",
@@ -2484,9 +2754,13 @@
       "recurrenceId": "2026-09-16 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "58a77b114bca7c845fe99b64",
@@ -2529,9 +2803,13 @@
       "recurrenceId": "2026-09-16 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "95ae062dbc349d5afed89226",
@@ -2572,9 +2850,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "da94efc5fcf22b82681dc9ea",
@@ -2627,9 +2909,13 @@
       "recurrenceId": "2026-09-17 09:00:00+02:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "e439c1886a4d6c989368c0da",
@@ -2675,9 +2961,13 @@
       "recurrenceId": "2026-09-17 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "93403190c4cbaf025caf7d7e",
@@ -2718,9 +3008,13 @@
       "recurrenceId": "2026-09-18 09:00:00+03:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "de1734466a5ee9163041163a",
@@ -2761,9 +3055,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "09e84a88633cc0ce8b94238e",
@@ -2806,9 +3104,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "f45e5c18b59670f5f5729b13",
@@ -2850,9 +3152,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "016075e54cdd3fb89fb95e0c",
@@ -2893,9 +3199,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "3865680f42a79c4b306104ff",
@@ -2941,9 +3251,13 @@
       "recurrenceId": "2026-09-21 17:30:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "23c1ffac01eed108eeb00e3c",
@@ -2989,9 +3303,13 @@
       "recurrenceId": "2026-09-22 13:00:00+00:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "cc7d9f58adf30120766f769e",
@@ -3037,9 +3355,13 @@
       "recurrenceId": "2026-09-22 19:00:00+00:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "4ea7881787bfa0b2c8810aab",
@@ -3080,9 +3402,13 @@
       "recurrenceId": "2026-09-24 09:00:00+03:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "468e7de53a14c5ab0ca80ccf",
@@ -3123,9 +3449,61 @@
       "recurrenceId": "2026-09-24 09:30:00+03:00",
       "stale": false,
       "calendarEligible": true,
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
+    },
+    {
+      "id": "79561815b13dfb8aa2a33fdb",
+      "title": "Fire and Ice: The Conception, Birth and Infancy of Cybernetics.",
+      "start": "2026-09-24T13:00:00+01:00",
+      "end": "2026-09-24T15:00:00+01:00",
+      "allDay": false,
+      "timezone": "Europe/London",
+      "location": "University of Manchester, Manchester, United Kingdom",
+      "country": "United Kingdom",
+      "latitude": 53.48,
+      "longitude": -2.242,
+      "locationPrecision": "city",
+      "format": "in-person",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "organiser": "Digital Futures, University of Manchester",
+      "organisationIds": [
+        "community-submissions"
+      ],
+      "topics": [
+        "systems",
+        "cybernetics"
+      ],
+      "description": "The opening seminar in the nine-part ‘Meat the Machine’ series on the history of cybernetics and its implications for society and technology.",
+      "url": "https://events.manchester.ac.uk/event/event:r2y-ms8q8jbe-n4ev9n/fire-and-ice-the-conception-birth-and-infancy-of-cybernetics",
+      "sources": [
+        {
+          "id": "community-submissions",
+          "name": "Digital Futures, University of Manchester",
+          "url": "https://events.manchester.ac.uk/event/event:r2y-ms8q8jbe-n4ev9n/fire-and-ice-the-conception-birth-and-infancy-of-cybernetics"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "languageRequirement": "",
+      "interpretation": "",
+      "price": "Free",
+      "access": "General public welcome; registration required",
+      "notes": [],
+      "lastSeen": "2026-09-06T19:18:42+00:00",
+      "sourceUid": "submission-2",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
       "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-06T19:18:42+00:00"
     },
     {
       "id": "f15486e6492c091073c2e8ab",
@@ -3171,9 +3549,13 @@
       "recurrenceId": "2026-09-24 18:00:00+00:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "44713106c1417acce76f35ce",
@@ -3219,9 +3601,13 @@
       "recurrenceId": "2026-09-25 16:00:00+00:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "32a80acaa0ac0b73cd6f3b4f",
@@ -3262,9 +3648,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "f16368538b0244d31dcefb7e",
@@ -3311,9 +3701,13 @@
       "recurrenceId": "2026-09-29 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "ef9e42990123cad797391dff",
@@ -3356,9 +3750,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "14c3b3401a97be7701b308eb",
@@ -3399,9 +3797,13 @@
       "recurrenceId": "2026-09-30 09:00:00+03:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "08d1341ffbe9818eb6b62130",
@@ -3447,9 +3849,13 @@
       "recurrenceId": "2026-10-01 10:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "45a924295856edfda96ed2f7",
@@ -3491,9 +3897,19 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Germany",
+        "Austria",
+        "Switzerland"
+      ],
+      "audienceRegions": [
+        "DACH"
+      ],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "0c7c4ba62ecca20d592ff572",
@@ -3535,9 +3951,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "e1a0594c80afc692c0df6616",
@@ -3583,9 +4003,13 @@
       "recurrenceId": "2026-10-08",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "03da9f001e45bdd79f9568f3",
@@ -3628,9 +4052,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "b3235464d6e293baf43b6304",
@@ -3676,9 +4104,13 @@
       "recurrenceId": "2026-10-09 16:00:00+00:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "33ec149dc98e48ff47cd39a5",
@@ -3724,9 +4156,13 @@
       "recurrenceId": "2026-10-13",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "0eeae55230765479bc97a864",
@@ -3772,9 +4208,13 @@
       "recurrenceId": "2026-10-13 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "96bd305e277dde60c1a69980",
@@ -3821,9 +4261,13 @@
       "recurrenceId": "2026-10-13 18:00:00+02:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "4722c0fc20f597ddb501599a",
@@ -3865,9 +4309,15 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Belgium"
+      ],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "6b0b11af2f09b09cdd6226cb",
@@ -3913,9 +4363,13 @@
       "recurrenceId": "2026-10-15 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "1cf1d5872670d36e41a30df6",
@@ -3957,9 +4411,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "34128a0ea3a060101fd313fa",
@@ -4003,9 +4461,15 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Netherlands"
+      ],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "998ddce03873dc80a15d6cad",
@@ -4051,9 +4515,13 @@
       "recurrenceId": "2026-10-18",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "04088520338aeb58c1cb587d",
@@ -4101,9 +4569,13 @@
       "recurrenceId": "2026-10-21",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "86a47df894443fca6e8505ed",
@@ -4146,9 +4618,13 @@
       "recurrenceId": "2026-10-21 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "6284cd4393ef96f4761d9c85",
@@ -4194,9 +4670,13 @@
       "recurrenceId": "2026-10-22 12:00:00-07:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "434d1742f601499996707a4d",
@@ -4238,9 +4718,13 @@
       "recurrenceId": "2026-10-26 09:00:00+00:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "22379be6c80dcb72dd094cde",
@@ -4286,9 +4770,13 @@
       "recurrenceId": "2026-11-10 11:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "32f1ffca50f269104da5d02b",
@@ -4330,9 +4818,15 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Belgium"
+      ],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "570ac10828f23cadb271793e",
@@ -4376,9 +4870,15 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Netherlands"
+      ],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "76da874472c5593ae9184169",
@@ -4420,9 +4920,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "d4ab5d852ffbb0fcf1903847",
@@ -4465,9 +4969,13 @@
       "recurrenceId": "2026-11-18 12:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "05eca5671a69ad307b2d8873",
@@ -4513,9 +5021,13 @@
       "recurrenceId": "2026-11-21 15:30:00+00:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "3c7f267a057b86293598c301",
@@ -4558,9 +5070,13 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "84ba6ab1cc55be569a831beb",
@@ -4608,9 +5124,13 @@
       "recurrenceId": "2026-12-06",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "affe222c71d2f7c459c39f5f",
@@ -4656,9 +5176,13 @@
       "recurrenceId": "2026-12-08 11:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "a48deb0769c42fcaa1cbdc3b",
@@ -4700,9 +5224,15 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Belgium"
+      ],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "64ff49efa8bf5c6e00b488d4",
@@ -4746,9 +5276,15 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Netherlands"
+      ],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "12f7e03ad9b308afa20592ca",
@@ -4791,9 +5327,13 @@
       "recurrenceId": "2026-12-16 12:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "1a0badea163b9e590bf3ffa3",
@@ -4835,9 +5375,19 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Germany",
+        "Austria",
+        "Switzerland"
+      ],
+      "audienceRegions": [
+        "DACH"
+      ],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "5a4e9833c2d8e2a0f2c34269",
@@ -4885,9 +5435,13 @@
       "recurrenceId": "2026-12-31",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "000383ba69115bb5e641a4bc",
@@ -4933,9 +5487,13 @@
       "recurrenceId": "2027-01-12 11:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "6d4ee2410e6cd5ea0561b8c7",
@@ -4977,9 +5535,15 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Belgium"
+      ],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "520d757d15d93b59522bf299",
@@ -5022,9 +5586,13 @@
       "recurrenceId": "2027-01-20 12:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "99a5f90e89a0632b36183ed2",
@@ -5070,9 +5638,13 @@
       "recurrenceId": "2027-02-09 11:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "b4274dd5f114f839848e70ee",
@@ -5114,9 +5686,15 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Belgium"
+      ],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "efc297f629367b9b25ff0780",
@@ -5162,9 +5740,13 @@
       "recurrenceId": "2027-02-11 10:00:00+11:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "4bf30e9ab74a27b22a1b0e5e",
@@ -5207,9 +5789,13 @@
       "recurrenceId": "2027-02-17 12:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "65a3612bc6956e8c48ecd80f",
@@ -5255,9 +5841,13 @@
       "recurrenceId": "2027-03-09 11:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "71bffb597c7ac4b49224cacf",
@@ -5299,9 +5889,15 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Belgium"
+      ],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "dda976b2c246e452ab886397",
@@ -5344,9 +5940,13 @@
       "recurrenceId": "2027-03-17 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "8571c909cf05e38e5ae4501f",
@@ -5394,9 +5994,13 @@
       "recurrenceId": "2027-03-31",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "ad52d10e476e16654760f737",
@@ -5442,9 +6046,13 @@
       "recurrenceId": "2027-04-13 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "a25a51e8a39e820e7d8f3991",
@@ -5487,9 +6095,13 @@
       "recurrenceId": "2027-04-21 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "f52766894bb0c2230687cc43",
@@ -5535,9 +6147,13 @@
       "recurrenceId": "2027-05-11 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "a625dfec133b92f5abdc8e12",
@@ -5579,9 +6195,15 @@
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [
+        "Belgium"
+      ],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "0f6518ebe81c67219955f62c",
@@ -5624,9 +6246,13 @@
       "recurrenceId": "2027-05-19 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "635bb73c200d85eac1ac3db2",
@@ -5672,9 +6298,13 @@
       "recurrenceId": "2027-06-08 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "6ec9223fb4b9fb48a6441236",
@@ -5717,9 +6347,13 @@
       "recurrenceId": "2027-06-16 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "21cf7854293c62c441be007e",
@@ -5765,9 +6399,13 @@
       "recurrenceId": "2027-07-13 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "44d62b31abd1821b1ad08659",
@@ -5810,9 +6448,13 @@
       "recurrenceId": "2027-07-21 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "d44d9e20f5723c27739f7725",
@@ -5853,9 +6495,13 @@
       "recurrenceId": "2027-08-10 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "d98d1b6a9b31fa0f8765b5e9",
@@ -5898,9 +6544,13 @@
       "recurrenceId": "2027-08-18 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "46457f59a962d0e130d00390",
@@ -5941,9 +6591,13 @@
       "recurrenceId": "2027-09-14 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "16af12772eb53ba8e53a4a66",
@@ -5986,9 +6640,13 @@
       "recurrenceId": "2027-09-15 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "6446401b3c97231f8cb6dbad",
@@ -6029,9 +6687,13 @@
       "recurrenceId": "2027-10-12 11:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "9f5d8e42b76bae149d3e7249",
@@ -6074,9 +6736,13 @@
       "recurrenceId": "2027-10-20 12:00:00-04:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "a7edaea75b552d60af618806",
@@ -6117,9 +6783,13 @@
       "recurrenceId": "2027-11-09 11:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "24de630fae8f4c015cd5e39a",
@@ -6162,9 +6832,13 @@
       "recurrenceId": "2027-11-17 12:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "97040c85de3e2d7e8e45136c",
@@ -6205,9 +6879,13 @@
       "recurrenceId": "2027-12-14 11:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "fd100f06aa4472157f498571",
@@ -6250,9 +6928,13 @@
       "recurrenceId": "2027-12-15 12:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "56a689054fe1f5a4bcab360d",
@@ -6293,9 +6975,13 @@
       "recurrenceId": "2028-01-11 11:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:50:03+00:00",
-      "firstSeen": "2026-09-05T16:50:03+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:50:03+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "4f0ed857b71349a52898d148",
@@ -6338,9 +7024,13 @@
       "recurrenceId": "2028-01-19 12:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     },
     {
       "id": "1563f08b4365b87f38f6bb55",
@@ -6383,9 +7073,14 @@
       "recurrenceId": "2028-02-16 12:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-09-05T16:41:47+00:00",
-      "firstSeen": "2026-09-05T16:41:47+00:00"
+      "sequence": 1,
+      "updatedAt": "2026-09-06T19:18:42+00:00",
+      "firstSeen": "2026-09-05T16:41:47+00:00",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "languageRequirement": "",
+      "interpretation": ""
     }
-  ]
+  ],
+  "amendedAt": "2026-09-06T19:18:42+00:00"
 }

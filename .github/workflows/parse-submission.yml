@@ -1,0 +1,26 @@
+name: Extract a submitted event link
+on:
+  issues:
+    types: [opened, edited, reopened]
+permissions:
+  contents: read
+  issues: write
+concurrency:
+  group: submission-extraction-${{ github.event.issue.number }}
+  cancel-in-progress: true
+jobs:
+  extract:
+    if: startsWith(github.event.issue.title, 'Submission:') || contains(github.event.issue.body, 'http')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Extract public facts for the review queue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/extract_submission.py

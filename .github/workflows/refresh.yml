@@ -52,7 +52,9 @@ jobs:
         if: github.event_name == 'issues'
         run: python scripts/accept_submission.py
       - name: Validate calendar handling
-        run: python -m unittest discover -s tests -v
+        run: |
+          python -m unittest discover -s tests -v
+          node tests/test_interface.cjs
       - name: Collect published calendars and event pages
         run: python scripts/collect.py
       - name: Validate publication

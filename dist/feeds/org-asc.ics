@@ -8,13 +8,15 @@ X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 SUMMARY:Speaker Series 7#1: Cyber-Renaissance
 DTSTART:20260920T160000Z
-DTSTAMP:20260905T164147Z
+DTSTAMP:20260906T191842Z
 UID:de1734466a5ee9163041163a@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Cybernetics
-DESCRIPTION:American Society for Cybernetics (ASC)\n\nhttps://asc-cybernet
- ics.org/initiatives/speaker-series-wg/speaker-series-season-71/
-LAST-MODIFIED:20260905T164147Z
+DESCRIPTION:American Society for Cybernetics (ASC)\n\nLanguage: Not specif
+ ied\nLanguage requirements: Not specified\nInterpretation: Not specified\n
+ Access: See organiser\nhttps://asc-cybernetics.org/initiatives/speaker-ser
+ ies-wg/speaker-series-season-71/
+LAST-MODIFIED:20260906T191842Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

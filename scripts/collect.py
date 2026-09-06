@@ -146,8 +146,12 @@ def normalise(raw,source,url):
         for city,coords in sorted(CITIES.items(),key=lambda x:-len(x[0])):
             if re.search(r'(?<!\w)'+re.escape(city)+r'(?!\w)',loc,re.I):
                 lat,lon,matched_country=coords;country=country or matched_country;precision='city';break
-    if fmt=='online':lat=lon=None;country=''
-    if not country:
+    audience_countries=list(raw.get('audienceCountries') or [])
+    audience_regions=list(raw.get('audienceRegions') or [])
+    if fmt=='online':
+        if country and country not in audience_countries:audience_countries.append(country)
+        lat=lon=None;country=''
+    if not country and fmt!='online':
         for c in set(x[2] for x in CITIES.values()):
             if c.lower() in loc.lower():country=c;break
     topics=list(source.get('topics',['systems']))
@@ -163,10 +167,11 @@ def normalise(raw,source,url):
     if all_day: notes.append('Date-only listing; check the organiser for session times.')
     if end and end<start and len(end)==len(start):notes.append('Source end precedes start; end omitted.');end=None
     return dict(id=uid,title=title,start=start,end=end,allDay=all_day,timezone=raw.get('timezone') or source.get('timezone') or tz,
-        location=loc or 'Location not published',country=country,latitude=lat,longitude=lon,locationPrecision=precision,format=fmt,
+        location=loc or ('Online' if fmt=='online' else 'Location not published'),country=country,latitude=lat,longitude=lon,locationPrecision=precision,format=fmt,
+        audienceCountries=audience_countries,audienceRegions=audience_regions,
         organiser=clean(raw.get('organiser')) or source['name'],organisationIds=[source['id']],topics=topics,
         description=desc[:400],url=link,sources=[{'id':source['id'],'name':source['name'],'url':url}],
-        status='cancelled' if 'cancel' in str(raw.get('status','')).lower() else 'scheduled',language=clean(raw.get('language')) or 'Not specified',
+        status='cancelled' if 'cancel' in str(raw.get('status','')).lower() else 'scheduled',language=clean(raw.get('language')) or 'Not specified',languageRequirement=clean(raw.get('languageRequirement')),interpretation=clean(raw.get('interpretation')),
         price=clean(raw.get('price')) or 'See organiser',access=clean(raw.get('access')) or 'See organiser',notes=notes,
         lastSeen=STAMP,sourceUid=base_uid,recurrenceId=occurrence,stale=False,calendarEligible=all_day or bool(tz))
 
@@ -250,10 +255,19 @@ def parse_scio(soup,source,url):
             years=re.findall(r'\b20\d{2}\b',title)
             if years and str(start.year) not in years:notes.append('Title year differs from the published date. Check with the organiser.')
             loc=tx('.event-location')
-            n=normalise(dict(title=title,start=start,end=end,location=loc,organiser=org,timezone=tz,url=urljoin(url,a['href']),price=tx('.price'),language=tx('.languages-tag'),access=tx('.book-now-button .small-text'),notes=notes),source,urljoin(url,a['href']))
+            countries,regions=chapter_focus(org)
+            n=normalise(dict(title=title,start=start,end=end,location=loc,organiser=org,timezone=tz,url=urljoin(url,a['href']),price=tx('.price'),language=tx('.languages-tag'),access=tx('.book-now-button .small-text'),notes=notes,audienceCountries=countries,audienceRegions=regions),source,urljoin(url,a['href']))
             if n:events.append(n)
         except (ValueError,TypeError):continue
     return events
+
+def chapter_focus(organiser):
+    """Chapter geography describes focus, never eligibility or the speaker's venue."""
+    for name,countries,regions in [
+        ('Polska',['Poland'],[]),('DACH',['Germany','Austria','Switzerland'],['DACH']),
+        ('Belgium',['Belgium'],[]),('SCiO NL',['Netherlands'],[])]:
+        if name in organiser:return countries,regions
+    return [],[]
 
 def parse_isss_lab(soup,source,url):
     events=[]
@@ -394,7 +408,7 @@ def collect_source(source):
 
 def deduplicate(events,previous):
     old_by_id={e['id']:e for e in previous};merged={};by_url={};by_title={}
-    for e in sorted(events,key=lambda x:(x['sources'][0]['id']=='community',x['start'])):
+    for e in sorted(events,key=lambda x:(x['sources'][0]['id']!='community-submissions',x.get('stale',False),x['sources'][0]['id']=='community',x['start'])):
         key=(e['url'].rstrip('/'),e['start'][:10],e.get('recurrenceId',''))
         title=(re.sub(r'[^\w]','',e['title'].casefold()),e['start'][:10])
         match=by_url.get(key) or by_title.get(title)
@@ -403,6 +417,7 @@ def deduplicate(events,previous):
             for s in e['sources']:
                 if s not in m['sources']:m['sources'].append(s)
             m['topics']=sorted(set(m['topics']+e['topics']));m['organisationIds']=sorted(set(m['organisationIds']+e['organisationIds']))
+            for field in ['audienceCountries','audienceRegions']:m[field]=sorted(set(m.get(field,[])+e.get(field,[])))
             continue
         merged[e['id']]=e;by_url[key]=e['id'];by_title[title]=e['id']
     for e in merged.values():
@@ -411,7 +426,7 @@ def deduplicate(events,previous):
         if not old:
             old=next((x for x in previous if x['url'].rstrip('/')==e['url'].rstrip('/') and x.get('recurrenceId','')==e.get('recurrenceId','')),None)
             if old:e['id']=old['id']
-        fields=['title','start','end','status','location','url','description','notes']
+        fields=['title','start','end','status','location','url','description','notes','audienceCountries','audienceRegions','access','language','languageRequirement','interpretation']
         changed=not old or any(e.get(k)!=old.get(k) for k in fields)
         # Classify a society named in a shared calendar without attributing the
         # entire community calendar to the host society.
@@ -436,7 +451,9 @@ def make_calendar(events,name):
         v.add('url',e['url']);v.add('location',e['location']);v.add('categories',[TOPICS[t] for t in e['topics'] if t in TOPICS])
         notes='\n'.join(e.get('notes',[]))
         if e.get('stale'):notes+='\nThis event could not be rechecked on the latest collection. Confirm with the organiser.'
-        v.add('description',f"{e['organiser']}\n{e['description']}\n{e['url']}\n{notes}".strip())
+        focus=', '.join(e.get('audienceCountries',[])+e.get('audienceRegions',[]))
+        audience=('Geographic focus: '+focus+'\n') if focus else ''
+        v.add('description',f"{e['organiser']}\n{e['description']}\n{audience}Language: {e.get('language','Not specified')}\nLanguage requirements: {e.get('languageRequirement') or 'Not specified'}\nInterpretation: {e.get('interpretation') or 'Not specified'}\nAccess: {e.get('access','See organiser')}\n{e['url']}\n{notes}".strip())
         v.add('status','CANCELLED' if e['status']=='cancelled' else 'CONFIRMED');v.add('transp','TRANSPARENT')
         c.add_component(v)
     return c.to_ical()
