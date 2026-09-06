@@ -21,12 +21,12 @@
   function when(e) {
     const start=e.allDay?dateOnly(e.start):new Date(e.start);
     const day=formatter(e,{day:'numeric',month:'short',year:'numeric'}).format(start);
-    if(e.allDay){let end=e.end?dateOnly(e.end):null;if(end)end.setUTCDate(end.getUTCDate()-1);return day+(end&&end>start?' – '+formatter(e,{day:'numeric',month:'short',year:'numeric'}).format(end):'')+' · Times not published';}
+    if(e.allDay){let end=e.end?dateOnly(e.end):null;if(end)end.setUTCDate(end.getUTCDate()-1);return day+(end&&end>start?' - '+formatter(e,{day:'numeric',month:'short',year:'numeric'}).format(end):'')+' · Times not published';}
     if(!e.calendarEligible)return e.start.replace('T',' ')+' · Time zone not published';
     const time=formatter(e,{hour:'2-digit',minute:'2-digit',timeZoneName:'short'}).format(start);
     const end=e.end?new Date(e.end):null;
-    if(end&&e.end.slice(0,10)!==e.start.slice(0,10))return `${day}, ${time} – ${formatter(e,{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZoneName:'short'}).format(end)}`;
-    return `${day} · ${time}${end?' – '+formatter(e,{hour:'2-digit',minute:'2-digit'}).format(end):''}`;
+    if(end&&e.end.slice(0,10)!==e.start.slice(0,10))return `${day}, ${time} - ${formatter(e,{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZoneName:'short'}).format(end)}`;
+    return `${day} · ${time}${end?' - '+formatter(e,{hour:'2-digit',minute:'2-digit'}).format(end):''}`;
   }
   function badge(e){return `<div class="badges"><span class="badge ${esc(e.format)}">${formats[e.format]||'Not specified'}</span>${e.status==='cancelled'?'<span class="badge warning">Cancelled</span>':''}${e.stale?'<span class="badge warning">Needs rechecking</span>':''}${e.notes.some(n=>n.includes('Title year'))?'<span class="badge warning">Check published date</span>':''}</div>`;}
   function card(e){
@@ -132,4 +132,25 @@
 
   });
   load();
+})();
+
+(() => {
+  const tidy = root => {
+    if (root.nodeType === Node.TEXT_NODE) {
+      if (root.parentElement?.closest('script,style,input,textarea,code,pre')) return;
+      const next=root.nodeValue.replaceAll('\u2014',', ').replaceAll('\u2013','-').replaceAll(' , ', ', ');
+      if(next!==root.nodeValue) root.nodeValue=next;
+      return;
+    }
+    if(root.nodeType===Node.ELEMENT_NODE && !root.matches('script,style,input,textarea,code,pre')) {
+      for(const child of root.childNodes) tidy(child);
+    }
+  };
+  tidy(document.body);
+  new MutationObserver(records => {
+    for(const record of records) {
+      if(record.type==='characterData') tidy(record.target);
+      else for(const node of record.addedNodes) tidy(node);
+    }
+  }).observe(document.body,{childList:true,characterData:true,subtree:true});
 })();
