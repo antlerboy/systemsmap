@@ -16,7 +16,7 @@ The hosted edition reads the daily event data and subscription feeds directly fr
 - Explore physical locations and approximate country/region focus markers for online events. Filter by geographic focus and language. Access restrictions, language requirements, and interpretation are separate published facts.
 - Subscribe to all events, an organisation, a subject, or online events through ICS feeds.
 - Download a filtered selection or an individual event.
-- Submit an event, public calendar feed, or website through the on-page form to the public GitHub review queue.
+- Submit an event, public calendar feed, or website through the on-page form to the anonymous public review queue, without GitHub sign-in.
 - Collect sources daily at 04:23 UTC and after changes to main. GitHub may delay scheduled runs.
 - Publish source health, provenance, collection timestamps, and discovered source candidates.
 

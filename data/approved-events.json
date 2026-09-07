@@ -58,5 +58,22 @@
     "timezone": "Europe/London",
     "uid": "submission-2",
     "submission": "https://github.com/antlerboy/systemsmap/issues/2"
+  },
+  {
+    "title": "RSD15 / RSDX-ASC: Conversational Confluences online series",
+    "url": "https://rsdsymposium.org/rsd15-cybernetics/",
+    "organiser": "American Society for Cybernetics and Systemic Design Association",
+    "location": "Online",
+    "topics": ["systems", "cybernetics", "systemic-design"],
+    "format": "online",
+    "language": "Not specified",
+    "kind": "event",
+    "description": "The online RSD15 programme continuing conversations from the ASC conference. This is a separate series from the in-person Ouro Preto conference of 3-7 August, not one continuous August-November event.",
+    "start": "2026-08-24",
+    "end": "2026-08-28",
+    "timezone": "UTC",
+    "uid": "submission-3-rsdx-asc-2026",
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3",
+    "notes": ["Official programme checked 7 September 2026: 24-27 August. Calendar end date is exclusive."]
   }
 ]
