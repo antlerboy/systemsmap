@@ -27,6 +27,29 @@ TRANSP:TRANSPARENT
 URL:https://teamup.com/ksok8ra1xif3viq4no/events/2133404103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20260907T023020Z
+UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics,Systemic design
+DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
+ on\nThe online RSD15 programme continuing conversations from the ASC confe
+ rence. This is a separate series from the in-person Ouro Preto conference 
+ of 3-7 August\, not one continuous August-November event.\nLanguage: Not s
+ pecified\nLanguage requirements: Not specified\nInterpretation: Not specif
+ ied\nAccess: See organiser\nhttps://rsdsymposium.org/rsd15-cybernetics/\nO
+ fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
+ e is exclusive.\nDate-only listing\; check the organiser for session times
+ .
+LAST-MODIFIED:20260907T023020Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://rsdsymposium.org/rsd15-cybernetics/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RSD15 PLURALITIES (Scientific Committee\, hosted by Politecnico di
   Torino)
 DTSTART;VALUE=DATE:20261008
