@@ -68,6 +68,24 @@ TRANSP:TRANSPARENT
 URL:https://iscpif.fr/evenements/conseil-dadministration-de-l-afscet-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Réunion Jugement majoritaire
+DTSTART:20260914T160000Z
+DTEND:20260914T183000Z
+DTSTAMP:20260907T092821Z
+UID:f4309fe7301a1c02cf6be496@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/reunion
+ -jugement-majoritaire-2/
+LAST-MODIFIED:20260907T092821Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/reunion-jugement-majoritaire-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Formation Gestion de données de phenotypage
 DTSTART:20260915T060000Z
 DTEND:20260915T140000Z

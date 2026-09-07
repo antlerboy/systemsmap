@@ -241,10 +241,10 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260907T023020Z
+DTSTAMP:20260907T092821Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:0
-CATEGORIES:Systems thinking,Cybernetics,Systemic design
+SEQUENCE:1
+CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
  rence. This is a separate series from the in-person Ouro Preto conference 
@@ -254,7 +254,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20260907T023020Z
+LAST-MODIFIED:20260907T092821Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -424,9 +424,9 @@ SUMMARY:Cybernetics in the Annex: Commemorating Stafford Beer’s Centenar
  y + Summer Conferences Recap
 DTSTART:20260908T223000Z
 DTEND:20260909T001500Z
-DTSTAMP:20260907T023020Z
+DTSTAMP:20260907T092821Z
 UID:2e96c1af7848b3132733a6fb@systemsmap.antlerboy.com
-SEQUENCE:5
+SEQUENCE:6
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  eer’s work on organisational viability and participatory decision-making
@@ -435,7 +435,7 @@ DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  Register for in-person attendance or the online link\nhttps://guild.host/e
  vents/cybernetics-in-the-annex-tbara6
-LAST-MODIFIED:20260907T023020Z
+LAST-MODIFIED:20260907T092821Z
 LOCATION:OCAD University\, 205 Richmond St W\, Room 115\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -477,7 +477,9 @@ CATEGORIES:Systems thinking,Cybernetics
 DESCRIPTION:SCiO Polska\n\nGeographic focus: Poland\nLanguage: Polish\nLan
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  All welcome\nhttps://www.systemspractice.org/events/pulapka-struktury-czyl
- i-jak-sposob-w-jaki-sie-organizujemy-determinuje-przestrzen-mozliwych
+ i-jak-sposob-w-jaki-sie-organizujemy-determinuje-przestrzen-mozliwych\nSou
+ rce could not be fully rechecked.\nThis event could not be rechecked on th
+ e latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260906T191842Z
 LOCATION:Online event
 STATUS:CONFIRMED
@@ -571,7 +573,8 @@ DESCRIPTION:SCiO DACH\n\nGeographic focus: Germany\, Austria\, Switzerland
  \, DACH\nLanguage: German\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: Members only + Guests\nhttps://www.systemspr
  actice.org/events/internalisierte-verbindlichkeiten-gegenwartig-aber-unsic
- htbar
+ htbar\nSource could not be fully rechecked.\nThis event could not be reche
+ cked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260906T191842Z
 LOCATION:Online event
 STATUS:CONFIRMED
@@ -589,7 +592,9 @@ SEQUENCE:1
 CATEGORIES:Systems thinking,Cybernetics
 DESCRIPTION:SCiO UK\n\nLanguage: English\nLanguage requirements: Not speci
  fied\nInterpretation: Not specified\nAccess: Members only\nhttps://www.sys
- temspractice.org/events/scio-uk-virtual-development-event-october-2026
+ temspractice.org/events/scio-uk-virtual-development-event-october-2026\nSo
+ urce could not be fully rechecked.\nThis event could not be rechecked on t
+ he latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260906T191842Z
 LOCATION:Online event
 STATUS:CONFIRMED
@@ -671,7 +676,9 @@ SEQUENCE:1
 CATEGORIES:Systems thinking,Cybernetics
 DESCRIPTION:SCiO UK\n\nLanguage: English\nLanguage requirements: Not speci
  fied\nInterpretation: Not specified\nAccess: All welcome\nhttps://www.syst
- emspractice.org/events/scio-uk-virtual-open-meeting-november-2026
+ emspractice.org/events/scio-uk-virtual-open-meeting-november-2026\nSource 
+ could not be fully rechecked.\nThis event could not be rechecked on the la
+ test collection. Confirm with the organiser.
 LAST-MODIFIED:20260906T191842Z
 LOCATION:Online event
 STATUS:CONFIRMED
@@ -691,6 +698,8 @@ DESCRIPTION:SCiO DACH\n\nGeographic focus: Germany\, Austria\, Switzerland
  \, DACH\nLanguage: German\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: Members only + Guests\nhttps://www.systemspr
  actice.org/events/kybernetik-stammtisch-jahresabschluss-offene-beitrage-1
+ \nSource could not be fully rechecked.\nThis event could not be rechecked 
+ on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260906T191842Z
 LOCATION:Online event
 STATUS:CONFIRMED
