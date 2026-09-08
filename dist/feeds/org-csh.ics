@@ -200,4 +200,29 @@ TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/evolution-of-gender-diversity-in-computer-sci
  ence-and-physics-conferences/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5th INTERPOL New Technologies Forum (NTF)
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260908T085549Z
+UID:1c434072ae32f7337c462ab0@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:INTERPOL\, Complexity Science Hub & the Bavarian State Ministr
+ y\nINTERPOL Innovation Centre is pleased to announce that the 5th INTERPOL
+  New Technologies Forum (NTF) will be held at the Complexity Science Hub\,
+  Metternichgasse 8\, 1030 in Vienna\, Austria\, on 29 – 30 September 202
+ 6\, co-hosted with the Bavarian State Ministry of Justice and the Complexi
+ ty Science Hub. The Forum focuses on pragmatic discussions identifying cha
+ llenges and working solutions to address\nLanguage: Not specified\nLanguag
+ e requirements: Not specified\nInterpretation: Not specified\nAccess: See 
+ organiser\nhttps://csh.ac.at/events/5th-interpol-new-technologies-forum-nt
+ f/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20260908T085549Z
+LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
+ \, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/5th-interpol-new-technologies-forum-ntf/
+END:VEVENT
 END:VCALENDAR

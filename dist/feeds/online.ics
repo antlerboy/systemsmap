@@ -6,28 +6,6 @@ X-WR-CALNAME:Online events
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:Sociocracy and us. Individual\, collective\, and society
-DTSTART:20260609T150000Z
-DTEND:20260609T160000Z
-DTSTAMP:20260906T191842Z
-UID:40c59e798a90e2456a35dcd0@systemsmap.antlerboy.com
-SEQUENCE:1
-CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\n<p>What kind of a vision of change does so
- ciocracy match? Can individuals\\' needs be met while building organizatio
- ns? What is the relationship between the collective and individuals anyway
- ? </p>\\n\nLanguage: Not specified\nLanguage requirements: Not specified\n
- Interpretation: Not specified\nAccess: See organiser\nhttps://www.sociocra
- cyforall.org/event/sociocracy-and-us-individual-collective-and-society/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Venus – SoFA Zoom Room\, https://zoom.sociocracyforall.org/venu
- s-zoom-299978898
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.sociocracyforall.org/event/sociocracy-and-us-individual-co
- llective-and-society/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:(Victor Ganon)
 DTSTART:20260610T160000Z
 DTEND:20260610T170000Z
@@ -241,9 +219,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260907T092821Z
+DTSTAMP:20260908T085549Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -254,7 +232,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20260907T092821Z
+LAST-MODIFIED:20260908T085549Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -424,9 +402,9 @@ SUMMARY:Cybernetics in the Annex: Commemorating Stafford Beer’s Centenar
  y + Summer Conferences Recap
 DTSTART:20260908T223000Z
 DTEND:20260909T001500Z
-DTSTAMP:20260907T092821Z
+DTSTAMP:20260908T085549Z
 UID:2e96c1af7848b3132733a6fb@systemsmap.antlerboy.com
-SEQUENCE:6
+SEQUENCE:7
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  eer’s work on organisational viability and participatory decision-making
@@ -435,7 +413,7 @@ DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  Register for in-person attendance or the online link\nhttps://guild.host/e
  vents/cybernetics-in-the-annex-tbara6
-LAST-MODIFIED:20260907T092821Z
+LAST-MODIFIED:20260908T085549Z
 LOCATION:OCAD University\, 205 Richmond St W\, Room 115\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -470,17 +448,15 @@ SUMMARY:Pułapka struktury\, czyli jak sposób w jaki się organizujemy de
  terminuje przestrzeń możliwych rozwiązań.
 DTSTART:20260915T160000Z
 DTEND:20260915T173000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260908T085549Z
 UID:4dec19fa8acdd341a3e7dfbd@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Systems thinking,Cybernetics
 DESCRIPTION:SCiO Polska\n\nGeographic focus: Poland\nLanguage: Polish\nLan
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  All welcome\nhttps://www.systemspractice.org/events/pulapka-struktury-czyl
- i-jak-sposob-w-jaki-sie-organizujemy-determinuje-przestrzen-mozliwych\nSou
- rce could not be fully rechecked.\nThis event could not be rechecked on th
- e latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260906T191842Z
+ i-jak-sposob-w-jaki-sie-organizujemy-determinuje-przestrzen-mozliwych
+LAST-MODIFIED:20260908T085549Z
 LOCATION:Online event
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -565,17 +541,16 @@ BEGIN:VEVENT
 SUMMARY:Internalisierte Verbindlichkeiten - gegenwärtig aber unsichtbar
 DTSTART:20261001T170000Z
 DTEND:20261001T183000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260908T085549Z
 UID:45a924295856edfda96ed2f7@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Systems thinking,Cybernetics
 DESCRIPTION:SCiO DACH\n\nGeographic focus: Germany\, Austria\, Switzerland
  \, DACH\nLanguage: German\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: Members only + Guests\nhttps://www.systemspr
  actice.org/events/internalisierte-verbindlichkeiten-gegenwartig-aber-unsic
- htbar\nSource could not be fully rechecked.\nThis event could not be reche
- cked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260906T191842Z
+ htbar
+LAST-MODIFIED:20260908T085549Z
 LOCATION:Online event
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -586,16 +561,14 @@ BEGIN:VEVENT
 SUMMARY:SCiO UK Virtual Development Event - October 2026
 DTSTART:20261006T120000Z
 DTEND:20261006T140000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260908T085549Z
 UID:0c7c4ba62ecca20d592ff572@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Systems thinking,Cybernetics
 DESCRIPTION:SCiO UK\n\nLanguage: English\nLanguage requirements: Not speci
  fied\nInterpretation: Not specified\nAccess: Members only\nhttps://www.sys
- temspractice.org/events/scio-uk-virtual-development-event-october-2026\nSo
- urce could not be fully rechecked.\nThis event could not be rechecked on t
- he latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260906T191842Z
+ temspractice.org/events/scio-uk-virtual-development-event-october-2026
+LAST-MODIFIED:20260908T085549Z
 LOCATION:Online event
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -670,16 +643,14 @@ BEGIN:VEVENT
 SUMMARY:SCiO UK Virtual Open Meeting - November 2026
 DTSTART:20261116T183000Z
 DTEND:20261116T210000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260908T085549Z
 UID:76da874472c5593ae9184169@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Systems thinking,Cybernetics
 DESCRIPTION:SCiO UK\n\nLanguage: English\nLanguage requirements: Not speci
  fied\nInterpretation: Not specified\nAccess: All welcome\nhttps://www.syst
- emspractice.org/events/scio-uk-virtual-open-meeting-november-2026\nSource 
- could not be fully rechecked.\nThis event could not be rechecked on the la
- test collection. Confirm with the organiser.
-LAST-MODIFIED:20260906T191842Z
+ emspractice.org/events/scio-uk-virtual-open-meeting-november-2026
+LAST-MODIFIED:20260908T085549Z
 LOCATION:Online event
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -690,17 +661,15 @@ BEGIN:VEVENT
 SUMMARY:Kybernetik-Stammtisch - Jahresabschluss - offene Beiträge
 DTSTART:20261217T180000Z
 DTEND:20261217T193000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260908T085549Z
 UID:1a0badea163b9e590bf3ffa3@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Systems thinking,Cybernetics
 DESCRIPTION:SCiO DACH\n\nGeographic focus: Germany\, Austria\, Switzerland
  \, DACH\nLanguage: German\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: Members only + Guests\nhttps://www.systemspr
  actice.org/events/kybernetik-stammtisch-jahresabschluss-offene-beitrage-1
- \nSource could not be fully rechecked.\nThis event could not be rechecked 
- on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260906T191842Z
+LAST-MODIFIED:20260908T085549Z
 LOCATION:Online event
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

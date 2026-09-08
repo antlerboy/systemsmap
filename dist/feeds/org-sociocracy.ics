@@ -6,28 +6,6 @@ X-WR-CALNAME:Sociocracy For All
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:Sociocracy and us. Individual\, collective\, and society
-DTSTART:20260609T150000Z
-DTEND:20260609T160000Z
-DTSTAMP:20260906T191842Z
-UID:40c59e798a90e2456a35dcd0@systemsmap.antlerboy.com
-SEQUENCE:1
-CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\n<p>What kind of a vision of change does so
- ciocracy match? Can individuals\\' needs be met while building organizatio
- ns? What is the relationship between the collective and individuals anyway
- ? </p>\\n\nLanguage: Not specified\nLanguage requirements: Not specified\n
- Interpretation: Not specified\nAccess: See organiser\nhttps://www.sociocra
- cyforall.org/event/sociocracy-and-us-individual-collective-and-society/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Venus – SoFA Zoom Room\, https://zoom.sociocracyforall.org/venu
- s-zoom-299978898
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.sociocracyforall.org/event/sociocracy-and-us-individual-co
- llective-and-society/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Basic Elements of Sociocracy
 DTSTART:20260626T160000Z
 DTEND:20260626T190000Z
