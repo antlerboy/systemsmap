@@ -1,0 +1,85 @@
+{
+  "version": "6",
+  "dialect": "sqlite",
+  "id": "1c84a79f-ac01-42e4-b435-b3ff867e94a0",
+  "prevId": "00000000-0000-0000-0000-000000000000",
+  "tables": {
+    "event_submissions": {
+      "name": "event_submissions",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "text",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "url": {
+          "name": "url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "proposal": {
+          "name": "proposal",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "created_at": {
+          "name": "created_at",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "daily_client": {
+          "name": "daily_client",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "event_submissions_url_unique": {
+          "name": "event_submissions_url_unique",
+          "columns": [
+            "url"
+          ],
+          "isUnique": true
+        },
+        "submissions_created": {
+          "name": "submissions_created",
+          "columns": [
+            "created_at"
+          ],
+          "isUnique": false
+        },
+        "submissions_client": {
+          "name": "submissions_client",
+          "columns": [
+            "daily_client"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    }
+  },
+  "views": {},
+  "enums": {},
+  "_meta": {
+    "schemas": {},
+    "tables": {},
+    "columns": {}
+  },
+  "internal": {
+    "indexes": {}
+  }
+}
