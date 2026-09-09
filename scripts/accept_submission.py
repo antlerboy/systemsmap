@@ -29,7 +29,7 @@ def accept(payload):
         if not isinstance(values,list) or len(values)>20 or any(not isinstance(v,str) or len(v)>120 for v in values):raise ValueError('Invalid '+field)
         data[field]=values
     if data.get('timezone'):ZoneInfo(data['timezone'])
-    allowed={'systems','cybernetics','complexity','system-dynamics','systemic-design'}
+    allowed={'systems','cybernetics','complexity','system-dynamics','systemic-design','relational-public-services'}
     data['topics']=[x for x in data.get('topics',[]) if x in allowed] or ['systems']
     if kind in ('feed','page'):
         path=ROOT/'data/sources.json';sources=json.loads(path.read_text())

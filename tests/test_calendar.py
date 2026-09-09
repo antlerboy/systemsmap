@@ -63,4 +63,23 @@ END:VCALENDAR\r
             ev,report=collect.collect_source(source)
         self.assertEqual(ev,[])
 
+    def test_verified_url_alias_preserves_subscription_identity(self):
+        oldraw=dict(title='RSD15 PLURALITIES scientific committee',start='2026-10-08',recurrenceId='2026-10-08',url='https://teamup.com/ksok8ra1xif3viq4no/events/2133404975')
+        old=collect.deduplicate([collect.normalise(oldraw,SOURCE,oldraw['url'])],[])
+        newraw=dict(title='RSD15: Online paper talks',start='2026-10-08',url='https://rsdsymposium.org/rsd15-paper-talks/')
+        incoming=collect.normalise(newraw,{**SOURCE,'id':'community-submissions'},newraw['url'])
+        result=collect.deduplicate([incoming,dict(old[0])],old)
+        self.assertEqual(len(result),1)
+        self.assertEqual(result[0]['id'],old[0]['id'])
+        self.assertEqual(result[0]['title'],newraw['title'])
+    def test_course_occurrences_keep_distinct_ids_and_relational_category(self):
+        raw=dict(title='Relational Leadership',url='https://example.org/course',location='Online',topics=['relational-public-services'])
+        rows=[collect.normalise({**raw,'start':day+'T09:30:00','recurrenceId':day},SOURCE,raw['url']) for day in ['2026-10-07','2026-11-04']]
+        old=collect.deduplicate(rows,[])
+        new=collect.deduplicate(rows,old)
+        self.assertEqual(len({e['id'] for e in new}),2)
+        self.assertTrue(all('relational-public-services' in e['topics'] for e in new))
+        self.assertTrue(new[0]['start'].endswith('+01:00'))
+        self.assertTrue(new[1]['start'].endswith('+00:00'))
+
 if __name__=='__main__':unittest.main()

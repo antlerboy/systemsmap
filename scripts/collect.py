@@ -20,7 +20,7 @@ WINDOW_START = NOW - timedelta(days=90)
 WINDOW_END = NOW + timedelta(days=550)
 STAMP = NOW.isoformat(timespec='seconds')
 UA = 'SystemsEventsMap/1.0 (+https://github.com/antlerboy/systemsmap)'
-TOPICS = {'systems':'Systems thinking','cybernetics':'Cybernetics','complexity':'Complexity','system-dynamics':'System dynamics','systemic-design':'Systemic design'}
+TOPICS = {'systems':'Systems thinking','cybernetics':'Cybernetics','complexity':'Complexity','system-dynamics':'System dynamics','systemic-design':'Systemic design','relational-public-services':'Relational public services'}
 CITIES = {
  'cranfield':(52.073,-0.628,'United Kingdom'), 'manchester':(53.480,-2.242,'United Kingdom'),
  'loughborough':(52.773,-1.207,'United Kingdom'), 'london':(51.507,-0.128,'United Kingdom'),
@@ -66,6 +66,11 @@ CITIES = {
 HOST_LOCKS, ROBOTS = {}, {}
 GUARD = threading.Lock()
 DISCOVERED = []
+
+def public_error(error):
+    text=str(error)
+    if any(marker in text for marker in ['127.0.0.1','localhost','/workspace/']):return 'Source request failed or timed out; collection could not be completed.'
+    return text[:500]
 
 def clean(x):
     value=str(x or '')
@@ -154,8 +159,8 @@ def normalise(raw,source,url):
     if not country and fmt!='online':
         for c in set(x[2] for x in CITIES.values()):
             if c.lower() in loc.lower():country=c;break
-    topics=list(source.get('topics',['systems']))
-    for key,pattern in [('cybernetics',r'cybernet|kybernet|vsm\b|stafford beer'),('complexity',r'complex|emergence'),('system-dynamics',r'system dynamics|stock.and.flow'),('systemic-design',r'systemic design|\bRSD\d')]:
+    topics=list(dict.fromkeys(source.get('topics',['systems'])+raw.get('topics',[])))
+    for key,pattern in [('relational-public-services',r'relational.{0,30}public service|human learning systems'),('cybernetics',r'cybernet|kybernet|vsm\b|stafford beer'),('complexity',r'complex|emergence'),('system-dynamics',r'system dynamics|stock.and.flow'),('systemic-design',r'systemic design|\bRSD\d')]:
         if re.search(pattern,title+' '+desc,re.I) and key not in topics: topics.append(key)
     link=raw.get('url') or url
     if urlparse(link).scheme not in ('http','https'):link=url
@@ -352,6 +357,30 @@ def event_links(soup,url):
             links.append(link)
     return list(dict.fromkeys(links))[:16]
 
+def parse_thempra(soup,source,url):
+    text=soup.get_text(' ',strip=True);h=soup.select_one('h1');events=[]
+    if not h:return []
+    # Require the source's explicit UK-time statement; never infer a time zone from an address.
+    if not re.search(r'9[.:]30(?:am)?[–-]12[.:]30(?:pm)? UK time',text,re.I):return []
+    for number,day in re.findall(r'Session (\d+):\s*(\d{1,2} [A-Za-z]+,? 20\d{2})',text):
+        start=parse(day).replace(hour=9,minute=30,tzinfo=ZoneInfo('Europe/London'))
+        raw=dict(title=clean(h.get_text())+' · session '+number,start=start,end=start+timedelta(hours=3),timezone='Europe/London',location='Online',url=url,uid=url+'#session-'+number+'-'+str(start.date()),recurrenceId=str(start.date()),access='Registration for the full course required',description='Applied learning with ThemPra, connected to Human Learning Systems and relational public services.')
+        n=normalise(raw,source,url)
+        if n:events.append(n)
+    return events
+
+def parse_discovery_feed(text,source,url):
+    soup=BeautifulSoup(text,'xml')
+    for item in soup.find_all('item'):
+        title=clean(item.title.text if item.title else '')
+        body=' '.join(el.text for el in item.find_all(['description','encoded']))
+        if not re.search(r'event|workshop|seminar|conference|webinar|2026|2027',title,re.I):continue
+        post=item.find('link');post=post.text if post else url
+        links=re.findall(r'https?://[^\s<>"\']+',body)
+        for link in list(dict.fromkeys(links))[:12]:
+            with GUARD:DISCOVERED.append(dict(name=title[:140],url=link,foundOn=post,checkedAt=STAMP,reviewStatus='date_and_organiser_check_required'))
+    return []
+
 def collect_source(source):
     report={**source,'checkedAt':STAMP,'status':'ok','message':'','events':0,'feedsFound':[],'pagesChecked':0}
     events=[];errors=[];successful=0
@@ -361,7 +390,19 @@ def collect_source(source):
             events+=parse_ics(text,source,url)
         # Detect explicit parked/reassigned domains, never import unrelated pages.
         if re.search(r'casino|slot gacor|togel|buy this domain',soup.title.get_text() if soup.title else '',re.I):raise ValueError('Domain appears unrelated to this organisation; review needed')
-        if source['adapter']=='scio':events+=parse_scio(soup,source,url)
+        if source['adapter']=='thempra':events+=parse_thempra(soup,source,url)
+        elif source['adapter']=='rss_discovery':events+=parse_discovery_feed(text,source,url)
+        elif source['adapter']=='wordpress_discovery':
+            posts=json.loads(text).get('posts',[])
+            for post in posts:
+                ss=BeautifulSoup(post.get('content',''),'html.parser')
+                title=clean(post.get('title',''))
+                if re.search(r'event|conference|workshop|webinar|seminar|2026|2027',title,re.I):
+                    for a in ss.select('a[href]')[:12]:
+                        if a['href'].startswith(('http://','https://')):DISCOVERED.append(dict(name=title[:140],url=a['href'],foundOn=post['URL'],checkedAt=STAMP,reviewStatus='organiser_date_check_required'))
+            report['postsChecked']=len(posts)
+            report['archiveTotal']=json.loads(text).get('found')
+        elif source['adapter']=='scio':events+=parse_scio(soup,source,url)
         elif source['adapter']=='isss_lab':events+=parse_isss_lab(soup,source,url)
         elif source['adapter']=='asc':events+=parse_asc(soup,source,url)
         elif source['adapter']=='cecan':events+=parse_cecan(soup,source,url)
@@ -370,7 +411,7 @@ def collect_source(source):
         for feed in feeds:
             try:
                 txt,final=get(feed);events+=parse_ics(txt,source,final);successful+=1
-            except Exception as e:errors.append('Feed: '+str(e)[:180])
+            except Exception as e:errors.append('Feed: '+public_error(e)[:180])
         for script in soup.select('script[type="application/ld+json"]'):
             try:
                 for e in walk_json(json.loads(script.string or script.get_text())):
@@ -388,15 +429,15 @@ def collect_source(source):
                                 n=json_event(e,source,final)
                                 if n:events.append(n)
                         except (ValueError,TypeError,AttributeError):continue
-                except Exception as e:errors.append('Page: '+str(e)[:150])
+                except Exception as e:errors.append('Page: '+public_error(e)[:150])
     except Exception as e:
-        report['status']='failed';errors.append(str(e)[:220])
+        report['status']='failed';errors.append(public_error(e)[:220])
         # Explicit public feeds are independent of the landing page's availability.
         for feed in source.get('feeds',[]):
             try:
                 txt,final=get(feed);events+=parse_ics(txt,source,final);successful+=1
                 report['feedsFound'].append(feed)
-            except Exception as e:errors.append('Feed: '+str(e)[:160])
+            except Exception as e:errors.append('Feed: '+public_error(e)[:160])
     unique={e['id']:e for e in events};events=list(unique.values())
     report['events']=len(events)
     if events:report['status']='partial' if errors else 'ok';report['message']='Collecting dated events'+('; some pages or feeds failed' if errors else '')
@@ -406,10 +447,16 @@ def collect_source(source):
     print(f"{source['id']}: {report['status']} · {len(events)} events · {report['pagesChecked']} pages",flush=True)
     return events,report
 
+def canonical_event_url(url):
+    aliases=json.loads((ROOT/'data/event-url-equivalents.json').read_text())
+    return aliases.get(url.rstrip('/'),url.rstrip('/'))
+
 def deduplicate(events,previous):
     old_by_id={e['id']:e for e in previous};merged={};by_url={};by_title={}
     for e in sorted(events,key=lambda x:(x['sources'][0]['id']!='community-submissions',x.get('stale',False),x['sources'][0]['id']=='community',x['start'])):
-        key=(e['url'].rstrip('/'),e['start'][:10],e.get('recurrenceId',''))
+        canonical=canonical_event_url(e['url'])
+        aliases=json.loads((ROOT/'data/event-url-equivalents.json').read_text())
+        key=(canonical,e['start'][:10],'' if canonical in aliases.values() else e.get('recurrenceId',''))
         title=(re.sub(r'[^\w]','',e['title'].casefold()),e['start'][:10])
         match=by_url.get(key) or by_title.get(title)
         if match:
@@ -421,16 +468,17 @@ def deduplicate(events,previous):
             continue
         merged[e['id']]=e;by_url[key]=e['id'];by_title[title]=e['id']
     for e in merged.values():
-        old=old_by_id.get(e['id'])
+        old=next((x for x in previous if x['url'].rstrip('/') in json.loads((ROOT/'data/event-url-equivalents.json').read_text()) and canonical_event_url(x['url'])==canonical_event_url(e['url']) and x['start'][:10]==e['start'][:10]),None) or old_by_id.get(e['id'])
+        if old:e['id']=old['id']
         # Prefer the existing subscription UID if a duplicate is now collected by a new source.
         if not old:
-            old=next((x for x in previous if x['url'].rstrip('/')==e['url'].rstrip('/') and x.get('recurrenceId','')==e.get('recurrenceId','')),None)
+            old=next((x for x in previous if x['url'].rstrip('/')==e['url'].rstrip('/') and x.get('recurrenceId','')==e.get('recurrenceId','') and (x.get('sourceUid')==e.get('sourceUid') or x['start'][:10]==e['start'][:10])),None)
             if old:e['id']=old['id']
         fields=['title','start','end','status','location','url','description','notes','audienceCountries','audienceRegions','access','language','languageRequirement','interpretation']
         changed=not old or any(e.get(k)!=old.get(k) for k in fields)
         # Classify a society named in a shared calendar without attributing the
         # entire community calendar to the host society.
-        for oid,pat in [('isss',r'\bISSS\b|International Society for the Systems Sciences'),('cybsoc',r'Cybernetics Society|Cybernetics Live'),('metaphorum',r'Metaphorum'),('rsd',r'\bRSD\d|Systemic Design Association')]:
+        for oid,pat in [('scio',r'\bSCiO\b|SysPrac'),('asc',r'American Society for Cybernetics'),('wosc',r'\bWOSC\b|World Organisation of Systems'),('q-community',r'Q Network Weaving'),('thempra-relational',r'ThemPra.*Relational Leadership|Relational Leadership'),('thempra-learning',r'ThemPra.*Leading with Learning|Leading with Learning'),('isss',r'\bISSS\b|International Society for the Systems Sciences'),('cybsoc',r'Cybernetics Society|Cybernetics Live'),('metaphorum',r'Metaphorum'),('rsd',r'\bRSD\d|Systemic Design Association')]:
             if re.search(pat,e['organiser']+' '+e['title'],re.I) and oid not in e['organisationIds']:e['organisationIds'].append(oid)
         e['sequence']=(old.get('sequence',0)+1 if old else 0) if changed else old.get('sequence',0)
         e['updatedAt']=STAMP if changed else old.get('updatedAt',STAMP)
@@ -476,11 +524,15 @@ def main():
         for raw in json.loads(overrides.read_text()):
             s={'id':'community-submissions','name':raw.get('organiser','Community submission'),'topics':raw.get('topics',['systems']),'timezone':raw.get('timezone')}
             n=normalise(raw,s,raw['url'])
-            if n:events.append(n)
+            if n:
+                n['sources']+=raw.get('discoverySources',[])
+                n['organisationIds']+=list(dict.fromkeys(x['id'] for x in raw.get('discoverySources',[])))
+                events.append(n)
     events=deduplicate(events,previous)
     data={'generatedAt':STAMP,'windowStart':WINDOW_START.date().isoformat(),'windowEnd':WINDOW_END.date().isoformat(),'events':events}
     dest=ROOT/'dist/data';dest.mkdir(parents=True,exist_ok=True)
     (dest/'events.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
+    for report in reports:report['errors']=[public_error(e) for e in report.get('errors',[])]
     (dest/'sources.json').write_text(json.dumps({'checkedAt':STAMP,'sources':reports},ensure_ascii=False,indent=2)+'\n')
     feeds=ROOT/'dist/feeds';feeds.mkdir(exist_ok=True)
     groups={'all':('All systems, cybernetics, and complexity events',events),'online':('Online events',[e for e in events if e['format'] in ['online','hybrid']])}

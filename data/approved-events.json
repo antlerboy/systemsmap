@@ -29,7 +29,14 @@
     "endTime": "20:15",
     "timezone": "America/Toronto",
     "uid": "submission-1",
-    "submission": "https://github.com/antlerboy/systemsmap/issues/1"
+    "submission": "https://github.com/antlerboy/systemsmap/issues/1",
+    "discoverySources": [
+      {
+        "id": "syscoi",
+        "name": "Systems Community of Inquiry",
+        "url": "https://stream.syscoi.com/2026/08/26/cybernetics-in-the-annex-commemorating-stafford-beers-centenary-summer-conferences-recap-guild/"
+      }
+    ]
   },
   {
     "title": "Fire and Ice: The Conception, Birth and Infancy of Cybernetics.",
@@ -64,7 +71,11 @@
     "url": "https://rsdsymposium.org/rsd15-cybernetics/",
     "organiser": "American Society for Cybernetics and Systemic Design Association",
     "location": "Online",
-    "topics": ["systems", "cybernetics", "systemic-design"],
+    "topics": [
+      "systems",
+      "cybernetics",
+      "systemic-design"
+    ],
     "format": "online",
     "language": "Not specified",
     "kind": "event",
@@ -74,6 +85,515 @@
     "timezone": "UTC",
     "uid": "submission-3-rsdx-asc-2026",
     "submission": "https://github.com/antlerboy/systemsmap/issues/3",
-    "notes": ["Official programme checked 7 September 2026: 24-27 August. Calendar end date is exclusive."]
+    "notes": [
+      "Official programme checked 7 September 2026: 24-27 August. Calendar end date is exclusive."
+    ]
+  },
+  {
+    "title": "SPROCKET Systems Practice Seminar 1: Choice and Choosables",
+    "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/sep/sprocket-systems-practice-seminar-1-choice-and-choosables",
+    "start": "2026-09-25T10:00:00+01:00",
+    "end": "2026-09-25T11:00:00+01:00",
+    "organiser": "UCL SPROCKET",
+    "topics": [
+      "systems"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "Free",
+    "access": "Open to all; registration required",
+    "description": "Jeremy Hilton explores making choices and understanding different perspectives in innovation.",
+    "uid": "https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/sep/sprocket-systems-practice-seminar-1-choice-and-choosables"
+  },
+  {
+    "title": "Exploring the role of the Knowledge Weaver",
+    "url": "https://q.thenhsalliance.org/get-involved/events/exploring-the-role-of-the-knowledge-weaver",
+    "start": "2026-09-22T13:00:00+01:00",
+    "end": "2026-09-22T14:00:00+01:00",
+    "organiser": "Q Network Weaving group / COPE Scotland",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "description": "A conversation with June Holley about knowledge weaving and collective learning in health and care.",
+    "uid": "https://q.thenhsalliance.org/get-involved/events/exploring-the-role-of-the-knowledge-weaver",
+    "discoverySources": [
+      {
+        "id": "syscoi",
+        "name": "Systems Community of Inquiry",
+        "url": "https://stream.syscoi.com/2026/08/26/exploring-the-role-of-the-knowledge-weaver-q-community/"
+      }
+    ]
+  },
+  {
+    "title": "WOSC Congress: Addressing Planetary Challenges",
+    "url": "https://www.wosc.world/event-details/wosc-congress-2026-addressing-planetary-challenges",
+    "start": "2027-06-16T09:00:00+02:00",
+    "end": "2027-06-18T16:00:00+02:00",
+    "organiser": "World Organisation of Systems and Cybernetics (WOSC)",
+    "topics": [
+      "systems",
+      "cybernetics"
+    ],
+    "kind": "event",
+    "location": "Ekonomsko-poslovna fakulteta UM, Razlagova ulica 20, Maribor, Slovenia",
+    "timezone": "Europe/Ljubljana",
+    "notes": [
+      "The page title and URL retain 2026, but its current Time & Location explicitly gives 16–18 June 2027. Confirm this discrepancy with WOSC before booking."
+    ],
+    "uid": "https://www.wosc.world/event-details/wosc-congress-2026-addressing-planetary-challenges",
+    "discoverySources": [
+      {
+        "id": "syscoi",
+        "name": "Systems Community of Inquiry",
+        "url": "https://stream.syscoi.com/2026/09/07/wosc-congress-2026-addressing-planetary-challenges/"
+      }
+    ]
+  },
+  {
+    "title": "Making relational, place-based public services ordinary",
+    "url": "https://www.systemspractice.org/Schedule26",
+    "start": "2026-09-21T13:45:00+01:00",
+    "end": "2026-09-21T15:15:00+01:00",
+    "organiser": "SCiO / SysPrac26",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "LR4, Vincent Building, Cranfield University, United Kingdom",
+    "timezone": "Europe/London",
+    "description": "Benjamin Taylor’s workshop at SysPrac26. Conference booking required.",
+    "notes": [
+      "Provisional programme; workshop end follows the programme table span."
+    ],
+    "uid": "sysprac26-workshop4"
+  },
+  {
+    "title": "RSD15: Online paper talks",
+    "url": "https://rsdsymposium.org/rsd15-paper-talks/",
+    "start": "2026-10-08",
+    "end": "2026-10-10",
+    "organiser": "Relating Systems Thinking and Design / Systemic Design Association",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "description": "Dated programme component. Check the organiser for times, eligibility and booking.",
+    "uid": "https://rsdsymposium.org/rsd15-paper-talks/"
+  },
+  {
+    "title": "RSD15: Pluralities, Turin",
+    "url": "https://rsdsymposium.org/rsd15-turin/",
+    "start": "2026-10-13",
+    "end": "2026-10-17",
+    "organiser": "Relating Systems Thinking and Design / Systemic Design Association",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "kind": "event",
+    "location": "Turin, Italy",
+    "description": "Dated programme component. Check the organiser for times, eligibility and booking.",
+    "uid": "https://rsdsymposium.org/rsd15-turin/"
+  },
+  {
+    "title": "RSD15: Ostana retreat",
+    "url": "https://rsdsymposium.org/rsd15-mon-viso/",
+    "start": "2026-10-18",
+    "end": "2026-10-22",
+    "organiser": "Relating Systems Thinking and Design / Systemic Design Association",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "kind": "event",
+    "location": "Ostana, Italy",
+    "description": "Dated programme component. Check the organiser for times, eligibility and booking.",
+    "uid": "https://rsdsymposium.org/rsd15-mon-viso/"
+  },
+  {
+    "title": "Relational Leadership · session 1",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/",
+    "start": "2026-09-15T09:30:00+01:00",
+    "end": "2026-09-15T12:30:00+01:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£510 excluding VAT for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-1-2026-09-15",
+    "recurrenceId": "2026-09-15"
+  },
+  {
+    "title": "Relational Leadership · session 2",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/",
+    "start": "2026-09-16T09:30:00+01:00",
+    "end": "2026-09-16T12:30:00+01:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£510 excluding VAT for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-2-2026-09-16",
+    "recurrenceId": "2026-09-16"
+  },
+  {
+    "title": "Relational Leadership · session 3",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/",
+    "start": "2026-10-06T09:30:00+01:00",
+    "end": "2026-10-06T12:30:00+01:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£510 excluding VAT for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-3-2026-10-06",
+    "recurrenceId": "2026-10-06"
+  },
+  {
+    "title": "Relational Leadership · session 4",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/",
+    "start": "2026-10-07T09:30:00+01:00",
+    "end": "2026-10-07T12:30:00+01:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£510 excluding VAT for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-4-2026-10-07",
+    "recurrenceId": "2026-10-07"
+  },
+  {
+    "title": "Relational Leadership · session 5",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/",
+    "start": "2026-11-03T09:30:00+00:00",
+    "end": "2026-11-03T12:30:00+00:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£510 excluding VAT for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-5-2026-11-03",
+    "recurrenceId": "2026-11-03"
+  },
+  {
+    "title": "Relational Leadership · session 6",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/",
+    "start": "2026-11-04T09:30:00+00:00",
+    "end": "2026-11-04T12:30:00+00:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£510 excluding VAT for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-6-2026-11-04",
+    "recurrenceId": "2026-11-04"
+  },
+  {
+    "title": "Relational Leadership · session 7",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/",
+    "start": "2026-11-25T09:30:00+00:00",
+    "end": "2026-11-25T12:30:00+00:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£510 excluding VAT for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-7-2026-11-25",
+    "recurrenceId": "2026-11-25"
+  },
+  {
+    "title": "Relational Leadership · session 8",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/",
+    "start": "2026-12-09T09:30:00+00:00",
+    "end": "2026-12-09T12:30:00+00:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£510 excluding VAT for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-8-2026-12-09",
+    "recurrenceId": "2026-12-09"
+  },
+  {
+    "title": "Relational Leadership · session 9",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/",
+    "start": "2027-01-13T09:30:00+00:00",
+    "end": "2027-01-13T12:30:00+00:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£510 excluding VAT for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-9-2027-01-13",
+    "recurrenceId": "2027-01-13"
+  },
+  {
+    "title": "Leading with Learning · session 1",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/",
+    "start": "2026-09-23T09:30:00+01:00",
+    "end": "2026-09-23T12:30:00+01:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£575 for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/#session-1-2026-09-23",
+    "recurrenceId": "2026-09-23"
+  },
+  {
+    "title": "Leading with Learning · session 2",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/",
+    "start": "2026-10-07T09:30:00+01:00",
+    "end": "2026-10-07T12:30:00+01:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£575 for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/#session-2-2026-10-07",
+    "recurrenceId": "2026-10-07"
+  },
+  {
+    "title": "Leading with Learning · session 3",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/",
+    "start": "2026-10-21T09:30:00+01:00",
+    "end": "2026-10-21T12:30:00+01:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£575 for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/#session-3-2026-10-21",
+    "recurrenceId": "2026-10-21"
+  },
+  {
+    "title": "Leading with Learning · session 4",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/",
+    "start": "2026-11-04T09:30:00+00:00",
+    "end": "2026-11-04T12:30:00+00:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£575 for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/#session-4-2026-11-04",
+    "recurrenceId": "2026-11-04"
+  },
+  {
+    "title": "Leading with Learning · session 5",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/",
+    "start": "2026-11-18T09:30:00+00:00",
+    "end": "2026-11-18T12:30:00+00:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£575 for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/#session-5-2026-11-18",
+    "recurrenceId": "2026-11-18"
+  },
+  {
+    "title": "Leading with Learning · session 6",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/",
+    "start": "2026-12-02T09:30:00+00:00",
+    "end": "2026-12-02T12:30:00+00:00",
+    "organiser": "ThemPra Social Pedagogy",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "timezone": "Europe/London",
+    "price": "£575 for the full course; check organiser",
+    "access": "Full-course registration required",
+    "description": "Applied learning connected to Human Learning Systems and relational public services.",
+    "uid": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/#session-6-2026-12-02",
+    "recurrenceId": "2026-12-02"
+  },
+  {
+    "title": "Designing AI’s Boundaries: Respecting Human Agency",
+    "url": "https://alwaysquestion.ai/",
+    "start": "2026-09-26",
+    "end": "2026-09-30",
+    "organiser": "World Design Cities Conference / SUES and Tongji University",
+    "location": "Shanghai, China",
+    "topics": [
+      "cybernetics",
+      "complexity",
+      "systemic-design"
+    ],
+    "description": "Dialogue event chaired by Michael Lissack, with remote participation described by the organiser. Headline dates span 26–29 September; consult the detailed programme for individual sessions.",
+    "timezone": null,
+    "uid": "https://alwaysquestion.ai/",
+    "kind": "event",
+    "format": "hybrid",
+    "discoverySources": [
+      {
+        "id": "syscoi",
+        "name": "Systems Community of Inquiry",
+        "url": "https://stream.syscoi.com/2026/09/08/designing-ais-boundaries-alwaysquestion-ai-wdcc-2026-shanghai/"
+      }
+    ]
+  },
+  {
+    "title": "Who gets to decide? Sharing power in public services",
+    "url": "https://govservicedesign.net/programme/who-gets-decide-sharing-power-public-services",
+    "start": "2026-09-24T11:15:00+01:00",
+    "end": "2026-09-24T12:45:00+01:00",
+    "organiser": "Service Design in Government",
+    "location": "John McIntyre Conference Centre, Edinburgh, United Kingdom",
+    "topics": [
+      "relational-public-services"
+    ],
+    "description": "Sophie Horrocks, Helix Centre. Conference workshop on sharing decision-making power; conference booking required.",
+    "timezone": "Europe/London",
+    "uid": "https://govservicedesign.net/programme/who-gets-decide-sharing-power-public-services",
+    "kind": "event"
+  },
+  {
+    "title": "Participatory design principles to heal, not hinder",
+    "url": "https://govservicedesign.net/programme/participatory-design-principles-heal-not-hinder-importance-psychologically-informed",
+    "start": "2026-09-23T12:15:00+01:00",
+    "end": "2026-09-23T13:00:00+01:00",
+    "organiser": "Service Design in Government",
+    "location": "John McIntyre Conference Centre, Edinburgh, United Kingdom",
+    "topics": [
+      "relational-public-services"
+    ],
+    "description": "Jodie Chan and Sarah Hancock on psychologically informed participatory design. Conference booking required.",
+    "timezone": "Europe/London",
+    "uid": "https://govservicedesign.net/programme/participatory-design-principles-heal-not-hinder-importance-psychologically-informed",
+    "kind": "event"
+  },
+  {
+    "uid": "isss-board-2026-09-11",
+    "title": "ISSS Board of Directors meeting",
+    "start": "2026-09-11T16:00:00-04:00",
+    "end": null,
+    "timezone": "America/New_York",
+    "location": "Online",
+    "organiser": "International Society for the Systems Sciences (ISSS)",
+    "url": "https://wiki.lab.isss.org/events",
+    "recurrenceId": "2026-09-11",
+    "topics": [
+      "systems"
+    ],
+    "access": "Registration required; ISSS membership rules apply",
+    "description": "Published on the official ISSS events page. Check registration and participation requirements with ISSS.",
+    "notes": [
+      "End time not published."
+    ]
+  },
+  {
+    "uid": "isss-agm-2026-09-18",
+    "title": "ISSS Annual General Meeting",
+    "start": "2026-09-18T16:00:00-04:00",
+    "end": null,
+    "timezone": "America/New_York",
+    "location": "Online",
+    "organiser": "International Society for the Systems Sciences (ISSS)",
+    "url": "https://wiki.lab.isss.org/events",
+    "recurrenceId": "2026-09-18",
+    "topics": [
+      "systems"
+    ],
+    "access": "Registration required; ISSS membership rules apply",
+    "description": "Published on the official ISSS events page. Check registration and participation requirements with ISSS.",
+    "notes": [
+      "End time not published."
+    ]
   }
 ]

@@ -340,5 +340,72 @@
     ],
     "region": "Japan",
     "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": "syscoi",
+    "name": "Systems Community of Inquiry: event discovery",
+    "url": "https://public-api.wordpress.com/rest/v1.1/sites/stream.syscoi.com/posts/?number=100",
+    "adapter": "wordpress_discovery",
+    "topics": [
+      "systems"
+    ],
+    "region": "International",
+    "timezone": "Europe/London",
+    "website": "https://stream.syscoi.com/"
+  },
+  {
+    "id": "hls",
+    "name": "Human Learning Systems",
+    "url": "https://www.humanlearning.systems/events/",
+    "adapter": "auto",
+    "topics": [
+      "relational-public-services"
+    ],
+    "region": "International",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": "thempra-relational",
+    "name": "ThemPra: Relational Leadership",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/",
+    "adapter": "thempra",
+    "topics": [
+      "relational-public-services"
+    ],
+    "region": "International",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": "thempra-learning",
+    "name": "ThemPra: Leading with Learning",
+    "url": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/",
+    "adapter": "thempra",
+    "topics": [
+      "relational-public-services"
+    ],
+    "region": "International",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": "q-community",
+    "name": "Q Community: health and care improvement",
+    "url": "https://q.thenhsalliance.org/get-involved/events",
+    "adapter": "auto",
+    "topics": [
+      "relational-public-services"
+    ],
+    "region": "International",
+    "timezone": "Europe/London"
+  },
+  {
+    "id": "nick-ananin",
+    "name": "Nick Ananin’s systems events and learning map",
+    "url": "https://www.google.com/maps/d/u/0/viewer?mid=1KiZfEQGwEaAsOiEBjTdPN9LC5Pk",
+    "adapter": "auto",
+    "topics": [
+      "systems"
+    ],
+    "region": "International",
+    "notes": "51 map entries reviewed on 9 September: one dated conference, 50 undated resources. See resources/ and data/nick-ananin-resources.json."
   }
 ]
