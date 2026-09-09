@@ -1,13 +1,13 @@
 [
   {
     "id": "all",
-    "name": "All systems, cybernetics, complexity and relational public services events",
-    "events": 168
+    "name": "All systems, cybernetics, and complexity events",
+    "events": 170
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 51
+    "events": 59
   },
   {
     "id": "topic-systems",
@@ -27,7 +27,7 @@
   {
     "id": "topic-system-dynamics",
     "name": "System dynamics",
-    "events": 42
+    "events": 44
   },
   {
     "id": "topic-systemic-design",
@@ -87,7 +87,7 @@
   {
     "id": "org-system-dynamics",
     "name": "System Dynamics Society",
-    "events": 42
+    "events": 44
   },
   {
     "id": "org-santa-fe",
