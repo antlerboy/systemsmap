@@ -74,7 +74,9 @@ def extract(data):
                 if e:events.append(e)
         except (ValueError,TypeError,AttributeError):continue
     events+=parse_manchester(soup,source,final)
-    if urlparse(final).hostname in ('systemspractice.org','www.systemspractice.org'):events+=collect.parse_scio(soup,source,final)
+    if urlparse(final).hostname in ('systemspractice.org','www.systemspractice.org'):
+        events+=collect.parse_scio(soup,source,final)
+        events+=collect.parse_scio_detail(soup,source,final)
     events=list({(e['url'],e['start']):e for e in events}.values())
     if len(events)==1:
         result=from_event(events[0]);result['url']=url

@@ -28,6 +28,20 @@ class SubmissionTests(unittest.TestCase):
         with patch.object(collect,'get',return_value=('<h1>Systems gathering</h1><p>See you soon</p>','https://example.org/event')):
             parsed,notes=extract_submission.extract({'kind':'auto','url':'https://example.org/event'})
         self.assertFalse(parsed.get('start'));self.assertTrue(notes)
+    def test_scio_detail_page_extracts_published_date_and_details(self):
+        html='''<h1>SCiO UK Virtual Development Event - October 2026</h1>
+        <div class="event-date"><div class="fw-400">Tue, Oct 6th, 2026</div><div class="fw-200">13:00 - 15:00 GMT+1</div></div>
+        <div class="field--name-field-organiser-"><div class="field__item">SCiO UK</div></div>
+        <div class="mb-4"><div class="fw-500">Location</div>This is an online event</div>
+        <div class="mb-4"><div class="fw-500">Pricing Info</div>FREE to members</div>
+        <div class="mb-4"><div class="fw-500">Languages spoken</div>English</div>
+        <div class="mb-4"><div class="fw-500">Access</div>Members only</div>'''
+        url='https://www.systemspractice.org/events/scio-uk-virtual-development-event-october-2026'
+        with patch.object(collect,'get',return_value=(html,url)):
+            parsed,notes=extract_submission.extract({'kind':'auto','url':url})
+        self.assertFalse(notes);self.assertEqual(parsed['start'],'2026-10-06');self.assertEqual(parsed['startTime'],'13:00')
+        self.assertEqual(parsed['timezone'],'Europe/London');self.assertEqual(parsed['organiser'],'SCiO UK')
+        self.assertEqual(parsed['format'],'online');self.assertEqual(parsed['access'],'Members only')
     def test_blocked_link_stays_unpublished(self):
         with patch.object(collect,'get',side_effect=ValueError('Disallowed by robots.txt')):
             with self.assertRaisesRegex(ValueError,'Disallowed'):extract_submission.extract({'url':'https://example.org/event'})

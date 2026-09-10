@@ -266,6 +266,51 @@ def parse_scio(soup,source,url):
         except (ValueError,TypeError):continue
     return events
 
+def parse_scio_detail(soup,source,url):
+    """Parse an individual SCiO event page when it has no JSON-LD event data.
+
+    SCiO's listing cards and individual Drupal pages use different markup.  The
+    latter is also what people submit through the public review queue.
+    """
+    h=soup.select_one('h1')
+    date_block=h.parent.select_one('.event-date') if h else None
+    if not h or not date_block:return []
+    date_node=date_block.select_one('.fw-400')
+    time_node=date_block.select_one('.fw-200')
+    if not date_node:return []
+    date_text=clean(date_node.get_text(' ',strip=True))
+    time_text=clean(time_node.get_text(' ',strip=True)) if time_node else ''
+    if not re.fullmatch(r'(?:[A-Za-z]+,? )?[A-Za-z]+ \d{1,2}(?:st|nd|rd|th)?,? 20\d{2}',date_text):return []
+    date_text=re.sub(r'(\d+)(st|nd|rd|th)',r'\1',date_text)
+    try:
+        start_day=parse(date_text).date()
+    except (ValueError,TypeError):
+        return []
+    org_node=h.parent.select_one('.field--name-field-organiser- .field__item')
+    organiser=clean(org_node.get_text(' ',strip=True)) if org_node else ''
+    # This detail layout is verified for UK events only; never apply UK time
+    # to other chapters or infer it when the organiser is missing.
+    if organiser!='SCiO UK':return []
+    tz='Europe/London'
+    times=re.findall(r'\d{1,2}:\d{2}',time_text)
+    if times:
+        start=datetime.combine(start_day,datetime.strptime(times[0],'%H:%M').time(),ZoneInfo(tz))
+        end=datetime.combine(start_day,datetime.strptime(times[-1],'%H:%M').time(),ZoneInfo(tz)) if len(times)>1 else None
+    else:
+        start=start_day;end=None
+    fields={}
+    for block in soup.select('.mb-4'):
+        label=block.select_one('.fw-500')
+        if label:
+            fields[clean(label.get_text(' ',strip=True)).rstrip(':')]=clean(label.parent.get_text(' ',strip=True).removeprefix(label.get_text(' ',strip=True)))
+    countries,regions=chapter_focus(organiser)
+    body=soup.select_one('.field--name-body')
+    n=normalise(dict(title=clean(h.get_text(' ',strip=True)),start=start,end=end,timezone=tz,
+        location=fields.get('Location',''),organiser=organiser,description=clean(body.get_text(' ',strip=True) if body else ''),
+        price=fields.get('Pricing Info'),language=fields.get('Languages spoken'),access=fields.get('Access'),
+        audienceCountries=countries,audienceRegions=regions,url=url),source,url)
+    return [n] if n else []
+
 def chapter_focus(organiser):
     """Chapter geography describes focus, never eligibility or the speaker's venue."""
     for name,countries,regions in [
