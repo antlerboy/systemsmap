@@ -128,7 +128,7 @@ DTEND:20260908T160000Z
 DTSTAMP:20260909T085810Z
 UID:f977213224295179b906b8e6@systemsmap.antlerboy.com
 SEQUENCE:0
-CATEGORIES:Complexity,Systems thinking
+CATEGORIES:Systems thinking
 DESCRIPTION:Sociocracy For All\n<p>The 5-month program covers all the part
  s of sociocracy in weekly 2h meetings. Leads to facilitator certification.
   </p>\\n\nLanguage: Not specified\nLanguage requirements: Not specified\nI
@@ -144,20 +144,17 @@ BEGIN:VEVENT
 SUMMARY:Free introduction: What is sociocracy?
 DTSTART:20260909T220000Z
 DTEND:20260909T230000Z
-DTSTAMP:20260909T085810Z
-UID:2aaa2f88e33a9bb06318bfb5@systemsmap.antlerboy.com
-SEQUENCE:2
+DTSTAMP:20260910T090026Z
+UID:4b892e7c79041eab260dadd7@systemsmap.antlerboy.com
+SEQUENCE:0
 CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\nAre you tired of power games in your organ
- izations? Do you have hope that collaboration in organizations could bring
-  out the best in people? Do you think organizations could be places of syn
- ergy\, collaboration\, growth\, and deep and authentic connection? This we
- binar is giving an overview of sociocracy. We will talk about: better list
- ening consent decision making and circle structure examples from \nLanguag
- e: Not specified\nLanguage requirements: Not specified\nInterpretation: No
- t specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/event
- /free-info-session-september-2026/
-LAST-MODIFIED:20260909T085810Z
+DESCRIPTION:Sociocracy For All\n<p>This is a free sociocracy info session.
+  We will look at what self-management is trying to achieve\, how sociocrac
+ y works\, and what kind of organizations are doing sociocracy. </p>\\n\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/
+ event/free-info-session-september-2026/
+LAST-MODIFIED:20260910T090026Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

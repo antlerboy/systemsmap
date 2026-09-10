@@ -140,9 +140,9 @@ SUMMARY:System Dynamics Learning Hub 2026 – SASDC – Stream 3 (Pollutio
  n Dynamics): Session 1
 DTSTART:20260804T160000Z
 DTEND:20260804T180000Z
-DTSTAMP:20260906T191842Z
+DTSTAMP:20260910T090026Z
 UID:0cecb3891ffc6ed35f46caa1@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics,Complexity
 DESCRIPTION:The South Africa System Dynamics Chapter (SASDC)\n<p>The Learn
  ing Hub is an interactive\, hands-on learning experience that will help yo
@@ -153,9 +153,8 @@ DESCRIPTION:The South Africa System Dynamics Chapter (SASDC)\n<p>The Learn
  …]</p>\\n\nLanguage: Not specified\nLanguage requirements: Not specified
  \nInterpretation: Not specified\nAccess: See organiser\nhttps://systemdyna
  mics.org/event/system-dynamics-learning-hub-2026-sasdc-stream-3-pollution-
- dynamics-session-1/\nSource could not be fully rechecked.\nThis event coul
- d not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260906T191842Z
+ dynamics-session-1/
+LAST-MODIFIED:20260910T090026Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -256,25 +255,6 @@ TRANSP:TRANSPARENT
 URL:https://iscpif.fr/evenements/copil-re2-france-life-imaging/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Academy (Level 1\, two cohorts for all time zones)
-DTSTART:20260908T160000Z
-DTEND:20260908T160000Z
-DTSTAMP:20260909T085810Z
-UID:f977213224295179b906b8e6@systemsmap.antlerboy.com
-SEQUENCE:0
-CATEGORIES:Complexity,Systems thinking
-DESCRIPTION:Sociocracy For All\n<p>The 5-month program covers all the part
- s of sociocracy in weekly 2h meetings. Leads to facilitator certification.
-  </p>\\n\nLanguage: Not specified\nLanguage requirements: Not specified\nI
- nterpretation: Not specified\nAccess: See organiser\nhttps://www.sociocrac
- yforall.org/event/academy-level-1/
-LAST-MODIFIED:20260909T085810Z
-LOCATION:SoFA Zoom (Multi-Room)
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.sociocracyforall.org/event/academy-level-1/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Copenhagen Health Complexity Center – Talks
 DTSTART:20260908T120000Z
 DTEND:20260908T130000Z
@@ -318,7 +298,9 @@ DESCRIPTION:Complexity Science Hub\nWhat happens when employees are asked
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/interpre
  ting-ai-at-work-direct-use-workplace-support-and-technological-displacemen
- t-concerns/
+ t-concerns/\nNo longer found in the latest source listing\; confirmation n
+ eeded.\nThis event could not be rechecked on the latest collection. Confir
+ m with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -415,18 +397,21 @@ BEGIN:VEVENT
 SUMMARY:Implementing the Self-Managing Enterprise with Agentic AI
 DTSTART:20260915T150000Z
 DTEND:20260915T160000Z
-DTSTAMP:20260909T085810Z
-UID:c26b3c380ea58b2b20addd6c@systemsmap.antlerboy.com
+DTSTAMP:20260910T090026Z
+UID:3d26efdeef08948099e11d13@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Complexity,System dynamics
-DESCRIPTION:System Dynamics Society\n<p>This webinar introduces the core f
- eatures of the Silico System Dynamics web app and guides participants thro
- ugh building a simple model using standard System Dynamics components.</p>
- \\n\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
- retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
- /event/implementing-the-self-managing-enterprise-with-agentic-ai/
-LAST-MODIFIED:20260909T085810Z
-LOCATION:Online
+DESCRIPTION:System Dynamics Society\nTuesday\, September 15 at 11 am New Y
+ ork | 4 pm London | 11 pm Beijing This session builds on the June 2026 web
+ inar “Agentic AI and the Self-Managing Enterprise” which showed how we
+  – and AI agents – make decisions through policies that try to close a
+  gap between a current state of the system and a target for that state. Ov
+ erview This webinar goes on to explain the mechanisms by which collaborati
+ on\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
+ etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
+ event/implementing-the-self-managing-enterprise-with-agentic-ai/
+LAST-MODIFIED:20260910T090026Z
+LOCATION:https://us02web.zoom.us/j/87049920798
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/implementing-the-self-managing-enterp
@@ -618,9 +603,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260909T085810Z
+DTSTAMP:20260910T090026Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -629,7 +614,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260909T085810Z
+LAST-MODIFIED:20260910T090026Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -690,19 +675,23 @@ SUMMARY:From Bees to Feedback Loops: Building Systems Literacy from Childh
  ood to Leadership
 DTSTART:20260929T150000Z
 DTEND:20260929T160000Z
-DTSTAMP:20260909T085810Z
-UID:35406c2df50979552c66d343@systemsmap.antlerboy.com
+DTSTAMP:20260910T090026Z
+UID:f16368538b0244d31dcefb7e@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Complexity,System dynamics
-DESCRIPTION:System Dynamics Society\n<p>Dr. Linda Booth Sweeney and educat
- or Lindsay Moretti share a developmental pathway from early systems litera
- cy to adult systems leadership\, drawing on evidence from classrooms\, soc
- ial entrepreneurship\, and real world change efforts.</p>\\n\nLanguage: No
- t specified\nLanguage requirements: Not specified\nInterpretation: Not spe
- cified\nAccess: See organiser\nhttps://systemdynamics.org/event/from-bees-
- to-feedback-loops-building-systems-literacy-from-childhood-to-leadership/
-LAST-MODIFIED:20260909T085810Z
-LOCATION:Online
+DESCRIPTION:System Dynamics Society\nSeptember 29\, 2026 at 11 am New York
+  | 4 pm London | 11 pm Beijing | Time Converter From Bees to Feedback Loop
+ s: Building Systems Literacy from Childhood to Leadership What if the habi
+ ts of mind children develop noticing interconnections\, patterns\, and fee
+ dback loops are the same ones adults need to address climate change\, fix 
+ broken systems\, and lead through complexity? This interactive seminar m\n
+ Language: Not specified\nLanguage requirements: Not specified\nInterpretat
+ ion: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/even
+ t/from-bees-to-feedback-loops-building-systems-literacy-from-childhood-to-
+ leadership/
+LAST-MODIFIED:20260910T090026Z
+LOCATION:https://systemdynamics.org/event/from-bees-to-feedback-loops-buil
+ ding-systems-literacy-from-childhood-to-leadership/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/from-bees-to-feedback-loops-building-
@@ -788,23 +777,25 @@ TRANSP:TRANSPARENT
 URL:https://cssociety.org/event/5ea1ef85-35de-4e54-9a0c-772f4dcd0185/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:System Dynamics Learning Hub 2026 – SASDC – Stream 4 (Multi-ec
- helon supply chain dynamics): Session 1
+SUMMARY:System Dynamics Learning Hub 2026 - SASDC - Stream 4 (Multi-echelo
+ n supply chain dynamics): Session 1
 DTSTART:20261013T160000Z
 DTEND:20261013T180000Z
-DTSTAMP:20260909T085810Z
-UID:23a895902c6e7aef3c1cd966@systemsmap.antlerboy.com
+DTSTAMP:20260910T090026Z
+UID:96bd305e277dde60c1a69980@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Complexity,System dynamics
-DESCRIPTION:The South Africa System Dynamics Chapter (SASDC)\n<p>The Learn
- ing Hub is an interactive\, hands-on learning experience that will help yo
- u explore the behaviour of complex systems through guided exercises and di
- scussions. Held in 4 streams throughout the […]</p>\\n\nLanguage: Not sp
- ecified\nLanguage requirements: Not specified\nInterpretation: Not specifi
- ed\nAccess: See organiser\nhttps://systemdynamics.org/event/system-dynamic
- s-learning-hub-2026-sasdc-stream-4-multi-echelon-supply-chain-dynamics-ses
- sion-1/
-LAST-MODIFIED:20260909T085810Z
+DESCRIPTION:System Dynamics Society\nThe Learning Hub is an interactive\, 
+ hands-on learning experience that will help you explore the behaviour of c
+ omplex systems through guided exercises and discussions. Held in 4 streams
+  throughout the year\, the Hub provides a structured and engaging environm
+ ent to deepen your understanding of system dynamics through practical appl
+ ications for all skill levels. The process for each stream is: Sessio\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/s
+ ystem-dynamics-learning-hub-2026-sasdc-stream-4-multi-echelon-supply-chain
+ -dynamics-session-1/
+LAST-MODIFIED:20260910T090026Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -848,5 +839,30 @@ LOCATION:Spain\, Granada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://cssociety.org/event/48d831be-35b8-4789-81ed-6ef517743032/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Generative Agent-Based Models: Simulating Quasi-Autonomous AI Agen
+ ts
+DTSTART:20270112T160000Z
+DTEND:20270112T170000Z
+DTSTAMP:20260910T090026Z
+UID:a0ff0f0d2c77d4153a8b5cff@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nJanuary 12\, 2027 at 11 am New York |
+  4 pm London | Time Converter Generative artificial intelligence creates n
+ ew possibilities for representing human cognition and decision making in c
+ omputational models of social systems. Generative agent-based models (GABM
+ s) integrate large language models into agent-based simulations\, allowing
+  simulated agents to interpret context\, form intentions\, and interact\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
+ /generative-agent-based-models-simulating-quasi-autonomous-ai-agents/
+LAST-MODIFIED:20260910T090026Z
+LOCATION:https://us02web.zoom.us/j/89002602905
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/generative-agent-based-models-simulat
+ ing-quasi-autonomous-ai-agents/
 END:VEVENT
 END:VCALENDAR
