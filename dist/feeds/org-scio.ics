@@ -26,6 +26,31 @@ URL:https://www.systemspractice.org/events/pulapka-struktury-czyli-jak-spo
  sob-w-jaki-sie-organizujemy-determinuje-przestrzen-mozliwych
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SysPrac26 – The Systems Thinking Practitioners Conference
+DTSTART:20260921T060000Z
+DTEND:20260922T150000Z
+DTSTAMP:20260910T223446Z
+UID:a018a46a8352008249863516@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,Cybernetics,Systems thinking
+DESCRIPTION:International Federation for Systems Research (IFSR)\nSysPrac2
+ 6 – The Systems Thinking Practitioner Conference will take place on 21st
+  & 22nd September 2026 in Cranfield As the challenges facing organisations
+ \, communities and society become increasingly interconnected and complex
+ \, the need for practical systems thinking has never been greater. SysPrac
+ 26 takes place on 21–22 September 2026 at Cranfield University – two d
+ ays of systems thinking in prac\nLanguage: Not specified\nLanguage require
+ ments: Not specified\nInterpretation: Not specified\nAccess: See organiser
+ \nhttps://ifsr.org/event/sysprac26-the-systems-thinking-practitioners-conf
+ erence/
+LAST-MODIFIED:20260910T223446Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ifsr.org/event/sysprac26-the-systems-thinking-practitioners-co
+ nference/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SysPrac26 Conference
 DTSTART:20260921T080000Z
 DTEND:20260922T173000Z
@@ -46,16 +71,16 @@ BEGIN:VEVENT
 SUMMARY:Making relational\, place-based public services ordinary
 DTSTART:20260921T124500Z
 DTEND:20260921T141500Z
-DTSTAMP:20260910T090026Z
+DTSTAMP:20260910T223446Z
 UID:8c00d12aaf979855624fa772@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:SCiO / SysPrac26\nBenjamin Taylor’s workshop at SysPrac26. C
  onference booking required.\nLanguage: Not specified\nLanguage requirement
  s: Not specified\nInterpretation: Not specified\nAccess: See organiser\nht
  tps://www.systemspractice.org/Schedule26\nProvisional programme\; workshop
   end follows the programme table span.
-LAST-MODIFIED:20260910T090026Z
+LAST-MODIFIED:20260910T223446Z
 LOCATION:LR4\, Vincent Building\, Cranfield University\, United Kingdom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -30,9 +30,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260910T090026Z
+DTSTAMP:20260910T223446Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:7
+SEQUENCE:8
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -43,7 +43,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20260910T090026Z
+LAST-MODIFIED:20260910T223446Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53,9 +53,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260910T090026Z
+DTSTAMP:20260910T223446Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -64,7 +64,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260910T090026Z
+LAST-MODIFIED:20260910T223446Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

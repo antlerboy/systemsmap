@@ -314,9 +314,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260910T090026Z
+DTSTAMP:20260910T223446Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:7
+SEQUENCE:8
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -327,7 +327,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20260910T090026Z
+LAST-MODIFIED:20260910T223446Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -362,9 +362,9 @@ SUMMARY:Cybernetics in the Annex: Commemorating Stafford Beer’s Centenar
  y + Summer Conferences Recap
 DTSTART:20260908T223000Z
 DTEND:20260909T001500Z
-DTSTAMP:20260910T090026Z
+DTSTAMP:20260910T223446Z
 UID:2e96c1af7848b3132733a6fb@systemsmap.antlerboy.com
-SEQUENCE:12
+SEQUENCE:13
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  eer’s work on organisational viability and participatory decision-making
@@ -373,7 +373,7 @@ DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  Register for in-person attendance or the online link\nhttps://guild.host/e
  vents/cybernetics-in-the-annex-tbara6
-LAST-MODIFIED:20260910T090026Z
+LAST-MODIFIED:20260910T223446Z
 LOCATION:OCAD University\, 205 Richmond St W\, Room 115\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -461,6 +461,31 @@ URL:https://asc-cybernetics.org/initiatives/speaker-series-wg/speaker-seri
  es-season-71/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SysPrac26 – The Systems Thinking Practitioners Conference
+DTSTART:20260921T060000Z
+DTEND:20260922T150000Z
+DTSTAMP:20260910T223446Z
+UID:a018a46a8352008249863516@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,Cybernetics,Systems thinking
+DESCRIPTION:International Federation for Systems Research (IFSR)\nSysPrac2
+ 6 – The Systems Thinking Practitioner Conference will take place on 21st
+  & 22nd September 2026 in Cranfield As the challenges facing organisations
+ \, communities and society become increasingly interconnected and complex
+ \, the need for practical systems thinking has never been greater. SysPrac
+ 26 takes place on 21–22 September 2026 at Cranfield University – two d
+ ays of systems thinking in prac\nLanguage: Not specified\nLanguage require
+ ments: Not specified\nInterpretation: Not specified\nAccess: See organiser
+ \nhttps://ifsr.org/event/sysprac26-the-systems-thinking-practitioners-conf
+ erence/
+LAST-MODIFIED:20260910T223446Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ifsr.org/event/sysprac26-the-systems-thinking-practitioners-co
+ nference/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SysPrac26 Conference
 DTSTART:20260921T080000Z
 DTEND:20260922T173000Z
@@ -481,9 +506,9 @@ BEGIN:VEVENT
 SUMMARY:Fire and Ice: The Conception\, Birth and Infancy of Cybernetics.
 DTSTART:20260924T120000Z
 DTEND:20260924T140000Z
-DTSTAMP:20260910T090026Z
+DTSTAMP:20260910T223446Z
 UID:79561815b13dfb8aa2a33fdb@systemsmap.antlerboy.com
-SEQUENCE:12
+SEQUENCE:13
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Digital Futures\, University of Manchester\nThe opening semina
  r in the nine-part ‘Meat the Machine’ series on the history of cyberne
@@ -492,7 +517,7 @@ DESCRIPTION:Digital Futures\, University of Manchester\nThe opening semina
  \nAccess: General public welcome\; registration required\nhttps://events.m
  anchester.ac.uk/event/event:r2y-ms8q8jbe-n4ev9n/fire-and-ice-the-conceptio
  n-birth-and-infancy-of-cybernetics
-LAST-MODIFIED:20260910T090026Z
+LAST-MODIFIED:20260910T223446Z
 LOCATION:University of Manchester\, Manchester\, United Kingdom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -503,9 +528,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260910T090026Z
+DTSTAMP:20260910T223446Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -514,7 +539,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260910T090026Z
+LAST-MODIFIED:20260910T223446Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -712,6 +737,29 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.systemspractice.org/events/deep-dive-intervisie-critical-s
  ystems-heuristics-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:25th International Symposium on Knowledge and Systems Sciences (KS
+ S2026)
+DTSTART:20261113T070000Z
+DTEND:20261115T160000Z
+DTSTAMP:20260910T223446Z
+UID:16b9aa66622c39bc177766a3@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics
+DESCRIPTION:SESC\n<p>The 25th International Symposium on Knowledge and Sys
+ tems Sciences (KSS2026) will take place from 13–15 November 2026 at Auck
+ land University of Technology\, Auckland\, New Zealand. This year\\'s symp
+ osium will explore […]</p>\\n\nLanguage: Not specified\nLanguage require
+ ments: Not specified\nInterpretation: Not specified\nAccess: See organiser
+ \nhttps://ifsr.org/event/25th-international-symposium-on-knowledge-and-sys
+ tems-sciences-kss2026/
+LAST-MODIFIED:20260910T223446Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ifsr.org/event/25th-international-symposium-on-knowledge-and-s
+ ystems-sciences-kss2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCIO-NL monthly meeting November 2025 (live WOERDEN and in Dutch)
@@ -1008,9 +1056,9 @@ BEGIN:VEVENT
 SUMMARY:WOSC Congress: Addressing Planetary Challenges
 DTSTART:20270616T070000Z
 DTEND:20270618T140000Z
-DTSTAMP:20260910T090026Z
+DTSTAMP:20260910T223446Z
 UID:99998e0fda728e162d4a9f6c@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:World Organisation of Systems and Cybernetics (WOSC)\n\nLangua
  ge: Not specified\nLanguage requirements: Not specified\nInterpretation: N
@@ -1018,7 +1066,7 @@ DESCRIPTION:World Organisation of Systems and Cybernetics (WOSC)\n\nLangua
  wosc-congress-2026-addressing-planetary-challenges\nThe page title and URL
   retain 2026\, but its current Time & Location explicitly gives 16–18 Ju
  ne 2027. Confirm this discrepancy with WOSC before booking.
-LAST-MODIFIED:20260910T090026Z
+LAST-MODIFIED:20260910T223446Z
 LOCATION:Ekonomsko-poslovna fakulteta UM\, Razlagova ulica 20\, Maribor\, 
  Slovenia
 STATUS:CONFIRMED

@@ -320,7 +320,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nConseil
   d’administration de l AFSCET https://afscet.asso.fr\nLanguage: Not spec
  ified\nLanguage requirements: Not specified\nInterpretation: Not specified
  \nAccess: See organiser\nhttps://iscpif.fr/evenements/conseil-dadministrat
- ion-de-l-afscet-2/
+ ion-de-l-afscet-2/\nNo longer found in the latest source listing\; confirm
+ ation needed.\nThis event could not be rechecked on the latest collection.
+  Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -534,6 +536,31 @@ TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/dis-master-class-nonadditive-entropies/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SysPrac26 – The Systems Thinking Practitioners Conference
+DTSTART:20260921T060000Z
+DTEND:20260922T150000Z
+DTSTAMP:20260910T223446Z
+UID:a018a46a8352008249863516@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,Cybernetics,Systems thinking
+DESCRIPTION:International Federation for Systems Research (IFSR)\nSysPrac2
+ 6 – The Systems Thinking Practitioner Conference will take place on 21st
+  & 22nd September 2026 in Cranfield As the challenges facing organisations
+ \, communities and society become increasingly interconnected and complex
+ \, the need for practical systems thinking has never been greater. SysPrac
+ 26 takes place on 21–22 September 2026 at Cranfield University – two d
+ ays of systems thinking in prac\nLanguage: Not specified\nLanguage require
+ ments: Not specified\nInterpretation: Not specified\nAccess: See organiser
+ \nhttps://ifsr.org/event/sysprac26-the-systems-thinking-practitioners-conf
+ erence/
+LAST-MODIFIED:20260910T223446Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ifsr.org/event/sysprac26-the-systems-thinking-practitioners-co
+ nference/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PostDoc Appreciation Week Austria (PAW) – Data Visualization Cra
  sh Course
 DTSTART:20260921T140000Z
@@ -603,9 +630,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260910T090026Z
+DTSTAMP:20260910T223446Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -614,7 +641,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260910T090026Z
+LAST-MODIFIED:20260910T223446Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -822,6 +849,32 @@ URL:https://www.cecan.ac.uk/events/cecan-webinar-place-based-evaluation-is
  -missing-the-point-about-place/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Next Generation of Systems Mapping: From Insight to Interventi
+ on
+DTSTART:20261124T160000Z
+DTEND:20261124T170000Z
+DTSTAMP:20260910T223446Z
+UID:9461af3c6b41bf4463fbc834@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
+ l occur on the 3rd Thursday of the month with the exception of conference 
+ month and holiday weeks. All Society members are welcome to attend. Login 
+ to access the zoom link which will be displayed here to members 15 minutes
+  prior to the start of the meeting. To access this content\, you must purc
+ hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
+ equirements: Not specified\nInterpretation: Not specified\nAccess: See org
+ aniser\nhttps://systemdynamics.org/event/the-next-generation-of-systems-ma
+ pping-from-insight-to-intervention/
+LAST-MODIFIED:20260910T223446Z
+LOCATION:https://systemdynamics.org/event/the-next-generation-of-systems-m
+ apping-from-insight-to-intervention/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/the-next-generation-of-systems-mappin
+ g-from-insight-to-intervention/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:COMPLEX NETWORKS 2026 – 15th International Conference on Complex
   Networks and Their Applications
 DTSTART;VALUE=DATE:20261202
@@ -839,30 +892,5 @@ LOCATION:Spain\, Granada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://cssociety.org/event/48d831be-35b8-4789-81ed-6ef517743032/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Generative Agent-Based Models: Simulating Quasi-Autonomous AI Agen
- ts
-DTSTART:20270112T160000Z
-DTEND:20270112T170000Z
-DTSTAMP:20260910T090026Z
-UID:a0ff0f0d2c77d4153a8b5cff@systemsmap.antlerboy.com
-SEQUENCE:0
-CATEGORIES:Complexity,System dynamics
-DESCRIPTION:System Dynamics Society\nJanuary 12\, 2027 at 11 am New York |
-  4 pm London | Time Converter Generative artificial intelligence creates n
- ew possibilities for representing human cognition and decision making in c
- omputational models of social systems. Generative agent-based models (GABM
- s) integrate large language models into agent-based simulations\, allowing
-  simulated agents to interpret context\, form intentions\, and interact\nL
- anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
- on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
- /generative-agent-based-models-simulating-quasi-autonomous-ai-agents/
-LAST-MODIFIED:20260910T090026Z
-LOCATION:https://us02web.zoom.us/j/89002602905
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://systemdynamics.org/event/generative-agent-based-models-simulat
- ing-quasi-autonomous-ai-agents/
 END:VEVENT
 END:VCALENDAR

@@ -2,32 +2,32 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 170
+    "events": 175
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 54
+    "events": 53
   },
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 97
+    "events": 99
   },
   {
     "id": "topic-cybernetics",
     "name": "Cybernetics",
-    "events": 60
+    "events": 62
   },
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 38
+    "events": 39
   },
   {
     "id": "topic-system-dynamics",
     "name": "System dynamics",
-    "events": 44
+    "events": 47
   },
   {
     "id": "topic-systemic-design",
@@ -42,7 +42,7 @@
   {
     "id": "org-scio",
     "name": "SCiO — international chapters",
-    "events": 17
+    "events": 18
   },
   {
     "id": "org-scio-courses",
@@ -62,7 +62,7 @@
   {
     "id": "org-ifsr",
     "name": "International Federation for Systems Research (IFSR)",
-    "events": 2
+    "events": 4
   },
   {
     "id": "org-isss",
@@ -87,7 +87,7 @@
   {
     "id": "org-system-dynamics",
     "name": "System Dynamics Society",
-    "events": 44
+    "events": 47
   },
   {
     "id": "org-santa-fe",
