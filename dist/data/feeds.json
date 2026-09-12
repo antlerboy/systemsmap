@@ -2,7 +2,7 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 175
+    "events": 176
   },
   {
     "id": "online",
@@ -22,7 +22,7 @@
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 39
+    "events": 40
   },
   {
     "id": "topic-system-dynamics",
@@ -97,7 +97,7 @@
   {
     "id": "org-csh",
     "name": "Complexity Science Hub",
-    "events": 10
+    "events": 11
   },
   {
     "id": "org-css",

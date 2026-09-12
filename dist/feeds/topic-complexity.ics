@@ -420,6 +420,29 @@ URL:https://systemdynamics.org/event/implementing-the-self-managing-enterp
  rise-with-agentic-ai/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Control Theory for Causal Discovery
+DTSTART:20260915T123000Z
+DTEND:20260915T130000Z
+DTSTAMP:20260912T084157Z
+UID:bca188d816e919ebfe60b3f2@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nCausal discovery from observational da
+ ta remains a challenge in the study of the physics of complex systems\, wh
+ ere causal relationships must be inferred without controlled interventions
+  or prior knowledge of the underlying mechanisms. A major obstacle is the 
+ presence of hidden common causes\, which can induce statistical dependenci
+ es between variables and thereby confound causal claims.Here\, we dis\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/control-t
+ heory-for-causal-discovery/
+LAST-MODIFIED:20260912T084157Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/control-theory-for-causal-discovery/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Conseil d'Administration de l AFSCET
 DTSTART:20260916T050000Z
 DTEND:20260916T140000Z
@@ -630,9 +653,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260911T085820Z
+DTSTAMP:20260912T084157Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:5
+SEQUENCE:6
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -641,7 +664,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260911T085820Z
+LAST-MODIFIED:20260912T084157Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -110,6 +110,29 @@ TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/ias-csh-connection-workshop/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Control Theory for Causal Discovery
+DTSTART:20260915T123000Z
+DTEND:20260915T130000Z
+DTSTAMP:20260912T084157Z
+UID:bca188d816e919ebfe60b3f2@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nCausal discovery from observational da
+ ta remains a challenge in the study of the physics of complex systems\, wh
+ ere causal relationships must be inferred without controlled interventions
+  or prior knowledge of the underlying mechanisms. A major obstacle is the 
+ presence of hidden common causes\, which can induce statistical dependenci
+ es between variables and thereby confound causal claims.Here\, we dis\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/control-t
+ heory-for-causal-discovery/
+LAST-MODIFIED:20260912T084157Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/control-theory-for-causal-discovery/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WEdnesday SALON – AI and the End of Work (Again)
 DTSTART:20260916T180000Z
 DTEND:20260916T200000Z
