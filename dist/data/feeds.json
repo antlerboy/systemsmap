@@ -2,7 +2,7 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 176
+    "events": 178
   },
   {
     "id": "online",
@@ -12,12 +12,12 @@
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 99
+    "events": 101
   },
   {
     "id": "topic-cybernetics",
     "name": "Cybernetics",
-    "events": 62
+    "events": 63
   },
   {
     "id": "topic-complexity",
@@ -57,7 +57,7 @@
   {
     "id": "org-community",
     "name": "Cybernetics and Systems Community Calendar",
-    "events": 34
+    "events": 35
   },
   {
     "id": "org-ifsr",
@@ -107,7 +107,7 @@
   {
     "id": "org-metaphorum",
     "name": "Metaphorum",
-    "events": 23
+    "events": 24
   },
   {
     "id": "org-wosc",
@@ -177,7 +177,7 @@
   {
     "id": "org-sociocracy",
     "name": "Sociocracy For All",
-    "events": 16
+    "events": 17
   },
   {
     "id": "org-incose",
