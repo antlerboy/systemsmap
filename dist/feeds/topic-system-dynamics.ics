@@ -387,6 +387,84 @@ URL:https://systemdynamics.org/event/sds-policy-council-meeting-september-
  2026/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Health Policy SIG Annual Membership Meeting
+DTSTART:20260924T150000Z
+DTEND:20260924T160000Z
+DTSTAMP:20260914T095825Z
+UID:95b7102ec7faf38f4577c24a@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nJoin the System Dynamics Society’s 
+ Health Policy SIG for our annual membership meeting. We’ll share updates
+ \, welcome new and returning members\, and discuss priorities\, ideas\, an
+ d activities for the year ahead. All members and anyone interested in heal
+ th-related system dynamics are welcome.\nLanguage: Not specified\nLanguage
+  requirements: Not specified\nInterpretation: Not specified\nAccess: See o
+ rganiser\nhttps://systemdynamics.org/event/health-policy-sig-annual-member
+ ship-meeting/
+LAST-MODIFIED:20260914T095825Z
+LOCATION:https://systemdynamics.org/event/health-policy-sig-annual-members
+ hip-meeting/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/health-policy-sig-annual-membership-m
+ eeting/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systems Thinking in K-12 Education: Experiences from South Korea\,
+  Taiwan\, and Türkiye (Asia–Pacific)
+DTSTART:20260924T040000Z
+DTEND:20260924T050000Z
+DTSTAMP:20260914T095825Z
+UID:0eda91c0791479dd9570878c@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nDear Colleagues\, We are excited to i
+ nvite you to our free webinars\, Systems Thinking in K-12 Education: Exper
+ iences from South Korea\, Taiwan\, and Türkiye\, on Thursday\, September 
+ 24\, at 1:00 p.m. New York (EDT) and Friday\, September 25\, at 1:00 p.m. 
+ South Korea. The Pre-College Special Interest Group invites you to a speci
+ alized webinar exploring how systems thinking (ST) and system dynamics (SD
+ ) c\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
+ retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
+ /event/systems-thinking-in-k-12-education-experiences-from-south-korea-tai
+ wan-and-turkiye-asia-pacific/
+LAST-MODIFIED:20260914T095825Z
+LOCATION:https://systemdynamics.org/event/systems-thinking-in-k-12-educati
+ on-experiences-from-south-korea-taiwan-and-turkiye-asia-pacific/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/systems-thinking-in-k-12-education-ex
+ periences-from-south-korea-taiwan-and-turkiye-asia-pacific/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systems Thinking in K-12 Education: Experiences from South Korea\,
+  Taiwan\, and Türkiye (Africa\, Americas & Europe)
+DTSTART:20260924T170000Z
+DTEND:20260924T180000Z
+DTSTAMP:20260914T095825Z
+UID:a1368fde28cae177ecddcd31@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nDear Colleagues\, We are excited to i
+ nvite you to our free webinars\, Systems Thinking in K-12 Education: Exper
+ iences from South Korea\, Taiwan\, and Türkiye\, on Thursday\, September 
+ 24\, at 1:00 p.m. New York (EDT) and Friday\, September 25\, at 1:00 p.m. 
+ South Korea. The Pre-College Special Interest Group invites you to a speci
+ alized webinar exploring how systems thinking (ST) and system dynamics (SD
+ ) c\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
+ retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
+ /event/systems-thinking-in-k-12-education-experiences-from-south-korea-tai
+ wan-and-turkiye-africa-americas-europe/
+LAST-MODIFIED:20260914T095825Z
+LOCATION:https://systemdynamics.org/event/systems-thinking-in-k-12-educati
+ on-experiences-from-south-korea-taiwan-and-turkiye-africa-americas-europe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/systems-thinking-in-k-12-education-ex
+ periences-from-south-korea-taiwan-and-turkiye-africa-americas-europe/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:From Bees to Feedback Loops: Building Systems Literacy from Childh
  ood to Leadership
 DTSTART:20260929T150000Z
@@ -571,19 +649,18 @@ BEGIN:VEVENT
 SUMMARY:SDS Policy Council November
 DTSTART:20261119T160000Z
 DTEND:20261119T173000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:43fb78f4326cb77f4c4c6107@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
  l occur on the 3rd Thursday of the month with the exception of conference 
  month and holiday weeks. All Society members are welcome to attend. Login 
  to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/sds-policy-council-november/
-LAST-MODIFIED:20260910T223446Z
+  prior to the start of the meeting.\nLanguage: Not specified\nLanguage req
+ uirements: Not specified\nInterpretation: Not specified\nAccess: See organ
+ iser\nhttps://systemdynamics.org/event/sds-policy-council-november/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/sds-policy-council-november/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -594,20 +671,20 @@ SUMMARY:The Next Generation of Systems Mapping: From Insight to Interventi
  on
 DTSTART:20261124T160000Z
 DTEND:20261124T170000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:9461af3c6b41bf4463fbc834@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity,System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/the-next-generation-of-systems-ma
- pping-from-insight-to-intervention/
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nNovember 24\, 2026 at 11 am NY | 4 pm
+  London | Check Your Time Zone As systems mapping has grown in popularity
+ \, an important challenge remains: once a map has been created\, where sho
+ uld intervention occur? The Qualitative Systems Exploration Model (QSEM) i
+ s an advanced methodological and software approach designed to help addres
+ s this question by enabling users to map\, explore\, and analyse complex 
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
+ ent/the-next-generation-of-systems-mapping-from-insight-to-intervention/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/the-next-generation-of-systems-m
  apping-from-insight-to-intervention/
 STATUS:CONFIRMED
@@ -619,20 +696,20 @@ BEGIN:VEVENT
 SUMMARY:Winter Simulation Conference - WSC 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:84ba6ab1cc55be569a831beb@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/winter-simulation-conference-wsc-
- 2026/\nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nStarts: Dec 6\, 2026 09:00 (UTC) Ends
+ : Dec 9\, 2026 17:00 (UTC) Location: Scottish Event Campus | SEC Centre Ex
+ hibition Way Glasgow\, Scotland\, G3 8YW CONFERENCE PAGE LINK: https://con
+ nect.informs.org/events/event-description?CalendarEventKey=ee46557f-68b4-4
+ 194-8d29-01954ea33cf5&Home=%2Fcommunities%2Fcommunity-home%2Frecent-commun
+ ity-events\nLanguage: Not specified\nLanguage requirements: Not specified
+ \nInterpretation: Not specified\nAccess: See organiser\nhttps://systemdyna
+ mics.org/event/winter-simulation-conference-wsc-2026/\nDate-only listing\;
+  check the organiser for session times.
+LAST-MODIFIED:20260914T095825Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -643,20 +720,20 @@ BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20261208T160000Z
 DTEND:20261208T170000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:affe222c71d2f7c459c39f5f@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-t
- ask-force-monthly-meeting-2/2026-12-08/
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
+  London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please logi
+ n to see the Zoom link. A button to join the meeting will be shown to logg
+ ed in users. These monthly meetings\, led by the AI in System Dynamics Edu
+ cation Task Force of the Pre-College Education Special Interest Group\, pr
+ ovide a space to collaborate on the responsible integration of artifi\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2026-12-08/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2026-12-08/
 STATUS:CONFIRMED
@@ -669,20 +746,20 @@ SUMMARY:Using Laboratory Experiments to Study Decision-Making in Dynamic S
  ystems
 DTSTART:20261215T160000Z
 DTEND:20261215T170000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:544d3335c81985ece80477cd@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/using-laboratory-experiments-to-s
- tudy-decision-making-in-dynamic-systems/
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nDecember 15\, 2026 at 11 am New York 
+ | 4 pm London | 12 am Beijing | Time Converter Laboratory experiments offe
+ r a powerful way to study how people use available information and prior k
+ nowledge when making decisions in dynamic systems. In management research
+ \, these experiments can be structured around an objective and a set of sy
+ stem constraints\, while observing actual decision behavior rather than\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
+ /using-laboratory-experiments-to-study-decision-making-in-dynamic-systems/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://us02web.zoom.us/j/86747150832
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -693,19 +770,18 @@ BEGIN:VEVENT
 SUMMARY:SDS Policy Council December
 DTSTART:20261217T160000Z
 DTEND:20261217T173000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:460f3efc02ea15fe806594a5@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
  l occur on the 3rd Thursday of the month with the exception of conference 
  month and holiday weeks. All Society members are welcome to attend. Login 
  to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/sds-policy-council-december/
-LAST-MODIFIED:20260910T223446Z
+  prior to the start of the meeting.\nLanguage: Not specified\nLanguage req
+ uirements: Not specified\nInterpretation: Not specified\nAccess: See organ
+ iser\nhttps://systemdynamics.org/event/sds-policy-council-december/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/sds-policy-council-december/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -715,20 +791,21 @@ BEGIN:VEVENT
 SUMMARY:Systems Young Investigator Award Deadline
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:5a4e9833c2d8e2a0f2c34269@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/systems-young-investigator-award-
- deadline/\nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nYoung Investigator Award This award w
+ ill be given to one young investigator in recognition of their excellence 
+ in the field of systems. The deadline for nominations is 31 December 2026.
+  Prize: – CHF 1000\; – An electronic certificate\; – A voucher to wa
+ ive the Article Processing Charges (APCs) for one submission in the journa
+ l (subject to peer review)—valid for one year. Please review the Young I
+ nve\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
+ retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
+ /event/systems-young-investigator-award-deadline/\nDate-only listing\; che
+ ck the organiser for session times.
+LAST-MODIFIED:20260914T095825Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -739,20 +816,20 @@ BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20270112T160000Z
 DTEND:20270112T170000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:000383ba69115bb5e641a4bc@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-t
- ask-force-monthly-meeting-2/2027-01-12/
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
+  London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please logi
+ n to see the Zoom link. A button to join the meeting will be shown to logg
+ ed in users. These monthly meetings\, led by the AI in System Dynamics Edu
+ cation Task Force of the Pre-College Education Special Interest Group\, pr
+ ovide a space to collaborate on the responsible integration of artifi\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-01-12/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-01-12/
 STATUS:CONFIRMED
@@ -765,20 +842,20 @@ SUMMARY:Generative Agent-Based Models: Simulating Quasi-Autonomous AI Agen
  ts
 DTSTART:20270112T160000Z
 DTEND:20270112T170000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:a0ff0f0d2c77d4153a8b5cff@systemsmap.antlerboy.com
-SEQUENCE:1
-CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/generative-agent-based-models-sim
- ulating-quasi-autonomous-ai-agents/
-LAST-MODIFIED:20260910T223446Z
+SEQUENCE:2
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nJanuary 12\, 2027 at 11 am New York |
+  4 pm London | Time Converter Generative artificial intelligence creates n
+ ew possibilities for representing human cognition and decision making in c
+ omputational models of social systems. Generative agent-based models (GABM
+ s) integrate large language models into agent-based simulations\, allowing
+  simulated agents to interpret context\, form intentions\, and interact\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
+ /generative-agent-based-models-simulating-quasi-autonomous-ai-agents/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://us02web.zoom.us/j/89002602905
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -789,20 +866,20 @@ BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20270209T160000Z
 DTEND:20270209T170000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:99a5f90e89a0632b36183ed2@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-t
- ask-force-monthly-meeting-2/2027-02-09/
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
+  London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please logi
+ n to see the Zoom link. A button to join the meeting will be shown to logg
+ ed in users. These monthly meetings\, led by the AI in System Dynamics Edu
+ cation Task Force of the Pre-College Education Special Interest Group\, pr
+ ovide a space to collaborate on the responsible integration of artifi\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-02-09/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-02-09/
 STATUS:CONFIRMED
@@ -814,20 +891,20 @@ BEGIN:VEVENT
 SUMMARY:Oceania Chapter: 2027 Systems Thinking & Modelling Symposium​
 DTSTART:20270210T230000Z
 DTEND:20270212T060000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:efc297f629367b9b25ff0780@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/oceania-chapter-2027-systems-thin
- king-modelling-symposium/
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nHYBRID EVENT 12 February 2027\, 10:00
+  am-5:00 pm – UNSW Canberra City (Reid) and online We invite you to join
+  us for the 2027 Oceania Chapter Symposium to learn about current work app
+ lying systems thinking and system dynamics modelling within industry\, gov
+ ernment\, and academia. Symposium Information Cost Registration is free. L
+ ocation In person: UNSW Canberra City Lecture Theatre 00.25\, Ground floo
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
+ ent/oceania-chapter-2027-systems-thinking-modelling-symposium/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:UNSW canberra\, UNSW Canberra City\, 37 Constitution Ave\, Reid A
  CT 2612\, Australia\, ACT\, 2612\, Australia
 STATUS:CONFIRMED
@@ -839,20 +916,20 @@ BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20270309T160000Z
 DTEND:20270309T170000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:65a3612bc6956e8c48ecd80f@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-t
- ask-force-monthly-meeting-2/2027-03-09/
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
+  London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please logi
+ n to see the Zoom link. A button to join the meeting will be shown to logg
+ ed in users. These monthly meetings\, led by the AI in System Dynamics Edu
+ cation Task Force of the Pre-College Education Special Interest Group\, pr
+ ovide a space to collaborate on the responsible integration of artifi\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-03-09/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-03-09/
 STATUS:CONFIRMED
@@ -864,20 +941,21 @@ BEGIN:VEVENT
 SUMMARY:Systems Travel Award Deadline
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:8571c909cf05e38e5ae4501f@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/systems-travel-award-deadline/\nD
- ate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nThis award provides financial support
+  for one PhD student or postdoctoral fellow to attend an international con
+ ference in the field of systems\, to be held in 2027\, in order to deliver
+  a presentation\, present a poster\, or both. The deadline for application
+ s is 31 March 2027. Prize: – CHF 500\; – An electronic certificate. Pl
+ ease review the Travel Award guidelines at https://www.mdpi.com/journal/sy
+ st\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
+ etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
+ event/systems-travel-award-deadline/\nDate-only listing\; check the organi
+ ser for session times.
+LAST-MODIFIED:20260914T095825Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -887,20 +965,20 @@ BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20270413T150000Z
 DTEND:20270413T160000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:ad52d10e476e16654760f737@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-t
- ask-force-monthly-meeting-2/2027-04-13/
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
+  London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please logi
+ n to see the Zoom link. A button to join the meeting will be shown to logg
+ ed in users. These monthly meetings\, led by the AI in System Dynamics Edu
+ cation Task Force of the Pre-College Education Special Interest Group\, pr
+ ovide a space to collaborate on the responsible integration of artifi\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-04-13/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-04-13/
 STATUS:CONFIRMED
@@ -912,20 +990,20 @@ BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20270511T150000Z
 DTEND:20270511T160000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:f52766894bb0c2230687cc43@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-t
- ask-force-monthly-meeting-2/2027-05-11/
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
+  London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please logi
+ n to see the Zoom link. A button to join the meeting will be shown to logg
+ ed in users. These monthly meetings\, led by the AI in System Dynamics Edu
+ cation Task Force of the Pre-College Education Special Interest Group\, pr
+ ovide a space to collaborate on the responsible integration of artifi\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-05-11/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-05-11/
 STATUS:CONFIRMED
@@ -937,20 +1015,20 @@ BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20270608T150000Z
 DTEND:20270608T160000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:635bb73c200d85eac1ac3db2@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-t
- ask-force-monthly-meeting-2/2027-06-08/
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
+  London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please logi
+ n to see the Zoom link. A button to join the meeting will be shown to logg
+ ed in users. These monthly meetings\, led by the AI in System Dynamics Edu
+ cation Task Force of the Pre-College Education Special Interest Group\, pr
+ ovide a space to collaborate on the responsible integration of artifi\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-06-08/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-06-08/
 STATUS:CONFIRMED
@@ -974,7 +1052,9 @@ DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
  hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
  equirements: Not specified\nInterpretation: Not specified\nAccess: See org
  aniser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-t
- ask-force-monthly-meeting-2/2027-07-13/
+ ask-force-monthly-meeting-2/2027-07-13/\nNo longer found in the latest sou
+ rce listing\; confirmation needed.\nThis event could not be rechecked on t
+ he latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260910T223446Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-07-13/
@@ -999,7 +1079,9 @@ DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
  hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
  equirements: Not specified\nInterpretation: Not specified\nAccess: See org
  aniser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-t
- ask-force-monthly-meeting-2/2027-08-10/
+ ask-force-monthly-meeting-2/2027-08-10/\nNo longer found in the latest sou
+ rce listing\; confirmation needed.\nThis event could not be rechecked on t
+ he latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260910T223446Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-08-10/
@@ -1024,7 +1106,9 @@ DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
  hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
  equirements: Not specified\nInterpretation: Not specified\nAccess: See org
  aniser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-t
- ask-force-monthly-meeting-2/2027-09-14/
+ ask-force-monthly-meeting-2/2027-09-14/\nNo longer found in the latest sou
+ rce listing\; confirmation needed.\nThis event could not be rechecked on t
+ he latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260910T223446Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-09-14/

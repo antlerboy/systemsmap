@@ -6,25 +6,6 @@ X-WR-CALNAME:Complexity
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:CECAN Webinar – Testing\, Learning and Adapting: Introducing the
-  New Test and Learn Annex to the Magenta Book
-DTSTART:20260615T120000Z
-DTSTAMP:20260906T191842Z
-UID:82b5b2e91de670fe1d51d2ba@systemsmap.antlerboy.com
-SEQUENCE:1
-CATEGORIES:Complexity,Systems thinking
-DESCRIPTION:CECAN\n\nLanguage: Not specified\nLanguage requirements: Not s
- pecified\nInterpretation: Not specified\nAccess: See organiser\nhttps://ww
- w.cecan.ac.uk/events/cecan-webinar-testing-learning-and-adapting-introduci
- ng-the-new-test-and-learn-annex-to-the-magenta-book/
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Online
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cecan.ac.uk/events/cecan-webinar-testing-learning-and-adap
- ting-introducing-the-new-test-and-learn-annex-to-the-magenta-book/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The 2026 Summer School of the International Society for the System
  s Sciences (Pyla\, Cyprus) (ISSS)
 DTSTART;VALUE=DATE:20260617
@@ -653,9 +634,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260913T093647Z
+DTSTAMP:20260914T095825Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:7
+SEQUENCE:8
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -664,7 +645,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260913T093647Z
+LAST-MODIFIED:20260914T095825Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -876,20 +857,20 @@ SUMMARY:The Next Generation of Systems Mapping: From Insight to Interventi
  on
 DTSTART:20261124T160000Z
 DTEND:20261124T170000Z
-DTSTAMP:20260910T223446Z
+DTSTAMP:20260914T095825Z
 UID:9461af3c6b41bf4463fbc834@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity,System dynamics
-DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
- l occur on the 3rd Thursday of the month with the exception of conference 
- month and holiday weeks. All Society members are welcome to attend. Login 
- to access the zoom link which will be displayed here to members 15 minutes
-  prior to the start of the meeting. To access this content\, you must purc
- hase Society Membership Subscription.\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/the-next-generation-of-systems-ma
- pping-from-insight-to-intervention/
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:System Dynamics Society\nNovember 24\, 2026 at 11 am NY | 4 pm
+  London | Check Your Time Zone As systems mapping has grown in popularity
+ \, an important challenge remains: once a map has been created\, where sho
+ uld intervention occur? The Qualitative Systems Exploration Model (QSEM) i
+ s an advanced methodological and software approach designed to help addres
+ s this question by enabling users to map\, explore\, and analyse complex 
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
+ ent/the-next-generation-of-systems-mapping-from-insight-to-intervention/
+LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/the-next-generation-of-systems-m
  apping-from-insight-to-intervention/
 STATUS:CONFIRMED
@@ -915,5 +896,30 @@ LOCATION:Spain\, Granada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://cssociety.org/event/48d831be-35b8-4789-81ed-6ef517743032/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Generative Agent-Based Models: Simulating Quasi-Autonomous AI Agen
+ ts
+DTSTART:20270112T160000Z
+DTEND:20270112T170000Z
+DTSTAMP:20260914T095825Z
+UID:a0ff0f0d2c77d4153a8b5cff@systemsmap.antlerboy.com
+SEQUENCE:2
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nJanuary 12\, 2027 at 11 am New York |
+  4 pm London | Time Converter Generative artificial intelligence creates n
+ ew possibilities for representing human cognition and decision making in c
+ omputational models of social systems. Generative agent-based models (GABM
+ s) integrate large language models into agent-based simulations\, allowing
+  simulated agents to interpret context\, form intentions\, and interact\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
+ /generative-agent-based-models-simulating-quasi-autonomous-ai-agents/
+LAST-MODIFIED:20260914T095825Z
+LOCATION:https://us02web.zoom.us/j/89002602905
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/generative-agent-based-models-simulat
+ ing-quasi-autonomous-ai-agents/
 END:VEVENT
 END:VCALENDAR

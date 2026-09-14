@@ -2,7 +2,7 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 178
+    "events": 181
   },
   {
     "id": "online",
@@ -27,7 +27,7 @@
   {
     "id": "topic-system-dynamics",
     "name": "System dynamics",
-    "events": 47
+    "events": 50
   },
   {
     "id": "topic-systemic-design",
@@ -87,7 +87,7 @@
   {
     "id": "org-system-dynamics",
     "name": "System Dynamics Society",
-    "events": 47
+    "events": 50
   },
   {
     "id": "org-santa-fe",
@@ -142,7 +142,7 @@
   {
     "id": "org-cecan",
     "name": "CECAN",
-    "events": 3
+    "events": 2
   },
   {
     "id": "org-iscpif",
@@ -177,7 +177,7 @@
   {
     "id": "org-sociocracy",
     "name": "Sociocracy For All",
-    "events": 17
+    "events": 18
   },
   {
     "id": "org-incose",
