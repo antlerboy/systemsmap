@@ -206,6 +206,29 @@ URL:https://csh.ac.at/events/postdoc-appreciation-week-austria-paw-data-vi
  sualization-crash-course/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Two Routes to Silicon Sampling
+DTSTART:20260923T150000Z
+DTEND:20260923T160000Z
+DTSTAMP:20260915T092934Z
+UID:ae50d44021739e27d1ec20b6@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nLarge language models are increasingly
+  used as substitutes for human participants. I distinguish two routes to s
+ uch silicon samples: foundation models fine-tuned on behavioral data\, and
+  off-the-shelf models steered by persona prompts. On the first route\, I d
+ iscuss Centaur\, a language model fine-tuned on human choices from many be
+ havioral experiments\, which predicts decisions better than establishe\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/two-rout
+ es-to-silicon-sampling/
+LAST-MODIFIED:20260915T092934Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/two-routes-to-silicon-sampling/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Evolution of gender diversity in Computer Science and Physics conf
  erences
 DTSTART:20260928T150000Z

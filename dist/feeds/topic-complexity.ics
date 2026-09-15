@@ -344,7 +344,9 @@ CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/reunion
- -jugement-majoritaire-2/
+ -jugement-majoritaire-2/\nNo longer found in the latest source listing\; c
+ onfirmation needed.\nThis event could not be rechecked on the latest colle
+ ction. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -392,7 +394,9 @@ DESCRIPTION:System Dynamics Society\nTuesday\, September 15 at 11 am New Y
  erview This webinar goes on to explain the mechanisms by which collaborati
  on\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
  etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
- event/implementing-the-self-managing-enterprise-with-agentic-ai/
+ event/implementing-the-self-managing-enterprise-with-agentic-ai/\nNo longe
+ r found in the latest source listing\; confirmation needed.\nThis event co
+ uld not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260910T090026Z
 LOCATION:https://us02web.zoom.us/j/87049920798
 STATUS:CONFIRMED
@@ -590,6 +594,29 @@ URL:https://csh.ac.at/events/postdoc-appreciation-week-austria-paw-data-vi
  sualization-crash-course/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Two Routes to Silicon Sampling
+DTSTART:20260923T150000Z
+DTEND:20260923T160000Z
+DTSTAMP:20260915T092934Z
+UID:ae50d44021739e27d1ec20b6@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nLarge language models are increasingly
+  used as substitutes for human participants. I distinguish two routes to s
+ uch silicon samples: foundation models fine-tuned on behavioral data\, and
+  off-the-shelf models steered by persona prompts. On the first route\, I d
+ iscuss Centaur\, a language model fine-tuned on human choices from many be
+ havioral experiments\, which predicts decisions better than establishe\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/two-rout
+ es-to-silicon-sampling/
+LAST-MODIFIED:20260915T092934Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/two-routes-to-silicon-sampling/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TwinFarms : comité de suivi à 18 mois
 DTSTART:20260924T060000Z
 DTEND:20260924T150000Z
@@ -631,12 +658,66 @@ URL:https://iscpif.fr/evenements/reunion-pleniere-finale-du-projet-systeme
  -complexe-beecome2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Systems Thinking in K-12 Education: Experiences from South Korea\,
+  Taiwan\, and Türkiye (Asia–Pacific)
+DTSTART:20260924T040000Z
+DTEND:20260924T050000Z
+DTSTAMP:20260914T095825Z
+UID:0eda91c0791479dd9570878c@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nDear Colleagues\, We are excited to i
+ nvite you to our free webinars\, Systems Thinking in K-12 Education: Exper
+ iences from South Korea\, Taiwan\, and Türkiye\, on Thursday\, September 
+ 24\, at 1:00 p.m. New York (EDT) and Friday\, September 25\, at 1:00 p.m. 
+ South Korea. The Pre-College Special Interest Group invites you to a speci
+ alized webinar exploring how systems thinking (ST) and system dynamics (SD
+ ) c\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
+ retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
+ /event/systems-thinking-in-k-12-education-experiences-from-south-korea-tai
+ wan-and-turkiye-asia-pacific/
+LAST-MODIFIED:20260914T095825Z
+LOCATION:https://systemdynamics.org/event/systems-thinking-in-k-12-educati
+ on-experiences-from-south-korea-taiwan-and-turkiye-asia-pacific/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/systems-thinking-in-k-12-education-ex
+ periences-from-south-korea-taiwan-and-turkiye-asia-pacific/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systems Thinking in K-12 Education: Experiences from South Korea\,
+  Taiwan\, and Türkiye (Africa\, Americas & Europe)
+DTSTART:20260924T170000Z
+DTEND:20260924T180000Z
+DTSTAMP:20260914T095825Z
+UID:a1368fde28cae177ecddcd31@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nDear Colleagues\, We are excited to i
+ nvite you to our free webinars\, Systems Thinking in K-12 Education: Exper
+ iences from South Korea\, Taiwan\, and Türkiye\, on Thursday\, September 
+ 24\, at 1:00 p.m. New York (EDT) and Friday\, September 25\, at 1:00 p.m. 
+ South Korea. The Pre-College Special Interest Group invites you to a speci
+ alized webinar exploring how systems thinking (ST) and system dynamics (SD
+ ) c\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
+ retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
+ /event/systems-thinking-in-k-12-education-experiences-from-south-korea-tai
+ wan-and-turkiye-africa-americas-europe/
+LAST-MODIFIED:20260914T095825Z
+LOCATION:https://systemdynamics.org/event/systems-thinking-in-k-12-educati
+ on-experiences-from-south-korea-taiwan-and-turkiye-africa-americas-europe/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/systems-thinking-in-k-12-education-ex
+ periences-from-south-korea-taiwan-and-turkiye-africa-americas-europe/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260914T095825Z
+DTSTAMP:20260915T092934Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:8
+SEQUENCE:9
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -645,7 +726,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260914T095825Z
+LAST-MODIFIED:20260915T092934Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
