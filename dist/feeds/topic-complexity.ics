@@ -6,26 +6,29 @@ X-WR-CALNAME:Complexity
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:The 2026 Summer School of the International Society for the System
- s Sciences (Pyla\, Cyprus) (ISSS)
+SUMMARY:2026 International Conference on the Science of Dialogic Design: S
+ ymposia for Scientists and Practitioners (The Cyprus Presidency The Global
+  Agoras (Institute for 21st Century Agoras) The Hellenic Society for Syste
+ mic Studies The European Union for Systemics)
 DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260618
-DTSTAMP:20260909T082311Z
+DTEND;VALUE=DATE:20260620
+DTSTAMP:20260916T092203Z
 UID:10db3efe03a92ed580c6c5e7@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Complexity,Cybernetics,Systems thinking
-DESCRIPTION:ISSS\nWho: ISSS The **The 2026 Summer School of the Internatio
- nal Society for the Systems Sciences (Pyla\, Cyprus)** is scheduled back-t
- o-back with the 70th_(2026)_Annual_Meeting_of_the_International_Society_fo
- r_the_Systems_Sciences\,_Cyprus: https://futureworlds.eu/wiki/70th_(2026_A
- nnual_Meeting_of_the_International_Society_for_the_Systems_Sciences\,_Cypr
- us "70th (2026) Annual Meeting of the International\nLanguage: Not specifi
- ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
- ccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
- \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20260909T082311Z
-LOCATION:UCLAN Campus Pyla Cyprus https://maps.app.goo.gl/gj8bFFjNnhD7Fcyu
- 6
+DESCRIPTION:The Cyprus Presidency\\nThe Global Agoras (Institute for 21st 
+ Century Agoras)\\nThe Hellenic Society for Systemic Studies\\nThe European
+  Union for Systemics\nWho: The Cyprus Presidency The Global Agoras (Instit
+ ute for 21st Century Agoras) The Hellenic Society for Systemic Studies The
+  European Union for Systemics The **2026 International Conference on the S
+ cience of Dialogic Design: Symposia for Scientists and Practitioners** wil
+ l take place in Pyla\, Cyprus\, in parallel to The_2026_Summer_School_of_t
+ he_International_Society_for_the_Systems_Sciences_(Pyl\nLanguage: Not spec
+ ified\nLanguage requirements: Not specified\nInterpretation: Not specified
+ \nAccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.
+ ics\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20260916T092203Z
+LOCATION:Pyla Cyprus
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
@@ -134,7 +137,9 @@ DESCRIPTION:The South Africa System Dynamics Chapter (SASDC)\n<p>The Learn
  …]</p>\\n\nLanguage: Not specified\nLanguage requirements: Not specified
  \nInterpretation: Not specified\nAccess: See organiser\nhttps://systemdyna
  mics.org/event/system-dynamics-learning-hub-2026-sasdc-stream-3-pollution-
- dynamics-session-1/
+ dynamics-session-1/\nNo longer found in the latest source listing\; confir
+ mation needed.\nThis event could not be rechecked on the latest collection
+ . Confirm with the organiser.
 LAST-MODIFIED:20260910T090026Z
 LOCATION:Location not published
 STATUS:CONFIRMED
@@ -370,7 +375,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nL’inf
  iabiliser\, valoriser et sécuriser leurs fl\nLanguage: Not specified\nLan
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://iscpif.fr/evenements/formation-gestion-de-donnees-d
- e-phenotypage/
+ e-phenotypage/\nNo longer found in the latest source listing\; confirmatio
+ n needed.\nThis event could not be rechecked on the latest collection. Con
+ firm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -420,7 +427,9 @@ DESCRIPTION:Complexity Science Hub\nCausal discovery from observational da
  es between variables and thereby confound causal claims.Here\, we dis\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/control-t
- heory-for-causal-discovery/
+ heory-for-causal-discovery/\nNo longer found in the latest source listing
+ \; confirmation needed.\nThis event could not be rechecked on the latest c
+ ollection. Confirm with the organiser.
 LAST-MODIFIED:20260912T084157Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
@@ -715,9 +724,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260915T092934Z
+DTSTAMP:20260916T092203Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:9
+SEQUENCE:10
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -726,7 +735,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260915T092934Z
+LAST-MODIFIED:20260916T092203Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -934,6 +943,33 @@ URL:https://www.cecan.ac.uk/events/cecan-webinar-place-based-evaluation-is
  -missing-the-point-about-place/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Earth Has Humans\, but What Kind? Endogenizing Behaviour in Cl
+ imate Models
+DTSTART:20261020T100000Z
+DTEND:20261020T110000Z
+DTSTAMP:20260916T092203Z
+UID:ebb55d1fb4153264a25468c5@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nWelcome to the next Chapter meeting! 
+ Agenda: – Presentation of the new leadership since ISDC 2026 (Anna and G
+ inevra) – Updates on ongoing events and activities – Presentation by J
+ efferson Rajah (see abstract below) Would you like to engage in the Chapte
+ r leadership team? Welcome to contact us! Do you have activities you want 
+ to share with the chapter? Send an email\, and we’ll bring it up on the 
+ me\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
+ etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
+ event/the-earth-has-humans-but-what-kind-endogenizing-behaviour-in-climate
+ -models/
+LAST-MODIFIED:20260916T092203Z
+LOCATION:https://systemdynamics.org/event/the-earth-has-humans-but-what-ki
+ nd-endogenizing-behaviour-in-climate-models/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/the-earth-has-humans-but-what-kind-en
+ dogenizing-behaviour-in-climate-models/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Next Generation of Systems Mapping: From Insight to Interventi
  on
 DTSTART:20261124T160000Z
@@ -1002,5 +1038,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/generative-agent-based-models-simulat
  ing-quasi-autonomous-ai-agents/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Workshop on Complex Systems - Application process OPEN!
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270123
+DTSTAMP:20260916T092203Z
+UID:f2af5be36a914c6de0b4e644@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complex Systems Society\n\nLanguage: Not specified\nLanguage r
+ equirements: Not specified\nInterpretation: Not specified\nAccess: See org
+ aniser\nhttps://cssociety.org/event/a8ad6479-58ac-4e93-8807-cba7de02ccbe/
+ \nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20260916T092203Z
+LOCATION:Briançon\, France\, Le Clos du Vas
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://cssociety.org/event/a8ad6479-58ac-4e93-8807-cba7de02ccbe/
 END:VEVENT
 END:VCALENDAR

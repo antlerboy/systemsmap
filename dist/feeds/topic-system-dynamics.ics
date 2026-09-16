@@ -46,7 +46,9 @@ DESCRIPTION:The South Africa System Dynamics Chapter (SASDC)\n<p>The Learn
  …]</p>\\n\nLanguage: Not specified\nLanguage requirements: Not specified
  \nInterpretation: Not specified\nAccess: See organiser\nhttps://systemdyna
  mics.org/event/system-dynamics-learning-hub-2026-sasdc-stream-3-pollution-
- dynamics-session-1/
+ dynamics-session-1/\nNo longer found in the latest source listing\; confir
+ mation needed.\nThis event could not be rechecked on the latest collection
+ . Confirm with the organiser.
 LAST-MODIFIED:20260910T090026Z
 LOCATION:Location not published
 STATUS:CONFIRMED
@@ -323,8 +325,8 @@ BEGIN:VEVENT
 SUMMARY:2026 Conference Proceedings Submission Deadline
 DTSTART:20260916T035900Z
 DTEND:20260916T035900Z
-DTSTAMP:20260910T090026Z
-UID:161f827f37b4dc2da6d0789b@systemsmap.antlerboy.com
+DTSTAMP:20260916T092203Z
+UID:f719a70d157505fe8bf92c3f@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nLast day for authors to update submis
@@ -332,11 +334,11 @@ DESCRIPTION:System Dynamics Society\nLast day for authors to update submis
  terials will be permanently and publicly available online after the close 
  of the conference. Poster\, parallel\, and plenary presenters are encourag
  ed to submit an extended abstract (or slides\, for practitioner applicatio
- ns) in lieu of the full paper for the Conference Proceedings so that t\nLa
- nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
- n: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/
- 2026-conference-proceedings-submission-deadline/
-LAST-MODIFIED:20260910T090026Z
+ ns) in lieu of the full paper for the […]\nLanguage: Not specified\nLang
+ uage requirements: Not specified\nInterpretation: Not specified\nAccess: S
+ ee organiser\nhttps://systemdynamics.org/event/2026-conference-proceedings
+ -submission-deadline/
+LAST-MODIFIED:20260916T092203Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -595,6 +597,33 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/sds-policy-council-meeting-october-20
  26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Earth Has Humans\, but What Kind? Endogenizing Behaviour in Cl
+ imate Models
+DTSTART:20261020T100000Z
+DTEND:20261020T110000Z
+DTSTAMP:20260916T092203Z
+UID:ebb55d1fb4153264a25468c5@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nWelcome to the next Chapter meeting! 
+ Agenda: – Presentation of the new leadership since ISDC 2026 (Anna and G
+ inevra) – Updates on ongoing events and activities – Presentation by J
+ efferson Rajah (see abstract below) Would you like to engage in the Chapte
+ r leadership team? Welcome to contact us! Do you have activities you want 
+ to share with the chapter? Send an email\, and we’ll bring it up on the 
+ me\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
+ etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
+ event/the-earth-has-humans-but-what-kind-endogenizing-behaviour-in-climate
+ -models/
+LAST-MODIFIED:20260916T092203Z
+LOCATION:https://systemdynamics.org/event/the-earth-has-humans-but-what-ki
+ nd-endogenizing-behaviour-in-climate-models/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/the-earth-has-humans-but-what-kind-en
+ dogenizing-behaviour-in-climate-models/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The 40th annual European Simulation and Modelling Conference - ESM

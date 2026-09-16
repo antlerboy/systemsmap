@@ -6,62 +6,29 @@ X-WR-CALNAME:Cybernetics
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:IRDO konferenca 2026
-DTSTART:20260616T070000Z
-DTEND:20260617T150000Z
-DTSTAMP:20260909T082311Z
-UID:b067b6cb36f6bb4cc865f26a@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Cybernetics,Systems thinking
-DESCRIPTION:Cybernetics and Systems Community Calendar\nThe Official Websi
- te: https://www.irdo.si/en/irdo-conference/ Participants can still registe
- r with the programme fixed.\nLanguage: Not specified\nLanguage requirement
- s: Not specified\nInterpretation: Not specified\nAccess: See organiser\nht
- tps://teamup.com/ksok8ra1xif3viq4no/events/2104129735
-LAST-MODIFIED:20260909T082311Z
-LOCATION:Razlagova ulica 20\, 2000 Maribor\, Slovenija
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://teamup.com/ksok8ra1xif3viq4no/events/2104129735
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The 2026 Summer School of the International Society for the System
- s Sciences (Pyla\, Cyprus) (ISSS)
+SUMMARY:2026 International Conference on the Science of Dialogic Design: S
+ ymposia for Scientists and Practitioners (The Cyprus Presidency The Global
+  Agoras (Institute for 21st Century Agoras) The Hellenic Society for Syste
+ mic Studies The European Union for Systemics)
 DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260618
-DTSTAMP:20260909T082311Z
+DTEND;VALUE=DATE:20260620
+DTSTAMP:20260916T092203Z
 UID:10db3efe03a92ed580c6c5e7@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Complexity,Cybernetics,Systems thinking
-DESCRIPTION:ISSS\nWho: ISSS The **The 2026 Summer School of the Internatio
- nal Society for the Systems Sciences (Pyla\, Cyprus)** is scheduled back-t
- o-back with the 70th_(2026)_Annual_Meeting_of_the_International_Society_fo
- r_the_Systems_Sciences\,_Cyprus: https://futureworlds.eu/wiki/70th_(2026_A
- nnual_Meeting_of_the_International_Society_for_the_Systems_Sciences\,_Cypr
- us "70th (2026) Annual Meeting of the International\nLanguage: Not specifi
- ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
- ccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
- \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20260909T082311Z
-LOCATION:UCLAN Campus Pyla Cyprus https://maps.app.goo.gl/gj8bFFjNnhD7Fcyu
- 6
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VSM-AI Special Integration Group
-DTSTART:20260617T160000Z
-DTEND:20260617T173000Z
-DTSTAMP:20260909T082311Z
-UID:4e7e1c3191c2bb4737353dda@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Cybernetics,Systems thinking
-DESCRIPTION:Metaphorum\n\nLanguage: Not specified\nLanguage requirements: 
- Not specified\nInterpretation: Not specified\nAccess: See organiser\nhttps
- ://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
-LAST-MODIFIED:20260909T082311Z
-LOCATION:Location not published
+DESCRIPTION:The Cyprus Presidency\\nThe Global Agoras (Institute for 21st 
+ Century Agoras)\\nThe Hellenic Society for Systemic Studies\\nThe European
+  Union for Systemics\nWho: The Cyprus Presidency The Global Agoras (Instit
+ ute for 21st Century Agoras) The Hellenic Society for Systemic Studies The
+  European Union for Systemics The **2026 International Conference on the S
+ cience of Dialogic Design: Symposia for Scientists and Practitioners** wil
+ l take place in Pyla\, Cyprus\, in parallel to The_2026_Summer_School_of_t
+ he_International_Society_for_the_Systems_Sciences_(Pyl\nLanguage: Not spec
+ ified\nLanguage requirements: Not specified\nInterpretation: Not specified
+ \nAccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.
+ ics\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20260916T092203Z
+LOCATION:Pyla Cyprus
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
@@ -314,9 +281,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260915T092934Z
+DTSTAMP:20260916T092203Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:13
+SEQUENCE:14
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -327,7 +294,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20260915T092934Z
+LAST-MODIFIED:20260916T092203Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -364,9 +331,9 @@ SUMMARY:Cybernetics in the Annex: Commemorating Stafford Beer’s Centenar
  y + Summer Conferences Recap
 DTSTART:20260908T223000Z
 DTEND:20260909T001500Z
-DTSTAMP:20260915T092934Z
+DTSTAMP:20260916T092203Z
 UID:2e96c1af7848b3132733a6fb@systemsmap.antlerboy.com
-SEQUENCE:18
+SEQUENCE:19
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  eer’s work on organisational viability and participatory decision-making
@@ -375,7 +342,7 @@ DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  Register for in-person attendance or the online link\nhttps://guild.host/e
  vents/cybernetics-in-the-annex-tbara6
-LAST-MODIFIED:20260915T092934Z
+LAST-MODIFIED:20260916T092203Z
 LOCATION:OCAD University\, 205 Richmond St W\, Room 115\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -393,7 +360,10 @@ CATEGORIES:Systems thinking,Cybernetics
 DESCRIPTION:SCiO Polska\n\nGeographic focus: Poland\nLanguage: Polish\nLan
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  All welcome\nhttps://www.systemspractice.org/events/pulapka-struktury-czyl
- i-jak-sposob-w-jaki-sie-organizujemy-determinuje-przestrzen-mozliwych
+ i-jak-sposob-w-jaki-sie-organizujemy-determinuje-przestrzen-mozliwych\nNo 
+ longer found in the latest source listing\; confirmation needed.\nThis eve
+ nt could not be rechecked on the latest collection. Confirm with the organ
+ iser.
 LAST-MODIFIED:20260913T093647Z
 LOCATION:Online event
 STATUS:CONFIRMED
@@ -508,9 +478,9 @@ BEGIN:VEVENT
 SUMMARY:Fire and Ice: The Conception\, Birth and Infancy of Cybernetics.
 DTSTART:20260924T120000Z
 DTEND:20260924T140000Z
-DTSTAMP:20260915T092934Z
+DTSTAMP:20260916T092203Z
 UID:79561815b13dfb8aa2a33fdb@systemsmap.antlerboy.com
-SEQUENCE:18
+SEQUENCE:19
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Digital Futures\, University of Manchester\nThe opening semina
  r in the nine-part ‘Meat the Machine’ series on the history of cyberne
@@ -519,7 +489,7 @@ DESCRIPTION:Digital Futures\, University of Manchester\nThe opening semina
  \nAccess: General public welcome\; registration required\nhttps://events.m
  anchester.ac.uk/event/event:r2y-ms8q8jbe-n4ev9n/fire-and-ice-the-conceptio
  n-birth-and-infancy-of-cybernetics
-LAST-MODIFIED:20260915T092934Z
+LAST-MODIFIED:20260916T092203Z
 LOCATION:University of Manchester\, Manchester\, United Kingdom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -530,9 +500,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260915T092934Z
+DTSTAMP:20260916T092203Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:9
+SEQUENCE:10
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -541,7 +511,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260915T092934Z
+LAST-MODIFIED:20260916T092203Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1058,9 +1028,9 @@ BEGIN:VEVENT
 SUMMARY:WOSC Congress: Addressing Planetary Challenges
 DTSTART:20270616T070000Z
 DTEND:20270618T140000Z
-DTSTAMP:20260915T092934Z
+DTSTAMP:20260916T092203Z
 UID:99998e0fda728e162d4a9f6c@systemsmap.antlerboy.com
-SEQUENCE:9
+SEQUENCE:10
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:World Organisation of Systems and Cybernetics (WOSC)\n\nLangua
  ge: Not specified\nLanguage requirements: Not specified\nInterpretation: N
@@ -1068,7 +1038,7 @@ DESCRIPTION:World Organisation of Systems and Cybernetics (WOSC)\n\nLangua
  wosc-congress-2026-addressing-planetary-challenges\nThe page title and URL
   retain 2026\, but its current Time & Location explicitly gives 16–18 Ju
  ne 2027. Confirm this discrepancy with WOSC before booking.
-LAST-MODIFIED:20260915T092934Z
+LAST-MODIFIED:20260916T092203Z
 LOCATION:Ekonomsko-poslovna fakulteta UM\, Razlagova ulica 20\, Maribor\, 
  Slovenia
 STATUS:CONFIRMED
