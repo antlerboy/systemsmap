@@ -69,7 +69,9 @@ DESCRIPTION:System Dynamics Society\n<p>Monthly meeting led by the AI in S
  grating AI into SD teaching.</p>\\n\nLanguage: Not specified\nLanguage req
  uirements: Not specified\nInterpretation: Not specified\nAccess: See organ
  iser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-tas
- k-force-monthly-meeting-2/2026-08-11/
+ k-force-monthly-meeting-2/2026-08-11/\nNo longer found in the latest sourc
+ e listing\; confirmation needed.\nThis event could not be rechecked on the
+  latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260910T090026Z
 LOCATION:Online
 STATUS:CONFIRMED
@@ -349,19 +351,19 @@ BEGIN:VEVENT
 SUMMARY:Economics SIG Online Seminar
 DTSTART:20260916T150000Z
 DTEND:20260916T160000Z
-DTSTAMP:20260910T090026Z
-UID:03b06983d7f6371cfedc13fe@systemsmap.antlerboy.com
+DTSTAMP:20260917T093127Z
+UID:425f98bd40b41459a0be854f@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nEconomics SIG Online Seminar Presente
- r: Prof.Khalid Saeed (Worchester Polytechnic Institute) Date and Time: Wed
- nesday\, September 16\, 11 AM (New York Time) Title: “An operational the
- ory of firm inspired by Forrester’s Industrial Dynamics”\nLanguage: No
- t specified\nLanguage requirements: Not specified\nInterpretation: Not spe
- cified\nAccess: See organiser\nhttps://systemdynamics.org/event/economics-
- sig-online-seminar/
-LAST-MODIFIED:20260910T090026Z
-LOCATION:https://systemdynamics.org/event/economics-sig-online-seminar/
+DESCRIPTION:Economics SIG of the System Dynamics Society\nEconomics SIG On
+ line Seminar Presenter: Prof.Khalid Saeed (Worchester Polytechnic Institut
+ e) Date and Time: Wednesday\, September 16\, 11 AM (New York Time) Title: 
+ “An operational theory of firm inspired by Forrester’s Industrial Dyna
+ mics”\nLanguage: Not specified\nLanguage requirements: Not specified\nIn
+ terpretation: Not specified\nAccess: See organiser\nhttps://systemdynamics
+ .org/event/economics-sig-online-seminar/
+LAST-MODIFIED:20260917T093127Z
+LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/economics-sig-online-seminar/
@@ -547,6 +549,30 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/ai-in-system-dynamics-education-task-
  force-monthly-meeting-2/2026-10-13/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Implementing the Self-Managing Enterprise with Agentic AI
+DTSTART:20261013T150000Z
+DTEND:20261013T160000Z
+DTSTAMP:20260917T093127Z
+UID:bece8ca08ec6065de0005e0a@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nTuesday\, October 13 at 11 am New Yor
+ k | 4 pm London | 11 pm Beijing This session builds on the June 2026 webin
+ ar “Agentic AI and the Self-Managing Enterprise” which showed how we 
+ – and AI agents – make decisions through policies that try to close a 
+ gap between a current state of the system and a target for that state. Ove
+ rview This webinar goes on to explain the mechanisms by which collaboratio
+ n a\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
+ retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
+ /event/implementing-the-self-managing-enterprise-with-agentic-ai/
+LAST-MODIFIED:20260917T093127Z
+LOCATION:https://us02web.zoom.us/j/87049920798
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/implementing-the-self-managing-enterp
+ rise-with-agentic-ai/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System Dynamics Learning Hub 2026 - SASDC - Stream 4 (Multi-echelo

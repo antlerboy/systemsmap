@@ -102,7 +102,9 @@ DESCRIPTION:Complexity Science Hub\nThe IAS-CSH Connection Workshop will b
  ing concrete ideas for future collaboration. We will discuss the many po\n
  Language: Not specified\nLanguage requirements: Not specified\nInterpretat
  ion: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/ias-cs
- h-connection-workshop/
+ h-connection-workshop/\nNo longer found in the latest source listing\; con
+ firmation needed.\nThis event could not be rechecked on the latest collect
+ ion. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -150,7 +152,9 @@ DESCRIPTION:Complexity Science Hub\nFrom the dawn of mechanization to the
  how it is organized\, and where it happens. Collectively\, this made us ri
  c\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpre
  tation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wed
- nesday-salon-with-ljubica-nedelkoska/
+ nesday-salon-with-ljubica-nedelkoska/\nNo longer found in the latest sourc
+ e listing\; confirmation needed.\nThis event could not be rechecked on the
+  latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -304,5 +308,31 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/from-fear-to-forecast-understanding-ai-swarms
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Bridge from Collective Motion to Social Behavior\, Migration\, a
+ nd Collective Decisions
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20260917T093127Z
+UID:33e7b7b68b2fe38bf91f2cd1@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nRapid\, unanticipated shifts in migran
+ t flows — whether triggered by conflict\, climate-related disasters\, or
+  economic pressures — pose acute challenges for governments and humanita
+ rian organizations. Explaining such shifts requires attention to how migra
+ tion decisions are made. It is well established that migrants seldom decid
+ e in isolation\, as they draw on information from others in their networks
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/a-br
+ idge-from-collective-motion-to-social-behavior-migration-and-collective-de
+ cisions/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20260917T093127Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/a-bridge-from-collective-motion-to-social-beh
+ avior-migration-and-collective-decisions/
 END:VEVENT
 END:VCALENDAR
