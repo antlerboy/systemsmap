@@ -2,7 +2,7 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 184
+    "events": 183
   },
   {
     "id": "online",
@@ -12,17 +12,17 @@
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 99
+    "events": 98
   },
   {
     "id": "topic-cybernetics",
     "name": "Cybernetics",
-    "events": 61
+    "events": 60
   },
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 47
+    "events": 46
   },
   {
     "id": "topic-system-dynamics",
@@ -57,7 +57,7 @@
   {
     "id": "org-community",
     "name": "Cybernetics and Systems Community Calendar",
-    "events": 33
+    "events": 32
   },
   {
     "id": "org-ifsr",
@@ -67,7 +67,7 @@
   {
     "id": "org-isss",
     "name": "International Society for the Systems Sciences (ISSS)",
-    "events": 9
+    "events": 8
   },
   {
     "id": "org-isss-lab",
