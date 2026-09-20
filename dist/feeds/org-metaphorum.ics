@@ -83,6 +83,29 @@ TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:100 Years of Stafford Beer: Celebrating his Life\, his Legacy and 
+ Beyond
+DTSTART:20260917T070000Z
+DTEND:20260919T140000Z
+DTSTAMP:20260920T092108Z
+UID:e529dc46fad5aa884b1fa9d2@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,Cybernetics,Systems thinking
+DESCRIPTION:Metaphorum\nMetaphorum 2026 marks the centenary of Stafford Be
+ er with a landmark international gathering dedicated to celebrating his li
+ fe\, legacy\, and continuing influence on organisational cybernetics. More
+  than fifty years after […]\nLanguage: Not specified\nLanguage requireme
+ nts: Not specified\nInterpretation: Not specified\nAccess: See organiser\n
+ https://ifsr.org/event/100-years-of-stafford-beer-celebrating-his-life-his
+ -legacy-and-beyond/
+LAST-MODIFIED:20260920T092108Z
+LOCATION:Alliance Manchester Business School\, Manchester\, United Kingdom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ifsr.org/event/100-years-of-stafford-beer-celebrating-his-life
+ -his-legacy-and-beyond/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VSM-AI Special Integration Group
 DTSTART:20261021T160000Z
 DTEND:20261021T173000Z
