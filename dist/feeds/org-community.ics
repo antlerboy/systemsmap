@@ -6,36 +6,6 @@ X-WR-CALNAME:Cybernetics and Systems Community Calendar
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:2026 International Conference on the Science of Dialogic Design: S
- ymposia for Scientists and Practitioners (The Cyprus Presidency The Global
-  Agoras (Institute for 21st Century Agoras) The Hellenic Society for Syste
- mic Studies The European Union for Systemics)
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260622
-DTSTAMP:20260919T085143Z
-UID:b7e8c1616c5b59584758fe0f@systemsmap.antlerboy.com
-SEQUENCE:4
-CATEGORIES:Complexity,Cybernetics,Systems thinking
-DESCRIPTION:The Cyprus Presidency\\nThe Global Agoras (Institute for 21st 
- Century Agoras)\\nThe Hellenic Society for Systemic Studies\\nThe European
-  Union for Systemics\nWho: The Cyprus Presidency The Global Agoras (Instit
- ute for 21st Century Agoras) The Hellenic Society for Systemic Studies The
-  European Union for Systemics The **2026 International Conference on the S
- cience of Dialogic Design: Symposia for Scientists and Practitioners** wil
- l take place in Pyla\, Cyprus\, in parallel to The_2026_Summer_School_of_t
- he_International_Society_for_the_Systems_Sciences_(Pyl\nLanguage: Not spec
- ified\nLanguage requirements: Not specified\nInterpretation: Not specified
- \nAccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.
- ics\nDate-only listing\; check the organiser for session times.\nNo longer
-  found in the latest source listing\; confirmation needed.\nThis event cou
- ld not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260919T085143Z
-LOCATION:Pyla Cyprus
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:70th (2026) Annual Meeting of the International Society for the Sy
  stems Sciences\, Cyprus (ISSS)
 DTSTART;VALUE=DATE:20260622
@@ -52,7 +22,10 @@ DESCRIPTION:ISSS\nWho: ISSS he 70th Anniversary (Platinum) Conference of t
  \\_Annual\\_Meeting\\_of\\_the\\_International\\_Society\\_\nLanguage: Not
   specified\nLanguage requirements: Not specified\nInterpretation: Not spec
  ified\nAccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4
- no/0.ics\nDate-only listing\; check the organiser for session times.
+ no/0.ics\nDate-only listing\; check the organiser for session times.\nNo l
+ onger found in the latest source listing\; confirmation needed.\nThis even
+ t could not be rechecked on the latest collection. Confirm with the organi
+ ser.
 LAST-MODIFIED:20260909T082311Z
 LOCATION:Pyla Cyprus
 STATUS:CONFIRMED
