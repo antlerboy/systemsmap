@@ -2,32 +2,32 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 181
+    "events": 183
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 55
+    "events": 56
   },
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 96
+    "events": 94
   },
   {
     "id": "topic-cybernetics",
     "name": "Cybernetics",
-    "events": 58
+    "events": 57
   },
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 43
+    "events": 46
   },
   {
     "id": "topic-system-dynamics",
     "name": "System dynamics",
-    "events": 52
+    "events": 54
   },
   {
     "id": "topic-systemic-design",
@@ -57,7 +57,7 @@
   {
     "id": "org-community",
     "name": "Cybernetics and Systems Community Calendar",
-    "events": 30
+    "events": 29
   },
   {
     "id": "org-ifsr",
@@ -67,7 +67,7 @@
   {
     "id": "org-isss",
     "name": "International Society for the Systems Sciences (ISSS)",
-    "events": 6
+    "events": 5
   },
   {
     "id": "org-isss-lab",
@@ -87,7 +87,7 @@
   {
     "id": "org-system-dynamics",
     "name": "System Dynamics Society",
-    "events": 52
+    "events": 54
   },
   {
     "id": "org-santa-fe",
@@ -97,7 +97,7 @@
   {
     "id": "org-csh",
     "name": "Complexity Science Hub",
-    "events": 13
+    "events": 15
   },
   {
     "id": "org-css",
@@ -142,7 +142,7 @@
   {
     "id": "org-cecan",
     "name": "CECAN",
-    "events": 2
+    "events": 1
   },
   {
     "id": "org-iscpif",

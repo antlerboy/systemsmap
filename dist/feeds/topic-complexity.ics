@@ -6,24 +6,6 @@ X-WR-CALNAME:Complexity
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:CECAN Conference 2026: Global Perspectives on Complex Evaluation
-DTSTART;VALUE=DATE:20260623
-DTSTAMP:20260906T191842Z
-UID:77cc687bc93b331ffa1be132@systemsmap.antlerboy.com
-SEQUENCE:1
-CATEGORIES:Complexity,Systems thinking
-DESCRIPTION:CECAN\n\nLanguage: Not specified\nLanguage requirements: Not s
- pecified\nInterpretation: Not specified\nAccess: See organiser\nhttps://ww
- w.cecan.ac.uk/events/cecan-conference-2026-global-perspectives-on-complex-
- evaluation/\nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Online
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cecan.ac.uk/events/cecan-conference-2026-global-perspectiv
- es-on-complex-evaluation/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NetLogo Conference 2026
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260702
@@ -498,7 +480,9 @@ DESCRIPTION:Complexity Science Hub\nThis Crash Course on Data Visualizatio
  e is led by data visualization expert Liuhuaying Yang\, recipient of\nLang
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/postdoc-ap
- preciation-week-austria-paw-data-visualization-crash-course/
+ preciation-week-austria-paw-data-visualization-crash-course/\nNo longer fo
+ und in the latest source listing\; confirmation needed.\nThis event could 
+ not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -628,9 +612,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260921T100309Z
+DTSTAMP:20260922T092210Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:15
+SEQUENCE:16
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -639,7 +623,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260921T100309Z
+LAST-MODIFIED:20260922T092210Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -662,13 +646,41 @@ DESCRIPTION:Complexity Science Hub\nThe underrepresentation of women in ST
  ted. Our study examines the evolution of gender diversity among attend\nLa
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/evolutio
- n-of-gender-diversity-in-computer-science-and-physics-conferences/
+ n-of-gender-diversity-in-computer-science-and-physics-conferences/\nNo lon
+ ger found in the latest source listing\; confirmation needed.\nThis event 
+ could not be rechecked on the latest collection. Confirm with the organise
+ r.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/evolution-of-gender-diversity-in-computer-sci
  ence-and-physics-conferences/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who gets noticed? Equity in network rankings and computer science 
+ conferences
+DTSTART:20260928T150000Z
+DTEND:20260928T160000Z
+DTSTAMP:20260922T092210Z
+UID:0ed01399e4e38a0f9240f389@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nThe underrepresentation of women in ST
+ EM fields remains a critical challenge. Even though increasing women’s v
+ isibility might inspire and encourage young scholars\, the study of the ev
+ olution of gender representation in STEM conferences is scarce. Despite it
+ s importance\, the study of gender representation in such settings is limi
+ ted. Our study examines the evolution of gender diversity among attend\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/who-gets
+ -noticed-equity-in-network-rankings-and-computer-science-conferences/
+LAST-MODIFIED:20260922T092210Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/who-gets-noticed-equity-in-network-rankings-a
+ nd-computer-science-conferences/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5th INTERPOL New Technologies Forum (NTF)
@@ -843,7 +855,10 @@ DESCRIPTION:System Dynamics Society\nTuesday\, October 13 at 11 am New Yor
  rview This webinar goes on to explain the mechanisms by which collaboratio
  n a\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
  retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
- /event/implementing-the-self-managing-enterprise-with-agentic-ai/
+ /event/implementing-the-self-managing-enterprise-with-agentic-ai/\nNo long
+ er found in the latest source listing\; confirmation needed.\nThis event c
+ ould not be rechecked on the latest collection. Confirm with the organiser
+ .
 LAST-MODIFIED:20260917T093127Z
 LOCATION:https://us02web.zoom.us/j/87049920798
 STATUS:CONFIRMED
@@ -924,6 +939,57 @@ URL:https://systemdynamics.org/event/the-earth-has-humans-but-what-kind-en
  dogenizing-behaviour-in-climate-models/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Implementing the Self-Managing Enterprise with Agentic AI
+DTSTART:20261027T150000Z
+DTEND:20261027T160000Z
+DTSTAMP:20260922T092210Z
+UID:3816c3372262f9943b343262@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nTuesday\, October 27 at 11 am New Yor
+ k | 4 pm London | 11 pm Beijing This session builds on the June 2026 webin
+ ar “Agentic AI and the Self-Managing Enterprise” which showed how we 
+ – and AI agents – make decisions through policies that try to close a 
+ gap between a current state of the system and a target for that state. Ove
+ rview This webinar goes on to explain the mechanisms by which collaboratio
+ n a\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
+ retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
+ /event/implementing-the-self-managing-enterprise-with-agentic-ai/
+LAST-MODIFIED:20260922T092210Z
+LOCATION:https://us02web.zoom.us/j/87049920798
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/implementing-the-self-managing-enterp
+ rise-with-agentic-ai/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:13 November 2026 Doomsday Conference – On the Sense and Nonsense
+  of End-of-the-World Predictions
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20260922T092210Z
+UID:12cb1fa648ac4a1ff9b2b533@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nFriday\, November 13\, 2026 is the end
+  of the world as predicted by Heinz von Foerster et al. in a scientific ar
+ ticle published in Science in 1960. According to the article\, on this day
+  the world population will run into a singularity and end. Just before tha
+ t happens\, we discuss the value of attempts such as von Foerster’s and 
+ the nonsense in them. We confront von Foerster’s with the actual state o
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/doom
+ sday-conference-on-the-sense-and-nonsense-of-end-of-the-world-predictions/
+ \nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20260922T092210Z
+LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
+ \, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/doomsday-conference-on-the-sense-and-nonsense
+ -of-end-of-the-world-predictions/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Next Generation of Systems Mapping: From Insight to Interventi
  on
 DTSTART:20261124T160000Z
@@ -948,6 +1014,32 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/the-next-generation-of-systems-mappin
  g-from-insight-to-intervention/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Benchmarking Estimation of Dynamic Models in Social and Behavioral
+  Sciences
+DTSTART:20261201T160000Z
+DTEND:20261201T170000Z
+DTSTAMP:20260922T092210Z
+UID:0129130f4b87dca11288953f@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics,Complexity
+DESCRIPTION:System Dynamics Society\nDecember 1\, 2026 at 11 am New York |
+  4 pm London | Check Your Timezone Reliable parameter estimation is critic
+ al for using dynamic simulation models to test theory\, quantify mechanism
+ s\, and inform policy. Yet estimating parameters in nonlinear and stochast
+ ic models remains challenging. Exact likelihood functions are often unavai
+ lable\, available estimation methods are fragmented\, and modelers have \n
+ Language: Not specified\nLanguage requirements: Not specified\nInterpretat
+ ion: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/even
+ t/benchmarking-estimation-of-dynamic-models-in-social-and-behavioral-scien
+ ces/
+LAST-MODIFIED:20260922T092210Z
+LOCATION:https://us02web.zoom.us/j/88212739370
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/benchmarking-estimation-of-dynamic-mo
+ dels-in-social-and-behavioral-sciences/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COMPLEX NETWORKS 2026 – 15th International Conference on Complex

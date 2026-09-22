@@ -203,7 +203,9 @@ DESCRIPTION:Complexity Science Hub\nThis Crash Course on Data Visualizatio
  e is led by data visualization expert Liuhuaying Yang\, recipient of\nLang
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/postdoc-ap
- preciation-week-austria-paw-data-visualization-crash-course/
+ preciation-week-austria-paw-data-visualization-crash-course/\nNo longer fo
+ und in the latest source listing\; confirmation needed.\nThis event could 
+ not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -251,13 +253,41 @@ DESCRIPTION:Complexity Science Hub\nThe underrepresentation of women in ST
  ted. Our study examines the evolution of gender diversity among attend\nLa
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/evolutio
- n-of-gender-diversity-in-computer-science-and-physics-conferences/
+ n-of-gender-diversity-in-computer-science-and-physics-conferences/\nNo lon
+ ger found in the latest source listing\; confirmation needed.\nThis event 
+ could not be rechecked on the latest collection. Confirm with the organise
+ r.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/evolution-of-gender-diversity-in-computer-sci
  ence-and-physics-conferences/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who gets noticed? Equity in network rankings and computer science 
+ conferences
+DTSTART:20260928T150000Z
+DTEND:20260928T160000Z
+DTSTAMP:20260922T092210Z
+UID:0ed01399e4e38a0f9240f389@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nThe underrepresentation of women in ST
+ EM fields remains a critical challenge. Even though increasing women’s v
+ isibility might inspire and encourage young scholars\, the study of the ev
+ olution of gender representation in STEM conferences is scarce. Despite it
+ s importance\, the study of gender representation in such settings is limi
+ ted. Our study examines the evolution of gender diversity among attend\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/who-gets
+ -noticed-equity-in-network-rankings-and-computer-science-conferences/
+LAST-MODIFIED:20260922T092210Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/who-gets-noticed-equity-in-network-rankings-a
+ nd-computer-science-conferences/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5th INTERPOL New Technologies Forum (NTF)
@@ -334,5 +364,32 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/a-bridge-from-collective-motion-to-social-beh
  avior-migration-and-collective-decisions/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:13 November 2026 Doomsday Conference – On the Sense and Nonsense
+  of End-of-the-World Predictions
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20260922T092210Z
+UID:12cb1fa648ac4a1ff9b2b533@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nFriday\, November 13\, 2026 is the end
+  of the world as predicted by Heinz von Foerster et al. in a scientific ar
+ ticle published in Science in 1960. According to the article\, on this day
+  the world population will run into a singularity and end. Just before tha
+ t happens\, we discuss the value of attempts such as von Foerster’s and 
+ the nonsense in them. We confront von Foerster’s with the actual state o
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/doom
+ sday-conference-on-the-sense-and-nonsense-of-end-of-the-world-predictions/
+ \nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20260922T092210Z
+LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
+ \, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/doomsday-conference-on-the-sense-and-nonsense
+ -of-end-of-the-world-predictions/
 END:VEVENT
 END:VCALENDAR

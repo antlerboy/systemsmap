@@ -189,14 +189,16 @@ BEGIN:VEVENT
 SUMMARY:Academy 2 (Level 2)
 DTSTART:20260921T213000Z
 DTEND:20260921T233000Z
-DTSTAMP:20260909T085810Z
-UID:3865680f42a79c4b306104ff@systemsmap.antlerboy.com
-SEQUENCE:2
+DTSTAMP:20260922T092210Z
+UID:181bf264feaf43c45d047215@systemsmap.antlerboy.com
+SEQUENCE:0
 CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\n\nLanguage: Not specified\nLanguage requir
- ements: Not specified\nInterpretation: Not specified\nAccess: See organise
- r\nhttps://www.sociocracyforall.org/event/academy-level-2/
-LAST-MODIFIED:20260909T085810Z
+DESCRIPTION:Sociocracy For All\n<p>Learn how to train and implement socioc
+ racy! Requires facilitators certification. 2h sessions every two weeks for
+  5 months</p>\\n\nLanguage: Not specified\nLanguage requirements: Not spec
+ ified\nInterpretation: Not specified\nAccess: See organiser\nhttps://www.s
+ ociocracyforall.org/event/academy-level-2/
+LAST-MODIFIED:20260922T092210Z
 LOCATION:SoFA Zoom (Multi-Room)
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

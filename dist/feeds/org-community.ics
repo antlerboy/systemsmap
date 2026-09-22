@@ -6,33 +6,6 @@ X-WR-CALNAME:Cybernetics and Systems Community Calendar
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:70th (2026) Annual Meeting of the International Society for the Sy
- stems Sciences\, Cyprus (ISSS)
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260623
-DTSTAMP:20260909T082311Z
-UID:3b754d6dd593040c94cb0cff@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Cybernetics,Systems thinking
-DESCRIPTION:ISSS\nWho: ISSS he 70th Anniversary (Platinum) Conference of t
- he International_Society_for_the_Systems_Sciences: https://futureworlds.eu
- /wiki/International_Society_for_the_Systems_Sciences "International Societ
- y for the Systems Sciences" (ISSS) marks a pivotal moment—not just for t
- he society\, but for the world. https://futureworlds.eu/wiki/70th\\_(2026)
- \\_Annual\\_Meeting\\_of\\_the\\_International\\_Society\\_\nLanguage: Not
-  specified\nLanguage requirements: Not specified\nInterpretation: Not spec
- ified\nAccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4
- no/0.ics\nDate-only listing\; check the organiser for session times.\nNo l
- onger found in the latest source listing\; confirmation needed.\nThis even
- t could not be rechecked on the latest collection. Confirm with the organi
- ser.
-LAST-MODIFIED:20260909T082311Z
-LOCATION:Pyla Cyprus
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Reimagining our World Systemically - From Problematique to Purpose
  ful Action (2026) (ISSS)
 DTSTART;VALUE=DATE:20260629
