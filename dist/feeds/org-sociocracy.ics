@@ -208,20 +208,20 @@ BEGIN:VEVENT
 SUMMARY:Sociocracy in Cooperatives Community of Practice
 DTSTART:20260922T130000Z
 DTEND:20260922T140000Z
-DTSTAMP:20260909T085810Z
-UID:23c1ffac01eed108eeb00e3c@systemsmap.antlerboy.com
-SEQUENCE:2
+DTSTAMP:20260923T092256Z
+UID:b2ab8f6791bbbc63c912ad55@systemsmap.antlerboy.com
+SEQUENCE:0
 CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\nCommunity of Practice — Sociocracy For A
- ll in Cooperatives This is a quarterly Community of Practice for people ac
- tively working in cooperatives and engaging questions of governance\, part
- icipation\, facilitation\, and organizational structure. Our gathering wil
- l take place on Sept 22 at 1pm ET and will be hosted by Leander Roth and M
- ichelle Tsutsumi from the Sociocracy For All Co-op Circle. Future s\nLangu
- age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
- Not specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/eve
- nt/20260922-sociocracy-in-cooperatives-community-of-practice/
-LAST-MODIFIED:20260909T085810Z
+DESCRIPTION:Sociocracy For All\n<p>This is a quarterly Community of Practi
+ ce for people actively working in cooperatives and engaging questions of g
+ overnance\, participation\, facilitation\, and organizational structure. O
+ ur gathering will take place on Sept 22 at 1pm ET and will be hosted by Le
+ ander Roth and Michelle Tsutsumi from the Sociocracy For All Co-op Circle.
+  Future sessions will continue […]</p>\\n\nLanguage: Not specified\nLang
+ uage requirements: Not specified\nInterpretation: Not specified\nAccess: S
+ ee organiser\nhttps://www.sociocracyforall.org/event/20260922-sociocracy-i
+ n-cooperatives-community-of-practice/
+LAST-MODIFIED:20260923T092256Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -233,15 +233,19 @@ SUMMARY:Shared Power\, Shared Purpose: An Introduction to Sociocracy for U
  nitarian Universalists
 DTSTART:20260922T160000Z
 DTEND:20260922T173000Z
-DTSTAMP:20260918T090403Z
-UID:bfafb07d86367554552c7321@systemsmap.antlerboy.com
+DTSTAMP:20260923T092256Z
+UID:b9df7d18f25846b9bf06f911@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\n\nLanguage: Not specified\nLanguage requir
- ements: Not specified\nInterpretation: Not specified\nAccess: See organise
- r\nhttps://www.sociocracyforall.org/event/unitarian-universalist-sociocrac
- y/
-LAST-MODIFIED:20260918T090403Z
+DESCRIPTION:Sociocracy For All\n<p>A beginner-friendly session on sociocra
+ cy — a consent-based\, shared-power system for making decisions together
+  — for Unitarian Universalist leaders\, staff\, and congregants. We\\'ll
+  cover the basics\, hear real examples from UU settings\, and leave with i
+ deas for your own community and what next steps you can take.</p>\\n\nLang
+ uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
+  Not specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/ev
+ ent/unitarian-universalist-sociocracy/
+LAST-MODIFIED:20260923T092256Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -407,5 +411,29 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.sociocracyforall.org/event/intentional-communities-confere
  nce-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sociocracy in Cooperatives Community of Practice
+DTSTART:20261208T190000Z
+DTEND:20261208T200000Z
+DTSTAMP:20260923T092256Z
+UID:e8a7cc0afdc2208ca2cb07f4@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking
+DESCRIPTION:Sociocracy For All\nCommunity of Practice — Sociocracy For A
+ ll in Cooperatives This is a quarterly Community of Practice for people ac
+ tively working in cooperatives and engaging questions of governance\, part
+ icipation\, facilitation\, and organizational structure. Our gathering wil
+ l take place on December 8 from 1 – 2pm ET and will be hosted by Michell
+ e Tsutsumi and Jim Johnson from the Sociocracy For All Co-op Circle. \nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/e
+ vent/sociocracy-in-cooperatives-community-of-practice/
+LAST-MODIFIED:20260923T092256Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sociocracyforall.org/event/sociocracy-in-cooperatives-comm
+ unity-of-practice/
 END:VEVENT
 END:VCALENDAR

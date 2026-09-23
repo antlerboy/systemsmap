@@ -178,7 +178,9 @@ DESCRIPTION:Digital Innovation School\nStatistical Mechanics for Complex S
  r\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpre
  tation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/dis
  -master-class-nonadditive-entropies/\nDate-only listing\; check the organi
- ser for session times.
+ ser for session times.\nNo longer found in the latest source listing\; con
+ firmation needed.\nThis event could not be rechecked on the latest collect
+ ion. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
@@ -338,6 +340,29 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/from-fear-to-forecast-understanding-ai-swarms
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WEdnesday SALON – How Fireflies Sync Their Rhythm
+DTSTART:20261007T180000Z
+DTEND:20261007T200000Z
+DTSTAMP:20260923T092256Z
+UID:7e2c8a903525823654eddc40@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nFireflies use flashes of light to find
+  mates. Each species has its own pattern\, a kind of Morse code in light. 
+ In some species\, thousands of them synchronize their flashes across an en
+ tire forest\, even though each firefly can only see a few of its neighbors
+ . How does a swarm coordinate without a leader?tbcAbout Orit PelegOrit Pel
+ eg studies how insect swarms communicate through the lens of physics \nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednesday
+ -salon-with-orit-peleg/
+LAST-MODIFIED:20260923T092256Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/wednesday-salon-with-orit-peleg/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Bridge from Collective Motion to Social Behavior\, Migration\, a

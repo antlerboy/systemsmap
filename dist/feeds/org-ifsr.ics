@@ -57,21 +57,18 @@ BEGIN:VEVENT
 SUMMARY:SysPrac26 – The Systems Thinking Practitioners Conference
 DTSTART:20260921T060000Z
 DTEND:20260922T150000Z
-DTSTAMP:20260910T223446Z
-UID:a018a46a8352008249863516@systemsmap.antlerboy.com
+DTSTAMP:20260923T092256Z
+UID:4d6727709c3d174e0fafefbd@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Complexity,Cybernetics,Systems thinking
-DESCRIPTION:International Federation for Systems Research (IFSR)\nSysPrac2
- 6 – The Systems Thinking Practitioner Conference will take place on 21st
-  & 22nd September 2026 in Cranfield As the challenges facing organisations
- \, communities and society become increasingly interconnected and complex
- \, the need for practical systems thinking has never been greater. SysPrac
- 26 takes place on 21–22 September 2026 at Cranfield University – two d
- ays of systems thinking in prac\nLanguage: Not specified\nLanguage require
- ments: Not specified\nInterpretation: Not specified\nAccess: See organiser
- \nhttps://ifsr.org/event/sysprac26-the-systems-thinking-practitioners-conf
- erence/
-LAST-MODIFIED:20260910T223446Z
+DESCRIPTION:SCiO\nSysPrac26 – The Systems Thinking Practitioner Conferen
+ ce will take place on 21st & 22nd September 2026 in Cranfield As the chall
+ enges facing organisations\, communities and society become increasingly i
+ nterconnected and complex\, […]\nLanguage: Not specified\nLanguage requi
+ rements: Not specified\nInterpretation: Not specified\nAccess: See organis
+ er\nhttps://ifsr.org/event/sysprac26-the-systems-thinking-practitioners-co
+ nference/
+LAST-MODIFIED:20260923T092256Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
