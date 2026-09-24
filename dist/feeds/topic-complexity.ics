@@ -505,7 +505,9 @@ DESCRIPTION:Complexity Science Hub\nLarge language models are increasingly
  havioral experiments\, which predicts decisions better than establishe\nLa
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/two-rout
- es-to-silicon-sampling/
+ es-to-silicon-sampling/\nNo longer found in the latest source listing\; co
+ nfirmation needed.\nThis event could not be rechecked on the latest collec
+ tion. Confirm with the organiser.
 LAST-MODIFIED:20260915T092934Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -611,9 +613,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260923T092256Z
+DTSTAMP:20260924T092314Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:17
+SEQUENCE:18
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -622,7 +624,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260923T092256Z
+LAST-MODIFIED:20260924T092314Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -797,21 +799,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WEdnesday SALON – How Fireflies Sync Their Rhythm
 DTSTART:20261007T180000Z
-DTEND:20261007T200000Z
-DTSTAMP:20260923T092256Z
+DTEND:20261007T192000Z
+DTSTAMP:20260924T092314Z
 UID:7e2c8a903525823654eddc40@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nFireflies use flashes of light to find
   mates. Each species has its own pattern\, a kind of Morse code in light. 
  In some species\, thousands of them synchronize their flashes across an en
  tire forest\, even though each firefly can only see a few of its neighbors
- . How does a swarm coordinate without a leader?tbcAbout Orit PelegOrit Pel
- eg studies how insect swarms communicate through the lens of physics \nLan
+ . How does a swarm coordinate without a leader?Fireflies offer a rare glim
+ pse into animal communication. Their signal is a species-specific on/\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednesday
  -salon-with-orit-peleg/
-LAST-MODIFIED:20260923T092256Z
+LAST-MODIFIED:20260924T092314Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -985,6 +987,54 @@ URL:https://systemdynamics.org/event/implementing-the-self-managing-enterp
  rise-with-agentic-ai/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crisis and Resilience in Historical and Modern Societies
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20260924T092314Z
+UID:e69b74067f1f25252f5405df@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nWhat makes societies resilient? What m
+ akes them susceptible to crisis? Can we learn from history how to steer ou
+ r way towards more peaceful\, equitable and prosperous outcomes? The overa
+ ll goal of this workshop is to foster both existing and new collaborations
+  between researchers studying crisis and resilience in a broad range of ca
+ se studies\, both historical and contemporary. The workshop will tak\nLang
+ uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
+  Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/crisis-and
+ -resilience-in-historical-and-modern-societies/\nDate-only listing\; check
+  the organiser for session times.
+LAST-MODIFIED:20260924T092314Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/crisis-and-resilience-in-historical-and-moder
+ n-societies/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geld. Macht. Vertrauen
+DTSTART:20261111T173000Z
+DTEND:20261111T190000Z
+DTSTAMP:20260924T092314Z
+UID:d90350f5afd769ab03f7d3b7@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub & Kunsthistorisches Museum Wien\nVon Kr
+ oisos zu digitalen TokensEine Abendveranstaltung des Kunsthistorischen Mus
+ eums Wien (Münzkabinett) und des Complexity Science Hub (CSH).Geld ist me
+ hr als ein Tauschmittel: Es ist Träger von Macht\, Vertrauen und Informat
+ ion. Das Münzkabinett des KHM beherbergt eine der bedeutendsten numismati
+ schen Sammlungen der Welt. Der Complexity Science Hub untersucht digitale 
+ Geld- und Zahlungssysteme wi\nLanguage: Not specified\nLanguage requiremen
+ ts: Not specified\nInterpretation: Not specified\nAccess: See organiser\nh
+ ttps://csh.ac.at/events/geld-macht-vertrauen/
+LAST-MODIFIED:20260924T092314Z
+LOCATION:Kunsthistorisches Museum Wien Maria-Theresien-Platz\, 1010 Wien
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/geld-macht-vertrauen/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:13 November 2026 Doomsday Conference – On the Sense and Nonsense
   of End-of-the-World Predictions
 DTSTART;VALUE=DATE:20261112
@@ -1002,7 +1052,9 @@ DESCRIPTION:Complexity Science Hub\nFriday\, November 13\, 2026 is the end
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/doom
  sday-conference-on-the-sense-and-nonsense-of-end-of-the-world-predictions/
- \nDate-only listing\; check the organiser for session times.
+ \nDate-only listing\; check the organiser for session times.\nNo longer fo
+ und in the latest source listing\; confirmation needed.\nThis event could 
+ not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260922T092210Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
