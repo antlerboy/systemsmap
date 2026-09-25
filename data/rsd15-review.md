@@ -55,3 +55,5 @@ Source: https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558
 Shanghai remains unconfirmed. Later RSDX sessions are not inferred from broad month ranges.
 
 The Streaming Knowledge hub additionally confirms two 7 October sessions: Shades of Metadesign (03:00–04:30 PDT) and CMM Office Hours (09:00–10:00 PDT). Added both. The 8–9 October paper-talk event already exists; individual parallel paper panels are left within that programme rather than duplicating the conference listing. No 5 October mapping session was displayed in the checked public session list. Source: https://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlDQGXyaqccCA
+
+Publication check found that sessions sharing a booking URL and day were being merged. Added explicit occurrence keys to the additional same-day workshops, preserving IDs for the already published first session of each day. Verified all eight RSD records survive collector deduplication.

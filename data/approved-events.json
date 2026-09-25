@@ -667,7 +667,8 @@
     "description": "A separately scheduled session in the RSD15 Communication Perspectives hub. Listed contributors: Marit Askbo, Omri Geiger and Thomas Gundersen. Times transcribed from the public Zoom programme, displayed in PDT. See the session programme for content, participation details and registration.",
     "access": "Registration through the organiser’s Zoom event page",
     "uid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#mind-the-gap-transitions-between-systems-and-getting-lost-in-the-void",
-    "submission": "https://github.com/antlerboy/systemsmap/issues/3"
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3",
+    "recurrenceId": "2026-09-30T07:00:00-07:00"
   },
   {
     "title": "RSD15: Fieldkeeper’s Log: entry [number]—exploring relational technologies through dramaturgy, poetics, and metaphor",
@@ -685,7 +686,8 @@
     "description": "A separately scheduled session in the RSD15 Communication Perspectives hub. Listed contributors: Willow Gatewood. Times transcribed from the public Zoom programme, displayed in PDT. See the session programme for content, participation details and registration.",
     "access": "Registration through the organiser’s Zoom event page",
     "uid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#fieldkeeper-s-log-entry-number-exploring-relational-technologies-through-dramaturgy-poetics-and-metaphor",
-    "submission": "https://github.com/antlerboy/systemsmap/issues/3"
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3",
+    "recurrenceId": "2026-09-30T09:00:00-07:00"
   },
   {
     "title": "RSD15: All Tomorrow’s Policies: Methods for Dual-Timeframe Policy Innovation",
@@ -703,7 +705,8 @@
     "description": "A separately scheduled session in the RSD15 Communication Perspectives hub. Listed contributors: Chelsea Mauldin and Natalia Radywyl. Times transcribed from the public Zoom programme, displayed in PDT. See the session programme for content, participation details and registration.",
     "access": "Registration through the organiser’s Zoom event page",
     "uid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#all-tomorrow-s-policies-methods-for-dual-timeframe-policy-innovation",
-    "submission": "https://github.com/antlerboy/systemsmap/issues/3"
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3",
+    "recurrenceId": "2026-09-30T14:00:00-07:00"
   },
   {
     "title": "RSD15: Shades of Metadesign: Diversity and coherence in emergence",
@@ -739,6 +742,7 @@
     "description": "A separately scheduled session in the RSD15 Streaming Knowledge programme. Listed contributors: Abbie VanMeter and Bart Buechner. Times transcribed from the public Zoom programme, displayed in PDT. See the programme for participation details and registration.",
     "access": "Registration through the organiser’s Zoom event page",
     "uid": "https://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlDQGXyaqccCA#cmm-office-hours",
-    "submission": "https://github.com/antlerboy/systemsmap/issues/3"
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3",
+    "recurrenceId": "2026-10-07T09:00:00-07:00"
   }
 ]
