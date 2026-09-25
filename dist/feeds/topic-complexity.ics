@@ -648,9 +648,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260925T072716Z
+DTSTAMP:20260925T072840Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:20
+SEQUENCE:21
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -659,7 +659,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260925T072716Z
+LAST-MODIFIED:20260925T072840Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -830,6 +830,30 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/from-fear-to-forecast-understanding-ai-swarms
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
+DTSTART:20261007T100000Z
+DTEND:20261007T113000Z
+DTSTAMP:20260925T072840Z
+UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,Systemic design,Systems thinking
+DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
+ ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
+ hilda Tham and Hannah Jones. Times transcribed from the public Zoom progra
+ mme\, displayed in PDT. See the programme for participation details and re
+ gistration.\nLanguage: Not specified\nLanguage requirements: Not specified
+ \nInterpretation: Not specified\nAccess: Registration through the organise
+ r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
+ YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
+ lDQGXyaqccCA
+LAST-MODIFIED:20260925T072840Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYaYQGd9kagT_Drg23D5
+ OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlDQGXyaqccCA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WEdnesday SALON – How Fireflies Sync Their Rhythm
