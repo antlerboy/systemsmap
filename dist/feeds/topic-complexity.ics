@@ -648,9 +648,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260925T071905Z
+DTSTAMP:20260925T072716Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:19
+SEQUENCE:20
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -659,7 +659,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260925T071905Z
+LAST-MODIFIED:20260925T072716Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
