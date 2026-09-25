@@ -30,9 +30,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260924T092314Z
+DTSTAMP:20260925T071905Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:22
+SEQUENCE:23
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -43,7 +43,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20260924T092314Z
+LAST-MODIFIED:20260925T071905Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53,9 +53,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260924T092314Z
+DTSTAMP:20260925T071905Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:18
+SEQUENCE:19
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -64,11 +64,35 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260924T092314Z
+LAST-MODIFIED:20260925T071905Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://alwaysquestion.ai/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSD15 Communications Perspectives: Coordinated Management of Meani
+ ng
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260925T071905Z
+UID:55230e3a3adac1c04b3eefd2@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Systemic design
+DESCRIPTION:CMM Institute / Relating Systems Thinking and Design\nAn onlin
+ e day exploring Coordinated Management of Meaning across fields and practi
+ ces. Hosted by Abbie van Meter\, with half-hour sessions combining present
+ ation and discussion. The organiser confirms 29 September\; session times 
+ are not yet specified. See the event page and RSD15 online hub for the pro
+ gramme and registration.\nLanguage: Not specified\nLanguage requirements: 
+ Not specified\nInterpretation: Not specified\nAccess: Registration via the
+  organiser’s event page\nhttps://rsdsymposium.org/rsd15-cmmi/\nDate-only
+  listing\; check the organiser for session times.
+LAST-MODIFIED:20260925T071905Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://rsdsymposium.org/rsd15-cmmi/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RSD15: Online paper talks

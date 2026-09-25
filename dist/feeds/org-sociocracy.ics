@@ -6,30 +6,6 @@ X-WR-CALNAME:Sociocracy For All
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:Basic Elements of Sociocracy
-DTSTART:20260626T160000Z
-DTEND:20260626T190000Z
-DTSTAMP:20260909T085810Z
-UID:f97857505121f9febdcf5a2f@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\n<p>Learn the fundations of sociocracy Thre
- e tiers: Register for the Fall 2026 Academy Level 1 course and the fee for
-  this webinar will be deducted from the Academy tuition. For any questions
-  about registration contact events@sociocracyforall.org. About this class 
- Are you interested in learning more about some of the basic principles of 
- sociocracy? Or perhaps […]</p>\\n\nLanguage: Not specified\nLanguage req
- uirements: Not specified\nInterpretation: Not specified\nAccess: See organ
- iser\nhttps://www.sociocracyforall.org/event/basic-elements-of-sociocracy-
- webinar/
-LAST-MODIFIED:20260909T085810Z
-LOCATION:Location not published
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.sociocracyforall.org/event/basic-elements-of-sociocracy-we
- binar/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sociocracy+ transformative social systems
 DTSTART:20260701T150000Z
 DTEND:20260701T160000Z
@@ -253,21 +229,22 @@ URL:https://www.sociocracyforall.org/event/unitarian-universalist-sociocra
  cy/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Facilitation Practice - 6 sessions
+SUMMARY:Facilitation Practice – 6 sessions
 DTSTART:20260924T180000Z
 DTEND:20260924T200000Z
-DTSTAMP:20260909T085810Z
-UID:f15486e6492c091073c2e8ab@systemsmap.antlerboy.com
-SEQUENCE:2
+DTSTAMP:20260925T071905Z
+UID:8fa74068c9373c67e521b250@systemsmap.antlerboy.com
+SEQUENCE:0
 CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\nThis class is a potent combination of shor
- t teachings and lots of practice to mature as a facilitator and address th
- e most common pitfalls. Every session has a theme: Integrating objections 
- I+II\, Staying on topic I+II\, Dealings with feelings\, Muddy situations. 
- Register here\nLanguage: Not specified\nLanguage requirements: Not specifi
- ed\nInterpretation: Not specified\nAccess: See organiser\nhttps://www.soci
- ocracyforall.org/event/facilitation-practice-6-sessions-september-2026/
-LAST-MODIFIED:20260909T085810Z
+DESCRIPTION:Sociocracy For All\n<p>This class is a potent combination of s
+ hort teachings and lots of practice to mature as a facilitator and address
+  the most common pitfalls. Every session has a theme: Integrating objectio
+ ns I+II\, Staying on topic I+II\, Dealings with feelings\, Muddy situation
+ s. Register here</p>\\n\nLanguage: Not specified\nLanguage requirements: N
+ ot specified\nInterpretation: Not specified\nAccess: See organiser\nhttps:
+ //www.sociocracyforall.org/event/facilitation-practice-6-sessions-septembe
+ r-2026/
+LAST-MODIFIED:20260925T071905Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -370,6 +347,30 @@ TRANSP:TRANSPARENT
 URL:https://www.sociocracyforall.org/event/free-info-session-october-2026/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sociocracy & Permaculture Community of Practice
+DTSTART:20261022T010000Z
+DTEND:20261022T020000Z
+DTSTAMP:20260925T071905Z
+UID:aa054da842439e3dfc737acc@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking
+DESCRIPTION:Sociocracy For All\nCommunity of Practice — Sociocracy & Per
+ maculture Join the Sociocracy & Permaculture Community of Practice! The ne
+ xt gatherings will take place on: October 21 at 23:00 UTC | 7PM Eastern | 
+ 4PM Pacific December 16 at 15:00 UTC | 10AM Eastern | 7AM Pacific | 16:00 
+ CET and will be hosted by Rhonda Baird from the Sociocracy in Permaculture
+  Circle. Register to the event Notice: JavaScript is required fo\nLanguage
+ : Not specified\nLanguage requirements: Not specified\nInterpretation: Not
+  specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/event/
+ sociocracy-permaculture-community-of-practice/2026-10-22/
+LAST-MODIFIED:20260925T071905Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sociocracyforall.org/event/sociocracy-permaculture-communi
+ ty-of-practice/2026-10-22/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Introduction to Sociocracy in Intentional Communities
 DTSTART:20261022T190000Z
 DTEND:20261022T223000Z
@@ -435,5 +436,29 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.sociocracyforall.org/event/sociocracy-in-cooperatives-comm
  unity-of-practice/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sociocracy & Permaculture Community of Practice
+DTSTART:20261216T160000Z
+DTEND:20261216T170000Z
+DTSTAMP:20260925T071905Z
+UID:c7bf14733985b0bbf3b4a9d3@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking
+DESCRIPTION:Sociocracy For All\nCommunity of Practice — Sociocracy & Per
+ maculture Join the Sociocracy & Permaculture Community of Practice! The ne
+ xt gatherings will take place on: October 21 at 23:00 UTC | 7PM Eastern | 
+ 4PM Pacific December 16 at 15:00 UTC | 10AM Eastern | 7AM Pacific | 16:00 
+ CET and will be hosted by Rhonda Baird from the Sociocracy in Permaculture
+  Circle. Register to the event Notice: JavaScript is required fo\nLanguage
+ : Not specified\nLanguage requirements: Not specified\nInterpretation: Not
+  specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/event/
+ sociocracy-permaculture-community-of-practice/2026-12-16/
+LAST-MODIFIED:20260925T071905Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sociocracyforall.org/event/sociocracy-permaculture-communi
+ ty-of-practice/2026-12-16/
 END:VEVENT
 END:VCALENDAR
