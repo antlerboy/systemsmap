@@ -600,18 +600,109 @@
     "title": "RSD15 Communications Perspectives: Coordinated Management of Meaning",
     "url": "https://rsdsymposium.org/rsd15-cmmi/",
     "organiser": "CMM Institute / Relating Systems Thinking and Design",
-    "start": "2026-09-29",
-    "end": "2026-09-30",
+    "start": "2026-09-29T08:30:00-07:00",
+    "end": "2026-09-29T17:00:00-07:00",
     "location": "Online",
     "format": "online",
     "topics": [
       "systems",
       "systemic-design"
     ],
-    "description": "An online day exploring Coordinated Management of Meaning across fields and practices. Hosted by Abbie van Meter, with half-hour sessions combining presentation and discussion. The organiser confirms 29 September; session times are not yet specified. See the event page and RSD15 online hub for the programme and registration.",
+    "description": "Seventeen half-hour sessions exploring Coordinated Management of Meaning across fields and practices, hosted by Abbie VanMeter. The published Zoom programme runs 08:30–17:00 PDT on 29 September. Each session combines a presentation and discussion. The wider hub booking window includes separate workshops on 28 and 30 September; it is not a continuous CMM event. Full session schedule: https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A",
     "access": "Registration via the organiser’s event page",
     "language": "Not specified",
     "uid": "https://rsdsymposium.org/rsd15-cmmi/",
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "title": "RSD15: Mapping Inclusive Learning: Pre-K to HE",
+    "url": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A",
+    "organiser": "RSD15 / Systemic Design Association",
+    "start": "2026-09-28T08:00:00-07:00",
+    "end": "2026-09-28T09:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "location": "Online",
+    "format": "online",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "description": "A separately scheduled session in the RSD15 Communication Perspectives hub. Listed contributors: Mari Suoheimo, Michalina Fidos, Neha Mandlik and other contributors. Times transcribed from the public Zoom programme, displayed in PDT. See the session programme for content, participation details and registration.",
+    "access": "Registration through the organiser’s Zoom event page",
+    "uid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#mapping-inclusive-learning-pre-k-to-he",
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3"
+  },
+  {
+    "title": "RSD15: SystemicStories AI: An AI-enabled systemic design atlas for Singapore’s health & care sector",
+    "url": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A",
+    "organiser": "RSD15 / Systemic Design Association",
+    "start": "2026-09-30T00:00:00-07:00",
+    "end": "2026-09-30T02:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "location": "Online",
+    "format": "online",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "description": "A separately scheduled session in the RSD15 Communication Perspectives hub. Listed contributors: Yeuk Fan Ng, Tamsin Greulich Smith, Brian Ng and other contributors. Times transcribed from the public Zoom programme, displayed in PDT. See the session programme for content, participation details and registration.",
+    "access": "Registration through the organiser’s Zoom event page",
+    "uid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#systemicstories-ai-an-ai-enabled-systemic-design-atlas-for-singapore-s-health-care-sector",
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3"
+  },
+  {
+    "title": "RSD15: Mind the Gap: Transitions between systems and getting lost in the void",
+    "url": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A",
+    "organiser": "RSD15 / Systemic Design Association",
+    "start": "2026-09-30T07:00:00-07:00",
+    "end": "2026-09-30T09:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "location": "Online",
+    "format": "online",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "description": "A separately scheduled session in the RSD15 Communication Perspectives hub. Listed contributors: Marit Askbo, Omri Geiger and Thomas Gundersen. Times transcribed from the public Zoom programme, displayed in PDT. See the session programme for content, participation details and registration.",
+    "access": "Registration through the organiser’s Zoom event page",
+    "uid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#mind-the-gap-transitions-between-systems-and-getting-lost-in-the-void",
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3"
+  },
+  {
+    "title": "RSD15: Fieldkeeper’s Log: entry [number]—exploring relational technologies through dramaturgy, poetics, and metaphor",
+    "url": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A",
+    "organiser": "RSD15 / Systemic Design Association",
+    "start": "2026-09-30T09:00:00-07:00",
+    "end": "2026-09-30T11:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "location": "Online",
+    "format": "online",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "description": "A separately scheduled session in the RSD15 Communication Perspectives hub. Listed contributors: Willow Gatewood. Times transcribed from the public Zoom programme, displayed in PDT. See the session programme for content, participation details and registration.",
+    "access": "Registration through the organiser’s Zoom event page",
+    "uid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#fieldkeeper-s-log-entry-number-exploring-relational-technologies-through-dramaturgy-poetics-and-metaphor",
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3"
+  },
+  {
+    "title": "RSD15: All Tomorrow’s Policies: Methods for Dual-Timeframe Policy Innovation",
+    "url": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A",
+    "organiser": "RSD15 / Systemic Design Association",
+    "start": "2026-09-30T14:00:00-07:00",
+    "end": "2026-09-30T15:30:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "location": "Online",
+    "format": "online",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "description": "A separately scheduled session in the RSD15 Communication Perspectives hub. Listed contributors: Chelsea Mauldin and Natalia Radywyl. Times transcribed from the public Zoom programme, displayed in PDT. See the session programme for content, participation details and registration.",
+    "access": "Registration through the organiser’s Zoom event page",
+    "uid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#all-tomorrow-s-policies-methods-for-dual-timeframe-policy-innovation",
     "submission": "https://github.com/antlerboy/systemsmap/issues/3"
   }
 ]

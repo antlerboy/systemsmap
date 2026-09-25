@@ -45,3 +45,11 @@ The organiser’s CMM page now consistently names **29 September** in navigation
 Shanghai remains September TBA and RSDX remains a series with conflicting broad month ranges; neither is converted into a continuous event. Exact sessions await an organiser programme.
 
 Catch-up reconciliation: the alwaysquestion.ai Shanghai event (26–29 September) and the SCiO Polish event (15 September) are already published, as recorded in the submission-review log. No duplicate was added. Primary pages checked; existing records retained.
+
+### Programme-detail reconciliation, 25 September
+
+The public Zoom session programme is now readable and resolves the next block of RSDX: Mapping Inclusive Learning (28 September, 08:00–09:00 PDT); seventeen CMM sessions (29 September, 08:30–17:00 PDT); four workshops on 30 September (00:00–02:00, 07:00–09:00, 09:00–11:00, 14:00–15:30 PDT). Added the five separate workshops and replaced the CMM date-only record with its confirmed span. Times use the displayed America/Los_Angeles offset; clients can convert them. The hub's 28–30 September access envelope is not the CMM session date.
+
+Source: https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A
+
+Shanghai remains unconfirmed. Later RSDX sessions are not inferred from broad month ranges.
