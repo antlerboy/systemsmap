@@ -704,5 +704,41 @@
     "access": "Registration through the organiser’s Zoom event page",
     "uid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#all-tomorrow-s-policies-methods-for-dual-timeframe-policy-innovation",
     "submission": "https://github.com/antlerboy/systemsmap/issues/3"
+  },
+  {
+    "title": "RSD15: Shades of Metadesign: Diversity and coherence in emergence",
+    "url": "https://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlDQGXyaqccCA",
+    "organiser": "RSD15 / Systemic Design Association",
+    "start": "2026-10-07T03:00:00-07:00",
+    "end": "2026-10-07T04:30:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "location": "Online",
+    "format": "online",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "description": "A separately scheduled session in the RSD15 Streaming Knowledge programme. Listed contributors: Mathilda Tham and Hannah Jones. Times transcribed from the public Zoom programme, displayed in PDT. See the programme for participation details and registration.",
+    "access": "Registration through the organiser’s Zoom event page",
+    "uid": "https://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlDQGXyaqccCA#shades-of-metadesign-diversity-and-coherence-in-emergence",
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3"
+  },
+  {
+    "title": "RSD15: CMM Office Hours",
+    "url": "https://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlDQGXyaqccCA",
+    "organiser": "RSD15 / Systemic Design Association",
+    "start": "2026-10-07T09:00:00-07:00",
+    "end": "2026-10-07T10:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "location": "Online",
+    "format": "online",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "description": "A separately scheduled session in the RSD15 Streaming Knowledge programme. Listed contributors: Abbie VanMeter and Bart Buechner. Times transcribed from the public Zoom programme, displayed in PDT. See the programme for participation details and registration.",
+    "access": "Registration through the organiser’s Zoom event page",
+    "uid": "https://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlDQGXyaqccCA#cmm-office-hours",
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3"
   }
 ]
