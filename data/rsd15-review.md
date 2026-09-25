@@ -36,3 +36,12 @@ Existing event IDs and calendar UIDs are not replaced.
 Issue #3 stays open for these date and session questions. This review does not
 alter the anonymous D1 submission service, its redirects, or Tangle's pinned
 interface integration.
+
+
+## 25 September 2026: authorised publication update
+
+The organiser’s CMM page now consistently names **29 September** in navigation and body. Added a date-only event with exclusive end 30 September; no session time is inferred. Source: https://rsdsymposium.org/rsd15-cmmi/.
+
+Shanghai remains September TBA and RSDX remains a series with conflicting broad month ranges; neither is converted into a continuous event. Exact sessions await an organiser programme.
+
+Catch-up reconciliation: the alwaysquestion.ai Shanghai event (26–29 September) and the SCiO Polish event (15 September) are already published, as recorded in the submission-review log. No duplicate was added. Primary pages checked; existing records retained.

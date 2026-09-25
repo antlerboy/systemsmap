@@ -595,5 +595,23 @@
     "notes": [
       "End time not published."
     ]
+  },
+  {
+    "title": "RSD15 Communications Perspectives: Coordinated Management of Meaning",
+    "url": "https://rsdsymposium.org/rsd15-cmmi/",
+    "organiser": "CMM Institute / Relating Systems Thinking and Design",
+    "start": "2026-09-29",
+    "end": "2026-09-30",
+    "location": "Online",
+    "format": "online",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "description": "An online day exploring Coordinated Management of Meaning across fields and practices. Hosted by Abbie van Meter, with half-hour sessions combining presentation and discussion. The organiser confirms 29 September; session times are not yet specified. See the event page and RSD15 online hub for the programme and registration.",
+    "access": "Registration via the organiser’s event page",
+    "language": "Not specified",
+    "uid": "https://rsdsymposium.org/rsd15-cmmi/",
+    "submission": "https://github.com/antlerboy/systemsmap/issues/3"
   }
 ]
