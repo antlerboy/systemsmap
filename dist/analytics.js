@@ -1,7 +1,7 @@
 (() => {
   if (window.__siteVisitBeaconInstalled) return;
   window.__siteVisitBeaconInstalled = true;
-  if (navigator.doNotTrack === "1" || window.doNotTrack === "1") return;
+  if (navigator.doNotTrack === "1" || window.doNotTrack === "1" || navigator.webdriver) return;
 
   const body = JSON.stringify({path: window.location.pathname || "/"});
   fetch("https://events.transduction.systems/api/analytics/pageview", {
