@@ -347,20 +347,20 @@ BEGIN:VEVENT
 SUMMARY:WEdnesday SALON – How Fireflies Sync Their Rhythm
 DTSTART:20261007T180000Z
 DTEND:20261007T192000Z
-DTSTAMP:20260924T092314Z
+DTSTAMP:20260926T092514Z
 UID:7e2c8a903525823654eddc40@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nFireflies use flashes of light to find
   mates. Each species has its own pattern\, a kind of Morse code in light. 
- In some species\, thousands of them synchronize their flashes across an en
- tire forest\, even though each firefly can only see a few of its neighbors
- . How does a swarm coordinate without a leader?Fireflies offer a rare glim
- pse into animal communication. Their signal is a species-specific on/\nLan
+ In some species\, thousands synchronize across an entire forest\, though e
+ ach firefly can only see a few neighbors. How does a swarm coordinate with
+ out a leader? Fireflies offer a rare glimpse into animal communication. Ea
+ ch species flashes its own pattern of light to advertise itself to po\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednesday
  -salon-with-orit-peleg/
-LAST-MODIFIED:20260924T092314Z
+LAST-MODIFIED:20260926T092514Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

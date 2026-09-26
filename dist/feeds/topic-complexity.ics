@@ -635,7 +635,9 @@ DESCRIPTION:System Dynamics Society\nDear Colleagues\, We are excited to i
  ) c\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
  retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
  /event/systems-thinking-in-k-12-education-experiences-from-south-korea-tai
- wan-and-turkiye-asia-pacific/
+ wan-and-turkiye-asia-pacific/\nNo longer found in the latest source listin
+ g\; confirmation needed.\nThis event could not be rechecked on the latest 
+ collection. Confirm with the organiser.
 LAST-MODIFIED:20260925T071905Z
 LOCATION:https://systemdynamics.org/event/systems-thinking-in-k-12-educati
  on-experiences-from-south-korea-taiwan-and-turkiye-asia-pacific/
@@ -648,9 +650,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260925T094049Z
+DTSTAMP:20260926T092514Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:23
+SEQUENCE:24
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -659,7 +661,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260925T094049Z
+LAST-MODIFIED:20260926T092514Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -835,9 +837,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20260925T094049Z
+DTSTAMP:20260926T092514Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -848,7 +850,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20260925T094049Z
+LAST-MODIFIED:20260926T092514Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -859,20 +861,20 @@ BEGIN:VEVENT
 SUMMARY:WEdnesday SALON – How Fireflies Sync Their Rhythm
 DTSTART:20261007T180000Z
 DTEND:20261007T192000Z
-DTSTAMP:20260924T092314Z
+DTSTAMP:20260926T092514Z
 UID:7e2c8a903525823654eddc40@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nFireflies use flashes of light to find
   mates. Each species has its own pattern\, a kind of Morse code in light. 
- In some species\, thousands of them synchronize their flashes across an en
- tire forest\, even though each firefly can only see a few of its neighbors
- . How does a swarm coordinate without a leader?Fireflies offer a rare glim
- pse into animal communication. Their signal is a species-specific on/\nLan
+ In some species\, thousands synchronize across an entire forest\, though e
+ ach firefly can only see a few neighbors. How does a swarm coordinate with
+ out a leader? Fireflies offer a rare glimpse into animal communication. Ea
+ ch species flashes its own pattern of light to advertise itself to po\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednesday
  -salon-with-orit-peleg/
-LAST-MODIFIED:20260924T092314Z
+LAST-MODIFIED:20260926T092514Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -974,6 +976,33 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/system-dynamics-learning-hub-2026-sas
  dc-stream-4-multi-echelon-supply-chain-dynamics-session-1/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The iSD model from Millennium Institute: a Sustainable Development
+  Simulator
+DTSTART:20261015T140000Z
+DTEND:20261015T150000Z
+DTSTAMP:20260926T092514Z
+UID:5ee2d18137e4930f4cacdd06@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nThe Integrated Sustainable Developmen
+ t Simulator (iSD Model) is a data-driven tool that models the long-term co
+ nsequences of policy choices by integrating economic\, social\, and enviro
+ nmental factors. It allows policymakers to test different interventions\, 
+ revealing the complex interdependencies between sectors and supporting mor
+ e informed decisions about the future. Tailored to national and region\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/
+ the-isd-model-from-millenium-institute-a-sustainable-development-simulator
+ /
+LAST-MODIFIED:20260926T092514Z
+LOCATION:https://systemdynamics.org/event/the-isd-model-from-millenium-ins
+ titute-a-sustainable-development-simulator/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/the-isd-model-from-millenium-institut
+ e-a-sustainable-development-simulator/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CECAN Webinar – Place-Based Evaluation Is Missing the Point Abou
