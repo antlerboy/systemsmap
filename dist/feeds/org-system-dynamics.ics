@@ -616,21 +616,21 @@ SUMMARY:Transforming Food Systems and Markets. Today's Realities. Tomorrow
  's Needs.
 DTSTART:20261002T160000Z
 DTEND:20261002T173000Z
-DTSTAMP:20260926T092514Z
+DTSTAMP:20260929T104630Z
 UID:c249e652d60217638a0ffa9e@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nToday’s food system achieves remark
- able scale\, variety\, and convenience—yet nutritious foods can remain l
- ess affordable\, accessible\, and appealing\, particularly for lower-incom
- e communities. Why do promising innovations and policies so often fail to 
- produce lasting change? Drawing on research published in Nature Communicat
- ions\, Jeroen Struben will examine the market dynamics that shape the prod
- uct\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
- retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
- /event/transforming-food-systems-and-markets-todays-realities-tomorrows-ne
- eds/
-LAST-MODIFIED:20260926T092514Z
+DESCRIPTION:System Dynamics Society\nEvent Website: https://www.mit-alumni
+ -systemdynamics.org/transforming-food-systems Today’s food system achiev
+ es remarkable scale\, variety\, and convenience—yet nutritious foods can
+  remain less affordable\, accessible\, and appealing\, particularly for lo
+ wer-income communities. Why do promising innovations and policies so often
+  fail to produce lasting change? Drawing on research published in Nature C
+ om\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
+ etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
+ event/transforming-food-systems-and-markets-todays-realities-tomorrows-nee
+ ds/
+LAST-MODIFIED:20260929T104630Z
 LOCATION:https://systemdynamics.org/event/transforming-food-systems-and-ma
  rkets-todays-realities-tomorrows-needs/
 STATUS:CONFIRMED
@@ -1086,6 +1086,32 @@ URL:https://systemdynamics.org/event/systems-young-investigator-award-dead
  line/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:When Money Isn't Fungible: A Stock-and-Flow Interpretation of Ment
+ al Accounting
+DTSTART:20270105T160000Z
+DTEND:20270105T170000Z
+DTSTAMP:20260929T104630Z
+UID:b39164ce325aea6d25b88065@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nJanuary 5\, 2027 at 11 am New York | 
+ 4 pm London | Check your time zone People often keep money in low-yield sa
+ vings while simultaneously carrying expensive debt. Under the standard ass
+ umption that financial wealth is fully fungible\, this persistent co-holdi
+ ng is difficult to explain as an optimal allocation. Behavioral economics 
+ offers one possible mechanism through mental accounting\, where money \nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/
+ when-money-isnt-fungible-a-stock-and-flow-interpretation-of-mental-account
+ ing/
+LAST-MODIFIED:20260929T104630Z
+LOCATION:https://us02web.zoom.us/j/87032804571
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/when-money-isnt-fungible-a-stock-and-
+ flow-interpretation-of-mental-accounting/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20270112T160000Z
 DTEND:20270112T170000Z
@@ -1300,7 +1326,10 @@ DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
  ovide a space to collaborate on the responsible integration of artifi\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
- i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-06-08/
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-06-08/\nN
+ o longer found in the latest source listing\; confirmation needed.\nThis e
+ vent could not be rechecked on the latest collection. Confirm with the org
+ aniser.
 LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-06-08/

@@ -285,7 +285,10 @@ DESCRIPTION:Complexity Science Hub\nThe underrepresentation of women in ST
  ted. Our study examines the evolution of gender diversity among attend\nLa
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/who-gets
- -noticed-equity-in-network-rankings-and-computer-science-conferences/
+ -noticed-equity-in-network-rankings-and-computer-science-conferences/\nNo 
+ longer found in the latest source listing\; confirmation needed.\nThis eve
+ nt could not be rechecked on the latest collection. Confirm with the organ
+ iser.
 LAST-MODIFIED:20260928T110239Z
 LOCATION:S8
 STATUS:CONFIRMED
@@ -317,6 +320,31 @@ LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/5th-interpol-new-technologies-forum-ntf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spatial Relativity: How Local Selection Shapes Urban Growth Across
+  Scales
+DTSTART:20260930T150000Z
+DTEND:20260930T160000Z
+DTSTAMP:20260929T104630Z
+UID:2d09acbf722efc6cbbdf25f8@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nGrowth in human societies is an inhere
+ ntly multiscale phenomenon\, emerging from socioeconomic and demographic c
+ hanges across nested spatial units. Yet standard macroeconomic indicators 
+ obscure these dynamics by averaging over heterogeneity in both place and p
+ opulation. This talk introduces a framework based on the Price equation th
+ at decomposes aggregate growth exactly into two components: endogen\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/spatial-rel
+ ativity-how-local-selection-shapes-urban-growth-across-scales/
+LAST-MODIFIED:20260929T104630Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/spatial-relativity-how-local-selection-shapes
+ -urban-growth-across-scales/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Fear to Forecast: Understanding AI Swarms

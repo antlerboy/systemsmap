@@ -2,12 +2,12 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 201
+    "events": 203
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 65
+    "events": 66
   },
   {
     "id": "topic-systems",
@@ -22,12 +22,12 @@
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 52
+    "events": 53
   },
   {
     "id": "topic-system-dynamics",
     "name": "System dynamics",
-    "events": 59
+    "events": 60
   },
   {
     "id": "topic-systemic-design",
@@ -87,7 +87,7 @@
   {
     "id": "org-system-dynamics",
     "name": "System Dynamics Society",
-    "events": 59
+    "events": 60
   },
   {
     "id": "org-santa-fe",
@@ -97,7 +97,7 @@
   {
     "id": "org-csh",
     "name": "Complexity Science Hub",
-    "events": 18
+    "events": 19
   },
   {
     "id": "org-css",
