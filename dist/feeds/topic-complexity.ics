@@ -650,9 +650,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260929T104630Z
+DTSTAMP:20260930T103411Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:30
+SEQUENCE:31
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -661,7 +661,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260929T104630Z
+LAST-MODIFIED:20260930T103411Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -766,7 +766,9 @@ DESCRIPTION:System Dynamics Society\nSeptember 29\, 2026 at 11 am New York
  Language: Not specified\nLanguage requirements: Not specified\nInterpretat
  ion: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/even
  t/from-bees-to-feedback-loops-building-systems-literacy-from-childhood-to-
- leadership/
+ leadership/\nNo longer found in the latest source listing\; confirmation n
+ eeded.\nThis event could not be rechecked on the latest collection. Confir
+ m with the organiser.
 LAST-MODIFIED:20260910T090026Z
 LOCATION:https://systemdynamics.org/event/from-bees-to-feedback-loops-buil
  ding-systems-literacy-from-childhood-to-leadership/
@@ -865,9 +867,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20260929T104630Z
+DTSTAMP:20260930T103411Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:9
+SEQUENCE:10
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -878,7 +880,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20260929T104630Z
+LAST-MODIFIED:20260930T103411Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1155,9 +1157,9 @@ SUMMARY:13 November 2026 Doomsday Conference – On the Sense and Nonsense
   of End-of-the-World Predictions
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20260922T092210Z
+DTSTAMP:20260930T103411Z
 UID:12cb1fa648ac4a1ff9b2b533@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nFriday\, November 13\, 2026 is the end
   of the world as predicted by Heinz von Foerster et al. in a scientific ar
@@ -1168,10 +1170,8 @@ DESCRIPTION:Complexity Science Hub\nFriday\, November 13\, 2026 is the end
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/doom
  sday-conference-on-the-sense-and-nonsense-of-end-of-the-world-predictions/
- \nDate-only listing\; check the organiser for session times.\nNo longer fo
- und in the latest source listing\; confirmation needed.\nThis event could 
- not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260922T092210Z
+ \nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20260930T103411Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
 STATUS:CONFIRMED

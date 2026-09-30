@@ -17,7 +17,7 @@
   {
     "id": "topic-cybernetics",
     "name": "Cybernetics",
-    "events": 57
+    "events": 58
   },
   {
     "id": "topic-complexity",
@@ -42,7 +42,7 @@
   {
     "id": "org-scio",
     "name": "SCiO — international chapters",
-    "events": 18
+    "events": 19
   },
   {
     "id": "org-scio-courses",
@@ -177,7 +177,7 @@
   {
     "id": "org-sociocracy",
     "name": "Sociocracy For All",
-    "events": 20
+    "events": 19
   },
   {
     "id": "org-incose",

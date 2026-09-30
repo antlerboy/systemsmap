@@ -473,9 +473,9 @@ SUMMARY:13 November 2026 Doomsday Conference – On the Sense and Nonsense
   of End-of-the-World Predictions
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20260922T092210Z
+DTSTAMP:20260930T103411Z
 UID:12cb1fa648ac4a1ff9b2b533@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nFriday\, November 13\, 2026 is the end
   of the world as predicted by Heinz von Foerster et al. in a scientific ar
@@ -486,10 +486,8 @@ DESCRIPTION:Complexity Science Hub\nFriday\, November 13\, 2026 is the end
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/doom
  sday-conference-on-the-sense-and-nonsense-of-end-of-the-world-predictions/
- \nDate-only listing\; check the organiser for session times.\nNo longer fo
- und in the latest source listing\; confirmation needed.\nThis event could 
- not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260922T092210Z
+ \nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20260930T103411Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
 STATUS:CONFIRMED

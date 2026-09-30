@@ -22,7 +22,9 @@ DESCRIPTION:ISSS\nWho: ISSS **Reimagining our World Systemically - From Pr
  nal_Society_for_the_Systems_Sciences\,_Cyprus "70th\nLanguage: Not specifi
  ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
  ccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
- \nDate-only listing\; check the organiser for session times.
+ \nDate-only listing\; check the organiser for session times.\nNo longer fo
+ und in the latest source listing\; confirmation needed.\nThis event could 
+ not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T082311Z
 LOCATION:Pyla Cyprus
 STATUS:CONFIRMED
@@ -80,9 +82,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISSS Board of Directors meeting
 DTSTART:20260911T200000Z
-DTSTAMP:20260929T104630Z
+DTSTAMP:20260930T103411Z
 UID:03c306f9fde126bcae14d368@systemsmap.antlerboy.com
-SEQUENCE:29
+SEQUENCE:30
 CATEGORIES:Systems thinking
 DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ed on the official ISSS events page. Check registration and participation 
@@ -90,7 +92,7 @@ DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ot specified\nInterpretation: Not specified\nAccess: Registration required
  \; ISSS membership rules apply\nhttps://wiki.lab.isss.org/events\nEnd time
   not published.
-LAST-MODIFIED:20260929T104630Z
+LAST-MODIFIED:20260930T103411Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -99,9 +101,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISSS Annual General Meeting
 DTSTART:20260918T200000Z
-DTSTAMP:20260929T104630Z
+DTSTAMP:20260930T103411Z
 UID:a1f3b2af02e11db18a32b82e@systemsmap.antlerboy.com
-SEQUENCE:29
+SEQUENCE:30
 CATEGORIES:Systems thinking
 DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ed on the official ISSS events page. Check registration and participation 
@@ -109,7 +111,7 @@ DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ot specified\nInterpretation: Not specified\nAccess: Registration required
  \; ISSS membership rules apply\nhttps://wiki.lab.isss.org/events\nEnd time
   not published.
-LAST-MODIFIED:20260929T104630Z
+LAST-MODIFIED:20260930T103411Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
