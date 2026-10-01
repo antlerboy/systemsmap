@@ -8,32 +8,6 @@ X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 SUMMARY:Reimagining our World Systemically - From Problematique to Purpose
  ful Action (2026) (ISSS)
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260702
-DTSTAMP:20260909T082311Z
-UID:104c5b109934da8ee37f6120@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Cybernetics,Systems thinking
-DESCRIPTION:ISSS\nWho: ISSS **Reimagining our World Systemically - From Pr
- oblematique to Purposeful Action (2026)** is a Dialogue for the second qua
- rter of the 21st Century\, organized back-to-back with the 70th_(2026)_Ann
- ual_Meeting_of_the_International_Society_for_the_Systems_Sciences\,_Cyprus
- : https://futureworlds.eu/wiki/70th_(2026_Annual_Meeting_of_the_Internatio
- nal_Society_for_the_Systems_Sciences\,_Cyprus "70th\nLanguage: Not specifi
- ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
- ccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
- \nDate-only listing\; check the organiser for session times.\nNo longer fo
- und in the latest source listing\; confirmation needed.\nThis event could 
- not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260909T082311Z
-LOCATION:Pyla Cyprus
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reimagining our World Systemically - From Problematique to Purpose
- ful Action (2026) (ISSS)
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260703
 DTSTAMP:20260909T082311Z
@@ -48,7 +22,9 @@ DESCRIPTION:ISSS\nWho: ISSS **Reimagining our World Systemically - From Pr
  nal_Society_for_the_Systems_Sciences\,_Cyprus "70th\nLanguage: Not specifi
  ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
  ccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
- \nDate-only listing\; check the organiser for session times.
+ \nDate-only listing\; check the organiser for session times.\nNo longer fo
+ und in the latest source listing\; confirmation needed.\nThis event could 
+ not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T082311Z
 LOCATION:Pyla Cyprus
 STATUS:CONFIRMED
@@ -82,9 +58,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISSS Board of Directors meeting
 DTSTART:20260911T200000Z
-DTSTAMP:20260930T103411Z
+DTSTAMP:20261001T110212Z
 UID:03c306f9fde126bcae14d368@systemsmap.antlerboy.com
-SEQUENCE:30
+SEQUENCE:31
 CATEGORIES:Systems thinking
 DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ed on the official ISSS events page. Check registration and participation 
@@ -92,7 +68,7 @@ DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ot specified\nInterpretation: Not specified\nAccess: Registration required
  \; ISSS membership rules apply\nhttps://wiki.lab.isss.org/events\nEnd time
   not published.
-LAST-MODIFIED:20260930T103411Z
+LAST-MODIFIED:20261001T110212Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -101,9 +77,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISSS Annual General Meeting
 DTSTART:20260918T200000Z
-DTSTAMP:20260930T103411Z
+DTSTAMP:20261001T110212Z
 UID:a1f3b2af02e11db18a32b82e@systemsmap.antlerboy.com
-SEQUENCE:30
+SEQUENCE:31
 CATEGORIES:Systems thinking
 DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ed on the official ISSS events page. Check registration and participation 
@@ -111,7 +87,7 @@ DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ot specified\nInterpretation: Not specified\nAccess: Registration required
  \; ISSS membership rules apply\nhttps://wiki.lab.isss.org/events\nEnd time
   not published.
-LAST-MODIFIED:20260930T103411Z
+LAST-MODIFIED:20261001T110212Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

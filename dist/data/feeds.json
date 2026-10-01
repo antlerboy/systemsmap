@@ -2,12 +2,12 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 203
+    "events": 208
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 66
+    "events": 68
   },
   {
     "id": "topic-systems",
@@ -22,7 +22,7 @@
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 53
+    "events": 59
   },
   {
     "id": "topic-system-dynamics",
@@ -42,7 +42,7 @@
   {
     "id": "org-scio",
     "name": "SCiO — international chapters",
-    "events": 19
+    "events": 20
   },
   {
     "id": "org-scio-courses",
@@ -57,7 +57,7 @@
   {
     "id": "org-community",
     "name": "Cybernetics and Systems Community Calendar",
-    "events": 29
+    "events": 28
   },
   {
     "id": "org-ifsr",
@@ -67,7 +67,7 @@
   {
     "id": "org-isss",
     "name": "International Society for the Systems Sciences (ISSS)",
-    "events": 5
+    "events": 4
   },
   {
     "id": "org-isss-lab",
@@ -97,12 +97,12 @@
   {
     "id": "org-csh",
     "name": "Complexity Science Hub",
-    "events": 19
+    "events": 20
   },
   {
     "id": "org-css",
     "name": "Complex Systems Society",
-    "events": 6
+    "events": 5
   },
   {
     "id": "org-metaphorum",
@@ -147,7 +147,7 @@
   {
     "id": "org-iscpif",
     "name": "Institut des systèmes complexes Paris Île-de-France",
-    "events": 10
+    "events": 15
   },
   {
     "id": "org-griffith",

@@ -8,32 +8,6 @@ X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 SUMMARY:Reimagining our World Systemically - From Problematique to Purpose
  ful Action (2026) (ISSS)
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260702
-DTSTAMP:20260909T082311Z
-UID:104c5b109934da8ee37f6120@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Cybernetics,Systems thinking
-DESCRIPTION:ISSS\nWho: ISSS **Reimagining our World Systemically - From Pr
- oblematique to Purposeful Action (2026)** is a Dialogue for the second qua
- rter of the 21st Century\, organized back-to-back with the 70th_(2026)_Ann
- ual_Meeting_of_the_International_Society_for_the_Systems_Sciences\,_Cyprus
- : https://futureworlds.eu/wiki/70th_(2026_Annual_Meeting_of_the_Internatio
- nal_Society_for_the_Systems_Sciences\,_Cyprus "70th\nLanguage: Not specifi
- ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
- ccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
- \nDate-only listing\; check the organiser for session times.\nNo longer fo
- und in the latest source listing\; confirmation needed.\nThis event could 
- not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260909T082311Z
-LOCATION:Pyla Cyprus
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reimagining our World Systemically - From Problematique to Purpose
- ful Action (2026) (ISSS)
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260703
 DTSTAMP:20260909T082311Z
@@ -48,7 +22,9 @@ DESCRIPTION:ISSS\nWho: ISSS **Reimagining our World Systemically - From Pr
  nal_Society_for_the_Systems_Sciences\,_Cyprus "70th\nLanguage: Not specifi
  ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
  ccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
- \nDate-only listing\; check the organiser for session times.
+ \nDate-only listing\; check the organiser for session times.\nNo longer fo
+ und in the latest source listing\; confirmation needed.\nThis event could 
+ not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T082311Z
 LOCATION:Pyla Cyprus
 STATUS:CONFIRMED

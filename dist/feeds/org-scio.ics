@@ -32,18 +32,20 @@ BEGIN:VEVENT
 SUMMARY:SysPrac26 – The Systems Thinking Practitioners Conference
 DTSTART:20260921T060000Z
 DTEND:20260922T150000Z
-DTSTAMP:20260923T092256Z
+DTSTAMP:20261001T110212Z
 UID:4d6727709c3d174e0fafefbd@systemsmap.antlerboy.com
-SEQUENCE:0
-CATEGORIES:Complexity,Cybernetics,Systems thinking
+SEQUENCE:1
+CATEGORIES:Systems thinking,Cybernetics,Complexity
 DESCRIPTION:SCiO\nSysPrac26 – The Systems Thinking Practitioner Conferen
  ce will take place on 21st & 22nd September 2026 in Cranfield As the chall
  enges facing organisations\, communities and society become increasingly i
- nterconnected and complex\, […]\nLanguage: Not specified\nLanguage requi
- rements: Not specified\nInterpretation: Not specified\nAccess: See organis
- er\nhttps://ifsr.org/event/sysprac26-the-systems-thinking-practitioners-co
- nference/
-LAST-MODIFIED:20260923T092256Z
+ nterconnected and complex\, the need for practical systems thinking has ne
+ ver been greater. SysPrac26 takes place on 21–22 September 2026 at Cranf
+ ield University – two days of systems thinking in […]\nLanguage: Not s
+ pecified\nLanguage requirements: Not specified\nInterpretation: Not specif
+ ied\nAccess: See organiser\nhttps://ifsr.org/event/sysprac26-the-systems-t
+ hinking-practitioners-conference/
+LAST-MODIFIED:20261001T110212Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -74,16 +76,16 @@ BEGIN:VEVENT
 SUMMARY:Making relational\, place-based public services ordinary
 DTSTART:20260921T124500Z
 DTEND:20260921T141500Z
-DTSTAMP:20260930T103411Z
+DTSTAMP:20261001T110212Z
 UID:8c00d12aaf979855624fa772@systemsmap.antlerboy.com
-SEQUENCE:31
+SEQUENCE:32
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:SCiO / SysPrac26\nBenjamin Taylor’s workshop at SysPrac26. C
  onference booking required.\nLanguage: Not specified\nLanguage requirement
  s: Not specified\nInterpretation: Not specified\nAccess: See organiser\nht
  tps://www.systemspractice.org/Schedule26\nProvisional programme\; workshop
   end follows the programme table span.
-LAST-MODIFIED:20260930T103411Z
+LAST-MODIFIED:20261001T110212Z
 LOCATION:LR4\, Vincent Building\, Cranfield University\, United Kingdom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -241,6 +243,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.systemspractice.org/events/scio-uk-virtual-open-meeting-no
  vember-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCiO UK Virtual Development Event - December 2026
+DTSTART:20261208T130000Z
+DTEND:20261208T150000Z
+DTSTAMP:20261001T110212Z
+UID:9a71e30f2369435c79121f27@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics
+DESCRIPTION:SCiO UK\n\nLanguage: English\nLanguage requirements: Not speci
+ fied\nInterpretation: Not specified\nAccess: Members only\nhttps://www.sys
+ temspractice.org/events/scio-uk-virtual-development-event-december-2026
+LAST-MODIFIED:20261001T110212Z
+LOCATION:Online event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.systemspractice.org/events/scio-uk-virtual-development-eve
+ nt-december-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deep Dive Intervisie: Critical Systems Heuristics

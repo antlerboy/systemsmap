@@ -6,24 +6,6 @@ X-WR-CALNAME:Complexity
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:NetLogo Conference 2026
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260702
-DTSTAMP:20260906T191842Z
-UID:e9509aff3d5137eb6362e5eb@systemsmap.antlerboy.com
-SEQUENCE:1
-CATEGORIES:Complexity
-DESCRIPTION:Complex Systems Society\n\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://cssociety.org/event/5e704c78-1f96-44d2-a917-12e60df5c1cb/
- \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Chicago\, United States
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://cssociety.org/event/5e704c78-1f96-44d2-a917-12e60df5c1cb/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:System Dynamics Learning Hub 2026 – SASDC – Stream 3 (Pollutio
  n Dynamics): Session 1
 DTSTART:20260804T160000Z
@@ -389,6 +371,31 @@ TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/wednesday-salon-with-ljubica-nedelkoska/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:100 Years of Stafford Beer: Celebrating his Life\, his Legacy and 
+ Beyond
+DTSTART:20260917T070000Z
+DTEND:20260919T140000Z
+DTSTAMP:20261001T110212Z
+UID:e529dc46fad5aa884b1fa9d2@systemsmap.antlerboy.com
+SEQUENCE:1
+CATEGORIES:Systems thinking,Cybernetics,Complexity
+DESCRIPTION:Metaphorum\nMetaphorum 2026 marks the centenary of Stafford Be
+ er with a landmark international gathering dedicated to celebrating his li
+ fe\, legacy\, and continuing influence on organisational cybernetics. More
+  than fifty years after the Viable System Model and Team Syntegrity reshap
+ ed the field\, Beer’s ideas remain urgently relevant as organisations an
+ d societies confront escalating complexity\, ecological limi\nLanguage: No
+ t specified\nLanguage requirements: Not specified\nInterpretation: Not spe
+ cified\nAccess: See organiser\nhttps://ifsr.org/event/100-years-of-staffor
+ d-beer-celebrating-his-life-his-legacy-and-beyond/
+LAST-MODIFIED:20261001T110212Z
+LOCATION:Alliance Manchester Business School\, Manchester\, United Kingdom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ifsr.org/event/100-years-of-stafford-beer-celebrating-his-life
+ -his-legacy-and-beyond/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Journée de rentrée
 DTSTART:20260918T060000Z
 DTEND:20260918T140000Z
@@ -444,18 +451,20 @@ BEGIN:VEVENT
 SUMMARY:SysPrac26 – The Systems Thinking Practitioners Conference
 DTSTART:20260921T060000Z
 DTEND:20260922T150000Z
-DTSTAMP:20260923T092256Z
+DTSTAMP:20261001T110212Z
 UID:4d6727709c3d174e0fafefbd@systemsmap.antlerboy.com
-SEQUENCE:0
-CATEGORIES:Complexity,Cybernetics,Systems thinking
+SEQUENCE:1
+CATEGORIES:Systems thinking,Cybernetics,Complexity
 DESCRIPTION:SCiO\nSysPrac26 – The Systems Thinking Practitioner Conferen
  ce will take place on 21st & 22nd September 2026 in Cranfield As the chall
  enges facing organisations\, communities and society become increasingly i
- nterconnected and complex\, […]\nLanguage: Not specified\nLanguage requi
- rements: Not specified\nInterpretation: Not specified\nAccess: See organis
- er\nhttps://ifsr.org/event/sysprac26-the-systems-thinking-practitioners-co
- nference/
-LAST-MODIFIED:20260923T092256Z
+ nterconnected and complex\, the need for practical systems thinking has ne
+ ver been greater. SysPrac26 takes place on 21–22 September 2026 at Cranf
+ ield University – two days of systems thinking in […]\nLanguage: Not s
+ pecified\nLanguage requirements: Not specified\nInterpretation: Not specif
+ ied\nAccess: See organiser\nhttps://ifsr.org/event/sysprac26-the-systems-t
+ hinking-practitioners-conference/
+LAST-MODIFIED:20261001T110212Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -650,9 +659,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260930T103411Z
+DTSTAMP:20261001T110212Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:31
+SEQUENCE:32
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -661,7 +670,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20260930T103411Z
+LAST-MODIFIED:20261001T110212Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -740,7 +749,9 @@ DESCRIPTION:INTERPOL\, Complexity Science Hub & the Bavarian State Ministr
  llenges and working solutions to address\nLanguage: Not specified\nLanguag
  e requirements: Not specified\nInterpretation: Not specified\nAccess: See 
  organiser\nhttps://csh.ac.at/events/5th-interpol-new-technologies-forum-nt
- f/\nDate-only listing\; check the organiser for session times.
+ f/\nDate-only listing\; check the organiser for session times.\nNo longer 
+ found in the latest source listing\; confirmation needed.\nThis event coul
+ d not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
@@ -830,7 +841,9 @@ DESCRIPTION:Complexity Science Hub\nGrowth in human societies is an inhere
  at decomposes aggregate growth exactly into two components: endogen\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/spatial-rel
- ativity-how-local-selection-shapes-urban-growth-across-scales/
+ ativity-how-local-selection-shapes-urban-growth-across-scales/\nNo longer 
+ found in the latest source listing\; confirmation needed.\nThis event coul
+ d not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260929T104630Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
@@ -864,12 +877,50 @@ URL:https://csh.ac.at/events/from-fear-to-forecast-understanding-ai-swarms
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Soutenance de thèse
+DTSTART:20261005T110000Z
+DTEND:20261005T163000Z
+DTSTAMP:20261001T110212Z
+UID:13324b3a34c7e1774041b7f2@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nSoutena
+ nce de thèse en immunologie laboratoire I3 UMRS959\nLanguage: Not specifi
+ ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
+ ccess: See organiser\nhttps://iscpif.fr/evenements/soutenance-de-these-7/
+LAST-MODIFIED:20261001T110212Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/soutenance-de-these-7/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Séminaires Légumineuses d'INRAE
+DTSTART:20261006T060000Z
+DTEND:20261006T133000Z
+DTSTAMP:20261001T110212Z
+UID:6a93245943107545fbac1ad5@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nV150626
+  Diffusion Programme Seminaire Légumineuses 6oct26 Séminaire annuel qui 
+ réunit les chercheurs d’INRAE travaillant sur les légumineuses.\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/seminai
+ res-legumineuses-dinrae/
+LAST-MODIFIED:20261001T110212Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/seminaires-legumineuses-dinrae/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20260930T103411Z
+DTSTAMP:20261001T110212Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:10
+SEQUENCE:11
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -880,12 +931,37 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20260930T103411Z
+LAST-MODIFIED:20261001T110212Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYaYQGd9kagT_Drg23D5
  OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlDQGXyaqccCA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AG projet QUINTET du programme TRACCS (PEPR Climat)
+DTSTART:20261007T060000Z
+DTEND:20261007T150000Z
+DTSTAMP:20261001T110212Z
+UID:7c29d10d3575883dda81f7c7@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nLe prog
+ ramme TRACCS (PEPR Climat\, financement France 2030) vise à transformer l
+ es sciences du climat pour mieux répondre aux questions sociétales relat
+ ives au changement climatique. Le projet QUINTET qui en fait partie\, vise
+  à quantifier les incertitudes des modèles de climat. Pour ce faire\, no
+ us mettons en oeuvre des techniques statistiques avancées et des méthode
+ s d’apprentissage (IA)\, sur des h\nLanguage: Not specified\nLanguage re
+ quirements: Not specified\nInterpretation: Not specified\nAccess: See orga
+ niser\nhttps://iscpif.fr/evenements/ag-projet-quintet-du-programme-traccs-
+ pepr-climat/
+LAST-MODIFIED:20261001T110212Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/ag-projet-quintet-du-programme-traccs-pep
+ r-climat/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WEdnesday SALON – How Fireflies Sync Their Rhythm
@@ -937,6 +1013,25 @@ URL:https://csh.ac.at/events/a-bridge-from-collective-motion-to-social-beh
  avior-migration-and-collective-decisions/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unarchive Complexity
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20261001T110212Z
+UID:e611d865e87ebd5a1f4b3e86@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nhttps:/
+ /iscpif.fr/unarchive-complexity-accueil/\nLanguage: Not specified\nLanguag
+ e requirements: Not specified\nInterpretation: Not specified\nAccess: See 
+ organiser\nhttps://iscpif.fr/evenements/unarchive-complexity/\nDate-only l
+ isting\; check the organiser for session times.
+LAST-MODIFIED:20261001T110212Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/unarchive-complexity/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCS 2026
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261017
@@ -953,6 +1048,27 @@ LOCATION:United States\, Binghamton\, NY
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://cssociety.org/event/5ea1ef85-35de-4e54-9a0c-772f4dcd0185/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comité d'évaluation LEFE - Programme National INSU
+DTSTART:20261013T060000Z
+DTEND:20261015T140000Z
+DTSTAMP:20261001T110212Z
+UID:3c1eb8685481d94adaa5a89d@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nComité
+  d’évaluation pour les projets LEFE déposés à l’appel à projets 2
+ 027 de CNRS Terre & Univers\nLanguage: Not specified\nLanguage requirement
+ s: Not specified\nInterpretation: Not specified\nAccess: See organiser\nht
+ tps://iscpif.fr/evenements/comite-devaluation-lefe-programme-national-insu
+ /
+LAST-MODIFIED:20261001T110212Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/comite-devaluation-lefe-programme-nationa
+ l-insu/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Implementing the Self-Managing Enterprise with Agentic AI
@@ -1058,9 +1174,9 @@ SUMMARY:The Earth Has Humans\, but What Kind? Endogenizing Behaviour in Cl
  imate Models
 DTSTART:20261020T100000Z
 DTEND:20261020T110000Z
-DTSTAMP:20260916T092203Z
+DTSTAMP:20261001T110212Z
 UID:ebb55d1fb4153264a25468c5@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity,System dynamics
 DESCRIPTION:System Dynamics Society\nWelcome to the next Chapter meeting! 
  Agenda: – Presentation of the new leadership since ISDC 2026 (Anna and G
@@ -1072,9 +1188,8 @@ DESCRIPTION:System Dynamics Society\nWelcome to the next Chapter meeting!
  etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
  event/the-earth-has-humans-but-what-kind-endogenizing-behaviour-in-climate
  -models/
-LAST-MODIFIED:20260916T092203Z
-LOCATION:https://systemdynamics.org/event/the-earth-has-humans-but-what-ki
- nd-endogenizing-behaviour-in-climate-models/
+LAST-MODIFIED:20261001T110212Z
+LOCATION:https://kth-se.zoom.us/j/62254134636
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/the-earth-has-humans-but-what-kind-en
@@ -1178,6 +1293,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/doomsday-conference-on-the-sense-and-nonsense
  -of-end-of-the-world-predictions/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Public Panel Discussion: How to Survive Doomsdays
+DTSTART:20261112T170000Z
+DTEND:20261112T183000Z
+DTSTAMP:20261001T110212Z
+UID:141854d1afc83679f856855e@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nWelcome: Stefan Thurner Panel Discussa
+ nts: Pearl Dykstra\, Jesse Ausubel\, Geoffrey West\, more participants tbd
+  Moderator: Helga Nowotny more information will follow.\nLanguage: Not spe
+ cified\nLanguage requirements: Not specified\nInterpretation: Not specifie
+ d\nAccess: See organiser\nhttps://csh.ac.at/events/public-panel-discussion
+ -how-to-survive-doomsdays/
+LAST-MODIFIED:20261001T110212Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/public-panel-discussion-how-to-survive-doomsd
+ ays/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Next Generation of Systems Mapping: From Insight to Interventi

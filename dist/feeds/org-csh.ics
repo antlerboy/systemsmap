@@ -313,7 +313,9 @@ DESCRIPTION:INTERPOL\, Complexity Science Hub & the Bavarian State Ministr
  llenges and working solutions to address\nLanguage: Not specified\nLanguag
  e requirements: Not specified\nInterpretation: Not specified\nAccess: See 
  organiser\nhttps://csh.ac.at/events/5th-interpol-new-technologies-forum-nt
- f/\nDate-only listing\; check the organiser for session times.
+ f/\nDate-only listing\; check the organiser for session times.\nNo longer 
+ found in the latest source listing\; confirmation needed.\nThis event coul
+ d not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
@@ -338,7 +340,9 @@ DESCRIPTION:Complexity Science Hub\nGrowth in human societies is an inhere
  at decomposes aggregate growth exactly into two components: endogen\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/spatial-rel
- ativity-how-local-selection-shapes-urban-growth-across-scales/
+ ativity-how-local-selection-shapes-urban-growth-across-scales/\nNo longer 
+ found in the latest source listing\; confirmation needed.\nThis event coul
+ d not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260929T104630Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
@@ -494,5 +498,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/doomsday-conference-on-the-sense-and-nonsense
  -of-end-of-the-world-predictions/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Public Panel Discussion: How to Survive Doomsdays
+DTSTART:20261112T170000Z
+DTEND:20261112T183000Z
+DTSTAMP:20261001T110212Z
+UID:141854d1afc83679f856855e@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nWelcome: Stefan Thurner Panel Discussa
+ nts: Pearl Dykstra\, Jesse Ausubel\, Geoffrey West\, more participants tbd
+  Moderator: Helga Nowotny more information will follow.\nLanguage: Not spe
+ cified\nLanguage requirements: Not specified\nInterpretation: Not specifie
+ d\nAccess: See organiser\nhttps://csh.ac.at/events/public-panel-discussion
+ -how-to-survive-doomsdays/
+LAST-MODIFIED:20261001T110212Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/public-panel-discussion-how-to-survive-doomsd
+ ays/
 END:VEVENT
 END:VCALENDAR
