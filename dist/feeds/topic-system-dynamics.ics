@@ -577,7 +577,9 @@ DESCRIPTION:System Dynamics Society\nPlease join the Water SIG\, Nigerian
  ion:\nLanguage: Not specified\nLanguage requirements: Not specified\nInter
  pretation: Not specified\nAccess: See organiser\nhttps://systemdynamics.or
  g/event/participatory-modelling-of-the-wef-nexus-through-causal-loop-diagr
- ams-in-a-cassava-processing-hub-in-nigeria/
+ ams-in-a-cassava-processing-hub-in-nigeria/\nNo longer found in the latest
+  source listing\; confirmation needed.\nThis event could not be rechecked 
+ on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260910T090026Z
 LOCATION:https://systemdynamics.org/event/participatory-modelling-of-the-w
  ef-nexus-through-causal-loop-diagrams-in-a-cassava-processing-hub-in-niger
@@ -618,9 +620,9 @@ SUMMARY:Transforming Food Systems and Markets. Today's Realities. Tomorrow
  's Needs.
 DTSTART:20261002T160000Z
 DTEND:20261002T173000Z
-DTSTAMP:20260929T104630Z
+DTSTAMP:20261002T103500Z
 UID:c249e652d60217638a0ffa9e@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nEvent Website: https://www.mit-alumni
  -systemdynamics.org/transforming-food-systems Today’s food system achiev
@@ -632,9 +634,9 @@ DESCRIPTION:System Dynamics Society\nEvent Website: https://www.mit-alumni
  etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
  event/transforming-food-systems-and-markets-todays-realities-tomorrows-nee
  ds/
-LAST-MODIFIED:20260929T104630Z
-LOCATION:https://systemdynamics.org/event/transforming-food-systems-and-ma
- rkets-todays-realities-tomorrows-needs/
+LAST-MODIFIED:20261002T103500Z
+LOCATION:https://us02web.zoom.us/j/88050863400?pwd=yROebm94EU6qsdgCQ0XKI9D
+ ARECaal.1&jst=1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/transforming-food-systems-and-markets
@@ -746,9 +748,9 @@ SUMMARY:The iSD model from Millennium Institute: a Sustainable Development
   Simulator
 DTSTART:20261015T140000Z
 DTEND:20261015T150000Z
-DTSTAMP:20260926T092514Z
+DTSTAMP:20261002T103500Z
 UID:5ee2d18137e4930f4cacdd06@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity,System dynamics
 DESCRIPTION:System Dynamics Society\nThe Integrated Sustainable Developmen
  t Simulator (iSD Model) is a data-driven tool that models the long-term co
@@ -760,9 +762,8 @@ DESCRIPTION:System Dynamics Society\nThe Integrated Sustainable Developmen
  n: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/
  the-isd-model-from-millenium-institute-a-sustainable-development-simulator
  /
-LAST-MODIFIED:20260926T092514Z
-LOCATION:https://systemdynamics.org/event/the-isd-model-from-millenium-ins
- titute-a-sustainable-development-simulator/
+LAST-MODIFIED:20261002T103500Z
+LOCATION:https://us02web.zoom.us/j/83989986859
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/the-isd-model-from-millenium-institut
@@ -772,9 +773,9 @@ BEGIN:VEVENT
 SUMMARY:SDS Policy Council Meeting (October 2026)
 DTSTART:20261015T150000Z
 DTEND:20261015T163000Z
-DTSTAMP:20260910T090026Z
+DTSTAMP:20261002T103500Z
 UID:6b0b11af2f09b09cdd6226cb@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
  l occur on the 3rd Thursday of the month with the exception of conference 
@@ -784,9 +785,8 @@ DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
  uirements: Not specified\nInterpretation: Not specified\nAccess: See organ
  iser\nhttps://systemdynamics.org/event/sds-policy-council-meeting-october-
  2026/
-LAST-MODIFIED:20260910T090026Z
-LOCATION:https://systemdynamics.org/event/sds-policy-council-meeting-octob
- er-2026/
+LAST-MODIFIED:20261002T103500Z
+LOCATION:https://us02web.zoom.us/j/89954043089
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/sds-policy-council-meeting-october-20
@@ -845,6 +845,30 @@ URL:https://systemdynamics.org/event/the-40th-annual-european-simulation-a
  nd-modelling-conference-esm-2026/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Strategic Planning Meeting for 2027 and Networking
+DTSTART:20261022T210000Z
+DTEND:20261022T220000Z
+DTSTAMP:20261002T103500Z
+UID:8d10954904ba2c9d1a1fcfbd@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nOn Thursday\, October 22nd @ 5pm New 
+ York (Time Converter https://www.timeanddate.com/worldclock/fixedtime.html
+ ?iso=20261022T17&p1=179&ah=1)\, the Water SIG will have a Strategic Planni
+ ng Meeting for 2027 and Networking session. To join the Water SIG\, please
+  log into your account on the System Dynamics Society (SDS) site\, then 1.
+  Go to https://systemdynamics.org/user 2. Edit Profile 3. Add Water to \nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
+ /strategic-planning-meeting-for-2027-and-networking/
+LAST-MODIFIED:20261002T103500Z
+LOCATION:https://nmsu.zoom.us/j/89089874054
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/strategic-planning-meeting-for-2027-a
+ nd-networking/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Implementing the Self-Managing Enterprise with Agentic AI
 DTSTART:20261027T150000Z
 DTEND:20261027T160000Z
@@ -897,9 +921,9 @@ BEGIN:VEVENT
 SUMMARY:SDS Policy Council November
 DTSTART:20261119T160000Z
 DTEND:20261119T173000Z
-DTSTAMP:20260914T095825Z
+DTSTAMP:20261002T103500Z
 UID:43fb78f4326cb77f4c4c6107@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
  l occur on the 3rd Thursday of the month with the exception of conference 
@@ -908,8 +932,9 @@ DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
   prior to the start of the meeting.\nLanguage: Not specified\nLanguage req
  uirements: Not specified\nInterpretation: Not specified\nAccess: See organ
  iser\nhttps://systemdynamics.org/event/sds-policy-council-november/
-LAST-MODIFIED:20260914T095825Z
-LOCATION:https://systemdynamics.org/event/sds-policy-council-november/
+LAST-MODIFIED:20261002T103500Z
+LOCATION:https://us02web.zoom.us/j/89954043089?pwd=1gUGprni0qTmsnAtgvw4LrT
+ huKzTLT.1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/sds-policy-council-november/
@@ -1044,9 +1069,9 @@ BEGIN:VEVENT
 SUMMARY:SDS Policy Council December
 DTSTART:20261217T160000Z
 DTEND:20261217T173000Z
-DTSTAMP:20260914T095825Z
+DTSTAMP:20261002T103500Z
 UID:460f3efc02ea15fe806594a5@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
  l occur on the 3rd Thursday of the month with the exception of conference 
@@ -1055,8 +1080,9 @@ DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
   prior to the start of the meeting.\nLanguage: Not specified\nLanguage req
  uirements: Not specified\nInterpretation: Not specified\nAccess: See organ
  iser\nhttps://systemdynamics.org/event/sds-policy-council-december/
-LAST-MODIFIED:20260914T095825Z
-LOCATION:https://systemdynamics.org/event/sds-policy-council-december/
+LAST-MODIFIED:20261002T103500Z
+LOCATION:https://us02web.zoom.us/j/89954043089?pwd=1gUGprni0qTmsnAtgvw4LrT
+ huKzTLT.1
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/sds-policy-council-december/
@@ -1161,6 +1187,32 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/generative-agent-based-models-simulat
  ing-quasi-autonomous-ai-agents/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dynamics of Sustainability Transitions: Can we go faster\, sho
+ uld we slow down?
+DTSTART:20270121T150000Z
+DTEND:20270121T160000Z
+DTSTAMP:20261002T103500Z
+UID:55c289d29789c269f2fc241c@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nProfessor of Responsible Sustainabili
+ ty Transitions at the Nijmegen School of Management\, Radboud University\,
+  will give an inaugural lecture on Thursday\, January 21\, 2027 at 4.00 p.
+ m. The lecture is entitled: The Dynamics of Sustainability Transitions: Ca
+ n we go faster\, should we slow down? Event Website: https://www.ru.nl/en/
+ about-us/events/inaugural-lecture-professor-vincent-de-gooyert Location:\n
+ Language: Not specified\nLanguage requirements: Not specified\nInterpretat
+ ion: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/even
+ t/the-dynamics-of-sustainability-transitions-can-we-go-faster-should-we-sl
+ ow-down/
+LAST-MODIFIED:20261002T103500Z
+LOCATION:Aula\, Netherlands
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/the-dynamics-of-sustainability-transi
+ tions-can-we-go-faster-should-we-slow-down/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
@@ -1327,7 +1379,10 @@ DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
  ovide a space to collaborate on the responsible integration of artifi\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
- i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-06-08/
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-06-08/\nN
+ o longer found in the latest source listing\; confirmation needed.\nThis e
+ vent could not be rechecked on the latest collection. Confirm with the org
+ aniser.
 LAST-MODIFIED:20260930T103411Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-06-08/

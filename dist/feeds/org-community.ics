@@ -8,10 +8,10 @@ X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 SUMMARY:Reimagining our World Systemically - From Problematique to Purpose
  ful Action (2026) (ISSS)
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260703
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260704
 DTSTAMP:20260909T082311Z
-UID:be664c9ad0929fb658efaa13@systemsmap.antlerboy.com
+UID:1a8943c6449fe2b6a58d6deb@systemsmap.antlerboy.com
 SEQUENCE:2
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:ISSS\nWho: ISSS **Reimagining our World Systemically - From Pr
@@ -30,48 +30,6 @@ LOCATION:Pyla Cyprus
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reimagining our World Systemically - From Problematique to Purpose
- ful Action (2026) (ISSS)
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260704
-DTSTAMP:20260909T082311Z
-UID:1a8943c6449fe2b6a58d6deb@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Cybernetics,Systems thinking
-DESCRIPTION:ISSS\nWho: ISSS **Reimagining our World Systemically - From Pr
- oblematique to Purposeful Action (2026)** is a Dialogue for the second qua
- rter of the 21st Century\, organized back-to-back with the 70th_(2026)_Ann
- ual_Meeting_of_the_International_Society_for_the_Systems_Sciences\,_Cyprus
- : https://futureworlds.eu/wiki/70th_(2026_Annual_Meeting_of_the_Internatio
- nal_Society_for_the_Systems_Sciences\,_Cyprus "70th\nLanguage: Not specifi
- ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
- ccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
- \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20260909T082311Z
-LOCATION:Pyla Cyprus
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Predaja spletnega mesta
-DTSTART:20260703T130000Z
-DTEND:20260703T170000Z
-DTSTAMP:20260909T082311Z
-UID:e66c2f02fdc8b62d541ead37@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Cybernetics,Systems thinking
-DESCRIPTION:Cybernetics and Systems Community Calendar\n\nLanguage: Not sp
- ecified\nLanguage requirements: Not specified\nInterpretation: Not specifi
- ed\nAccess: See organiser\nhttps://teamup.com/ksok8ra1xif3viq4no/events/21
- 25607720
-LAST-MODIFIED:20260909T082311Z
-LOCATION:Razlagova ulica 20\, 2000 Maribor\, Slovenija
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://teamup.com/ksok8ra1xif3viq4no/events/2125607720
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VSM-AI Special Integration Group

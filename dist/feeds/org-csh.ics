@@ -376,6 +376,53 @@ URL:https://csh.ac.at/events/from-fear-to-forecast-understanding-ai-swarms
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bringing the Byzantine Generals Back to Life!
+DTSTART:20261006T123000Z
+DTEND:20261006T130000Z
+DTSTAMP:20261002T103500Z
+UID:72c6d44a25e2de1a9cfe64fa@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nThe Byzantine Generals Problem is a cl
+ assic problem in theoretical computer science: how can a distributed group
+  reach a consistent decision when some of its members may communicate fals
+ e or contradictory information? Introduced by Lamport\, Shostak\, and Peas
+ e\, the problem has become foundational in distributed computing\, cyberse
+ curity\, and blockchain consensus. Yet its original formulation also de\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/bringin
+ g-the-byzantine-generals-back-to-life/
+LAST-MODIFIED:20261002T103500Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/bringing-the-byzantine-generals-back-to-life/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Identifying the Archetypes of Historical Crisis
+DTSTART:20261006T130000Z
+DTEND:20261006T133000Z
+DTSTAMP:20261002T103500Z
+UID:911ad125f57e09f7d795bf88@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nOnce set into motion\, how have the cr
+ ises of the past played out? The Seshat databank's Consequences of Crisis 
+ (CrisisDB) data set aims to help answer this question by providing codings
+  for the qualitative outcomes of 168 crises from around the world and thro
+ ughout the historical record. Despite the rich body of information present
+ ed\, it remains hard to draw conclusions from the data due to its hi\nLang
+ uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
+  Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/identifyin
+ g-the-archetypes-of-historical-crisis/
+LAST-MODIFIED:20261002T103500Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/identifying-the-archetypes-of-historical-cris
+ is/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WEdnesday SALON – How Fireflies Sync Their Rhythm
 DTSTART:20261007T180000Z
 DTEND:20261007T192000Z
@@ -512,7 +559,9 @@ DESCRIPTION:Complexity Science Hub\nWelcome: Stefan Thurner Panel Discussa
   Moderator: Helga Nowotny more information will follow.\nLanguage: Not spe
  cified\nLanguage requirements: Not specified\nInterpretation: Not specifie
  d\nAccess: See organiser\nhttps://csh.ac.at/events/public-panel-discussion
- -how-to-survive-doomsdays/
+ -how-to-survive-doomsdays/\nNo longer found in the latest source listing\;
+  confirmation needed.\nThis event could not be rechecked on the latest col
+ lection. Confirm with the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED

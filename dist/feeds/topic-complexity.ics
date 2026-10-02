@@ -659,9 +659,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261001T110212Z
+DTSTAMP:20261002T103500Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:32
+SEQUENCE:33
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -670,7 +670,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20261001T110212Z
+LAST-MODIFIED:20261002T103500Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -817,7 +817,9 @@ CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nRéunio
  n de la CSIIT\nLanguage: Not specified\nLanguage requirements: Not specifi
  ed\nInterpretation: Not specified\nAccess: See organiser\nhttps://iscpif.f
- r/evenements/csiit/
+ r/evenements/csiit/\nNo longer found in the latest source listing\; confir
+ mation needed.\nThis event could not be rechecked on the latest collection
+ . Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -915,12 +917,59 @@ TRANSP:TRANSPARENT
 URL:https://iscpif.fr/evenements/seminaires-legumineuses-dinrae/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bringing the Byzantine Generals Back to Life!
+DTSTART:20261006T123000Z
+DTEND:20261006T130000Z
+DTSTAMP:20261002T103500Z
+UID:72c6d44a25e2de1a9cfe64fa@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nThe Byzantine Generals Problem is a cl
+ assic problem in theoretical computer science: how can a distributed group
+  reach a consistent decision when some of its members may communicate fals
+ e or contradictory information? Introduced by Lamport\, Shostak\, and Peas
+ e\, the problem has become foundational in distributed computing\, cyberse
+ curity\, and blockchain consensus. Yet its original formulation also de\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/bringin
+ g-the-byzantine-generals-back-to-life/
+LAST-MODIFIED:20261002T103500Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/bringing-the-byzantine-generals-back-to-life/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Identifying the Archetypes of Historical Crisis
+DTSTART:20261006T130000Z
+DTEND:20261006T133000Z
+DTSTAMP:20261002T103500Z
+UID:911ad125f57e09f7d795bf88@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nOnce set into motion\, how have the cr
+ ises of the past played out? The Seshat databank's Consequences of Crisis 
+ (CrisisDB) data set aims to help answer this question by providing codings
+  for the qualitative outcomes of 168 crises from around the world and thro
+ ughout the historical record. Despite the rich body of information present
+ ed\, it remains hard to draw conclusions from the data due to its hi\nLang
+ uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
+  Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/identifyin
+ g-the-archetypes-of-historical-crisis/
+LAST-MODIFIED:20261002T103500Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/identifying-the-archetypes-of-historical-cris
+ is/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261001T110212Z
+DTSTAMP:20261002T103500Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:11
+SEQUENCE:12
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -931,7 +980,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20261001T110212Z
+LAST-MODIFIED:20261002T103500Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1128,9 +1177,9 @@ SUMMARY:The iSD model from Millennium Institute: a Sustainable Development
   Simulator
 DTSTART:20261015T140000Z
 DTEND:20261015T150000Z
-DTSTAMP:20260926T092514Z
+DTSTAMP:20261002T103500Z
 UID:5ee2d18137e4930f4cacdd06@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity,System dynamics
 DESCRIPTION:System Dynamics Society\nThe Integrated Sustainable Developmen
  t Simulator (iSD Model) is a data-driven tool that models the long-term co
@@ -1142,9 +1191,8 @@ DESCRIPTION:System Dynamics Society\nThe Integrated Sustainable Developmen
  n: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/
  the-isd-model-from-millenium-institute-a-sustainable-development-simulator
  /
-LAST-MODIFIED:20260926T092514Z
-LOCATION:https://systemdynamics.org/event/the-isd-model-from-millenium-ins
- titute-a-sustainable-development-simulator/
+LAST-MODIFIED:20261002T103500Z
+LOCATION:https://us02web.zoom.us/j/83989986859
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/the-isd-model-from-millenium-institut
@@ -1307,7 +1355,9 @@ DESCRIPTION:Complexity Science Hub\nWelcome: Stefan Thurner Panel Discussa
   Moderator: Helga Nowotny more information will follow.\nLanguage: Not spe
  cified\nLanguage requirements: Not specified\nInterpretation: Not specifie
  d\nAccess: See organiser\nhttps://csh.ac.at/events/public-panel-discussion
- -how-to-survive-doomsdays/
+ -how-to-survive-doomsdays/\nNo longer found in the latest source listing\;
+  confirmation needed.\nThis event could not be rechecked on the latest col
+ lection. Confirm with the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1385,6 +1435,30 @@ LOCATION:Spain\, Granada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://cssociety.org/event/48d831be-35b8-4789-81ed-6ef517743032/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VSM Coach Course (online)\, by Angela Espinosa
+DTSTART:20261203T130000Z
+DTEND:20261211T180000Z
+DTSTAMP:20261002T103500Z
+UID:a38884a844fb06fdd53f946b@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics,Complexity
+DESCRIPTION:Metaphorum\nThe Viable System Model: Theory and Application In
+  this VSM Coach Course [4 -5-hour days]\, you’ll learn about the Viable 
+ System Model\, one of the most popular systemic approaches to management\,
+  pioneered by Stafford Beer. You will be immersed in the theory through pr
+ actical examples on how to manage complexity in organisations\, and you wi
+ ll learn how to put it into practice by following a systemic\nLanguage: No
+ t specified\nLanguage requirements: Not specified\nInterpretation: Not spe
+ cified\nAccess: See organiser\nhttps://metaphorum.org/event/vsm-coach-cour
+ se-online-by-angela-espinosa
+LAST-MODIFIED:20261002T103500Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://metaphorum.org/event/vsm-coach-course-online-by-angela-espinos
+ a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Generative Agent-Based Models: Simulating Quasi-Autonomous AI Agen
