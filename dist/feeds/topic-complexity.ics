@@ -659,9 +659,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261002T103500Z
+DTSTAMP:20261003T095602Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:33
+SEQUENCE:34
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -670,7 +670,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20261002T103500Z
+LAST-MODIFIED:20261003T095602Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -967,9 +967,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261002T103500Z
+DTSTAMP:20261003T095602Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:12
+SEQUENCE:13
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -980,7 +980,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20261002T103500Z
+LAST-MODIFIED:20261003T095602Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1373,7 +1373,7 @@ DTEND:20261124T170000Z
 DTSTAMP:20260914T095825Z
 UID:9461af3c6b41bf4463fbc834@systemsmap.antlerboy.com
 SEQUENCE:1
-CATEGORIES:System dynamics,Complexity
+CATEGORIES:Complexity,System dynamics
 DESCRIPTION:System Dynamics Society\nNovember 24\, 2026 at 11 am NY | 4 pm
   London | Check Your Time Zone As systems mapping has grown in popularity
  \, an important challenge remains: once a map has been created\, where sho
@@ -1435,6 +1435,30 @@ LOCATION:Spain\, Granada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://cssociety.org/event/48d831be-35b8-4789-81ed-6ef517743032/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Viable System Model: Theory and Application
+DTSTART:20261203T130000Z
+DTEND:20261211T180000Z
+DTSTAMP:20261003T095602Z
+UID:aef1d7235b3105035f29c15b@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics,Complexity
+DESCRIPTION:Metaphorum\nIn this VSM Course [ 4 (5-hour) days]\, you’ll l
+ earn about the Viable System Model\, one of the most popular systemic appr
+ oaches to management\, pioneered by Stafford Beer. You will be immersed in
+  the theory through practical examples on how to manage complexity in orga
+ nisations\, and you will learn how to put it into practice by following a 
+ systemic methodology – the Self-Transformation Methodology’.\nLanguage
+ : Not specified\nLanguage requirements: Not specified\nInterpretation: Not
+  specified\nAccess: See organiser\nhttps://metaphorum.org/event/the-viable
+ -system-model-theory-and-application
+LAST-MODIFIED:20261003T095602Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://metaphorum.org/event/the-viable-system-model-theory-and-applic
+ ation
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VSM Coach Course (online)\, by Angela Espinosa

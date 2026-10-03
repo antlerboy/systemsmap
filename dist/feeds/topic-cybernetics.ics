@@ -6,32 +6,6 @@ X-WR-CALNAME:Cybernetics
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:Reimagining our World Systemically - From Problematique to Purpose
- ful Action (2026) (ISSS)
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260704
-DTSTAMP:20260909T082311Z
-UID:1a8943c6449fe2b6a58d6deb@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Cybernetics,Systems thinking
-DESCRIPTION:ISSS\nWho: ISSS **Reimagining our World Systemically - From Pr
- oblematique to Purposeful Action (2026)** is a Dialogue for the second qua
- rter of the 21st Century\, organized back-to-back with the 70th_(2026)_Ann
- ual_Meeting_of_the_International_Society_for_the_Systems_Sciences\,_Cyprus
- : https://futureworlds.eu/wiki/70th_(2026_Annual_Meeting_of_the_Internatio
- nal_Society_for_the_Systems_Sciences\,_Cyprus "70th\nLanguage: Not specifi
- ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
- ccess: See organiser\nhttps://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
- \nDate-only listing\; check the organiser for session times.\nNo longer fo
- und in the latest source listing\; confirmation needed.\nThis event could 
- not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260909T082311Z
-LOCATION:Pyla Cyprus
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VSM-AI Special Integration Group
 DTSTART:20260715T160000Z
 DTEND:20260715T173000Z
@@ -117,9 +91,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20261002T103500Z
+DTSTAMP:20261003T095602Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:37
+SEQUENCE:38
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -130,7 +104,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20261002T103500Z
+LAST-MODIFIED:20261003T095602Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -167,9 +141,9 @@ SUMMARY:Cybernetics in the Annex: Commemorating Stafford Beer’s Centenar
  y + Summer Conferences Recap
 DTSTART:20260908T223000Z
 DTEND:20260909T001500Z
-DTSTAMP:20261002T103500Z
+DTSTAMP:20261003T095602Z
 UID:2e96c1af7848b3132733a6fb@systemsmap.antlerboy.com
-SEQUENCE:42
+SEQUENCE:43
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  eer’s work on organisational viability and participatory decision-making
@@ -178,7 +152,7 @@ DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  Register for in-person attendance or the online link\nhttps://guild.host/e
  vents/cybernetics-in-the-annex-tbara6
-LAST-MODIFIED:20261002T103500Z
+LAST-MODIFIED:20261003T095602Z
 LOCATION:OCAD University\, 205 Richmond St W\, Room 115\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -315,9 +289,9 @@ BEGIN:VEVENT
 SUMMARY:Fire and Ice: The Conception\, Birth and Infancy of Cybernetics.
 DTSTART:20260924T120000Z
 DTEND:20260924T140000Z
-DTSTAMP:20261002T103500Z
+DTSTAMP:20261003T095602Z
 UID:79561815b13dfb8aa2a33fdb@systemsmap.antlerboy.com
-SEQUENCE:42
+SEQUENCE:43
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Digital Futures\, University of Manchester\nThe opening semina
  r in the nine-part ‘Meat the Machine’ series on the history of cyberne
@@ -326,7 +300,7 @@ DESCRIPTION:Digital Futures\, University of Manchester\nThe opening semina
  \nAccess: General public welcome\; registration required\nhttps://events.m
  anchester.ac.uk/event/event:r2y-ms8q8jbe-n4ev9n/fire-and-ice-the-conceptio
  n-birth-and-infancy-of-cybernetics
-LAST-MODIFIED:20261002T103500Z
+LAST-MODIFIED:20261003T095602Z
 LOCATION:University of Manchester\, Manchester\, United Kingdom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -337,9 +311,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261002T103500Z
+DTSTAMP:20261003T095602Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:33
+SEQUENCE:34
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -348,7 +322,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20261002T103500Z
+LAST-MODIFIED:20261003T095602Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -366,7 +340,9 @@ DESCRIPTION:SCiO DACH\n\nGeographic focus: Germany\, Austria\, Switzerland
  \, DACH\nLanguage: German\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: Members only + Guests\nhttps://www.systemspr
  actice.org/events/internalisierte-verbindlichkeiten-gegenwartig-aber-unsic
- htbar
+ htbar\nNo longer found in the latest source listing\; confirmation needed.
+ \nThis event could not be rechecked on the latest collection. Confirm with
+  the organiser.
 LAST-MODIFIED:20260930T103411Z
 LOCATION:Online event
 STATUS:CONFIRMED
@@ -672,6 +648,30 @@ TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Viable System Model: Theory and Application
+DTSTART:20261203T130000Z
+DTEND:20261211T180000Z
+DTSTAMP:20261003T095602Z
+UID:aef1d7235b3105035f29c15b@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics,Complexity
+DESCRIPTION:Metaphorum\nIn this VSM Course [ 4 (5-hour) days]\, you’ll l
+ earn about the Viable System Model\, one of the most popular systemic appr
+ oaches to management\, pioneered by Stafford Beer. You will be immersed in
+  the theory through practical examples on how to manage complexity in orga
+ nisations\, and you will learn how to put it into practice by following a 
+ systemic methodology – the Self-Transformation Methodology’.\nLanguage
+ : Not specified\nLanguage requirements: Not specified\nInterpretation: Not
+  specified\nAccess: See organiser\nhttps://metaphorum.org/event/the-viable
+ -system-model-theory-and-application
+LAST-MODIFIED:20261003T095602Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://metaphorum.org/event/the-viable-system-model-theory-and-applic
+ ation
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VSM Coach Course (online)\, by Angela Espinosa
 DTSTART:20261203T130000Z
 DTEND:20261211T180000Z
@@ -953,9 +953,9 @@ BEGIN:VEVENT
 SUMMARY:WOSC Congress: Addressing Planetary Challenges
 DTSTART:20270616T070000Z
 DTEND:20270618T140000Z
-DTSTAMP:20261002T103500Z
+DTSTAMP:20261003T095602Z
 UID:99998e0fda728e162d4a9f6c@systemsmap.antlerboy.com
-SEQUENCE:33
+SEQUENCE:34
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:World Organisation of Systems and Cybernetics (WOSC)\n\nLangua
  ge: Not specified\nLanguage requirements: Not specified\nInterpretation: N
@@ -963,7 +963,7 @@ DESCRIPTION:World Organisation of Systems and Cybernetics (WOSC)\n\nLangua
  wosc-congress-2026-addressing-planetary-challenges\nThe page title and URL
   retain 2026\, but its current Time & Location explicitly gives 16–18 Ju
  ne 2027. Confirm this discrepancy with WOSC before booking.
-LAST-MODIFIED:20261002T103500Z
+LAST-MODIFIED:20261003T095602Z
 LOCATION:Ekonomsko-poslovna fakulteta UM\, Razlagova ulica 20\, Maribor\, 
  Slovenia
 STATUS:CONFIRMED
