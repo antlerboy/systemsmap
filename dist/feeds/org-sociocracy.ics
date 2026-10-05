@@ -41,7 +41,9 @@ DESCRIPTION:Sociocracy For All\n<p>This is a 3-session introduction class
   questions and answers.</p>\\n\nLanguage: Not specified\nLanguage requirem
  ents: Not specified\nInterpretation: Not specified\nAccess: See organiser
  \nhttps://www.sociocracyforall.org/event/nonviolent-communication-basics-a
- ug-2026/
+ ug-2026/\nNo longer found in the latest source listing\; confirmation need
+ ed.\nThis event could not be rechecked on the latest collection. Confirm w
+ ith the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:Location not published
 STATUS:CONFIRMED
@@ -366,6 +368,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.sociocracyforall.org/event/introduction-to-sociocracy-in-i
  ntentional-communities-live-webinar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nonviolent Communication Basics 3 x 2hs
+DTSTART:20261105T170000Z
+DTEND:20261105T190000Z
+DTSTAMP:20261005T113835Z
+UID:9781a70b34d9fa6d9076fdce@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking
+DESCRIPTION:Sociocracy For All\nThis is a 3-session introduction class to 
+ compassionate communication (Nonviolent Communication\, NVC). The class co
+ vers basic concepts with all sessions being participatory with time for qu
+ estions and answers.\nLanguage: Not specified\nLanguage requirements: Not 
+ specified\nInterpretation: Not specified\nAccess: See organiser\nhttps://w
+ ww.sociocracyforall.org/event/nonviolent-communication-basics-nov-2026/
+LAST-MODIFIED:20261005T113835Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sociocracyforall.org/event/nonviolent-communication-basics
+ -nov-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:6th Annual Online Conference: Sociocracy in Intentional Communitie
