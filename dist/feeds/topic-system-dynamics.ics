@@ -897,6 +897,32 @@ URL:https://systemdynamics.org/event/implementing-the-self-managing-enterp
  rise-with-agentic-ai/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Combining System Dynamics with Discrete Event and Agent-Based Meth
+ ods: Why and How
+DTSTART:20261103T160000Z
+DTEND:20261103T170000Z
+DTSTAMP:20261006T112159Z
+UID:9c76f0ea4afed21f99b5f97c@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nDecember 3\, 2026 at 11 am New York |
+  4 pm London | Check your timezone This webinar explores different modelin
+ g methods and how they can be combined to address complex problems at diff
+ erent levels of abstraction. We will compare System Dynamics (SD)\, Agent-
+ Based Modeling (ABM)\, and other discrete-event approaches\, including the
+  distinction between process models and agent-based models. Using pract\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
+ /combining-system-dynamics-with-discrete-event-and-agent-based-methods-why
+ -and-how/
+LAST-MODIFIED:20261006T112159Z
+LOCATION:https://us02web.zoom.us/j/81778033881
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/combining-system-dynamics-with-discre
+ te-event-and-agent-based-methods-why-and-how/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20261110T160000Z
 DTEND:20261110T170000Z
@@ -951,7 +977,7 @@ DTEND:20261124T170000Z
 DTSTAMP:20260914T095825Z
 UID:9461af3c6b41bf4463fbc834@systemsmap.antlerboy.com
 SEQUENCE:1
-CATEGORIES:Complexity,System dynamics
+CATEGORIES:System dynamics,Complexity
 DESCRIPTION:System Dynamics Society\nNovember 24\, 2026 at 11 am NY | 4 pm
   London | Check Your Time Zone As systems mapping has grown in popularity
  \, an important challenge remains: once a map has been created\, where sho
@@ -1220,21 +1246,21 @@ SUMMARY:The Dynamics of Sustainability Transitions: Can we go faster\, sho
  uld we slow down?
 DTSTART:20270121T150000Z
 DTEND:20270121T160000Z
-DTSTAMP:20261002T103500Z
+DTSTAMP:20261006T112159Z
 UID:55c289d29789c269f2fc241c@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nProfessor of Responsible Sustainabili
- ty Transitions at the Nijmegen School of Management\, Radboud University\,
-  will give an inaugural lecture on Thursday\, January 21\, 2027 at 4.00 p.
- m. The lecture is entitled: The Dynamics of Sustainability Transitions: Ca
- n we go faster\, should we slow down? Event Website: https://www.ru.nl/en/
- about-us/events/inaugural-lecture-professor-vincent-de-gooyert Location:\n
- Language: Not specified\nLanguage requirements: Not specified\nInterpretat
- ion: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/even
- t/the-dynamics-of-sustainability-transitions-can-we-go-faster-should-we-sl
- ow-down/
-LAST-MODIFIED:20261002T103500Z
+DESCRIPTION:System Dynamics Society\nHybrid Event The event can be followe
+ d through a livestream by registering for the event and following the link
+  ‘watch the livestream’ on the event’s website Vincent de Gooyert\, 
+ Professor of Responsible Sustainability Transitions at the Nijmegen School
+  of Management\, Radboud University\, will give an inaugural lecture on Th
+ ursday\, January 21\, 2027 at 4.00 p.m. The lecture is entitled:” The Dy
+ namics\nLanguage: Not specified\nLanguage requirements: Not specified\nInt
+ erpretation: Not specified\nAccess: See organiser\nhttps://systemdynamics.
+ org/event/the-dynamics-of-sustainability-transitions-can-we-go-faster-shou
+ ld-we-slow-down/
+LAST-MODIFIED:20261006T112159Z
 LOCATION:Aula\, Netherlands
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

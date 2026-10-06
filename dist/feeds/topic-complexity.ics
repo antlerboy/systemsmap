@@ -659,9 +659,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261005T113835Z
+DTSTAMP:20261006T112159Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:36
+SEQUENCE:37
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -670,7 +670,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20261005T113835Z
+LAST-MODIFIED:20261006T112159Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -890,6 +890,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nSoutena
  nce de thèse en immunologie laboratoire I3 UMRS959\nLanguage: Not specifi
  ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
  ccess: See organiser\nhttps://iscpif.fr/evenements/soutenance-de-these-7/
+ \nNo longer found in the latest source listing\; confirmation needed.\nThi
+ s event could not be rechecked on the latest collection. Confirm with the 
+ organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -967,9 +970,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261005T113835Z
+DTSTAMP:20261006T112159Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:15
+SEQUENCE:16
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -980,7 +983,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20261005T113835Z
+LAST-MODIFIED:20261006T112159Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1268,6 +1271,32 @@ URL:https://systemdynamics.org/event/implementing-the-self-managing-enterp
  rise-with-agentic-ai/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Combining System Dynamics with Discrete Event and Agent-Based Meth
+ ods: Why and How
+DTSTART:20261103T160000Z
+DTEND:20261103T170000Z
+DTSTAMP:20261006T112159Z
+UID:9c76f0ea4afed21f99b5f97c@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nDecember 3\, 2026 at 11 am New York |
+  4 pm London | Check your timezone This webinar explores different modelin
+ g methods and how they can be combined to address complex problems at diff
+ erent levels of abstraction. We will compare System Dynamics (SD)\, Agent-
+ Based Modeling (ABM)\, and other discrete-event approaches\, including the
+  distinction between process models and agent-based models. Using pract\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
+ /combining-system-dynamics-with-discrete-event-and-agent-based-methods-why
+ -and-how/
+LAST-MODIFIED:20261006T112159Z
+LOCATION:https://us02web.zoom.us/j/81778033881
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/combining-system-dynamics-with-discre
+ te-event-and-agent-based-methods-why-and-how/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crisis and Resilience in Historical and Modern Societies
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
@@ -1346,19 +1375,17 @@ BEGIN:VEVENT
 SUMMARY:Public Panel Discussion: How to Survive Doomsdays
 DTSTART:20261112T170000Z
 DTEND:20261112T183000Z
-DTSTAMP:20261001T110212Z
+DTSTAMP:20261006T112159Z
 UID:141854d1afc83679f856855e@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nWelcome: Stefan Thurner Panel Discussa
  nts: Pearl Dykstra\, Jesse Ausubel\, Geoffrey West\, more participants tbd
   Moderator: Helga Nowotny more information will follow.\nLanguage: Not spe
  cified\nLanguage requirements: Not specified\nInterpretation: Not specifie
  d\nAccess: See organiser\nhttps://csh.ac.at/events/public-panel-discussion
- -how-to-survive-doomsdays/\nNo longer found in the latest source listing\;
-  confirmation needed.\nThis event could not be rechecked on the latest col
- lection. Confirm with the organiser.
-LAST-MODIFIED:20261001T110212Z
+ -how-to-survive-doomsdays/
+LAST-MODIFIED:20261006T112159Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1373,7 +1400,7 @@ DTEND:20261124T170000Z
 DTSTAMP:20260914T095825Z
 UID:9461af3c6b41bf4463fbc834@systemsmap.antlerboy.com
 SEQUENCE:1
-CATEGORIES:Complexity,System dynamics
+CATEGORIES:System dynamics,Complexity
 DESCRIPTION:System Dynamics Society\nNovember 24\, 2026 at 11 am NY | 4 pm
   London | Check Your Time Zone As systems mapping has grown in popularity
  \, an important challenge remains: once a map has been created\, where sho

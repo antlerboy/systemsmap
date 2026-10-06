@@ -550,19 +550,17 @@ BEGIN:VEVENT
 SUMMARY:Public Panel Discussion: How to Survive Doomsdays
 DTSTART:20261112T170000Z
 DTEND:20261112T183000Z
-DTSTAMP:20261001T110212Z
+DTSTAMP:20261006T112159Z
 UID:141854d1afc83679f856855e@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nWelcome: Stefan Thurner Panel Discussa
  nts: Pearl Dykstra\, Jesse Ausubel\, Geoffrey West\, more participants tbd
   Moderator: Helga Nowotny more information will follow.\nLanguage: Not spe
  cified\nLanguage requirements: Not specified\nInterpretation: Not specifie
  d\nAccess: See organiser\nhttps://csh.ac.at/events/public-panel-discussion
- -how-to-survive-doomsdays/\nNo longer found in the latest source listing\;
-  confirmation needed.\nThis event could not be rechecked on the latest col
- lection. Confirm with the organiser.
-LAST-MODIFIED:20261001T110212Z
+ -how-to-survive-doomsdays/
+LAST-MODIFIED:20261006T112159Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
