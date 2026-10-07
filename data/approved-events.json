@@ -169,9 +169,17 @@
     "timezone": "Europe/London",
     "description": "Benjamin Taylor’s workshop at SysPrac26. Conference booking required.",
     "notes": [
-      "Provisional programme; workshop end follows the programme table span."
+      "Presenter withdrew from the conference session; organiser’s follow-up offers separate online workshops. Checked 7 October 2026."
     ],
-    "uid": "sysprac26-workshop4"
+    "uid": "sysprac26-workshop4",
+    "status": "cancelled",
+    "discoverySources": [
+      {
+        "id": "syscoi",
+        "name": "Systems Community of Inquiry",
+        "url": "https://stream.syscoi.com/2026/09/21/my-apologies-for-sysprac26-and-two-online-workshops/"
+      }
+    ]
   },
   {
     "title": "RSD15: Online paper talks",
@@ -744,5 +752,51 @@
     "uid": "https://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlDQGXyaqccCA#cmm-office-hours",
     "submission": "https://github.com/antlerboy/systemsmap/issues/3",
     "recurrenceId": "2026-10-07T09:00:00-07:00"
+  },
+  {
+    "uid": "sysprac26-online-consulting-20260930",
+    "title": "Systemic consulting: helping without taking over",
+    "url": "https://antlerboy.com/sysprac26/",
+    "start": "2026-09-30T12:15:00+01:00",
+    "end": "2026-09-30T13:45:00+01:00",
+    "organiser": "Benjamin P Taylor",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "format": "online",
+    "timezone": "Europe/London",
+    "price": "Free",
+    "access": "Registration required",
+    "language": "English",
+    "description": "Session has taken place; organiser’s page links the guide and session account.",
+    "notes": [
+      "Organiser page checked 7 October 2026. Separate from the cancelled conference appearance."
+    ]
+  },
+  {
+    "uid": "sysprac26-online-relational-20261008",
+    "title": "Making relational, place-based public services ordinary",
+    "url": "https://antlerboy.com/sysprac26/",
+    "start": "2026-10-08T12:30:00+01:00",
+    "end": "2026-10-08T14:00:00+01:00",
+    "organiser": "Benjamin P Taylor",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "kind": "event",
+    "location": "Online",
+    "format": "online",
+    "timezone": "Europe/London",
+    "price": "Free",
+    "access": "Registration required",
+    "language": "English",
+    "description": "Benjamin P Taylor’s replacement online workshop; registration through the organiser’s page.",
+    "notes": [
+      "Organiser page checked 7 October 2026. Separate from the cancelled conference appearance."
+    ]
   }
 ]
