@@ -798,5 +798,28 @@
     "notes": [
       "Organiser page checked 7 October 2026. Separate from the cancelled conference appearance."
     ]
+  },
+  {
+    "uid": "https://guild.host/events/method-showcase-logosofia-tu5ovo",
+    "title": "Method Showcase: Logosofia, Software for Collective Inquiry and Decision-Making",
+    "url": "https://guild.host/events/method-showcase-logosofia-tu5ovo",
+    "start": "2026-10-21T18:30:00-04:00",
+    "end": "2026-10-21T20:15:00-04:00",
+    "timezone": "America/Toronto",
+    "organiser": "Systems Thinking Ontario",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "format": "hybrid",
+    "kind": "event",
+    "location": "OCAD University, 205 Richmond St W, Room 115, Toronto, Canada",
+    "country": "Canada",
+    "price": "Free",
+    "access": "Registration required; virtual link sent to registered attendees",
+    "description": "Peter Jones presents Logosofia for structured collective inquiry; Su Lynn Myat discusses a participatory technology assessment application.",
+    "notes": [
+      "Checked 7 October 2026: organiser prose gives 21 October, 18:30–20:15 local time; structured dates are 22:30–00:15 UTC. The UTC date crossing is preserved."
+    ]
   }
 ]

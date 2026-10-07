@@ -25,7 +25,7 @@ def main():
         key=row['id'];known=entries.get(key)
         if row['url'].rstrip('/') in published:
             entries[key]={**row,'status':'published'};continue
-        if known and known.get('status') in ('extracted','needs-review'):continue
+        if known and known.get('status') in ('extracted','needs-review','reading-resource'):continue
         if remaining<=0:
             entries.setdefault(key,{**row,'status':'awaiting-extraction'});continue
         remaining-=1

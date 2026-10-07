@@ -68,19 +68,20 @@
     },
     {
       "id": "78a81066-e5e5-4aa8-8e31-051def33a27b",
-      "url": "https://derroth.com/2026/10/05/release-special-issue-of-itp-on-coding-society-programmatic-encounters-between-information-systems-and-social-theory/?fbclid=IwY2xjawUy_kxleHRuA2FlbQIxMQBwZG9mBWJyaWQRMXR5ckxCWmVXS3c5eDhJcnBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeIJXEJWyJKjNzYNDk-i08g5tSRKAgbV14KsCF3XyRzfBz0MMXmTnunetAMs8_aem_VHcI5FiXmimnfnNC2a2Jsg",
+      "url": "https://derroth.com/2026/10/05/release-special-issue-of-itp-on-coding-society-programmatic-encounters-between-information-systems-and-social-theory/",
       "proposal": {
-        "kind": "event",
-        "url": "https://derroth.com/2026/10/05/release-special-issue-of-itp-on-coding-society-programmatic-encounters-between-information-systems-and-social-theory/?fbclid=IwY2xjawUy_kxleHRuA2FlbQIxMQBwZG9mBWJyaWQRMXR5ckxCWmVXS3c5eDhJcnBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeIJXEJWyJKjNzYNDk-i08g5tSRKAgbV14KsCF3XyRzfBz0MMXmTnunetAMs8_aem_VHcI5FiXmimnfnNC2a2Jsg",
-        "title": "Next",
-        "organiser": "derroth.com"
+        "kind": "page",
+        "url": "https://derroth.com/2026/10/05/release-special-issue-of-itp-on-coding-society-programmatic-encounters-between-information-systems-and-social-theory/",
+        "title": "Coding Society: Programmatic Encounters Between Information Systems and Social Theory",
+        "organiser": "Information Technology & People"
       },
       "createdAt": "2026-10-07T19:17:32.747Z",
       "notes": [
-        "No unambiguous event date was extracted. A maintainer needs to complete or classify this link before publication."
+        "Reviewed as a special issue announcement, not an event. Added to The Necessary Tangle October reading intake. No event date inferred from its publication date."
       ],
-      "status": "needs-review",
-      "checkedAt": "2026-10-07T22:10:27+00:00"
+      "status": "reading-resource",
+      "checkedAt": "2026-10-07T22:10:27+00:00",
+      "reviewedAt": "2026-10-07"
     }
   ]
 }
