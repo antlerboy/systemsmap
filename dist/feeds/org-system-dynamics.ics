@@ -670,6 +670,29 @@ TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/webinar-en-roads-climate-workshop/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Student Chapter Meeting: Guest Speaker Dr. Nishita Dsouza
+DTSTART:20261008T160000Z
+DTEND:20261008T170000Z
+DTSTAMP:20261007T111029Z
+UID:633a3b6cdd948ed94a02aeeb@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nThe student chapter is pleased to hos
+ t a talk by Dr. Nishita Dsouza entitled “Early-Career Engagement as an A
+ spirational Systems Changemaker.” Dr. Dsouza is an Assistant Professor o
+ f Social & Behavioral Science at the University of North Florida. This eve
+ nt will take place by zoom on Thursday\, October 8th\, at 12pm (noon) NY t
+ ime.\nLanguage: Not specified\nLanguage requirements: Not specified\nInter
+ pretation: Not specified\nAccess: See organiser\nhttps://systemdynamics.or
+ g/event/student-chapter-meeting-guest-speaker-dr-nishita-dsouza/
+LAST-MODIFIED:20261007T111029Z
+LOCATION:https://us02web.zoom.us/j/83483036517
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/student-chapter-meeting-guest-speaker
+ -dr-nishita-dsouza/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20261013T150000Z
 DTEND:20261013T160000Z
@@ -849,6 +872,27 @@ URL:https://systemdynamics.org/event/the-40th-annual-european-simulation-a
  nd-modelling-conference-esm-2026/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Economics SIG Online Seminar
+DTSTART:20261021T160000Z
+DTEND:20261021T170000Z
+DTSTAMP:20261007T111029Z
+UID:c93be3953842119d165e644f@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nEconomics SIG Online Seminar Presente
+ r: Luca Persia (Università della Svizzera Italiana) Title: “Modeling Fi
+ nancial Contagion as a Self-Exciting Point Process” Date: Wednesday\, Oc
+ tober 21\, 2026 Time: 12 pm New York | 5 pm London | 6 pm Rome | 7 pm Ista
+ nbul\nLanguage: Not specified\nLanguage requirements: Not specified\nInter
+ pretation: Not specified\nAccess: See organiser\nhttps://systemdynamics.or
+ g/event/economics-sig-online-seminar-2/
+LAST-MODIFIED:20261007T111029Z
+LOCATION:https://systemdynamics.org/event/economics-sig-online-seminar-2/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/economics-sig-online-seminar-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Strategic Planning Meeting for 2027 and Networking
 DTSTART:20261022T210000Z
 DTEND:20261022T220000Z
@@ -946,6 +990,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/ai-in-system-dynamics-education-task-
  force-monthly-meeting-2/2026-11-10/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Economics SIG Online Seminar
+DTSTART:20261118T170000Z
+DTEND:20261118T180000Z
+DTSTAMP:20261007T111029Z
+UID:f6b423619dbb6790f8756802@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nEconomics SIG Online Seminar Presente
+ r: Hee Young Shin (Wright State University) Title: “Exploring the circui
+ t of capital models through a lens of system dynamics” Date: Wednesday\,
+  November 18\, 2026 Time: 12 pm New York | 5 pm London | 6 pm Rome | 8 pm 
+ Istanbul\nLanguage: Not specified\nLanguage requirements: Not specified\nI
+ nterpretation: Not specified\nAccess: See organiser\nhttps://systemdynamic
+ s.org/event/economics-sig-online-seminar-3/
+LAST-MODIFIED:20261007T111029Z
+LOCATION:https://us02web.zoom.us/j/85988794484
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/economics-sig-online-seminar-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SDS Policy Council November
@@ -1355,7 +1420,9 @@ DESCRIPTION:System Dynamics Society\nSubmissions to the International Syst
  e\, please visit our conference page.\nLanguage: Not specified\nLanguage r
  equirements: Not specified\nInterpretation: Not specified\nAccess: See org
  aniser\nhttps://systemdynamics.org/event/2026-conference-submission-deadli
- ne/
+ ne/\nNo longer found in the latest source listing\; confirmation needed.\n
+ This event could not be rechecked on the latest collection. Confirm with t
+ he organiser.
 LAST-MODIFIED:20261003T095602Z
 LOCATION:United States\, United States
 STATUS:CONFIRMED
@@ -1379,7 +1446,9 @@ DESCRIPTION:System Dynamics Society\nThis award provides financial support
  st\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
  etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
  event/systems-travel-award-deadline/\nDate-only listing\; check the organi
- ser for session times.
+ ser for session times.\nNo longer found in the latest source listing\; con
+ firmation needed.\nThis event could not be rechecked on the latest collect
+ ion. Confirm with the organiser.
 LAST-MODIFIED:20260914T095825Z
 LOCATION:Location not published
 STATUS:CONFIRMED
@@ -1402,7 +1471,10 @@ DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
  ovide a space to collaborate on the responsible integration of artifi\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
- i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-04-13/
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-04-13/\nN
+ o longer found in the latest source listing\; confirmation needed.\nThis e
+ vent could not be rechecked on the latest collection. Confirm with the org
+ aniser.
 LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-04-13/
@@ -1427,7 +1499,9 @@ DESCRIPTION:System Dynamics Society\nCONFERENCE SCHOLARSHIP Partial schola
   “Award and Scholarship Information”. If you would like to apply for a
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
- ent/2027-conference-scholarship-application-deadline/
+ ent/2027-conference-scholarship-application-deadline/\nNo longer found in 
+ the latest source listing\; confirmation needed.\nThis event could not be 
+ rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261003T095602Z
 LOCATION:United States\, United States
 STATUS:CONFIRMED
