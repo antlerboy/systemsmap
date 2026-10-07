@@ -76,18 +76,19 @@ BEGIN:VEVENT
 SUMMARY:Making relational\, place-based public services ordinary
 DTSTART:20260921T124500Z
 DTEND:20260921T141500Z
-DTSTAMP:20261007T111029Z
+DTSTAMP:20261007T220943Z
 UID:8c00d12aaf979855624fa772@systemsmap.antlerboy.com
-SEQUENCE:38
+SEQUENCE:39
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:SCiO / SysPrac26\nBenjamin Taylor’s workshop at SysPrac26. C
  onference booking required.\nLanguage: Not specified\nLanguage requirement
  s: Not specified\nInterpretation: Not specified\nAccess: See organiser\nht
- tps://www.systemspractice.org/Schedule26\nProvisional programme\; workshop
-  end follows the programme table span.
-LAST-MODIFIED:20261007T111029Z
+ tps://www.systemspractice.org/Schedule26\nPresenter withdrew from the conf
+ erence session\; organiser’s follow-up offers separate online workshops.
+  Checked 7 October 2026.
+LAST-MODIFIED:20261007T220943Z
 LOCATION:LR4\, Vincent Building\, Cranfield University\, United Kingdom
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.systemspractice.org/Schedule26
 END:VEVENT

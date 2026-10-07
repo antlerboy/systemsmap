@@ -659,9 +659,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261007T111029Z
+DTSTAMP:20261007T220943Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:38
+SEQUENCE:39
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -670,7 +670,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20261007T111029Z
+LAST-MODIFIED:20261007T220943Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -870,7 +870,9 @@ DESCRIPTION:Complexity Science Hub\nAgentic artificial intelligence\, bett
   \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpre
  tation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/fro
  m-fear-to-forecast-understanding-ai-swarms/\nDate-only listing\; check the
-  organiser for session times.
+  organiser for session times.\nNo longer found in the latest source listin
+ g\; confirmation needed.\nThis event could not be rechecked on the latest 
+ collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
@@ -976,9 +978,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261007T111029Z
+DTSTAMP:20261007T220943Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:17
+SEQUENCE:18
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -989,7 +991,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20261007T111029Z
+LAST-MODIFIED:20261007T220943Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1013,7 +1015,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nLe prog
  s d’apprentissage (IA)\, sur des h\nLanguage: Not specified\nLanguage re
  quirements: Not specified\nInterpretation: Not specified\nAccess: See orga
  niser\nhttps://iscpif.fr/evenements/ag-projet-quintet-du-programme-traccs-
- pepr-climat/
+ pepr-climat/\nNo longer found in the latest source listing\; confirmation 
+ needed.\nThis event could not be rechecked on the latest collection. Confi
+ rm with the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1037,7 +1041,9 @@ DESCRIPTION:Complexity Science Hub\nFireflies use flashes of light to find
  ch species flashes its own pattern of light to advertise itself to po\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednesday
- -salon-with-orit-peleg/
+ -salon-with-orit-peleg/\nNo longer found in the latest source listing\; co
+ nfirmation needed.\nThis event could not be rechecked on the latest collec
+ tion. Confirm with the organiser.
 LAST-MODIFIED:20260926T092514Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1156,6 +1162,32 @@ URL:https://systemdynamics.org/event/implementing-the-self-managing-enterp
  rise-with-agentic-ai/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:What are Programmers doing on GitHub? Inferring Software Skills fr
+ om API on GitHub
+DTSTART:20261013T123000Z
+DTEND:20261013T130000Z
+DTSTAMP:20261007T220943Z
+UID:22eb7bab03d6959fd176cefd@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nSkills are central to labor market res
+ earch\, yet for software work they are usually measured through coarse pro
+ xies such as job titles\, self-reported keywords\, or the names of program
+ ming languages and libraries. We propose a bottom-up measure of software s
+ kills derived directly from what developers write. Using 1.7 million publi
+ c Python repositories on GitHub\, we parse every function\, class\, and \n
+ Language: Not specified\nLanguage requirements: Not specified\nInterpretat
+ ion: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/what-a
+ re-programmers-doing-on-github-inferring-software-skills-from-api-on-githu
+ b/
+LAST-MODIFIED:20261007T220943Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/what-are-programmers-doing-on-github-inferrin
+ g-software-skills-from-api-on-github/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:System Dynamics Learning Hub 2026 - SASDC - Stream 4 (Multi-echelo
  n supply chain dynamics): Session 1
 DTSTART:20261013T160000Z
@@ -1180,6 +1212,31 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/system-dynamics-learning-hub-2026-sas
  dc-stream-4-multi-echelon-supply-chain-dynamics-session-1/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taking the Complexity of Misinformation Susceptibility into Accoun
+ t
+DTSTART:20261014T150000Z
+DTEND:20261014T160000Z
+DTSTAMP:20261007T220943Z
+UID:aa4a57ba470a010134b297d9@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nMisinformation is often described as o
+ ne of the biggest challenges of our time. At the same time\, misinformatio
+ n is only a small part of people's media diet\, and misbeliefs are often h
+ ighly concentrated among susceptible audiences. In this talk\, I will argu
+ e that this seeming contradiction can be partially explained by researcher
+ s focusing on different levels of a complex multilevel system through\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/taking-th
+ e-complexity-of-misinformation-susceptibility-into-account/
+LAST-MODIFIED:20261007T220943Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/taking-the-complexity-of-misinformation-susce
+ ptibility-into-account/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The iSD model from Millennium Institute: a Sustainable Development

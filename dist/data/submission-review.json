@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-07T11:11:19+00:00",
+  "checkedAt": "2026-10-07T22:10:27+00:00",
   "submissions": [
     {
       "id": "af54c356-c0b6-4732-bcbe-e868d622e5b2",
@@ -30,6 +30,57 @@
       },
       "createdAt": "2026-09-07T16:03:40.747Z",
       "status": "published"
+    },
+    {
+      "id": "0258894e-74cd-44b9-a14c-35f71a99fa01",
+      "url": "https://guild.host/events/method-showcase-logosofia-tu5ovo",
+      "proposal": {
+        "title": "Method Showcase: Logosofia, Software for Collective Inquiry and Decision-Making",
+        "url": "https://guild.host/events/method-showcase-logosofia-tu5ovo",
+        "organiser": "Systems Thinking Ontario",
+        "location": "OCADU Graduate Studies",
+        "topics": [
+          "systems",
+          "complexity",
+          "systemic-design"
+        ],
+        "format": "hybrid",
+        "country": "",
+        "language": "Not specified",
+        "languageRequirement": "",
+        "interpretation": "",
+        "access": "See organiser",
+        "price": "0 USD",
+        "audienceCountries": [],
+        "audienceRegions": [],
+        "kind": "event",
+        "description": "October 21 (the third Wednesday, coinciding in the stream of RSD15 activities) is the 144th meeting for Systems Thinking Ontario. This will be a hybrid session. Peter Jones joins us in person following the RSD15 Symposium to introduce Logosofia, the software platform developed in the Structured Dialogic Design practice (SDD) for supporting collective inquiry and decision-making for mixed stakehold",
+        "start": "2026-10-21",
+        "end": "2026-10-22",
+        "startTime": "22:30",
+        "endTime": "00:15",
+        "timezone": "UTC"
+      },
+      "createdAt": "2026-10-07T19:10:51.406Z",
+      "notes": [],
+      "status": "extracted",
+      "checkedAt": "2026-10-07T22:10:27+00:00"
+    },
+    {
+      "id": "78a81066-e5e5-4aa8-8e31-051def33a27b",
+      "url": "https://derroth.com/2026/10/05/release-special-issue-of-itp-on-coding-society-programmatic-encounters-between-information-systems-and-social-theory/?fbclid=IwY2xjawUy_kxleHRuA2FlbQIxMQBwZG9mBWJyaWQRMXR5ckxCWmVXS3c5eDhJcnBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeIJXEJWyJKjNzYNDk-i08g5tSRKAgbV14KsCF3XyRzfBz0MMXmTnunetAMs8_aem_VHcI5FiXmimnfnNC2a2Jsg",
+      "proposal": {
+        "kind": "event",
+        "url": "https://derroth.com/2026/10/05/release-special-issue-of-itp-on-coding-society-programmatic-encounters-between-information-systems-and-social-theory/?fbclid=IwY2xjawUy_kxleHRuA2FlbQIxMQBwZG9mBWJyaWQRMXR5ckxCWmVXS3c5eDhJcnBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeIJXEJWyJKjNzYNDk-i08g5tSRKAgbV14KsCF3XyRzfBz0MMXmTnunetAMs8_aem_VHcI5FiXmimnfnNC2a2Jsg",
+        "title": "Next",
+        "organiser": "derroth.com"
+      },
+      "createdAt": "2026-10-07T19:17:32.747Z",
+      "notes": [
+        "No unambiguous event date was extracted. A maintainer needs to complete or classify this link before publication."
+      ],
+      "status": "needs-review",
+      "checkedAt": "2026-10-07T22:10:27+00:00"
     }
   ]
 }

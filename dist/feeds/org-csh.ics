@@ -367,7 +367,9 @@ DESCRIPTION:Complexity Science Hub\nAgentic artificial intelligence\, bett
   \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpre
  tation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/fro
  m-fear-to-forecast-understanding-ai-swarms/\nDate-only listing\; check the
-  organiser for session times.
+  organiser for session times.\nNo longer found in the latest source listin
+ g\; confirmation needed.\nThis event could not be rechecked on the latest 
+ collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
@@ -442,7 +444,9 @@ DESCRIPTION:Complexity Science Hub\nFireflies use flashes of light to find
  ch species flashes its own pattern of light to advertise itself to po\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednesday
- -salon-with-orit-peleg/
+ -salon-with-orit-peleg/\nNo longer found in the latest source listing\; co
+ nfirmation needed.\nThis event could not be rechecked on the latest collec
+ tion. Confirm with the organiser.
 LAST-MODIFIED:20260926T092514Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -474,6 +478,57 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/a-bridge-from-collective-motion-to-social-beh
  avior-migration-and-collective-decisions/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What are Programmers doing on GitHub? Inferring Software Skills fr
+ om API on GitHub
+DTSTART:20261013T123000Z
+DTEND:20261013T130000Z
+DTSTAMP:20261007T220943Z
+UID:22eb7bab03d6959fd176cefd@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nSkills are central to labor market res
+ earch\, yet for software work they are usually measured through coarse pro
+ xies such as job titles\, self-reported keywords\, or the names of program
+ ming languages and libraries. We propose a bottom-up measure of software s
+ kills derived directly from what developers write. Using 1.7 million publi
+ c Python repositories on GitHub\, we parse every function\, class\, and \n
+ Language: Not specified\nLanguage requirements: Not specified\nInterpretat
+ ion: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/what-a
+ re-programmers-doing-on-github-inferring-software-skills-from-api-on-githu
+ b/
+LAST-MODIFIED:20261007T220943Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/what-are-programmers-doing-on-github-inferrin
+ g-software-skills-from-api-on-github/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taking the Complexity of Misinformation Susceptibility into Accoun
+ t
+DTSTART:20261014T150000Z
+DTEND:20261014T160000Z
+DTSTAMP:20261007T220943Z
+UID:aa4a57ba470a010134b297d9@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nMisinformation is often described as o
+ ne of the biggest challenges of our time. At the same time\, misinformatio
+ n is only a small part of people's media diet\, and misbeliefs are often h
+ ighly concentrated among susceptible audiences. In this talk\, I will argu
+ e that this seeming contradiction can be partially explained by researcher
+ s focusing on different levels of a complex multilevel system through\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/taking-th
+ e-complexity-of-misinformation-susceptibility-into-account/
+LAST-MODIFIED:20261007T220943Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/taking-the-complexity-of-misinformation-susce
+ ptibility-into-account/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Art & Science with Markus Hofer & Peter Ertl: “The Characteristi

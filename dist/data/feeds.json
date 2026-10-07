@@ -2,17 +2,17 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 224
+    "events": 229
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 80
+    "events": 82
   },
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 106
+    "events": 109
   },
   {
     "id": "topic-cybernetics",
@@ -22,7 +22,7 @@
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 66
+    "events": 68
   },
   {
     "id": "topic-system-dynamics",
@@ -37,7 +37,7 @@
   {
     "id": "topic-relational-public-services",
     "name": "Relational public services",
-    "events": 19
+    "events": 21
   },
   {
     "id": "org-scio",
@@ -97,7 +97,7 @@
   {
     "id": "org-csh",
     "name": "Complexity Science Hub",
-    "events": 24
+    "events": 26
   },
   {
     "id": "org-css",
@@ -177,7 +177,7 @@
   {
     "id": "org-sociocracy",
     "name": "Sociocracy For All",
-    "events": 21
+    "events": 22
   },
   {
     "id": "org-incose",
@@ -192,7 +192,7 @@
   {
     "id": "org-syscoi",
     "name": "Systems Community of Inquiry: event discovery",
-    "events": 4
+    "events": 5
   },
   {
     "id": "org-hls",

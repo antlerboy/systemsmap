@@ -106,7 +106,9 @@ DESCRIPTION:Sociocracy For All\n<p>This is a free sociocracy info session.
  y works\, and what kind of organizations are doing sociocracy. </p>\\n\nLa
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/
- event/free-info-session-september-2026/
+ event/free-info-session-september-2026/\nNo longer found in the latest sou
+ rce listing\; confirmation needed.\nThis event could not be rechecked on t
+ he latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260910T090026Z
 LOCATION:Location not published
 STATUS:CONFIRMED
@@ -281,20 +283,20 @@ SUMMARY:Practicing Shared Decision-Making: A Six-Session Facilitator Works
  hop for Sociocracy in UU Communities
 DTSTART:20261007T163000Z
 DTEND:20261007T183000Z
-DTSTAMP:20260915T092934Z
-UID:58abd627dbb3d99801d8ecdf@systemsmap.antlerboy.com
-SEQUENCE:1
+DTSTAMP:20261007T220943Z
+UID:4569b224cc44d31d8ea34d4b@systemsmap.antlerboy.com
+SEQUENCE:0
 CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\nA six-session facilitator workshop moving 
- from understanding sociocracy to practicing it — for UUs and open to all
- . Wednesdays\, Oct 7–Nov 11\, 4:30–6:30pm PT. Facilitated by Rev. Rene
- e Ruchotzke and Anne Sheridan\, Certified Sociocracy Trainer. We’ll buil
- d skills like consent-based meetings and holding rounds. 👆 Click the ti
- tle above to register.\nLanguage: Not specified\nLanguage requirements: No
- t specified\nInterpretation: Not specified\nAccess: See organiser\nhttps:/
- /www.sociocracyforall.org/event/practicing-shared-decision-making-a-six-se
- ssion-facilitator-workshop-for-sociocracy-in-uu-communities/
-LAST-MODIFIED:20260915T092934Z
+DESCRIPTION:Sociocracy For All\n<p>A six-session facilitator workshop movi
+ ng from understanding sociocracy to practicing it — for UUs and open to 
+ all. Wednesdays\, Oct 7–Nov 11\, 4:30–6:30pm PT. Facilitated by Rev. R
+ enee Ruchotzke and Anne Sheridan\, Certified Sociocracy Trainer. We\\'ll b
+ uild skills like consent-based meetings and holding rounds. 👆 Click the
+  title above to register.</p>\\n\nLanguage: Not specified\nLanguage requir
+ ements: Not specified\nInterpretation: Not specified\nAccess: See organise
+ r\nhttps://www.sociocracyforall.org/event/practicing-shared-decision-makin
+ g-a-six-session-facilitator-workshop-for-sociocracy-in-uu-communities/
+LAST-MODIFIED:20261007T220943Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -370,6 +372,30 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.sociocracyforall.org/event/introduction-to-sociocracy-in-i
  ntentional-communities-live-webinar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free introduction: What is sociocracy?
+DTSTART:20261104T170000Z
+DTEND:20261104T180000Z
+DTSTAMP:20261007T220943Z
+UID:b4fbddaf21b0bfd900388f3e@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking
+DESCRIPTION:Sociocracy For All\nAre you tired of power games in your organ
+ izations? Do you have hope that collaboration in organizations could bring
+  out the best in people? Do you think organizations could be places of syn
+ ergy\, collaboration\, growth\, and deep and authentic connection? This we
+ binar is giving an overview of sociocracy. We will talk about: better list
+ ening consent decision making and circle structure examples from \nLanguag
+ e: Not specified\nLanguage requirements: Not specified\nInterpretation: No
+ t specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/event
+ /free-info-session-november-2026/
+LAST-MODIFIED:20261007T220943Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sociocracyforall.org/event/free-info-session-november-2026
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nonviolent Communication Basics 3 x 2hs
