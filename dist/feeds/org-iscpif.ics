@@ -342,4 +342,40 @@ TRANSP:TRANSPARENT
 URL:https://iscpif.fr/evenements/comite-devaluation-lefe-programme-nationa
  l-insu/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRACCS AG DEMO CLIMAT amphi
+DTSTART:20261013T060000Z
+DTEND:20261014T140000Z
+DTSTAMP:20261008T112743Z
+UID:793521b870c493e30cc10323@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/traccs-
+ ag-demo-climat-2/
+LAST-MODIFIED:20261008T112743Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/traccs-ag-demo-climat-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRACCS AG DEMO CLIMAT
+DTSTART:20261014T110000Z
+DTEND:20261014T150000Z
+DTSTAMP:20261008T112743Z
+UID:a610c44e72d608f21f61c2f5@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/traccs-
+ ag-demo-climat/
+LAST-MODIFIED:20261008T112743Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/traccs-ag-demo-climat/
+END:VEVENT
 END:VCALENDAR

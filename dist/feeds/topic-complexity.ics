@@ -659,9 +659,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261007T221454Z
+DTSTAMP:20261008T112743Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:40
+SEQUENCE:41
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -670,7 +670,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20261007T221454Z
+LAST-MODIFIED:20261008T112743Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -978,9 +978,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261007T221454Z
+DTSTAMP:20261008T112743Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:19
+SEQUENCE:20
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -991,7 +991,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20261007T221454Z
+LAST-MODIFIED:20261008T112743Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1135,6 +1135,24 @@ URL:https://iscpif.fr/evenements/comite-devaluation-lefe-programme-nationa
  l-insu/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TRACCS AG DEMO CLIMAT amphi
+DTSTART:20261013T060000Z
+DTEND:20261014T140000Z
+DTSTAMP:20261008T112743Z
+UID:793521b870c493e30cc10323@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/traccs-
+ ag-demo-climat-2/
+LAST-MODIFIED:20261008T112743Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/traccs-ag-demo-climat-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Implementing the Self-Managing Enterprise with Agentic AI
 DTSTART:20261013T150000Z
 DTEND:20261013T160000Z
@@ -1212,6 +1230,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/system-dynamics-learning-hub-2026-sas
  dc-stream-4-multi-echelon-supply-chain-dynamics-session-1/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRACCS AG DEMO CLIMAT
+DTSTART:20261014T110000Z
+DTEND:20261014T150000Z
+DTSTAMP:20261008T112743Z
+UID:a610c44e72d608f21f61c2f5@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/traccs-
+ ag-demo-climat/
+LAST-MODIFIED:20261008T112743Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/traccs-ag-demo-climat/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taking the Complexity of Misinformation Susceptibility into Accoun
