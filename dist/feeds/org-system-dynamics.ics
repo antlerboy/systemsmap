@@ -686,7 +686,9 @@ DESCRIPTION:System Dynamics Society\nThe student chapter is pleased to hos
  nt will take place by zoom on Thursday\, October 8th\, at 12pm (noon) NY t
  ime.\nLanguage: Not specified\nLanguage requirements: Not specified\nInter
  pretation: Not specified\nAccess: See organiser\nhttps://systemdynamics.or
- g/event/student-chapter-meeting-guest-speaker-dr-nishita-dsouza/
+ g/event/student-chapter-meeting-guest-speaker-dr-nishita-dsouza/\nNo longe
+ r found in the latest source listing\; confirmation needed.\nThis event co
+ uld not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261007T111029Z
 LOCATION:https://us02web.zoom.us/j/83483036517
 STATUS:CONFIRMED
@@ -941,6 +943,30 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/implementing-the-self-managing-enterp
  rise-with-agentic-ai/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SD Journal Club: Student Chapter Monthly Meetup
+DTSTART:20261102T150000Z
+DTEND:20261102T160000Z
+DTSTAMP:20261009T112400Z
+UID:316339c0c4970c4e3bcec0af@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nOn November 2\, the Student Chapter w
+ elcomes anyone interested to discuss Recent and Interesting journal articl
+ es related to system dynamics and systems thinking. If you want to recomme
+ nd a recent (published in 2026) peer-reviewed paper to us to discuss\, ple
+ ase email your suggestion to studentchapter@systemdynamics.org . We will a
+ nnounce and share the chosen articles to Student Chapter members 2 we\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/s
+ d-journal-club-student-chapter-monthly-meetup/
+LAST-MODIFIED:20261009T112400Z
+LOCATION:https://us02web.zoom.us/j/85956496724
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/sd-journal-club-student-chapter-month
+ ly-meetup/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Combining System Dynamics with Discrete Event and Agent-Based Meth

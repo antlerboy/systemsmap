@@ -484,9 +484,9 @@ SUMMARY:What are Programmers doing on GitHub? Inferring Software Skills fr
  om API on GitHub
 DTSTART:20261013T123000Z
 DTEND:20261013T130000Z
-DTSTAMP:20261007T220943Z
+DTSTAMP:20261009T112400Z
 UID:22eb7bab03d6959fd176cefd@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nSkills are central to labor market res
  earch\, yet for software work they are usually measured through coarse pro
@@ -498,12 +498,38 @@ DESCRIPTION:Complexity Science Hub\nSkills are central to labor market res
  ion: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/what-a
  re-programmers-doing-on-github-inferring-software-skills-from-api-on-githu
  b/
-LAST-MODIFIED:20261007T220943Z
-LOCATION:CSH Salon
+LAST-MODIFIED:20261009T112400Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/what-are-programmers-doing-on-github-inferrin
  g-software-skills-from-api-on-github/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tracing OEM Supply Chain Strategies in the EV Transition: Prelimin
+ ary Evidence from Press Releases
+DTSTART:20261013T130000Z
+DTEND:20261013T133000Z
+DTSTAMP:20261009T112400Z
+UID:4ac4bf61def495f2eb9bf28c@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nThe transition to electric vehicles ch
+ allenges incumbent automakers to rethink their strategies and supply chain
+ s. In this talk\, Leonardo will present ongoing work on how established OE
+ Ms have responded\, using a new dataset built from the historical archives
+  of their press releases. The aim is to identify investments\, strategic d
+ ecisions and the nature of supplier relationships. He will present th\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/tracing-o
+ em-supply-chain-strategies-in-the-ev-transition-preliminary-evidence-from-
+ press-releases/
+LAST-MODIFIED:20261009T112400Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/tracing-oem-supply-chain-strategies-in-the-ev
+ -transition-preliminary-evidence-from-press-releases/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taking the Complexity of Misinformation Susceptibility into Accoun

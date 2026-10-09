@@ -659,9 +659,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261008T112743Z
+DTSTAMP:20261009T112400Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:41
+SEQUENCE:42
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -670,7 +670,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20261008T112743Z
+LAST-MODIFIED:20261009T112400Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -978,9 +978,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261008T112743Z
+DTSTAMP:20261009T112400Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:20
+SEQUENCE:21
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -991,7 +991,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20261008T112743Z
+LAST-MODIFIED:20261009T112400Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1184,9 +1184,9 @@ SUMMARY:What are Programmers doing on GitHub? Inferring Software Skills fr
  om API on GitHub
 DTSTART:20261013T123000Z
 DTEND:20261013T130000Z
-DTSTAMP:20261007T220943Z
+DTSTAMP:20261009T112400Z
 UID:22eb7bab03d6959fd176cefd@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nSkills are central to labor market res
  earch\, yet for software work they are usually measured through coarse pro
@@ -1198,12 +1198,38 @@ DESCRIPTION:Complexity Science Hub\nSkills are central to labor market res
  ion: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/what-a
  re-programmers-doing-on-github-inferring-software-skills-from-api-on-githu
  b/
-LAST-MODIFIED:20261007T220943Z
-LOCATION:CSH Salon
+LAST-MODIFIED:20261009T112400Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/what-are-programmers-doing-on-github-inferrin
  g-software-skills-from-api-on-github/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tracing OEM Supply Chain Strategies in the EV Transition: Prelimin
+ ary Evidence from Press Releases
+DTSTART:20261013T130000Z
+DTEND:20261013T133000Z
+DTSTAMP:20261009T112400Z
+UID:4ac4bf61def495f2eb9bf28c@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nThe transition to electric vehicles ch
+ allenges incumbent automakers to rethink their strategies and supply chain
+ s. In this talk\, Leonardo will present ongoing work on how established OE
+ Ms have responded\, using a new dataset built from the historical archives
+  of their press releases. The aim is to identify investments\, strategic d
+ ecisions and the nature of supplier relationships. He will present th\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/tracing-o
+ em-supply-chain-strategies-in-the-ev-transition-preliminary-evidence-from-
+ press-releases/
+LAST-MODIFIED:20261009T112400Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/tracing-oem-supply-chain-strategies-in-the-ev
+ -transition-preliminary-evidence-from-press-releases/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System Dynamics Learning Hub 2026 - SASDC - Stream 4 (Multi-echelo
