@@ -471,7 +471,10 @@ DESCRIPTION:Complexity Science Hub\nRapid\, unanticipated shifts in migran
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/a-br
  idge-from-collective-motion-to-social-behavior-migration-and-collective-de
- cisions/\nDate-only listing\; check the organiser for session times.
+ cisions/\nDate-only listing\; check the organiser for session times.\nNo l
+ onger found in the latest source listing\; confirmation needed.\nThis even
+ t could not be rechecked on the latest collection. Confirm with the organi
+ ser.
 LAST-MODIFIED:20260917T093127Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -555,6 +558,32 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/taking-the-complexity-of-misinformation-susce
  ptibility-into-account/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Why Model? Computational Approaches to Complex Socio-Ecological-Te
+ chnological Systems
+DTSTART:20261021T150000Z
+DTEND:20261021T160000Z
+DTSTAMP:20261010T104118Z
+UID:f494ce4c2992f62146b8949a@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nModeling in inherent in human percepti
+ on of and communication about our world. And while powerful\, our innate m
+ odeling abilities are often insufficient to understand and manage the comp
+ lex world in which we live. Human socio-ecological-technological systems (
+ SETS) have evolved into highly complex systems at planetary scale. The sca
+ le and dimensionality of human SETS\, their interconnections\, teleco\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/why-model
+ -computational-approaches-to-complex-socio-ecological-technological-system
+ s/
+LAST-MODIFIED:20261010T104118Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/why-model-computational-approaches-to-complex
+ -socio-ecological-technological-systems/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Art & Science with Markus Hofer & Peter Ertl: “The Characteristi

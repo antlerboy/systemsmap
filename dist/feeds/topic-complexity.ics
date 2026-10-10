@@ -659,9 +659,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261009T112400Z
+DTSTAMP:20261010T104118Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:42
+SEQUENCE:43
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -670,7 +670,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20261009T112400Z
+LAST-MODIFIED:20261010T104118Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -978,9 +978,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261009T112400Z
+DTSTAMP:20261010T104118Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:21
+SEQUENCE:22
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -991,7 +991,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20261009T112400Z
+LAST-MODIFIED:20261010T104118Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1068,7 +1068,10 @@ DESCRIPTION:Complexity Science Hub\nRapid\, unanticipated shifts in migran
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/a-br
  idge-from-collective-motion-to-social-behavior-migration-and-collective-de
- cisions/\nDate-only listing\; check the organiser for session times.
+ cisions/\nDate-only listing\; check the organiser for session times.\nNo l
+ onger found in the latest source listing\; confirmation needed.\nThis even
+ t could not be rechecked on the latest collection. Confirm with the organi
+ ser.
 LAST-MODIFIED:20260917T093127Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1088,7 +1091,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nhttps:/
  /iscpif.fr/unarchive-complexity-accueil/\nLanguage: Not specified\nLanguag
  e requirements: Not specified\nInterpretation: Not specified\nAccess: See 
  organiser\nhttps://iscpif.fr/evenements/unarchive-complexity/\nDate-only l
- isting\; check the organiser for session times.
+ isting\; check the organiser for session times.\nNo longer found in the la
+ test source listing\; confirmation needed.\nThis event could not be rechec
+ ked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1370,6 +1375,32 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/the-earth-has-humans-but-what-kind-en
  dogenizing-behaviour-in-climate-models/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Why Model? Computational Approaches to Complex Socio-Ecological-Te
+ chnological Systems
+DTSTART:20261021T150000Z
+DTEND:20261021T160000Z
+DTSTAMP:20261010T104118Z
+UID:f494ce4c2992f62146b8949a@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nModeling in inherent in human percepti
+ on of and communication about our world. And while powerful\, our innate m
+ odeling abilities are often insufficient to understand and manage the comp
+ lex world in which we live. Human socio-ecological-technological systems (
+ SETS) have evolved into highly complex systems at planetary scale. The sca
+ le and dimensionality of human SETS\, their interconnections\, teleco\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/why-model
+ -computational-approaches-to-complex-socio-ecological-technological-system
+ s/
+LAST-MODIFIED:20261010T104118Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/why-model-computational-approaches-to-complex
+ -socio-ecological-technological-systems/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Implementing the Self-Managing Enterprise with Agentic AI
@@ -1677,7 +1708,9 @@ DESCRIPTION:Metaphorum\nThe Viable System Model: Theory and Application In
  ll learn how to put it into practice by following a systemic\nLanguage: No
  t specified\nLanguage requirements: Not specified\nInterpretation: Not spe
  cified\nAccess: See organiser\nhttps://metaphorum.org/event/vsm-coach-cour
- se-online-by-angela-espinosa
+ se-online-by-angela-espinosa\nNo longer found in the latest source listing
+ \; confirmation needed.\nThis event could not be rechecked on the latest c
+ ollection. Confirm with the organiser.
 LAST-MODIFIED:20261002T103500Z
 LOCATION:Location not published
 STATUS:CONFIRMED
