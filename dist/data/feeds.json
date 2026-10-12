@@ -2,7 +2,7 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 236
+    "events": 238
   },
   {
     "id": "online",
@@ -22,12 +22,12 @@
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 72
+    "events": 73
   },
   {
     "id": "topic-system-dynamics",
     "name": "System dynamics",
-    "events": 70
+    "events": 71
   },
   {
     "id": "topic-systemic-design",
@@ -87,7 +87,7 @@
   {
     "id": "org-system-dynamics",
     "name": "System Dynamics Society",
-    "events": 70
+    "events": 71
   },
   {
     "id": "org-santa-fe",
@@ -147,7 +147,7 @@
   {
     "id": "org-iscpif",
     "name": "Institut des systèmes complexes Paris Île-de-France",
-    "events": 17
+    "events": 18
   },
   {
     "id": "org-griffith",

@@ -380,4 +380,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://iscpif.fr/evenements/traccs-ag-demo-climat/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PEPR TRACCS - AG INVEST
+DTSTART:20261015T060000Z
+DTEND:20261015T143000Z
+DTSTAMP:20261012T121048Z
+UID:b46a242aa43761496bff3a88@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/pepr-tr
+ accs-ag-invest/
+LAST-MODIFIED:20261012T121048Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/pepr-traccs-ag-invest/
+END:VEVENT
 END:VCALENDAR
