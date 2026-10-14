@@ -2,32 +2,32 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 238
+    "events": 244
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 85
+    "events": 88
   },
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 111
+    "events": 110
   },
   {
     "id": "topic-cybernetics",
     "name": "Cybernetics",
-    "events": 60
+    "events": 59
   },
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 73
+    "events": 79
   },
   {
     "id": "topic-system-dynamics",
     "name": "System dynamics",
-    "events": 71
+    "events": 72
   },
   {
     "id": "topic-systemic-design",
@@ -57,7 +57,7 @@
   {
     "id": "org-community",
     "name": "Cybernetics and Systems Community Calendar",
-    "events": 25
+    "events": 24
   },
   {
     "id": "org-ifsr",
@@ -87,7 +87,7 @@
   {
     "id": "org-system-dynamics",
     "name": "System Dynamics Society",
-    "events": 71
+    "events": 72
   },
   {
     "id": "org-santa-fe",
@@ -97,17 +97,17 @@
   {
     "id": "org-csh",
     "name": "Complexity Science Hub",
-    "events": 28
+    "events": 30
   },
   {
     "id": "org-css",
     "name": "Complex Systems Society",
-    "events": 5
+    "events": 9
   },
   {
     "id": "org-metaphorum",
     "name": "Metaphorum",
-    "events": 27
+    "events": 26
   },
   {
     "id": "org-wosc",
