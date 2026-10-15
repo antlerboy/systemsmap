@@ -663,9 +663,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261015T091351Z
+DTSTAMP:20261015T092300Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:48
+SEQUENCE:49
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -674,7 +674,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20261015T091351Z
+LAST-MODIFIED:20261015T092300Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -982,9 +982,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261015T091351Z
+DTSTAMP:20261015T092300Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:27
+SEQUENCE:28
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -995,7 +995,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20261015T091351Z
+LAST-MODIFIED:20261015T092300Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1464,6 +1464,31 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/the-earth-has-humans-but-what-kind-en
  dogenizing-behaviour-in-climate-models/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Walkers Scattered in Street Networks: Robust Decentralized Gatheri
+ ngs
+DTSTART:20261020T123000Z
+DTEND:20261020T130000Z
+DTSTAMP:20261015T092300Z
+UID:321a88607bb39d2bd4249050@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nHow to meet if we are dispersed in a c
+ ity? Coordinating\, by exchanging our positions thanks to modern means of 
+ communication\, seems easy. But how to achieve the same result if communic
+ ations are impossible and no meeting point is identifiable? This is the ca
+ se\, for example\, during a repressed social movement. In this talk\, Guil
+ laume Moinard models protesters as random walks\, on a street network\, w
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/walk
+ ers-scattered-in-street-networks-robust-decentralized-gatherings/
+LAST-MODIFIED:20261015T092300Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/walkers-scattered-in-street-networks-robust-d
+ ecentralized-gatherings/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Why Model? Computational Approaches to Complex Socio-Ecological-Te

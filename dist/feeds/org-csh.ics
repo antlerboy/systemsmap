@@ -566,6 +566,31 @@ URL:https://csh.ac.at/events/taking-the-complexity-of-misinformation-susce
  ptibility-into-account/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Walkers Scattered in Street Networks: Robust Decentralized Gatheri
+ ngs
+DTSTART:20261020T123000Z
+DTEND:20261020T130000Z
+DTSTAMP:20261015T092300Z
+UID:321a88607bb39d2bd4249050@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nHow to meet if we are dispersed in a c
+ ity? Coordinating\, by exchanging our positions thanks to modern means of 
+ communication\, seems easy. But how to achieve the same result if communic
+ ations are impossible and no meeting point is identifiable? This is the ca
+ se\, for example\, during a repressed social movement. In this talk\, Guil
+ laume Moinard models protesters as random walks\, on a street network\, w
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/walk
+ ers-scattered-in-street-networks-robust-decentralized-gatherings/
+LAST-MODIFIED:20261015T092300Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/walkers-scattered-in-street-networks-robust-d
+ ecentralized-gatherings/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Why Model? Computational Approaches to Complex Socio-Ecological-Te
  chnological Systems
 DTSTART:20261021T150000Z
