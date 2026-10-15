@@ -728,8 +728,9 @@ DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
  i-in-system-dynamics-education-task-force-monthly-meeting-2/2026-10-13/\nS
- ource could not be fully rechecked.\nThis event could not be rechecked on 
- the latest collection. Confirm with the organiser.
+ ource could not be fully rechecked.\nNo longer found in the latest source 
+ listing\; confirmation needed.\nThis event could not be rechecked on the l
+ atest collection. Confirm with the organiser.
 LAST-MODIFIED:20260910T090026Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2026-10-13/
@@ -783,8 +784,9 @@ DESCRIPTION:System Dynamics Society\nThe Learning Hub is an interactive\,
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/s
  ystem-dynamics-learning-hub-2026-sasdc-stream-4-multi-echelon-supply-chain
- -dynamics-session-1/\nSource could not be fully rechecked.\nThis event cou
- ld not be rechecked on the latest collection. Confirm with the organiser.
+ -dynamics-session-1/\nSource could not be fully rechecked.\nNo longer foun
+ d in the latest source listing\; confirmation needed.\nThis event could no
+ t be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260910T090026Z
 LOCATION:Location not published
 STATUS:CONFIRMED
@@ -810,7 +812,9 @@ DESCRIPTION:System Dynamics Society\nThe presentation will motivate the th
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
  ent/systems-modeling-and-food-systems-theory-applications-and-frontiers-fo
- r-research/
+ r-research/\nNo longer found in the latest source listing\; confirmation n
+ eeded.\nThis event could not be rechecked on the latest collection. Confir
+ m with the organiser.
 LAST-MODIFIED:20261014T093553Z
 LOCATION:Virginia Tech\, Virginia Polytechnic Institute and State Universi
  ty\, Blacksburg\, VA\, United States
@@ -1529,9 +1533,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Travel Award Deadline
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-DTSTAMP:20260914T095825Z
+DTSTAMP:20261015T091351Z
 UID:8571c909cf05e38e5ae4501f@systemsmap.antlerboy.com
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nThis award provides financial support
   for one PhD student or postdoctoral fellow to attend an international con
@@ -1542,11 +1546,9 @@ DESCRIPTION:System Dynamics Society\nThis award provides financial support
  st\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
  etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
  event/systems-travel-award-deadline/\nDate-only listing\; check the organi
- ser for session times.\nNo longer found in the latest source listing\; con
- firmation needed.\nSource could not be fully rechecked.\nThis event could 
- not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260914T095825Z
-LOCATION:Location not published
+ ser for session times.
+LAST-MODIFIED:20261015T091351Z
+LOCATION:VA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/systems-travel-award-deadline/

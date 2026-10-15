@@ -555,7 +555,9 @@ DESCRIPTION:Complexity Science Hub\nMisinformation is often described as o
  s focusing on different levels of a complex multilevel system through\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/taking-th
- e-complexity-of-misinformation-susceptibility-into-account/
+ e-complexity-of-misinformation-susceptibility-into-account/\nNo longer fou
+ nd in the latest source listing\; confirmation needed.\nThis event could n
+ ot be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261007T220943Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -763,9 +765,9 @@ BEGIN:VEVENT
 SUMMARY:Winter School 2027
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
-DTSTAMP:20261014T093553Z
+DTSTAMP:20261015T091351Z
 UID:8a01d8d95b35fce685bbe6b4@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
  e Winter School program are forthcoming. Find more information on the Wint
@@ -774,8 +776,9 @@ DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/winter-sch
  ool-2027/\nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261014T093553Z
-LOCATION:Vienna\, Austria
+LAST-MODIFIED:20261015T091351Z
+LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
+ \, 1030 Vienna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/winter-school-2027/

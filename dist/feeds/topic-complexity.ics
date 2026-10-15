@@ -663,9 +663,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261014T093553Z
+DTSTAMP:20261015T091351Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:47
+SEQUENCE:48
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -674,7 +674,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20261014T093553Z
+LAST-MODIFIED:20261015T091351Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -982,9 +982,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261014T093553Z
+DTSTAMP:20261015T091351Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:26
+SEQUENCE:27
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -995,7 +995,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20261014T093553Z
+LAST-MODIFIED:20261015T091351Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1154,7 +1154,9 @@ CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/traccs-
- ag-demo-climat-2/
+ ag-demo-climat-2/\nNo longer found in the latest source listing\; confirma
+ tion needed.\nThis event could not be rechecked on the latest collection. 
+ Confirm with the organiser.
 LAST-MODIFIED:20261008T112743Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1262,8 +1264,9 @@ DESCRIPTION:System Dynamics Society\nThe Learning Hub is an interactive\,
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/s
  ystem-dynamics-learning-hub-2026-sasdc-stream-4-multi-echelon-supply-chain
- -dynamics-session-1/\nSource could not be fully rechecked.\nThis event cou
- ld not be rechecked on the latest collection. Confirm with the organiser.
+ -dynamics-session-1/\nSource could not be fully rechecked.\nNo longer foun
+ d in the latest source listing\; confirmation needed.\nThis event could no
+ t be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260910T090026Z
 LOCATION:Location not published
 STATUS:CONFIRMED
@@ -1282,7 +1285,9 @@ CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/traccs-
- ag-demo-climat/
+ ag-demo-climat/\nNo longer found in the latest source listing\; confirmati
+ on needed.\nThis event could not be rechecked on the latest collection. Co
+ nfirm with the organiser.
 LAST-MODIFIED:20261008T112743Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1306,7 +1311,9 @@ DESCRIPTION:Complexity Science Hub\nMisinformation is often described as o
  s focusing on different levels of a complex multilevel system through\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/taking-th
- e-complexity-of-misinformation-susceptibility-into-account/
+ e-complexity-of-misinformation-susceptibility-into-account/\nNo longer fou
+ nd in the latest source listing\; confirmation needed.\nThis event could n
+ ot be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261007T220943Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1872,9 +1879,9 @@ BEGIN:VEVENT
 SUMMARY:Winter School 2027
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
-DTSTAMP:20261014T093553Z
+DTSTAMP:20261015T091351Z
 UID:8a01d8d95b35fce685bbe6b4@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
  e Winter School program are forthcoming. Find more information on the Wint
@@ -1883,8 +1890,9 @@ DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/winter-sch
  ool-2027/\nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261014T093553Z
-LOCATION:Vienna\, Austria
+LAST-MODIFIED:20261015T091351Z
+LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
+ \, 1030 Vienna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/winter-school-2027/
