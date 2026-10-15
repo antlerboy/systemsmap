@@ -821,5 +821,35 @@
     "notes": [
       "Checked 7 October 2026: organiser prose gives 21 October, 18:30–20:15 local time; structured dates are 22:30–00:15 UTC. The UTC date crossing is preserved."
     ]
+  },
+  {
+    "uid": "cybsoc-ashby-fuzzy-and-me-2026-10-15",
+    "title": "Ashby, Fuzzy, and Me",
+    "url": "https://us06web.zoom.us/meeting/register/P2vyZNSyQ4KAsPhCcICcbg",
+    "start": "2026-10-15T17:00:00+01:00",
+    "end": "2026-10-15T19:00:00+01:00",
+    "timezone": "Europe/London",
+    "organiser": "The Cybernetics Society (CybSoc)",
+    "topics": [
+      "cybernetics",
+      "systems"
+    ],
+    "kind": "event",
+    "location": "Online via Zoom",
+    "format": "online",
+    "language": "Not specified",
+    "price": "See organiser",
+    "access": "Registration required",
+    "description": "Dr Steve Morlidge examines why matching regulatory variety is necessary but insufficient, considering scale, interdependence, and the resources needed for viable organisation.",
+    "notes": [
+      "Date, time, speaker, and Zoom registration checked against the organiser's event page on 15 October 2026."
+    ],
+    "discoverySources": [
+      {
+        "id": "cybsoc",
+        "name": "The Cybernetics Society (CybSoc)",
+        "url": "https://cybsoc.org/events.html"
+      }
+    ]
   }
 ]
