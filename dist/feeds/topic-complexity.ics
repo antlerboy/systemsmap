@@ -663,9 +663,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI’s Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261015T092300Z
+DTSTAMP:20261016T090631Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:49
+SEQUENCE:50
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -674,7 +674,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the o
  rganiser for session times.
-LAST-MODIFIED:20261015T092300Z
+LAST-MODIFIED:20261016T090631Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -982,9 +982,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261015T092300Z
+DTSTAMP:20261016T090631Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:28
+SEQUENCE:29
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -995,7 +995,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r’s Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20261015T092300Z
+LAST-MODIFIED:20261016T090631Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1135,7 +1135,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nComité
  027 de CNRS Terre & Univers\nLanguage: Not specified\nLanguage requirement
  s: Not specified\nInterpretation: Not specified\nAccess: See organiser\nht
  tps://iscpif.fr/evenements/comite-devaluation-lefe-programme-national-insu
- /
+ /\nNo longer found in the latest source listing\; confirmation needed.\nTh
+ is event could not be rechecked on the latest collection. Confirm with the
+  organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1387,7 +1389,9 @@ CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/pepr-tr
- accs-ag-invest/
+ accs-ag-invest/\nNo longer found in the latest source listing\; confirmati
+ on needed.\nThis event could not be rechecked on the latest collection. Co
+ nfirm with the organiser.
 LAST-MODIFIED:20261012T121048Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1412,7 +1416,9 @@ DESCRIPTION:System Dynamics Society\nThe Integrated Sustainable Developmen
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/
  the-isd-model-from-millenium-institute-a-sustainable-development-simulator
- /
+ /\nNo longer found in the latest source listing\; confirmation needed.\nTh
+ is event could not be rechecked on the latest collection. Confirm with the
+  organiser.
 LAST-MODIFIED:20261002T103500Z
 LOCATION:https://us02web.zoom.us/j/83989986859
 STATUS:CONFIRMED
@@ -1491,6 +1497,48 @@ URL:https://csh.ac.at/events/walkers-scattered-in-street-networks-robust-d
  ecentralized-gatherings/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Experimental Testing of Anticonformity to Depolarize Social System
+DTSTART:20261020T130000Z
+DTEND:20261020T133000Z
+DTSTAMP:20261016T090631Z
+UID:0c75ea1398ff9f9ccd5553f1@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nAnticonformity\, or going against the 
+ group norm\, as a form of social response has been studied in computationa
+ l models. But empirically\, we still don't know if anticonformity can be e
+ ncouraged to a level sufficient to reduce polarization of opinions. They i
+ nvestigate this using an interactive group experiments where we gave some 
+ people an encouragement to stand out to help their group reconsiders \nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/experimen
+ tal-testing-of-anticonformity-to-depolarize-social-system/
+LAST-MODIFIED:20261016T090631Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/experimental-testing-of-anticonformity-to-dep
+ olarize-social-system/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenAlex
+DTSTART:20261021T060000Z
+DTEND:20261021T123000Z
+DTSTAMP:20261016T090631Z
+UID:747cdd4273d967ffea962e53@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/openale
+ x/
+LAST-MODIFIED:20261016T090631Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/openalex/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Why Model? Computational Approaches to Complex Socio-Ecological-Te
  chnological Systems
 DTSTART:20261021T150000Z
@@ -1539,6 +1587,31 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/implementing-the-self-managing-enterp
  rise-with-agentic-ai/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Living in Complexity: an STS Perspective on the Complexity Science
+  Hub
+DTSTART:20261027T123000Z
+DTEND:20261027T130000Z
+DTSTAMP:20261016T090631Z
+UID:5b91e6ae0fd6893e515b559d@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nDespite existing as a scientific label
+  for roughly four decades\, complexity science has never fully institution
+ alized as a discipline and has instead been described by scholars as a ‘
+ quasi-discipline’ or a ‘scientific platform’. Complexity science com
+ bines an antireductionist stance with the formal acknowledgement of uncert
+ ainty – stressing the importance of ‘emerging’ properties of systems
+  over t\nLanguage: Not specified\nLanguage requirements: Not specified\nIn
+ terpretation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/even
+ ts/living-in-complexity-an-sts-perspective-on-the-complexity-science-hub/
+LAST-MODIFIED:20261016T090631Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/living-in-complexity-an-sts-perspective-on-th
+ e-complexity-science-hub/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Combining System Dynamics with Discrete Event and Agent-Based Meth
@@ -1720,7 +1793,7 @@ DTEND:20261124T170000Z
 DTSTAMP:20260914T095825Z
 UID:9461af3c6b41bf4463fbc834@systemsmap.antlerboy.com
 SEQUENCE:1
-CATEGORIES:System dynamics,Complexity
+CATEGORIES:Complexity,System dynamics
 DESCRIPTION:System Dynamics Society\nNovember 24\, 2026 at 11 am NY | 4 pm
   London | Check Your Time Zone As systems mapping has grown in popularity
  \, an important challenge remains: once a map has been created\, where sho
@@ -1799,7 +1872,9 @@ DESCRIPTION:Complexity Science Hub\nFor everyone to benefit from technolog
  r lives. But technology is only part of the picture. Today\, the digital\n
  Language: Not specified\nLanguage requirements: Not specified\nInterpretat
  ion: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednes
- day-salon-with-dirk-helbing/
+ day-salon-with-dirk-helbing/\nNo longer found in the latest source listing
+ \; confirmation needed.\nThis event could not be rechecked on the latest c
+ ollection. Confirm with the organiser.
 LAST-MODIFIED:20261014T093553Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
@@ -1914,7 +1989,10 @@ DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
   have received a message with registration and payment instructions.\nLang
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/winter-sch
- ool-2027/\nDate-only listing\; check the organiser for session times.
+ ool-2027/\nDate-only listing\; check the organiser for session times.\nNo 
+ longer found in the latest source listing\; confirmation needed.\nThis eve
+ nt could not be rechecked on the latest collection. Confirm with the organ
+ iser.
 LAST-MODIFIED:20261015T091351Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna

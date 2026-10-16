@@ -591,6 +591,30 @@ URL:https://csh.ac.at/events/walkers-scattered-in-street-networks-robust-d
  ecentralized-gatherings/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Experimental Testing of Anticonformity to Depolarize Social System
+DTSTART:20261020T130000Z
+DTEND:20261020T133000Z
+DTSTAMP:20261016T090631Z
+UID:0c75ea1398ff9f9ccd5553f1@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nAnticonformity\, or going against the 
+ group norm\, as a form of social response has been studied in computationa
+ l models. But empirically\, we still don't know if anticonformity can be e
+ ncouraged to a level sufficient to reduce polarization of opinions. They i
+ nvestigate this using an interactive group experiments where we gave some 
+ people an encouragement to stand out to help their group reconsiders \nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/experimen
+ tal-testing-of-anticonformity-to-depolarize-social-system/
+LAST-MODIFIED:20261016T090631Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/experimental-testing-of-anticonformity-to-dep
+ olarize-social-system/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Why Model? Computational Approaches to Complex Socio-Ecological-Te
  chnological Systems
 DTSTART:20261021T150000Z
@@ -615,6 +639,31 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/why-model-computational-approaches-to-complex
  -socio-ecological-technological-systems/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Living in Complexity: an STS Perspective on the Complexity Science
+  Hub
+DTSTART:20261027T123000Z
+DTEND:20261027T130000Z
+DTSTAMP:20261016T090631Z
+UID:5b91e6ae0fd6893e515b559d@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nDespite existing as a scientific label
+  for roughly four decades\, complexity science has never fully institution
+ alized as a discipline and has instead been described by scholars as a ‘
+ quasi-discipline’ or a ‘scientific platform’. Complexity science com
+ bines an antireductionist stance with the formal acknowledgement of uncert
+ ainty – stressing the importance of ‘emerging’ properties of systems
+  over t\nLanguage: Not specified\nLanguage requirements: Not specified\nIn
+ terpretation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/even
+ ts/living-in-complexity-an-sts-perspective-on-the-complexity-science-hub/
+LAST-MODIFIED:20261016T090631Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/living-in-complexity-an-sts-perspective-on-th
+ e-complexity-science-hub/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Art & Science with Markus Hofer & Peter Ertl: “The Characteristi
@@ -778,7 +827,9 @@ DESCRIPTION:Complexity Science Hub\nFor everyone to benefit from technolog
  r lives. But technology is only part of the picture. Today\, the digital\n
  Language: Not specified\nLanguage requirements: Not specified\nInterpretat
  ion: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednes
- day-salon-with-dirk-helbing/
+ day-salon-with-dirk-helbing/\nNo longer found in the latest source listing
+ \; confirmation needed.\nThis event could not be rechecked on the latest c
+ ollection. Confirm with the organiser.
 LAST-MODIFIED:20261014T093553Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
@@ -800,7 +851,10 @@ DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
   have received a message with registration and payment instructions.\nLang
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/winter-sch
- ool-2027/\nDate-only listing\; check the organiser for session times.
+ ool-2027/\nDate-only listing\; check the organiser for session times.\nNo 
+ longer found in the latest source listing\; confirmation needed.\nThis eve
+ nt could not be rechecked on the latest collection. Confirm with the organ
+ iser.
 LAST-MODIFIED:20261015T091351Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna

@@ -76,9 +76,9 @@ BEGIN:VEVENT
 SUMMARY:Making relational\, place-based public services ordinary
 DTSTART:20260921T124500Z
 DTEND:20260921T141500Z
-DTSTAMP:20261015T092300Z
+DTSTAMP:20261016T090631Z
 UID:8c00d12aaf979855624fa772@systemsmap.antlerboy.com
-SEQUENCE:49
+SEQUENCE:50
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:SCiO / SysPrac26\nBenjamin Taylor’s workshop at SysPrac26. C
  onference booking required.\nLanguage: Not specified\nLanguage requirement
@@ -86,7 +86,7 @@ DESCRIPTION:SCiO / SysPrac26\nBenjamin Taylor’s workshop at SysPrac26. C
  tps://www.systemspractice.org/Schedule26\nPresenter withdrew from the conf
  erence session\; organiser’s follow-up offers separate online workshops.
   Checked 7 October 2026.
-LAST-MODIFIED:20261015T092300Z
+LAST-MODIFIED:20261016T090631Z
 LOCATION:LR4\, Vincent Building\, Cranfield University\, United Kingdom
 STATUS:CANCELLED
 TRANSP:TRANSPARENT
@@ -146,7 +146,9 @@ CATEGORIES:Systems thinking,Cybernetics
 DESCRIPTION:SCiO Finland\n\nLanguage: Finnish\nLanguage requirements: Not 
  specified\nInterpretation: Not specified\nAccess: All welcome\nhttps://www
  .systemspractice.org/events/systeemisalonki-toimiminen-kompleksisessa-ympa
- ristossa
+ ristossa\nNo longer found in the latest source listing\; confirmation need
+ ed.\nThis event could not be rechecked on the latest collection. Confirm w
+ ith the organiser.
 LAST-MODIFIED:20261006T112159Z
 LOCATION:Online event
 STATUS:CONFIRMED
@@ -167,7 +169,9 @@ CATEGORIES:Systems thinking,Cybernetics
 DESCRIPTION:SCiO Polska\n\nGeographic focus: Poland\nLanguage: Polish\nLan
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  All welcome\nhttps://www.systemspractice.org/events/co-jesli-najwiekszym-o
- graniczeniem-organizacji-jest-sposob-w-jaki-o-niej-myslimy-o
+ graniczeniem-organizacji-jest-sposob-w-jaki-o-niej-myslimy-o\nNo longer fo
+ und in the latest source listing\; confirmation needed.\nThis event could 
+ not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261009T112400Z
 LOCATION:Online event
 STATUS:CONFIRMED
@@ -186,7 +190,9 @@ CATEGORIES:Systems thinking,Cybernetics
 DESCRIPTION:SCiO Belgium\n\nGeographic focus: Belgium\nLanguage: Dutch\nLa
  nguage requirements: Not specified\nInterpretation: Not specified\nAccess:
   Members only + Guests\nhttps://www.systemspractice.org/events/deep-dive-i
- ntervisie-critical-systems-heuristics
+ ntervisie-critical-systems-heuristics\nNo longer found in the latest sourc
+ e listing\; confirmation needed.\nThis event could not be rechecked on the
+  latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261013T115559Z
 LOCATION:tbc\, Belgium
 STATUS:CONFIRMED

@@ -841,7 +841,9 @@ DESCRIPTION:System Dynamics Society\nThe Integrated Sustainable Developmen
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/
  the-isd-model-from-millenium-institute-a-sustainable-development-simulator
- /
+ /\nNo longer found in the latest source listing\; confirmation needed.\nTh
+ is event could not be rechecked on the latest collection. Confirm with the
+  organiser.
 LAST-MODIFIED:20261002T103500Z
 LOCATION:https://us02web.zoom.us/j/83989986859
 STATUS:CONFIRMED
@@ -864,7 +866,9 @@ DESCRIPTION:System Dynamics Society\nMonthly meetings of the Policy Counci
   prior to the start of the meeting.\nLanguage: Not specified\nLanguage req
  uirements: Not specified\nInterpretation: Not specified\nAccess: See organ
  iser\nhttps://systemdynamics.org/event/sds-policy-council-meeting-october-
- 2026/
+ 2026/\nNo longer found in the latest source listing\; confirmation needed.
+ \nThis event could not be rechecked on the latest collection. Confirm with
+  the organiser.
 LAST-MODIFIED:20261002T103500Z
 LOCATION:https://us02web.zoom.us/j/89954043089
 STATUS:CONFIRMED
@@ -1144,7 +1148,7 @@ DTEND:20261124T170000Z
 DTSTAMP:20260914T095825Z
 UID:9461af3c6b41bf4463fbc834@systemsmap.antlerboy.com
 SEQUENCE:1
-CATEGORIES:System dynamics,Complexity
+CATEGORIES:Complexity,System dynamics
 DESCRIPTION:System Dynamics Society\nNovember 24\, 2026 at 11 am NY | 4 pm
   London | Check Your Time Zone As systems mapping has grown in popularity
  \, an important challenge remains: once a map has been created\, where sho
@@ -1557,9 +1561,9 @@ BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20270413T150000Z
 DTEND:20270413T160000Z
-DTSTAMP:20260914T095825Z
+DTSTAMP:20261016T090631Z
 UID:ad52d10e476e16654760f737@systemsmap.antlerboy.com
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
   London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please logi
@@ -1569,11 +1573,8 @@ DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
  ovide a space to collaborate on the responsible integration of artifi\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
- i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-04-13/\nN
- o longer found in the latest source listing\; confirmation needed.\nSource
-  could not be fully rechecked.\nThis event could not be rechecked on the l
- atest collection. Confirm with the organiser.
-LAST-MODIFIED:20260914T095825Z
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-04-13/
+LAST-MODIFIED:20261016T090631Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-04-13/
 STATUS:CONFIRMED
@@ -1585,9 +1586,9 @@ BEGIN:VEVENT
 SUMMARY:2027 Conference Scholarship Application Deadline
 DTSTART:20270415T040000Z
 DTEND:20270416T035900Z
-DTSTAMP:20261003T095602Z
+DTSTAMP:20261016T090631Z
 UID:16941fd20d461c3e691cccff@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nCONFERENCE SCHOLARSHIP Partial schola
  rships are available that pay conference registration fees. Scholarships a
@@ -1597,11 +1598,8 @@ DESCRIPTION:System Dynamics Society\nCONFERENCE SCHOLARSHIP Partial schola
   “Award and Scholarship Information”. If you would like to apply for a
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
- ent/2027-conference-scholarship-application-deadline/\nNo longer found in 
- the latest source listing\; confirmation needed.\nSource could not be full
- y rechecked.\nThis event could not be rechecked on the latest collection. 
- Confirm with the organiser.
-LAST-MODIFIED:20261003T095602Z
+ ent/2027-conference-scholarship-application-deadline/
+LAST-MODIFIED:20261016T090631Z
 LOCATION:United States\, United States
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
