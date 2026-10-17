@@ -907,9 +907,9 @@ SUMMARY:The 40th annual European Simulation and Modelling Conference - ESM
   '2026
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261014T093553Z
+DTSTAMP:20261017T083913Z
 UID:04088520338aeb58c1cb587d@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nESM®’2026 October 21-23\, 2026\, N
  ational Engineering School (ENIM)\, Metz\, France CONFERENCE PAGE LINK: ht
@@ -921,8 +921,8 @@ DESCRIPTION:System Dynamics Society\nESM®’2026 October 21-23\, 2026\, N
  pretation: Not specified\nAccess: See organiser\nhttps://systemdynamics.or
  g/event/the-40th-annual-european-simulation-and-modelling-conference-esm-2
  026/\nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261014T093553Z
-LOCATION:VA
+LAST-MODIFIED:20261017T083913Z
+LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/the-40th-annual-european-simulation-a
@@ -1196,9 +1196,9 @@ BEGIN:VEVENT
 SUMMARY:Winter Simulation Conference - WSC 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261014T093553Z
+DTSTAMP:20261017T083913Z
 UID:84ba6ab1cc55be569a831beb@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nStarts: Dec 6\, 2026 09:00 (UTC) Ends
  : Dec 9\, 2026 17:00 (UTC) Location: Scottish Event Campus | SEC Centre Ex
@@ -1209,8 +1209,8 @@ DESCRIPTION:System Dynamics Society\nStarts: Dec 6\, 2026 09:00 (UTC) Ends
  \nInterpretation: Not specified\nAccess: See organiser\nhttps://systemdyna
  mics.org/event/winter-simulation-conference-wsc-2026/\nDate-only listing\;
   check the organiser for session times.
-LAST-MODIFIED:20261014T093553Z
-LOCATION:VA
+LAST-MODIFIED:20261017T083913Z
+LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/winter-simulation-conference-wsc-2026
@@ -1292,9 +1292,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Young Investigator Award Deadline
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261014T093553Z
+DTSTAMP:20261017T083913Z
 UID:5a4e9833c2d8e2a0f2c34269@systemsmap.antlerboy.com
-SEQUENCE:5
+SEQUENCE:6
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nYoung Investigator Award This award w
  ill be given to one young investigator in recognition of their excellence 
@@ -1306,8 +1306,8 @@ DESCRIPTION:System Dynamics Society\nYoung Investigator Award This award w
  retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
  /event/systems-young-investigator-award-deadline/\nDate-only listing\; che
  ck the organiser for session times.
-LAST-MODIFIED:20261014T093553Z
-LOCATION:VA
+LAST-MODIFIED:20261017T083913Z
+LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/systems-young-investigator-award-dead
@@ -1537,9 +1537,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Travel Award Deadline
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-DTSTAMP:20261015T091351Z
+DTSTAMP:20261017T083913Z
 UID:8571c909cf05e38e5ae4501f@systemsmap.antlerboy.com
-SEQUENCE:5
+SEQUENCE:6
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nThis award provides financial support
   for one PhD student or postdoctoral fellow to attend an international con
@@ -1551,8 +1551,8 @@ DESCRIPTION:System Dynamics Society\nThis award provides financial support
  etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
  event/systems-travel-award-deadline/\nDate-only listing\; check the organi
  ser for session times.
-LAST-MODIFIED:20261015T091351Z
-LOCATION:VA
+LAST-MODIFIED:20261017T083913Z
+LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/systems-travel-award-deadline/
