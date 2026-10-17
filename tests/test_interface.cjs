@@ -18,6 +18,15 @@ for(const [topic,query] of [['systems','systems'],['cybernetics','cybernetics'],
   assert(!context.test.match({...e,title:'A seminar',organiser:'A society',topics:['systemic-design']}),query+' should not match unrelated labels');
 }
 el('#q').value='';
+// All-day DTEND is exclusive: yesterday's event must not remain upcoming today.
+context.Date=class extends Date{constructor(...args){super(...(args.length?args:['2026-10-17T12:00:00Z']));}static now(){return new Date('2026-10-17T12:00:00Z').getTime();}};
+el('#period').value='upcoming';
+assert(!context.test.match({...e,allDay:true,start:'2026-10-16',end:'2026-10-17'}));
+assert(context.test.match({...e,allDay:true,start:'2026-10-17',end:'2026-10-18'}));
+assert(context.test.match({...e,allDay:true,start:'2026-10-17',end:null}));
+assert(!context.test.match({...e,allDay:true,start:'2026-10-16',end:null}));
+el('#period').value='all';
+assert(context.test.match({...e,allDay:true,start:'2026-10-16',end:'2026-10-17'}));
 const values={url:'https://example.org/event',kind:'auto',title:'',organiser:'',start:'',end:'',startTime:'',endTime:'',timezone:'',location:'',topic:'',description:'',language:'',languageRequirement:'',interpretation:'',access:'',audienceCountries:'',audienceRegions:''};
 (async()=>{
 const button={disabled:false},form={values,querySelector:()=>button,reset:()=>resetCount++};

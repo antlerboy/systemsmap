@@ -8,6 +8,11 @@ from icalendar import Calendar
 
 SOURCE={'id':'test','name':'Test society','topics':['systems'],'timezone':'Europe/London'}
 class CalendarTests(unittest.TestCase):
+    def test_all_day_exclusive_end_is_not_counted_as_upcoming(self):
+        self.assertFalse(collect.upcoming_on({'allDay':True,'start':'2026-10-16','end':'2026-10-17'},'2026-10-17'))
+        self.assertTrue(collect.upcoming_on({'allDay':True,'start':'2026-10-17','end':'2026-10-18'},'2026-10-17'))
+        self.assertTrue(collect.upcoming_on({'allDay':True,'start':'2026-10-17'},'2026-10-17'))
+        self.assertFalse(collect.upcoming_on({'allDay':True,'start':'2026-10-16'},'2026-10-17'))
     def setUp(self):
         self.patches=[patch.object(collect,'WINDOW_START',datetime(2026,1,1,tzinfo=timezone.utc)),patch.object(collect,'WINDOW_END',datetime(2027,1,1,tzinfo=timezone.utc))]
         for p in self.patches:p.start();self.addCleanup(p.stop)

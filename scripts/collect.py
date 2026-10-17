@@ -551,6 +551,10 @@ def make_calendar(events,name):
         c.add_component(v)
     return c.to_ical()
 
+def upcoming_on(event,day):
+    boundary=(event.get('end') or event['start'])[:10]
+    return boundary>day if event['allDay'] and event.get('end') else boundary>=day
+
 def main():
     sources=json.loads((ROOT/'data/sources.json').read_text())
     oldpath=ROOT/'dist/data/events.json';previous=json.loads(oldpath.read_text()).get('events',[]) if oldpath.exists() else []
@@ -589,7 +593,7 @@ def main():
     (dest/'feeds.json').write_text(json.dumps([{'id':k,'name':v[0],'events':len(v[1])} for k,v in groups.items()],ensure_ascii=False,indent=2)+'\n')
     discoveries=list({x['url']:x for x in DISCOVERED}.values())
     (ROOT/'data/discovered-sources.json').write_text(json.dumps(discoveries,ensure_ascii=False,indent=2)+'\n')
-    summary={'checkedAt':STAMP,'events':len(events),'upcoming':sum((e.get('end') or e['start'])[:10]>=NOW.date().isoformat() for e in events),'sources':len(reports),'collecting':sum(s['events']>0 for s in reports),'failed':sum(s['status']=='failed' for s in reports)}
+    summary={'checkedAt':STAMP,'events':len(events),'upcoming':sum(upcoming_on(e,NOW.date().isoformat()) for e in events),'sources':len(reports),'collecting':sum(s['events']>0 for s in reports),'failed':sum(s['status']=='failed' for s in reports)}
     (dest/'health.json').write_text(json.dumps(summary,indent=2)+'\n');print(json.dumps(summary),flush=True)
     if not events:raise SystemExit('No events available. Refusing an empty publication.')
 

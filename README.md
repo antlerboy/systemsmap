@@ -14,6 +14,8 @@ The hosted edition reads the daily event data and subscription feeds directly fr
 
 The public title, description, heading and submission-queue branding use 'systems | cybernetics | complexity events', following issue #7. Search includes subject labels as well as event text; interface checks cover each of the three labels with otherwise neutral event titles.
 
+All-day end dates are exclusive in both the upcoming filter and collection count. An event ending on 17 October is no longer upcoming on 17 October; it remains available under 'Include past events'. Mobile filters and long branding can shrink and wrap within the viewport.
+
 The Complexity Science Hub's [20 October Lasmi Marbun talk](https://csh.ac.at/events/experimental-testing-of-anticonformity-to-depolarize-social-system/) has JSON-LD `startDate=2026-10-20T15:00:00+02:00` and `endDate=2026-10-20T15:30:00+02:00`. The maintained event has the same values and Europe/Vienna time zone; its ICS exports 13:00–13:30 UTC. The page's visible 13:00–13:30 clock has no time-zone label. Retain the explicitly zoned structured values; no reschedule or two-hour correction is established. UID `0c75ea1398ff9f9ccd5553f1@systemsmap.antlerboy.com` is unchanged.
 
 ## Features
