@@ -10,6 +10,14 @@ const e={id:'polska',title:'Polish event',organiser:'SCiO Polska',organisationId
 el('#period').value='all';el('#country').value='Poland';el('#language').value='Polish';el('#topics input:checked').value='';
 assert(context.test.match(e));el('#language').value='English';assert(!context.test.match(e));el('#language').value='';el('#country').value='Europe';assert(!context.test.match(e));
 assert(context.test.place(e).includes('Poland'));assert(!context.test.place(e).includes('anywhere'));assert(context.test.ics([e]).replace(/\r\n /g,'').includes('Language requirements: Discussion in Polish'));
+// Subject labels must be searchable even when absent from an event's title.
+el('#country').value='';
+for(const [topic,query] of [['systems','systems'],['cybernetics','cybernetics'],['complexity','complexity']]){
+  el('#q').value=query;
+  assert(context.test.match({...e,title:'A seminar',organiser:'A society',topics:[topic]}),query+' label should find the event');
+  assert(!context.test.match({...e,title:'A seminar',organiser:'A society',topics:['systemic-design']}),query+' should not match unrelated labels');
+}
+el('#q').value='';
 const values={url:'https://example.org/event',kind:'auto',title:'',organiser:'',start:'',end:'',startTime:'',endTime:'',timezone:'',location:'',topic:'',description:'',language:'',languageRequirement:'',interpretation:'',access:'',audienceCountries:'',audienceRegions:''};
 (async()=>{
 const button={disabled:false},form={values,querySelector:()=>button,reset:()=>resetCount++};
