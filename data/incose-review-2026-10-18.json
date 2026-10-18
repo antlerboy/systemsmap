@@ -1,0 +1,159 @@
+{
+  "checked": "2026-10-18",
+  "scope": "Eight explicitly authorised INCOSE omissions and correction of the registered public calendar URL. No parser, fetcher or unrelated source changed.",
+  "base_commit": "dead3aed6b4fbf1fd1b4982c6ea342c63a62cbd8",
+  "before_events": 252,
+  "added": 8,
+  "expected_total": 260,
+  "preserved_subscription_ids": 252,
+  "records": [
+    {
+      "key": "aise-mind-the-system-2026",
+      "title": "Mind the System 2026 — Evento Nazionale AISE",
+      "canonical_url": "https://www.aise-incose-eventi.it/MindTheSystem2026.html",
+      "source_url": "https://www.incose.org/event/aise-italian-association-of-systems-engineering-mind-the-system-human-factor-as-a-core-se-discipline/",
+      "locator": "Dove e Quando; La Location; FAQ",
+      "published_first_day": "2026-10-27",
+      "published_last_day": "2026-10-28",
+      "location": "Salone delle Colonne, Piazza Guglielmo Marconi 26/C, EUR, Rome, Italy",
+      "notes": [
+        "Published days are 27–28 October. Canonical programme and global listing have different clock envelopes; dates only are exported.",
+        "Official organiser page and location checked 18 October 2026."
+      ],
+      "uid": "3fdee112247ab6f335871aa7@systemsmap.antlerboy.com",
+      "start": "2026-10-27",
+      "end": "2026-10-29",
+      "allDay": true
+    },
+    {
+      "key": "dutch-se-days-2026",
+      "title": "The Dutch Systems Engineering Days 2026",
+      "canonical_url": "https://incose.nl/en/the-dutch-systems-engineering-days-2026/",
+      "source_url": "https://www.incose.org/event/dutch-se-days-2026/",
+      "locator": "Opening announcement; Program; Tickets & Registration; Location",
+      "published_first_day": "2026-11-12",
+      "published_last_day": "2026-11-13",
+      "location": "Van der Valk Eindhoven-Best, Eindhovenseweg Zuid 144, 5683 PX Best, Netherlands",
+      "notes": [
+        "Published days are 12–13 November. Local programme hours lack an explicit timezone and include evening activities; dates only are exported.",
+        "Official organiser page and location checked 18 October 2026."
+      ],
+      "uid": "9dadb04025a3a5ad21f2fe39@systemsmap.antlerboy.com",
+      "start": "2026-11-12",
+      "end": "2026-11-14",
+      "allDay": true
+    },
+    {
+      "key": "new-england-fall-workshop-2026",
+      "title": "2026 NE INCOSE Annual Fall Workshop — AI for SE Workflows",
+      "canonical_url": "https://www.neincose.org/events/2026-ne-incose-annual-fall-workshop",
+      "source_url": "https://www.incose.org/event/new-england-chapter-fall-workshop/",
+      "locator": "Time & Location; About The Event",
+      "published_first_day": "2026-11-12",
+      "published_last_day": "2026-11-12",
+      "location": "Higgins House at Worcester Polytechnic Institute, 100 Institute Road, Worcester, Massachusetts 01609, United States",
+      "notes": [
+        "The canonical chapter page explicitly states 08:00–16:00 EST. This takes precedence over conflicting EDT/UTC labels on the global listing.",
+        "Official organiser page and location checked 18 October 2026."
+      ],
+      "uid": "b90a2d6ef45daf0d4531b3eb@systemsmap.antlerboy.com",
+      "start": "2026-11-12T08:00:00-05:00",
+      "end": "2026-11-12T16:00:00-05:00",
+      "allDay": false
+    },
+    {
+      "key": "tdse-2026",
+      "title": "Tag des Systems Engineering 2026 — TdSE",
+      "canonical_url": "https://tdse.org/programm/vortragsprogramm.html",
+      "source_url": "https://www.incose.org/event/tag-des-systems-engineering-tdse/",
+      "locator": "Programme: Tag 1–4; venue page: Kongress Dortmund – Standort und Anreise / Adresse",
+      "published_first_day": "2026-11-17",
+      "published_last_day": "2026-11-20",
+      "location": "Kongress Dortmund, Strobelallee 45, 44139 Dortmund, Germany",
+      "notes": [
+        "The full published programme runs 17–20 November. Tutorial days and main conference days are distinguished; dates only are exported.",
+        "Official organiser page and location checked 18 October 2026.",
+        "Venue reference: https://tdse.org/informationen/allgemeines.html"
+      ],
+      "uid": "d590981531b1d2be8fc24c1f@systemsmap.antlerboy.com",
+      "start": "2026-11-17",
+      "end": "2026-11-21",
+      "allDay": true
+    },
+    {
+      "key": "asec-2026",
+      "title": "Annual Systems Engineering Conference 2026 — ASEC",
+      "canonical_url": "https://www.asec2026.org.uk/Pages/Standard/Home",
+      "source_url": "https://www.incose.org/event/annual-systems-engineering-conference-2026-asec/",
+      "locator": "Home: 24–25 Nov 2026; The Venue; Programme Overview",
+      "published_first_day": "2026-11-24",
+      "published_last_day": "2026-11-25",
+      "location": "Telford International Centre, International Way, Telford TF3 4JH, United Kingdom",
+      "notes": [
+        "The canonical event site confirms 24–25 November and the Telford venue. Dates only are exported; consult the local programme for session times.",
+        "Official organiser page and location checked 18 October 2026.",
+        "Venue reference: https://www.asec2026.org.uk/Pages/Standard/General_Information/Venue"
+      ],
+      "uid": "952bd21415eebf2c2fc17aff@systemsmap.antlerboy.com",
+      "start": "2026-11-24",
+      "end": "2026-11-26",
+      "allDay": true
+    },
+    {
+      "key": "international-workshop-2027",
+      "title": "INCOSE International Workshop 2027",
+      "canonical_url": "https://www.incose.org/events-education/international-workshop/",
+      "source_url": "https://www.incose.org/events-education/event-calendar/",
+      "locator": "30 January – 2 February 2027; Book Your Stay; Event Location",
+      "published_first_day": "2027-01-30",
+      "published_last_day": "2027-02-02",
+      "location": "Torrance Marriott Redondo Beach, 3635 Fashion Way, Torrance, California 90503, United States",
+      "notes": [
+        "Published date range and venue checked. The detailed 2027 event platform is marked Coming Soon; daily session times and remote participation are not established.",
+        "Official organiser page and location checked 18 October 2026."
+      ],
+      "uid": "043f3fc354ac8095f3db9b2c@systemsmap.antlerboy.com",
+      "start": "2027-01-30",
+      "end": "2027-02-03",
+      "allDay": true
+    },
+    {
+      "key": "cser-2027",
+      "title": "Conference on Systems Engineering Research 2027 — CSER",
+      "canonical_url": "https://www.incose.org/cser/",
+      "source_url": "https://www.incose.org/events-education/event-calendar/",
+      "locator": "11–14 April 2027; Event Location; CSER 2027 platform Coming Soon",
+      "published_first_day": "2027-04-11",
+      "published_last_day": "2027-04-14",
+      "location": "Von Braun Center, 700 Monroe St SW, Huntsville, Alabama 35801, United States",
+      "notes": [
+        "Published date range and venue checked. The detailed 2027 event platform is marked Coming Soon; daily session times and remote participation are not established.",
+        "Official organiser page and location checked 18 October 2026."
+      ],
+      "uid": "976fd7f0f7d7a4c40be2d4bb@systemsmap.antlerboy.com",
+      "start": "2027-04-11",
+      "end": "2027-04-15",
+      "allDay": true
+    },
+    {
+      "key": "international-symposium-2027",
+      "title": "INCOSE International Symposium 2027",
+      "canonical_url": "https://www.incose.org/events-education/international-symposium/",
+      "source_url": "https://www.incose.org/events-education/event-calendar/",
+      "locator": "17–22 July 2027; Call for Submissions; Event Location",
+      "published_first_day": "2027-07-17",
+      "published_last_day": "2027-07-22",
+      "location": "Omni Shoreham Hotel, 2500 Calvert St NW, Washington, DC 20008, United States",
+      "notes": [
+        "Published date range and venue checked. The detailed 2027 event platform is marked Coming Soon; daily session times and remote participation are not established.",
+        "Official organiser page and location checked 18 October 2026."
+      ],
+      "uid": "d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com",
+      "start": "2027-07-17",
+      "end": "2027-07-23",
+      "allDay": true
+    }
+  ],
+  "source_check": "The public calendar is readable through web retrieval. The unchanged collector fetcher returned HTTP 403 locally on the new route; no robots or access control was bypassed. CI reports the actual source status after collection.",
+  "calendar_policy": "All-day end dates are exclusive. The New England workshop uses the canonical chapter page’s explicit EST; conflicting global EDT/UTC labels are not copied. Other records retain published date ranges and point to the daily programme."
+}

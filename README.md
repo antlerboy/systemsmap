@@ -48,6 +48,12 @@ The earlier GitHub issue queue and approval workflow remain available for mainta
 
 ## Maintenance
 
+### Reviewed INCOSE additions, 18 October 2026
+
+Eight organiser-verified events have been added through the curated event file: AISE Mind the System, Dutch Systems Engineering Days, the New England Fall Workshop, TdSE, ASEC, and the 2027 International Workshop, CSER and International Symposium. The source account is `data/incose-review-2026-10-18.json`. Canonical chapter/event sites retain their venue and programme details; INCOSE listings remain useful cross-links. TdSE includes tutorial days around the main conference. The New England workshop follows its chapter's explicit EST times; other listings retain verified date ranges with exclusive all-day calendar ends.
+
+The registered INCOSE URL now points to its current public calendar at `https://www.incose.org/events-education/event-calendar/`. The existing automatic adapter, request bounds and robots checks are unchanged. Access restrictions or missing structured event data remain visible in source health; the eight curated entries do not imply complete INCOSE coverage.
+
 `data/sources.json` is the reviewed register. `scripts/collect.py` handles ICS (including public Google and Teamup feeds), JSON-LD events, and selected organisation-specific HTML. `data/discovered-sources.json` records links found on source pages for review. `data/approved-events.json`, when present, holds reviewed manual events. Failed sources keep their previously collected events with a warning.
 
 The collector honours robots rules, bounds requests and concurrency, checks redirects, rejects nonpublic target addresses in production, and never executes page content. No paid search API is required.

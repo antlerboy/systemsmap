@@ -323,12 +323,13 @@
   {
     "id": "incose",
     "name": "INCOSE — events",
-    "url": "https://www.incose.org/events",
+    "url": "https://www.incose.org/events-education/event-calendar/",
     "adapter": "auto",
     "topics": [
       "systems"
     ],
-    "region": "International"
+    "region": "International",
+    "notes": "Current public calendar route verified 18 October 2026. The existing auto adapter and robots checks remain in use. The reviewed eight-event intake is recorded separately; source restrictions or missing structured data remain visible in source health."
   },
   {
     "id": "isss-japan",
