@@ -2,27 +2,27 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 251
+    "events": 252
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 90
+    "events": 91
   },
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 113
+    "events": 114
   },
   {
     "id": "topic-cybernetics",
     "name": "Cybernetics",
-    "events": 62
+    "events": 63
   },
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 83
+    "events": 84
   },
   {
     "id": "topic-system-dynamics",
@@ -192,7 +192,7 @@
   {
     "id": "org-syscoi",
     "name": "Systems Community of Inquiry: event discovery",
-    "events": 5
+    "events": 6
   },
   {
     "id": "org-hls",
