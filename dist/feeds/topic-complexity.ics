@@ -663,9 +663,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261018T223458Z
+DTSTAMP:20261018T230403Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:56
+SEQUENCE:57
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -674,7 +674,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261018T223458Z
+LAST-MODIFIED:20261018T230403Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -982,9 +982,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261018T223458Z
+DTSTAMP:20261018T230403Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:35
+SEQUENCE:36
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -995,7 +995,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261018T223458Z
+LAST-MODIFIED:20261018T230403Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1525,10 +1525,10 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261018T223458Z
+DTSTAMP:20261018T230403Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:0
-CATEGORIES:Systems thinking,Complexity,Cybernetics
+SEQUENCE:1
+CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
  scussion. The organiser is the authoritative source for attendance details
@@ -1537,7 +1537,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261018T223458Z
+LAST-MODIFIED:20261018T230403Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2022,6 +2022,30 @@ LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/winter-school-2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INCOSE International Symposium 2027
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270723
+DTSTAMP:20261018T230403Z
+UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Complexity
+DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
+ ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
+ uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
+  Not specified\nAccess: See organiser for registration and current program
+ me\nhttps://www.incose.org/events-education/international-symposium/\nPubl
+ ished date range and venue checked. The detailed 2027 event platform is ma
+ rked Coming Soon\; daily session times and remote participation are not es
+ tablished.\nOfficial organiser page and location checked 18 October 2026.
+ \nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261018T230403Z
+LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
+ \, United States
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.incose.org/events-education/international-symposium/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Latin American Conference on Complex Networks (LANET 2027)
