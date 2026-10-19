@@ -193,8 +193,8 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nConseil
  ified\nLanguage requirements: Not specified\nInterpretation: Not specified
  \nAccess: See organiser\nhttps://iscpif.fr/evenements/conseil-dadministrat
  ion-de-l-afscet-2/\nNo longer found in the latest source listing\; confirm
- ation needed.\nThis event could not be rechecked on the latest collection.
-  Confirm with the organiser.
+ ation needed.\nSource could not be fully rechecked.\nThis event could not 
+ be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -238,8 +238,8 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/reunion
  -jugement-majoritaire-2/\nNo longer found in the latest source listing\; c
- onfirmation needed.\nThis event could not be rechecked on the latest colle
- ction. Confirm with the organiser.
+ onfirmation needed.\nSource could not be fully rechecked.\nThis event coul
+ d not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -264,8 +264,8 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nL’inf
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  See organiser\nhttps://iscpif.fr/evenements/formation-gestion-de-donnees-d
  e-phenotypage/\nNo longer found in the latest source listing\; confirmatio
- n needed.\nThis event could not be rechecked on the latest collection. Con
- firm with the organiser.
+ n needed.\nSource could not be fully rechecked.\nThis event could not be r
+ echecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -338,8 +338,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nConseil
  ssociation\nLanguage: Not specified\nLanguage requirements: Not specified
  \nInterpretation: Not specified\nAccess: See organiser\nhttps://iscpif.fr/
  evenements/conseil-dadministration-de-l-afscet/\nNo longer found in the la
- test source listing\; confirmation needed.\nThis event could not be rechec
- ked on the latest collection. Confirm with the organiser.
+ test source listing\; confirmation needed.\nSource could not be fully rech
+ ecked.\nThis event could not be rechecked on the latest collection. Confir
+ m with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -413,8 +414,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nLa jour
  é.e extérieur. https://sphere.cnrs.fr\nLanguage: Not specified\nLanguage
   requirements: Not specified\nInterpretation: Not specified\nAccess: See o
  rganiser\nhttps://iscpif.fr/evenements/journee-de-rentree/\nNo longer foun
- d in the latest source listing\; confirmation needed.\nThis event could no
- t be rechecked on the latest collection. Confirm with the organiser.
+ d in the latest source listing\; confirmation needed.\nSource could not be
+  fully rechecked.\nThis event could not be rechecked on the latest collect
+ ion. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -538,8 +540,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nTwinFar
   à 18 mois\nLanguage: Not specified\nLanguage requirements: Not specified
  \nInterpretation: Not specified\nAccess: See organiser\nhttps://iscpif.fr/
  evenements/twinfarms-comite-de-suivi-a-18-mois/\nNo longer found in the la
- test source listing\; confirmation needed.\nThis event could not be rechec
- ked on the latest collection. Confirm with the organiser.
+ test source listing\; confirmation needed.\nSource could not be fully rech
+ ecked.\nThis event could not be rechecked on the latest collection. Confir
+ m with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -559,9 +562,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nRestitu
  es de transition\nLanguage: Not specified\nLanguage requirements: Not spec
  ified\nInterpretation: Not specified\nAccess: See organiser\nhttps://iscpi
  f.fr/evenements/reunion-pleniere-finale-du-projet-systeme-complexe-beecome
- 2/\nNo longer found in the latest source listing\; confirmation needed.\nT
- his event could not be rechecked on the latest collection. Confirm with th
- e organiser.
+ 2/\nNo longer found in the latest source listing\; confirmation needed.\nS
+ ource could not be fully rechecked.\nThis event could not be rechecked on 
+ the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -663,9 +666,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261018T230403Z
+DTSTAMP:20261019T100249Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:57
+SEQUENCE:58
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -674,7 +677,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261018T230403Z
+LAST-MODIFIED:20261019T100249Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -822,8 +825,8 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nRéunio
  n de la CSIIT\nLanguage: Not specified\nLanguage requirements: Not specifi
  ed\nInterpretation: Not specified\nAccess: See organiser\nhttps://iscpif.f
  r/evenements/csiit/\nNo longer found in the latest source listing\; confir
- mation needed.\nThis event could not be rechecked on the latest collection
- . Confirm with the organiser.
+ mation needed.\nSource could not be fully rechecked.\nThis event could not
+  be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -896,9 +899,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nSoutena
  nce de thèse en immunologie laboratoire I3 UMRS959\nLanguage: Not specifi
  ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
  ccess: See organiser\nhttps://iscpif.fr/evenements/soutenance-de-these-7/
- \nNo longer found in the latest source listing\; confirmation needed.\nThi
- s event could not be rechecked on the latest collection. Confirm with the 
- organiser.
+ \nNo longer found in the latest source listing\; confirmation needed.\nSou
+ rce could not be fully rechecked.\nThis event could not be rechecked on th
+ e latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -919,8 +922,8 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nV150626
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/seminai
  res-legumineuses-dinrae/\nNo longer found in the latest source listing\; c
- onfirmation needed.\nThis event could not be rechecked on the latest colle
- ction. Confirm with the organiser.
+ onfirmation needed.\nSource could not be fully rechecked.\nThis event coul
+ d not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -982,9 +985,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261018T230403Z
+DTSTAMP:20261019T100249Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:36
+SEQUENCE:37
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -995,7 +998,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261018T230403Z
+LAST-MODIFIED:20261019T100249Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1020,8 +1023,8 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nLe prog
  quirements: Not specified\nInterpretation: Not specified\nAccess: See orga
  niser\nhttps://iscpif.fr/evenements/ag-projet-quintet-du-programme-traccs-
  pepr-climat/\nNo longer found in the latest source listing\; confirmation 
- needed.\nThis event could not be rechecked on the latest collection. Confi
- rm with the organiser.
+ needed.\nSource could not be fully rechecked.\nThis event could not be rec
+ hecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1096,8 +1099,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nhttps:/
  e requirements: Not specified\nInterpretation: Not specified\nAccess: See 
  organiser\nhttps://iscpif.fr/evenements/unarchive-complexity/\nDate-only l
  isting\; check the organiser for session times.\nNo longer found in the la
- test source listing\; confirmation needed.\nThis event could not be rechec
- ked on the latest collection. Confirm with the organiser.
+ test source listing\; confirmation needed.\nSource could not be fully rech
+ ecked.\nThis event could not be rechecked on the latest collection. Confir
+ m with the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1135,9 +1139,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nComité
  027 de CNRS Terre & Univers\nLanguage: Not specified\nLanguage requirement
  s: Not specified\nInterpretation: Not specified\nAccess: See organiser\nht
  tps://iscpif.fr/evenements/comite-devaluation-lefe-programme-national-insu
- /\nNo longer found in the latest source listing\; confirmation needed.\nTh
- is event could not be rechecked on the latest collection. Confirm with the
-  organiser.
+ /\nNo longer found in the latest source listing\; confirmation needed.\nSo
+ urce could not be fully rechecked.\nThis event could not be rechecked on t
+ he latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1157,8 +1161,8 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/traccs-
  ag-demo-climat-2/\nNo longer found in the latest source listing\; confirma
- tion needed.\nThis event could not be rechecked on the latest collection. 
- Confirm with the organiser.
+ tion needed.\nSource could not be fully rechecked.\nThis event could not b
+ e rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261008T112743Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1288,8 +1292,8 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/traccs-
  ag-demo-climat/\nNo longer found in the latest source listing\; confirmati
- on needed.\nThis event could not be rechecked on the latest collection. Co
- nfirm with the organiser.
+ on needed.\nSource could not be fully rechecked.\nThis event could not be 
+ rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261008T112743Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1390,8 +1394,8 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/pepr-tr
  accs-ag-invest/\nNo longer found in the latest source listing\; confirmati
- on needed.\nThis event could not be rechecked on the latest collection. Co
- nfirm with the organiser.
+ on needed.\nSource could not be fully rechecked.\nThis event could not be 
+ rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261012T121048Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1525,9 +1529,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261018T230403Z
+DTSTAMP:20261019T100249Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1537,7 +1541,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261018T230403Z
+LAST-MODIFIED:20261019T100249Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1554,7 +1558,8 @@ CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/openale
- x/
+ x/\nSource could not be fully rechecked.\nThis event could not be rechecke
+ d on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261016T090631Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -2027,10 +2032,10 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261018T230403Z
+DTSTAMP:20261019T100249Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:0
-CATEGORIES:Systems thinking,Complexity
+SEQUENCE:1
+CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
@@ -2040,7 +2045,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261018T230403Z
+LAST-MODIFIED:20261019T100249Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED
