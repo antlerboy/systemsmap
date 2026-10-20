@@ -2,7 +2,7 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 260
+    "events": 261
   },
   {
     "id": "online",
@@ -22,7 +22,7 @@
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 85
+    "events": 86
   },
   {
     "id": "topic-system-dynamics",
@@ -147,7 +147,7 @@
   {
     "id": "org-iscpif",
     "name": "Institut des systèmes complexes Paris Île-de-France",
-    "events": 19
+    "events": 20
   },
   {
     "id": "org-griffith",

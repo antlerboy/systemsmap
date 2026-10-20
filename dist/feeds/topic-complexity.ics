@@ -666,9 +666,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261019T100249Z
+DTSTAMP:20261020T093032Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:58
+SEQUENCE:59
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -677,7 +677,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261019T100249Z
+LAST-MODIFIED:20261020T093032Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -985,9 +985,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261019T100249Z
+DTSTAMP:20261020T093032Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:37
+SEQUENCE:38
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -998,7 +998,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261019T100249Z
+LAST-MODIFIED:20261020T093032Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1529,9 +1529,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261019T100249Z
+DTSTAMP:20261020T093032Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1541,7 +1541,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261019T100249Z
+LAST-MODIFIED:20261020T093032Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1551,16 +1551,15 @@ BEGIN:VEVENT
 SUMMARY:OpenAlex
 DTSTART:20261021T060000Z
 DTEND:20261021T123000Z
-DTSTAMP:20261016T090631Z
+DTSTAMP:20261020T093032Z
 UID:747cdd4273d967ffea962e53@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/openale
- x/\nSource could not be fully rechecked.\nThis event could not be rechecke
- d on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20261016T090631Z
+ x/
+LAST-MODIFIED:20261020T093032Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1591,6 +1590,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/why-model-computational-approaches-to-complex
  -socio-ecological-technological-systems/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Répétition chorale du CNRS
+DTSTART:20261022T150000Z
+DTEND:20261022T180000Z
+DTSTAMP:20261020T093032Z
+UID:0df84d55b0b4c2fef2458722@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nEn rais
+ on des blocages de l’Université Paris Cité où nous répétons habitue
+ llement\, nous avons besoin d’une solution de repli pour une ou plusieur
+ s séances en fonction de la durée du mouvement étudiant.\nLanguage: Not
+  specified\nLanguage requirements: Not specified\nInterpretation: Not spec
+ ified\nAccess: See organiser\nhttps://iscpif.fr/evenements/repetition-chor
+ ale-du-cnrs/
+LAST-MODIFIED:20261020T093032Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/repetition-chorale-du-cnrs/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Implementing the Self-Managing Enterprise with Agentic AI
@@ -1672,21 +1692,21 @@ SUMMARY:Art & Science with Markus Hofer & Peter Ertl: “The Characteristi
  cs of Viewing Conditions”
 DTSTART:20261103T183000Z
 DTEND:20261103T213000Z
-DTSTAMP:20261007T111029Z
+DTSTAMP:20261020T093032Z
 UID:ce767e19c96d5c7f07ee9d3a@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
-DESCRIPTION:Complexity Science Hub\nArt by Markus Hofer: "The Characterist
- ics of Viewing Conditions" Markus Hofer looks at things and turns their or
- iginal form and function into something new that doesn’t lose the tie wi
- th the original object from which it drifts. His interventions\, very spec
- ific in their refined aesthetic aspect\, use those characteristics as a st
- arting point. The meanings are upgraded\, emphasized\, multiplied. The e\n
- Language: Not specified\nLanguage requirements: Not specified\nInterpretat
- ion: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/art-sc
- ience-with-markus-hofer-peter-ertl-the-characteristics-of-viewing-conditio
- ns/
-LAST-MODIFIED:20261007T111029Z
+DESCRIPTION:Complexity Science Hub\nOn 3 November\, the Complexity Science
+  Hub (CSH) opens its next exhibition as part of our Art & Science program.
+  This time\, we’re showing works by artist Markus Hofer\, who turns ever
+ yday objects into something new. Scientist Peter Ertl\, Vice Rector for Re
+ search\, Innovation and International Affairs at TU Wien\, will add a pers
+ pective from science.The exhibition opening is open to everyone interested
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/art-
+ science-with-markus-hofer-peter-ertl-the-characteristics-of-viewing-condit
+ ions/
+LAST-MODIFIED:20261020T093032Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2032,9 +2052,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261019T100249Z
+DTSTAMP:20261020T093032Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -2045,7 +2065,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261019T100249Z
+LAST-MODIFIED:20261020T093032Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED

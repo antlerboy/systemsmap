@@ -414,19 +414,39 @@ BEGIN:VEVENT
 SUMMARY:OpenAlex
 DTSTART:20261021T060000Z
 DTEND:20261021T123000Z
-DTSTAMP:20261016T090631Z
+DTSTAMP:20261020T093032Z
 UID:747cdd4273d967ffea962e53@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/openale
- x/\nSource could not be fully rechecked.\nThis event could not be rechecke
- d on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20261016T090631Z
+ x/
+LAST-MODIFIED:20261020T093032Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://iscpif.fr/evenements/openalex/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Répétition chorale du CNRS
+DTSTART:20261022T150000Z
+DTEND:20261022T180000Z
+DTSTAMP:20261020T093032Z
+UID:0df84d55b0b4c2fef2458722@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nEn rais
+ on des blocages de l’Université Paris Cité où nous répétons habitue
+ llement\, nous avons besoin d’une solution de repli pour une ou plusieur
+ s séances en fonction de la durée du mouvement étudiant.\nLanguage: Not
+  specified\nLanguage requirements: Not specified\nInterpretation: Not spec
+ ified\nAccess: See organiser\nhttps://iscpif.fr/evenements/repetition-chor
+ ale-du-cnrs/
+LAST-MODIFIED:20261020T093032Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/repetition-chorale-du-cnrs/
 END:VEVENT
 END:VCALENDAR
