@@ -894,7 +894,9 @@ DESCRIPTION:System Dynamics Society\nWelcome to the next Chapter meeting!
  me\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
  etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
  event/the-earth-has-humans-but-what-kind-endogenizing-behaviour-in-climate
- -models/
+ -models/\nNo longer found in the latest source listing\; confirmation need
+ ed.\nThis event could not be rechecked on the latest collection. Confirm w
+ ith the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:https://kth-se.zoom.us/j/62254134636
 STATUS:CONFIRMED
@@ -1096,6 +1098,31 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/ai-in-system-dynamics-education-task-
  force-monthly-meeting-2/2026-11-10/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Webinar: Community-Based System Dynamics - from Principles to Prac
+ tice
+DTSTART:20261117T010000Z
+DTEND:20261117T020000Z
+DTSTAMP:20261021T092622Z
+UID:dad853adc1ff5e97773ff3c7@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nThe Oceania Chapter of the System Dyn
+ amics Society Webinar Series. Community-Based System Dynamics – from Pri
+ nciples to Practice Speakers: Tiana Felmingham\, Lee Coller\, and Andrew B
+ rownJointly applied CBSD across regional and rural Victoria for 10+ years 
+ Abstract: Community-based system dynamics (CBSD) brings together system dy
+ namics modelling with participatory approaches that centre the knowledg\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
+ /webinar-community-based-system-dynamics/
+LAST-MODIFIED:20261021T092622Z
+LOCATION:https://uni-sydney.zoom.us/j/83804988911
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/webinar-community-based-system-dynami
+ cs/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Economics SIG Online Seminar

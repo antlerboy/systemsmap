@@ -666,9 +666,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -677,7 +677,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -985,9 +985,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:38
+SEQUENCE:39
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -998,7 +998,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1467,7 +1467,9 @@ DESCRIPTION:System Dynamics Society\nWelcome to the next Chapter meeting!
  me\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
  etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
  event/the-earth-has-humans-but-what-kind-endogenizing-behaviour-in-climate
- -models/
+ -models/\nNo longer found in the latest source listing\; confirmation need
+ ed.\nThis event could not be rechecked on the latest collection. Confirm w
+ ith the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:https://kth-se.zoom.us/j/62254134636
 STATUS:CONFIRMED
@@ -1492,7 +1494,10 @@ DESCRIPTION:Complexity Science Hub\nHow to meet if we are dispersed in a c
  laume Moinard models protesters as random walks\, on a street network\, w
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/walk
- ers-scattered-in-street-networks-robust-decentralized-gatherings/
+ ers-scattered-in-street-networks-robust-decentralized-gatherings/\nNo long
+ er found in the latest source listing\; confirmation needed.\nThis event c
+ ould not be rechecked on the latest collection. Confirm with the organiser
+ .
 LAST-MODIFIED:20261015T092300Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1516,7 +1521,9 @@ DESCRIPTION:Complexity Science Hub\nAnticonformity\, or going against the
  people an encouragement to stand out to help their group reconsiders \nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/experimen
- tal-testing-of-anticonformity-to-depolarize-social-system/
+ tal-testing-of-anticonformity-to-depolarize-social-system/\nNo longer foun
+ d in the latest source listing\; confirmation needed.\nThis event could no
+ t be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261016T090631Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1529,9 +1536,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1541,7 +1548,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1660,6 +1667,35 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/living-in-complexity-an-sts-perspective-on-th
  e-complexity-science-hub/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Structure\, Agency and Systemic Resilience: How Network Structure
+ \, Political Agency and Influence Mechanisms shape the Absorption of Shock
+ s in Simulated Policy Networks
+DTSTART:20261028T150000Z
+DTEND:20261028T160000Z
+DTSTAMP:20261021T092622Z
+UID:51fb66e9729a19abee9726fe@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nDoes the resilience of a policy networ
+ k depend on its structure\, on what is transferred through ties\, or on th
+ e actions of political agents? In this paper systemic shocks\, such as the
+  sudden dissolution of ties and regime shift impact networks of policy act
+ ors. An agent-based model is calibrated on ten published influence and col
+ laboration networks. Three experiments vary network architecture\, whi\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/structur
+ e-agency-and-systemic-resilience-how-network-structure-political-agency-an
+ d-influence-mechanisms-shape-the-absorption-of-shocks-in-simulated-policy-
+ networks/
+LAST-MODIFIED:20261021T092622Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/structure-agency-and-systemic-resilience-how-
+ network-structure-political-agency-and-influence-mechanisms-shape-the-abso
+ rption-of-shocks-in-simulated-policy-networks/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Combining System Dynamics with Discrete Event and Agent-Based Meth
@@ -1810,24 +1846,49 @@ URL:https://csh.ac.at/events/public-panel-discussion-how-to-survive-doomsd
  ays/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WEdnesday SALON – Staying Smart in a Smart World: When to Trust 
- AI – and When to Think for Ourselves
+SUMMARY:Webinar: Community-Based System Dynamics - from Principles to Prac
+ tice
+DTSTART:20261117T010000Z
+DTEND:20261117T020000Z
+DTSTAMP:20261021T092622Z
+UID:dad853adc1ff5e97773ff3c7@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nThe Oceania Chapter of the System Dyn
+ amics Society Webinar Series. Community-Based System Dynamics – from Pri
+ nciples to Practice Speakers: Tiana Felmingham\, Lee Coller\, and Andrew B
+ rownJointly applied CBSD across regional and rural Victoria for 10+ years 
+ Abstract: Community-based system dynamics (CBSD) brings together system dy
+ namics modelling with participatory approaches that centre the knowledg\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
+ /webinar-community-based-system-dynamics/
+LAST-MODIFIED:20261021T092622Z
+LOCATION:https://uni-sydney.zoom.us/j/83804988911
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/webinar-community-based-system-dynami
+ cs/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WEdnesday SALON – When to Trust AI and When to Think for Ourselv
+ es
 DTSTART:20261123T180000Z
 DTEND:20261123T192000Z
-DTSTAMP:20261014T093553Z
+DTSTAMP:20261021T092622Z
 UID:c58d30077f596439a12f9271@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
-DESCRIPTION:Complexity Science Hub\nFrom dating apps to self-driving cars
- \, AI promises to make life easier and decisions better. But what can algo
- rithms really do – and when should we trust our own judgment?Join Gerd G
- igerenzer for a look at AI hype\, human intelligence\, and why simple rule
- s can sometimes outperform complex systems.Artificial intelligence can exc
- el in stable environments with clear rules\, such as chess\, Go\, and prot
- e\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpre
- tation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wed
- nesday-salon-with-gerd-gigerenzer/
-LAST-MODIFIED:20261014T093553Z
+DESCRIPTION:Complexity Science Hub\nStaying smart in a smart world. From d
+ ating apps to self-driving cars\, AI promises to make life easier and deci
+ sions better. But what can algorithms really do – and when should we tru
+ st our own judgment? Join Gerd Gigerenzer (exceptionally not on a WEdnesda
+ y but on a Monday) for a look at AI hype\, human intelligence\, and why si
+ mple rules can sometimes outperform complex systems. Artificial intelli\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednesd
+ ay-salon-with-gerd-gigerenzer/
+LAST-MODIFIED:20261021T092622Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1858,6 +1919,31 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/the-next-generation-of-systems-mappin
  g-from-insight-to-intervention/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Research to Entrepreneurship: Exploring Career Paths Beyond A
+ cademia
+DTSTART:20261125T143000Z
+DTEND:20261125T160000Z
+DTSTAMP:20261021T092622Z
+UID:a0b70c1cdcf1d05c69d5198a@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nCan you be both a scientist and an ent
+ repreneur? What does it take to turn a research idea into a successful bus
+ iness? In this panel discussion\, three scientists who have founded their 
+ own companies will share their experiences of moving from research into en
+ trepreneurship. They will introduce their businesses\, discuss how their i
+ deas emerged\, and reflect on the opportunities and challenges they e\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/from-rese
+ arch-to-entrepreneurship-exploring-career-paths-beyond-academia/
+LAST-MODIFIED:20261021T092622Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/from-research-to-entrepreneurship-exploring-c
+ areer-paths-beyond-academia/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Benchmarking Estimation of Dynamic Models in Social and Behavioral
@@ -2052,9 +2138,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -2065,7 +2151,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED

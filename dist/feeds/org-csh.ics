@@ -582,7 +582,10 @@ DESCRIPTION:Complexity Science Hub\nHow to meet if we are dispersed in a c
  laume Moinard models protesters as random walks\, on a street network\, w
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/walk
- ers-scattered-in-street-networks-robust-decentralized-gatherings/
+ ers-scattered-in-street-networks-robust-decentralized-gatherings/\nNo long
+ er found in the latest source listing\; confirmation needed.\nThis event c
+ ould not be rechecked on the latest collection. Confirm with the organiser
+ .
 LAST-MODIFIED:20261015T092300Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -606,7 +609,9 @@ DESCRIPTION:Complexity Science Hub\nAnticonformity\, or going against the
  people an encouragement to stand out to help their group reconsiders \nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/experimen
- tal-testing-of-anticonformity-to-depolarize-social-system/
+ tal-testing-of-anticonformity-to-depolarize-social-system/\nNo longer foun
+ d in the latest source listing\; confirmation needed.\nThis event could no
+ t be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261016T090631Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -664,6 +669,35 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/living-in-complexity-an-sts-perspective-on-th
  e-complexity-science-hub/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Structure\, Agency and Systemic Resilience: How Network Structure
+ \, Political Agency and Influence Mechanisms shape the Absorption of Shock
+ s in Simulated Policy Networks
+DTSTART:20261028T150000Z
+DTEND:20261028T160000Z
+DTSTAMP:20261021T092622Z
+UID:51fb66e9729a19abee9726fe@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nDoes the resilience of a policy networ
+ k depend on its structure\, on what is transferred through ties\, or on th
+ e actions of political agents? In this paper systemic shocks\, such as the
+  sudden dissolution of ties and regime shift impact networks of policy act
+ ors. An agent-based model is calibrated on ten published influence and col
+ laboration networks. Three experiments vary network architecture\, whi\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/structur
+ e-agency-and-systemic-resilience-how-network-structure-political-agency-an
+ d-influence-mechanisms-shape-the-absorption-of-shocks-in-simulated-policy-
+ networks/
+LAST-MODIFIED:20261021T092622Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/structure-agency-and-systemic-resilience-how-
+ network-structure-political-agency-and-influence-mechanisms-shape-the-abso
+ rption-of-shocks-in-simulated-policy-networks/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Art & Science with Markus Hofer & Peter Ertl: “The Characteristi
@@ -788,28 +822,53 @@ URL:https://csh.ac.at/events/public-panel-discussion-how-to-survive-doomsd
  ays/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WEdnesday SALON – Staying Smart in a Smart World: When to Trust 
- AI – and When to Think for Ourselves
+SUMMARY:WEdnesday SALON – When to Trust AI and When to Think for Ourselv
+ es
 DTSTART:20261123T180000Z
 DTEND:20261123T192000Z
-DTSTAMP:20261014T093553Z
+DTSTAMP:20261021T092622Z
 UID:c58d30077f596439a12f9271@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
-DESCRIPTION:Complexity Science Hub\nFrom dating apps to self-driving cars
- \, AI promises to make life easier and decisions better. But what can algo
- rithms really do – and when should we trust our own judgment?Join Gerd G
- igerenzer for a look at AI hype\, human intelligence\, and why simple rule
- s can sometimes outperform complex systems.Artificial intelligence can exc
- el in stable environments with clear rules\, such as chess\, Go\, and prot
- e\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpre
- tation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wed
- nesday-salon-with-gerd-gigerenzer/
-LAST-MODIFIED:20261014T093553Z
+DESCRIPTION:Complexity Science Hub\nStaying smart in a smart world. From d
+ ating apps to self-driving cars\, AI promises to make life easier and deci
+ sions better. But what can algorithms really do – and when should we tru
+ st our own judgment? Join Gerd Gigerenzer (exceptionally not on a WEdnesda
+ y but on a Monday) for a look at AI hype\, human intelligence\, and why si
+ mple rules can sometimes outperform complex systems. Artificial intelli\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednesd
+ ay-salon-with-gerd-gigerenzer/
+LAST-MODIFIED:20261021T092622Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/wednesday-salon-with-gerd-gigerenzer/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Research to Entrepreneurship: Exploring Career Paths Beyond A
+ cademia
+DTSTART:20261125T143000Z
+DTEND:20261125T160000Z
+DTSTAMP:20261021T092622Z
+UID:a0b70c1cdcf1d05c69d5198a@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nCan you be both a scientist and an ent
+ repreneur? What does it take to turn a research idea into a successful bus
+ iness? In this panel discussion\, three scientists who have founded their 
+ own companies will share their experiences of moving from research into en
+ trepreneurship. They will introduce their businesses\, discuss how their i
+ deas emerged\, and reflect on the opportunities and challenges they e\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/from-rese
+ arch-to-entrepreneurship-exploring-career-paths-beyond-academia/
+LAST-MODIFIED:20261021T092622Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/from-research-to-entrepreneurship-exploring-c
+ areer-paths-beyond-academia/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WEdnesday Salon – Re-Inventing Democracy in the Age of AI

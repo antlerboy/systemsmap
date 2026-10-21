@@ -238,9 +238,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:63
+SEQUENCE:64
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -251,7 +251,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -649,9 +649,9 @@ SUMMARY:Cybernetics in the Annex: Commemorating Stafford Beer's Centenary
  + Summer Conferences Recap
 DTSTART:20260908T223000Z
 DTEND:20260909T001500Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:2e96c1af7848b3132733a6fb@systemsmap.antlerboy.com
-SEQUENCE:68
+SEQUENCE:69
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  eer's work on organisational viability and participatory decision-making\,
@@ -660,7 +660,7 @@ DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Re
  gister for in-person attendance or the online link\nhttps://guild.host/eve
  nts/cybernetics-in-the-annex-tbara6
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:OCAD University\, 205 Richmond St W\, Room 115\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -765,9 +765,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISSS Board of Directors meeting
 DTSTART:20260911T200000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:03c306f9fde126bcae14d368@systemsmap.antlerboy.com
-SEQUENCE:58
+SEQUENCE:59
 CATEGORIES:Systems thinking
 DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ed on the official ISSS events page. Check registration and participation 
@@ -775,7 +775,7 @@ DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ot specified\nInterpretation: Not specified\nAccess: Registration required
  \; ISSS membership rules apply\nhttps://wiki.lab.isss.org/events\nEnd time
   not published.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -857,16 +857,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 1
 DTSTART:20260915T083000Z
 DTEND:20260915T113000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:4e7b926f96306901c1d0da21@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -999,16 +999,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 2
 DTSTART:20260916T083000Z
 DTEND:20260916T113000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:0df209cfb40823db80b351a7@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1159,9 +1159,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISSS Annual General Meeting
 DTSTART:20260918T200000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:a1f3b2af02e11db18a32b82e@systemsmap.antlerboy.com
-SEQUENCE:58
+SEQUENCE:59
 CATEGORIES:Systems thinking
 DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ed on the official ISSS events page. Check registration and participation 
@@ -1169,7 +1169,7 @@ DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ot specified\nInterpretation: Not specified\nAccess: Registration required
  \; ISSS membership rules apply\nhttps://wiki.lab.isss.org/events\nEnd time
   not published.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1268,9 +1268,9 @@ BEGIN:VEVENT
 SUMMARY:Making relational\, place-based public services ordinary
 DTSTART:20260921T124500Z
 DTEND:20260921T141500Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:8c00d12aaf979855624fa772@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:SCiO / SysPrac26\nBenjamin Taylor's workshop at SysPrac26. Con
  ference booking required.\nLanguage: Not specified\nLanguage requirements:
@@ -1278,7 +1278,7 @@ DESCRIPTION:SCiO / SysPrac26\nBenjamin Taylor's workshop at SysPrac26. Con
  s://www.systemspractice.org/Schedule26\nPresenter withdrew from the confer
  ence session\; organiser's follow-up offers separate online workshops. Che
  cked 7 October 2026.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:LR4\, Vincent Building\, Cranfield University\, United Kingdom
 STATUS:CANCELLED
 TRANSP:TRANSPARENT
@@ -1358,16 +1358,16 @@ BEGIN:VEVENT
 SUMMARY:Exploring the role of the Knowledge Weaver
 DTSTART:20260922T120000Z
 DTEND:20260922T130000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:e4ccdfd6cb1fb968ada0d1b3@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:Q Network Weaving group / COPE Scotland\nA conversation with J
  une Holley about knowledge weaving and collective learning in health and c
  are.\nLanguage: Not specified\nLanguage requirements: Not specified\nInter
  pretation: Not specified\nAccess: See organiser\nhttps://q.thenhsalliance.
  org/get-involved/events/exploring-the-role-of-the-knowledge-weaver
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1402,16 +1402,16 @@ BEGIN:VEVENT
 SUMMARY:Leading with Learning � session 1
 DTSTART:20260923T083000Z
 DTEND:20260923T113000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:2c6644602391deac77173c72@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/leading-with-learning/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1421,9 +1421,9 @@ BEGIN:VEVENT
 SUMMARY:Participatory design principles to heal\, not hinder
 DTSTART:20260923T111500Z
 DTEND:20260923T120000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:8b4d4021180540e2e6cf7947@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services
 DESCRIPTION:Service Design in Government\nJodie Chan and Sarah Hancock on 
  psychologically informed participatory design. Conference booking required
@@ -1431,7 +1431,7 @@ DESCRIPTION:Service Design in Government\nJodie Chan and Sarah Hancock on
  tation: Not specified\nAccess: See organiser\nhttps://govservicedesign.net
  /programme/participatory-design-principles-heal-not-hinder-importance-psyc
  hologically-informed
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:John McIntyre Conference Centre\, Edinburgh\, United Kingdom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1539,16 +1539,16 @@ BEGIN:VEVENT
 SUMMARY:Who gets to decide? Sharing power in public services
 DTSTART:20260924T101500Z
 DTEND:20260924T114500Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:db751f022c1f33a84adaa953@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services
 DESCRIPTION:Service Design in Government\nSophie Horrocks\, Helix Centre. 
  Conference workshop on sharing decision-making power\; conference booking 
  required.\nLanguage: Not specified\nLanguage requirements: Not specified\n
  Interpretation: Not specified\nAccess: See organiser\nhttps://govservicede
  sign.net/programme/who-gets-decide-sharing-power-public-services
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:John McIntyre Conference Centre\, Edinburgh\, United Kingdom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1559,9 +1559,9 @@ BEGIN:VEVENT
 SUMMARY:Fire and Ice: The Conception\, Birth and Infancy of Cybernetics.
 DTSTART:20260924T120000Z
 DTEND:20260924T140000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:79561815b13dfb8aa2a33fdb@systemsmap.antlerboy.com
-SEQUENCE:68
+SEQUENCE:69
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Digital Futures\, University of Manchester\nThe opening semina
  r in the nine-part 'Meat the Machine' series on the history of cybernetics
@@ -1570,7 +1570,7 @@ DESCRIPTION:Digital Futures\, University of Manchester\nThe opening semina
  ess: General public welcome\; registration required\nhttps://events.manche
  ster.ac.uk/event/event:r2y-ms8q8jbe-n4ev9n/fire-and-ice-the-conception-bir
  th-and-infancy-of-cybernetics
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:University of Manchester\, Manchester\, United Kingdom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1664,9 +1664,9 @@ BEGIN:VEVENT
 SUMMARY:SPROCKET Systems Practice Seminar 1: Choice and Choosables
 DTSTART:20260925T090000Z
 DTEND:20260925T100000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:541a60db34040c11df667d76@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Systems thinking
 DESCRIPTION:UCL SPROCKET\nJeremy Hilton explores making choices and unders
  tanding different perspectives in innovation.\nLanguage: Not specified\nLa
@@ -1674,7 +1674,7 @@ DESCRIPTION:UCL SPROCKET\nJeremy Hilton explores making choices and unders
   Open to all\; registration required\nhttps://www.ucl.ac.uk/mathematical-p
  hysical-sciences/events/2026/sep/sprocket-systems-practice-seminar-1-choic
  e-and-choosables
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1738,9 +1738,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -1749,7 +1749,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1759,9 +1759,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Mapping Inclusive Learning: Pre-K to HE
 DTSTART:20260928T150000Z
 DTEND:20260928T160000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:161d0319dc2bbfa5b0d3a661@systemsmap.antlerboy.com
-SEQUENCE:39
+SEQUENCE:40
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Communication Perspectives hub. Listed contributors: Ma
@@ -1772,7 +1772,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  : Not specified\nAccess: Registration through the organiser's Zoom event p
  age\nhttps://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1
  558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1867,9 +1867,9 @@ SUMMARY:RSD15 Communications Perspectives: Coordinated Management of Meani
  ng
 DTSTART:20260929T153000Z
 DTEND:20260930T000000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:55230e3a3adac1c04b3eefd2@systemsmap.antlerboy.com
-SEQUENCE:40
+SEQUENCE:41
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:CMM Institute / Relating Systems Thinking and Design\nSeventee
  n half-hour sessions exploring Coordinated Management of Meaning across fi
@@ -1880,7 +1880,7 @@ DESCRIPTION:CMM Institute / Relating Systems Thinking and Design\nSeventee
  schedule: https://events\nLanguage: Not specified\nLanguage requirements: 
  Not specified\nInterpretation: Not specified\nAccess: Registration via the
   organiser's event page\nhttps://rsdsymposium.org/rsd15-cmmi/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1938,9 +1938,9 @@ SUMMARY:RSD15: SystemicStories AI: An AI-enabled systemic design atlas for
   Singapore's health & care sector
 DTSTART:20260930T070000Z
 DTEND:20260930T090000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:5b0a5f27d08fd0d9ccb716ec@systemsmap.antlerboy.com
-SEQUENCE:39
+SEQUENCE:40
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Communication Perspectives hub. Listed contributors: Ye
@@ -1951,7 +1951,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  : Not specified\nAccess: Registration through the organiser's Zoom event p
  age\nhttps://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1
  558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1963,9 +1963,9 @@ SUMMARY:RSD15: Mind the Gap: Transitions between systems and getting lost
  in the void
 DTSTART:20260930T140000Z
 DTEND:20260930T160000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:a343a1cced48ec66eeac78c2@systemsmap.antlerboy.com
-SEQUENCE:37
+SEQUENCE:38
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Communication Perspectives hub. Listed contributors: Ma
@@ -1976,7 +1976,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  : Registration through the organiser's Zoom event page\nhttps://events.zoo
  m.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdOD
  dV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2008,9 +2008,9 @@ SUMMARY:RSD15: Fieldkeeper's Log: entry [number]-exploring relational tech
  nologies through dramaturgy\, poetics\, and metaphor
 DTSTART:20260930T160000Z
 DTEND:20260930T180000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:994bbbc560923c11e3acb383@systemsmap.antlerboy.com
-SEQUENCE:37
+SEQUENCE:38
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Communication Perspectives hub. Listed contributors: Wi
@@ -2021,7 +2021,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  niser's Zoom event page\nhttps://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XT
  HcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQ
  UvwJR0RxDujL4A
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2032,16 +2032,16 @@ BEGIN:VEVENT
 SUMMARY:Systemic consulting: helping without taking over
 DTSTART:20260930T111500Z
 DTEND:20260930T124500Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:3059d51c802280a2cf5f9dff@systemsmap.antlerboy.com
-SEQUENCE:20
+SEQUENCE:21
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:Benjamin P Taylor\nSession has taken place\; organiser's page 
  links the guide and session account.\nLanguage: English\nLanguage requirem
  ents: Not specified\nInterpretation: Not specified\nAccess: Registration r
  equired\nhttps://antlerboy.com/sysprac26/\nOrganiser page checked 7 Octobe
  r 2026. Separate from the cancelled conference appearance.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2052,9 +2052,9 @@ SUMMARY:RSD15: All Tomorrow's Policies: Methods for Dual-Timeframe Policy
  Innovation
 DTSTART:20260930T210000Z
 DTEND:20260930T223000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:d74cfd32e1c60bf309d98a0a@systemsmap.antlerboy.com
-SEQUENCE:37
+SEQUENCE:38
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Communication Perspectives hub. Listed contributors: Ch
@@ -2065,7 +2065,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ion through the organiser's Zoom event page\nhttps://events.zoom.us/ev/Avz
  8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8v
  SqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2284,16 +2284,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 3
 DTSTART:20261006T083000Z
 DTEND:20261006T113000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:27ef6321e5a0a805c80342b2@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2375,9 +2375,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:38
+SEQUENCE:39
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -2388,7 +2388,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2426,9 +2426,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: CMM Office Hours
 DTSTART:20261007T160000Z
 DTEND:20261007T170000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:7637781ec999a366aac88dd3@systemsmap.antlerboy.com
-SEQUENCE:37
+SEQUENCE:38
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Abb
@@ -2439,7 +2439,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ser's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2450,16 +2450,16 @@ BEGIN:VEVENT
 SUMMARY:Leading with Learning � session 2
 DTSTART:20261007T083000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:ea4027a061514d8c4dadc838@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/leading-with-learning/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2469,16 +2469,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 4
 DTSTART:20261007T083000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:df002fc665aa7ccc34ed74ab@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2686,16 +2686,16 @@ BEGIN:VEVENT
 SUMMARY:Making relational\, place-based public services ordinary
 DTSTART:20261008T113000Z
 DTEND:20261008T130000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:404260241b69921dac1f85d6@systemsmap.antlerboy.com
-SEQUENCE:20
+SEQUENCE:21
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:Benjamin P Taylor\nBenjamin P Taylor's replacement online work
  shop\; registration through the organiser's page.\nLanguage: English\nLang
  uage requirements: Not specified\nInterpretation: Not specified\nAccess: R
  egistration required\nhttps://antlerboy.com/sysprac26/\nOrganiser page che
  cked 7 October 2026. Separate from the cancelled conference appearance.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3212,9 +3212,9 @@ BEGIN:VEVENT
 SUMMARY:Ashby\, Fuzzy\, and Me
 DTSTART:20261015T160000Z
 DTEND:20261015T180000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:e86c94bf15bd90e1ab47f5ac@systemsmap.antlerboy.com
-SEQUENCE:10
+SEQUENCE:11
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:The Cybernetics Society (CybSoc)\nDr Steve Morlidge examines w
  hy matching regulatory variety is necessary but insufficient\, considering
@@ -3224,7 +3224,7 @@ DESCRIPTION:The Cybernetics Society (CybSoc)\nDr Steve Morlidge examines w
  m.us/meeting/register/P2vyZNSyQ4KAsPhCcICcbg\nDate\, time\, speaker\, and 
  Zoom registration checked against the organiser's event page on 15 October
   2026.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online via Zoom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3355,7 +3355,9 @@ DESCRIPTION:System Dynamics Society\nWelcome to the next Chapter meeting!
  me\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
  etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
  event/the-earth-has-humans-but-what-kind-endogenizing-behaviour-in-climate
- -models/
+ -models/\nNo longer found in the latest source listing\; confirmation need
+ ed.\nThis event could not be rechecked on the latest collection. Confirm w
+ ith the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:https://kth-se.zoom.us/j/62254134636
 STATUS:CONFIRMED
@@ -3380,7 +3382,10 @@ DESCRIPTION:Complexity Science Hub\nHow to meet if we are dispersed in a c
  laume Moinard models protesters as random walks\, on a street network\, w
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/walk
- ers-scattered-in-street-networks-robust-decentralized-gatherings/
+ ers-scattered-in-street-networks-robust-decentralized-gatherings/\nNo long
+ er found in the latest source listing\; confirmation needed.\nThis event c
+ ould not be rechecked on the latest collection. Confirm with the organiser
+ .
 LAST-MODIFIED:20261015T092300Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -3404,7 +3409,9 @@ DESCRIPTION:Complexity Science Hub\nAnticonformity\, or going against the
  people an encouragement to stand out to help their group reconsiders \nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/experimen
- tal-testing-of-anticonformity-to-depolarize-social-system/
+ tal-testing-of-anticonformity-to-depolarize-social-system/\nNo longer foun
+ d in the latest source listing\; confirmation needed.\nThis event could no
+ t be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261016T090631Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -3417,9 +3424,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -3429,7 +3436,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3483,16 +3490,16 @@ BEGIN:VEVENT
 SUMMARY:Leading with Learning � session 3
 DTSTART:20261021T083000Z
 DTEND:20261021T113000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:81f69c86530c1e56426a9ffa@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/leading-with-learning/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3567,9 +3574,9 @@ SUMMARY:Method Showcase: Logosofia\, Software for Collective Inquiry and D
  ecision-Making
 DTSTART:20261021T223000Z
 DTEND:20261022T001500Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:cdf675220425a68c547b6750@systemsmap.antlerboy.com
-SEQUENCE:19
+SEQUENCE:20
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:Systems Thinking Ontario\nPeter Jones presents Logosofia for s
  tructured collective inquiry\; Su Lynn Myat discusses a participatory tech
@@ -3579,7 +3586,7 @@ DESCRIPTION:Systems Thinking Ontario\nPeter Jones presents Logosofia for s
  ents/method-showcase-logosofia-tu5ovo\nChecked 7 October 2026: organiser p
  rose gives 21 October\, 18:30-20:15 local time\; structured dates are 22:3
  0-00:15 UTC. The UTC date crossing is preserved.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:OCAD University\, 205 Richmond St W\, Room 115\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3624,7 +3631,9 @@ DESCRIPTION:Sociocracy For All\n<p>Explore the foundations of sociocracy f
  👆 […]</p>\\n\nLanguage: Not specified\nLanguage requirements: Not spe
  cified\nInterpretation: Not specified\nAccess: See organiser\nhttps://www.
  sociocracyforall.org/event/introduction-to-sociocracy-in-intentional-commu
- nities-live-webinar/
+ nities-live-webinar/\nNo longer found in the latest source listing\; confi
+ rmation needed.\nThis event could not be rechecked on the latest collectio
+ n. Confirm with the organiser.
 LAST-MODIFIED:20261017T083913Z
 LOCATION:Location not published
 STATUS:CONFIRMED
@@ -3726,9 +3735,9 @@ BEGIN:VEVENT
 SUMMARY:Mind the System 2026 — Evento Nazionale AISE
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:3fdee112247ab6f335871aa7@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Systems thinking
 DESCRIPTION:AISE / INCOSE Italy\nAISE national systems engineering event o
  n human factors as a core systems engineering discipline.\nLanguage: Not s
@@ -3739,7 +3748,7 @@ DESCRIPTION:AISE / INCOSE Italy\nAISE national systems engineering event o
   envelopes\; dates only are exported.\nOfficial organiser page and locatio
  n checked 18 October 2026.\nDate-only listing\; check the organiser for se
  ssion times.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Salone delle Colonne\, Piazza Guglielmo Marconi 26/C\, EUR\, Rome
  \, Italy
 STATUS:CONFIRMED
@@ -3796,6 +3805,35 @@ URL:https://csh.ac.at/events/living-in-complexity-an-sts-perspective-on-th
  e-complexity-science-hub/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Structure\, Agency and Systemic Resilience: How Network Structure
+ \, Political Agency and Influence Mechanisms shape the Absorption of Shock
+ s in Simulated Policy Networks
+DTSTART:20261028T150000Z
+DTEND:20261028T160000Z
+DTSTAMP:20261021T092622Z
+UID:51fb66e9729a19abee9726fe@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nDoes the resilience of a policy networ
+ k depend on its structure\, on what is transferred through ties\, or on th
+ e actions of political agents? In this paper systemic shocks\, such as the
+  sudden dissolution of ties and regime shift impact networks of policy act
+ ors. An agent-based model is calibrated on ten published influence and col
+ laboration networks. Three experiments vary network architecture\, whi\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/structur
+ e-agency-and-systemic-resilience-how-network-structure-political-agency-an
+ d-influence-mechanisms-shape-the-absorption-of-shocks-in-simulated-policy-
+ networks/
+LAST-MODIFIED:20261021T092622Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/structure-agency-and-systemic-resilience-how-
+ network-structure-political-agency-and-influence-mechanisms-shape-the-abso
+ rption-of-shocks-in-simulated-policy-networks/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A New Face for the Creative Learning Exchange
 DTSTART:20261029T170000Z
 DTEND:20261029T180000Z
@@ -3848,16 +3886,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 5
 DTSTART:20261103T093000Z
 DTEND:20261103T123000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:a62f61c2b48e0ec75c97329f@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3919,16 +3957,16 @@ BEGIN:VEVENT
 SUMMARY:Leading with Learning � session 4
 DTSTART:20261104T093000Z
 DTEND:20261104T123000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:a036d2c3c5cc49a4e03bb29e@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/leading-with-learning/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3938,16 +3976,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 6
 DTSTART:20261104T093000Z
 DTEND:20261104T123000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:633dab02a32699e1cc0fd2eb@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4126,9 +4164,9 @@ BEGIN:VEVENT
 SUMMARY:The Dutch Systems Engineering Days 2026
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:9dadb04025a3a5ad21f2fe39@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Systems thinking
 DESCRIPTION:INCOSE Netherlands\nA two-day systems engineering programme ma
  rking thirty years of INCOSE in the Netherlands.\nLanguage: Not specified
@@ -4139,7 +4177,7 @@ DESCRIPTION:INCOSE Netherlands\nA two-day systems engineering programme ma
  ning activities\; dates only are exported.\nOfficial organiser page and lo
  cation checked 18 October 2026.\nDate-only listing\; check the organiser f
  or session times.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Van der Valk Eindhoven-Best\, Eindhovenseweg Zuid 144\, 5683 PX B
  est\, Netherlands
 STATUS:CONFIRMED
@@ -4150,9 +4188,9 @@ BEGIN:VEVENT
 SUMMARY:2026 NE INCOSE Annual Fall Workshop — AI for SE Workflows
 DTSTART:20261112T130000Z
 DTEND:20261112T210000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:b90a2d6ef45daf0d4531b3eb@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Systems thinking
 DESCRIPTION:INCOSE New England Chapter\nA chapter workshop on AI for syste
  ms engineering workflows\, hosted at Worcester Polytechnic Institute.\nLan
@@ -4162,7 +4200,7 @@ DESCRIPTION:INCOSE New England Chapter\nA chapter workshop on AI for syste
  The canonical chapter page explicitly states 08:00–16:00 EST. This takes
   precedence over conflicting EDT/UTC labels on the global listing.\nOffici
  al organiser page and location checked 18 October 2026.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Higgins House at Worcester Polytechnic Institute\, 100 Institute 
  Road\, Worcester\, Massachusetts 01609\, United States
 STATUS:CONFIRMED
@@ -4276,9 +4314,9 @@ BEGIN:VEVENT
 SUMMARY:Tag des Systems Engineering 2026 — TdSE
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:d590981531b1d2be8fc24c1f@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Systems thinking
 DESCRIPTION:GfSE / INCOSE Germany\nThe German systems engineering gatherin
  g includes tutorials on 17 and 20 November and the main conference on 18
@@ -4290,26 +4328,51 @@ DESCRIPTION:GfSE / INCOSE Germany\nThe German systems engineering gatherin
  ganiser page and location checked 18 October 2026.\nVenue reference: https
  ://tdse.org/informationen/allgemeines.html\nDate-only listing\; check the 
  organiser for session times.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Kongress Dortmund\, Strobelallee 45\, 44139 Dortmund\, Germany
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://tdse.org/programm/vortragsprogramm.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Webinar: Community-Based System Dynamics - from Principles to Prac
+ tice
+DTSTART:20261117T010000Z
+DTEND:20261117T020000Z
+DTSTAMP:20261021T092622Z
+UID:dad853adc1ff5e97773ff3c7@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nThe Oceania Chapter of the System Dyn
+ amics Society Webinar Series. Community-Based System Dynamics – from Pri
+ nciples to Practice Speakers: Tiana Felmingham\, Lee Coller\, and Andrew B
+ rownJointly applied CBSD across regional and rural Victoria for 10+ years 
+ Abstract: Community-based system dynamics (CBSD) brings together system dy
+ namics modelling with participatory approaches that centre the knowledg\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
+ /webinar-community-based-system-dynamics/
+LAST-MODIFIED:20261021T092622Z
+LOCATION:https://uni-sydney.zoom.us/j/83804988911
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/webinar-community-based-system-dynami
+ cs/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leading with Learning � session 5
 DTSTART:20261118T093000Z
 DTEND:20261118T123000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:0e34140cb434858ca2cc25e9@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/leading-with-learning/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4396,24 +4459,24 @@ URL:https://www.sociocracyforall.org/event/intentional-communities-confere
  nce-2026/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WEdnesday SALON – Staying Smart in a Smart World: When to Trust 
- AI – and When to Think for Ourselves
+SUMMARY:WEdnesday SALON – When to Trust AI and When to Think for Ourselv
+ es
 DTSTART:20261123T180000Z
 DTEND:20261123T192000Z
-DTSTAMP:20261014T093553Z
+DTSTAMP:20261021T092622Z
 UID:c58d30077f596439a12f9271@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
-DESCRIPTION:Complexity Science Hub\nFrom dating apps to self-driving cars
- \, AI promises to make life easier and decisions better. But what can algo
- rithms really do – and when should we trust our own judgment?Join Gerd G
- igerenzer for a look at AI hype\, human intelligence\, and why simple rule
- s can sometimes outperform complex systems.Artificial intelligence can exc
- el in stable environments with clear rules\, such as chess\, Go\, and prot
- e\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpre
- tation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wed
- nesday-salon-with-gerd-gigerenzer/
-LAST-MODIFIED:20261014T093553Z
+DESCRIPTION:Complexity Science Hub\nStaying smart in a smart world. From d
+ ating apps to self-driving cars\, AI promises to make life easier and deci
+ sions better. But what can algorithms really do – and when should we tru
+ st our own judgment? Join Gerd Gigerenzer (exceptionally not on a WEdnesda
+ y but on a Monday) for a look at AI hype\, human intelligence\, and why si
+ mple rules can sometimes outperform complex systems. Artificial intelli\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednesd
+ ay-salon-with-gerd-gigerenzer/
+LAST-MODIFIED:20261021T092622Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4423,9 +4486,9 @@ BEGIN:VEVENT
 SUMMARY:Annual Systems Engineering Conference 2026 — ASEC
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:952bd21415eebf2c2fc17aff@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Systems thinking
 DESCRIPTION:Institute for Systems Engineering (IfSE)\nThe UK Annual System
  s Engineering Conference explores the theme Purposeful Transformation.\nLa
@@ -4437,7 +4500,7 @@ DESCRIPTION:Institute for Systems Engineering (IfSE)\nThe UK Annual System
  page and location checked 18 October 2026.\nVenue reference: https://www.a
  sec2026.org.uk/Pages/Standard/General_Information/Venue\nDate-only listing
  \; check the organiser for session times.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Telford International Centre\, International Way\, Telford TF3 4J
  H\, United Kingdom
 STATUS:CONFIRMED
@@ -4474,20 +4537,45 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 7
 DTSTART:20261125T093000Z
 DTEND:20261125T123000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:a22486a9dbb015ee640a4e8a@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.thempra.org.uk/thempra/our-courses/relational-leadership/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Research to Entrepreneurship: Exploring Career Paths Beyond A
+ cademia
+DTSTART:20261125T143000Z
+DTEND:20261125T160000Z
+DTSTAMP:20261021T092622Z
+UID:a0b70c1cdcf1d05c69d5198a@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nCan you be both a scientist and an ent
+ repreneur? What does it take to turn a research idea into a successful bus
+ iness? In this panel discussion\, three scientists who have founded their 
+ own companies will share their experiences of moving from research into en
+ trepreneurship. They will introduce their businesses\, discuss how their i
+ deas emerged\, and reflect on the opportunities and challenges they e\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/from-rese
+ arch-to-entrepreneurship-exploring-career-paths-beyond-academia/
+LAST-MODIFIED:20261021T092622Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/from-research-to-entrepreneurship-exploring-c
+ areer-paths-beyond-academia/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Benchmarking Estimation of Dynamic Models in Social and Behavioral
@@ -4538,16 +4626,16 @@ BEGIN:VEVENT
 SUMMARY:Leading with Learning � session 6
 DTSTART:20261202T093000Z
 DTEND:20261202T123000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:ee91b2a9fcce228d13d506bb@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/leading-with-learning/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4724,16 +4812,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 8
 DTSTART:20261209T093000Z
 DTEND:20261209T123000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:0c81a6c32154049c3fdd2fb4@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4990,16 +5078,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 9
 DTSTART:20270113T093000Z
 DTEND:20270113T123000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:caf49aa274590bf1d9f905bd@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5112,9 +5200,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Workshop 2027
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270203
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:043f3fc354ac8095f3db9b2c@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Systems thinking
 DESCRIPTION:INCOSE\nINCOSE working sessions for systems engineers and work
  ing groups. The organiser distinguishes the workshop from a paper-presenta
@@ -5126,7 +5214,7 @@ DESCRIPTION:INCOSE\nINCOSE working sessions for systems engineers and work
  ticipation are not established.\nOfficial organiser page and location chec
  ked 18 October 2026.\nDate-only listing\; check the organiser for session 
  times.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Torrance Marriott Redondo Beach\, 3635 Fashion Way\, Torrance\, C
  alifornia 90503\, United States
 STATUS:CONFIRMED
@@ -5353,9 +5441,9 @@ BEGIN:VEVENT
 SUMMARY:Conference on Systems Engineering Research 2027 — CSER
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270415
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:976fd7f0f7d7a4c40be2d4bb@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Systems thinking
 DESCRIPTION:INCOSE / Conference on Systems Engineering Research\nA confere
  nce for systems engineering research\, bringing together researchers\, pra
@@ -5366,7 +5454,7 @@ DESCRIPTION:INCOSE / Conference on Systems Engineering Research\nA confere
  Coming Soon\; daily session times and remote participation are not establi
  shed.\nOfficial organiser page and location checked 18 October 2026.\nDate
  -only listing\; check the organiser for session times.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Von Braun Center\, 700 Monroe St SW\, Huntsville\, Alabama 35801
  \, United States
 STATUS:CONFIRMED
@@ -5535,9 +5623,9 @@ BEGIN:VEVENT
 SUMMARY:WOSC Congress: Addressing Planetary Challenges
 DTSTART:20270616T070000Z
 DTEND:20270618T140000Z
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:99998e0fda728e162d4a9f6c@systemsmap.antlerboy.com
-SEQUENCE:59
+SEQUENCE:60
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:World Organisation of Systems and Cybernetics (WOSC)\n\nLangua
  ge: Not specified\nLanguage requirements: Not specified\nInterpretation: N
@@ -5545,7 +5633,7 @@ DESCRIPTION:World Organisation of Systems and Cybernetics (WOSC)\n\nLangua
  wosc-congress-2026-addressing-planetary-challenges\nThe page title and URL
   retain 2026\, but its current Time & Location explicitly gives 16-18 June
   2027. Confirm this discrepancy with WOSC before booking.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Ekonomsko-poslovna fakulteta UM\, Razlagova ulica 20\, Maribor\, 
  Slovenia
 STATUS:CONFIRMED
@@ -5569,6 +5657,29 @@ LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18th Annual International Religious Tourism and Pilgrimage (IRTP) 
+ Conference
+DTSTART:20270623T110000Z
+DTEND:20270626T090000Z
+DTSTAMP:20261021T092622Z
+UID:cbbdfc19224671355ddbaa0c@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:Cybernetics and Systems Community Calendar\nThe International 
+ Religious Tourism and Pilgrimage Conference (IRTP)\, organised by the Inst
+ itute for Religious Tourism and Pilgrimage (IRTP) in conjunction with the 
+ International Journal of Religious Tourism and Pilgrimage (IJRTP) and host
+ ed by the University of Primorska\, Faculty of Tourism Studies\nLanguage: 
+ Not specified\nLanguage requirements: Not specified\nInterpretation: Not s
+ pecified\nAccess: See organiser\nhttps://teamup.com/ksok8ra1xif3viq4no/eve
+ nts/2191231031
+LAST-MODIFIED:20261021T092622Z
+LOCATION:Obala 11a\, 6320 Portorož\, Slovenija
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2191231031
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
@@ -5602,9 +5713,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261020T093032Z
+DTSTAMP:20261021T092622Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -5615,7 +5726,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261020T093032Z
+LAST-MODIFIED:20261021T092622Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED

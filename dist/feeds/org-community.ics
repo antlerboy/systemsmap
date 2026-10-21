@@ -297,6 +297,29 @@ TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:18th Annual International Religious Tourism and Pilgrimage (IRTP) 
+ Conference
+DTSTART:20270623T110000Z
+DTEND:20270626T090000Z
+DTSTAMP:20261021T092622Z
+UID:cbbdfc19224671355ddbaa0c@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:Cybernetics and Systems Community Calendar\nThe International 
+ Religious Tourism and Pilgrimage Conference (IRTP)\, organised by the Inst
+ itute for Religious Tourism and Pilgrimage (IRTP) in conjunction with the 
+ International Journal of Religious Tourism and Pilgrimage (IJRTP) and host
+ ed by the University of Primorska\, Faculty of Tourism Studies\nLanguage: 
+ Not specified\nLanguage requirements: Not specified\nInterpretation: Not s
+ pecified\nAccess: See organiser\nhttps://teamup.com/ksok8ra1xif3viq4no/eve
+ nts/2191231031
+LAST-MODIFIED:20261021T092622Z
+LOCATION:Obala 11a\, 6320 Portorož\, Slovenija
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2191231031
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VSM-AI Special Integration Group
 DTSTART:20270721T160000Z
 DTEND:20270721T173000Z
