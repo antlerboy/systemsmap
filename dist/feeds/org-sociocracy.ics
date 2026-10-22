@@ -327,20 +327,18 @@ BEGIN:VEVENT
 SUMMARY:Sociocracy & Permaculture Community of Practice
 DTSTART:20261022T010000Z
 DTEND:20261022T020000Z
-DTSTAMP:20260925T071905Z
-UID:aa054da842439e3dfc737acc@systemsmap.antlerboy.com
+DTSTAMP:20261022T092918Z
+UID:80e32e1799aa8d3a1a234a0d@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\nCommunity of Practice — Sociocracy & Per
- maculture Join the Sociocracy & Permaculture Community of Practice! The ne
- xt gatherings will take place on: October 21 at 23:00 UTC | 7PM Eastern | 
- 4PM Pacific December 16 at 15:00 UTC | 10AM Eastern | 7AM Pacific | 16:00 
- CET and will be hosted by Rhonda Baird from the Sociocracy in Permaculture
-  Circle. Register to the event Notice: JavaScript is required fo\nLanguage
- : Not specified\nLanguage requirements: Not specified\nInterpretation: Not
-  specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/event/
- sociocracy-permaculture-community-of-practice/2026-10-22/
-LAST-MODIFIED:20260925T071905Z
+DESCRIPTION:Sociocracy For All\n<p>Join the Sociocracy & Permaculture Comm
+ unity of Practice! The next gatherings will take place on: and will be hos
+ ted by Rhonda Baird from the Sociocracy in Permaculture Circle. Register t
+ o […]</p>\\n\nLanguage: Not specified\nLanguage requirements: Not specif
+ ied\nInterpretation: Not specified\nAccess: See organiser\nhttps://www.soc
+ iocracyforall.org/event/sociocracy-permaculture-community-of-practice/2026
+ -10-22/
+LAST-MODIFIED:20261022T092918Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -484,6 +482,30 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.sociocracyforall.org/event/sociocracy-in-cooperatives-comm
  unity-of-practice/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connections: A Sociocracy and Transformative Communication Webinar
+DTSTART:20261210T200000Z
+DTEND:20261210T213000Z
+DTSTAMP:20261022T092918Z
+UID:0395b545e451022be13c85e1@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking
+DESCRIPTION:Sociocracy For All\nDescription Kelly Leonard and Stefani Dane
+ s of Rachel Carson EcoVillage share their community’s practice of “Tra
+ nsformative Communication” — blending sociocracy and Non-Violent Commu
+ nication to strengthen relationships and support collective action. This w
+ ill be an interactive session with hands-on practice Duration and time zon
+ e DATE: December 10\, 2026 TIME: 20:00 – 21:30 UTC CHECK YOUR LOCAL TIM
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://www.sociocracyforall.
+ org/event/sociocracy-and-transformative-communication-dec/
+LAST-MODIFIED:20261022T092918Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sociocracyforall.org/event/sociocracy-and-transformative-c
+ ommunication-dec/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sociocracy & Permaculture Community of Practice

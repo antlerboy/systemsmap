@@ -2,7 +2,7 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 265
+    "events": 266
   },
   {
     "id": "online",
@@ -12,7 +12,7 @@
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 123
+    "events": 124
   },
   {
     "id": "topic-cybernetics",
@@ -177,7 +177,7 @@
   {
     "id": "org-sociocracy",
     "name": "Sociocracy For All",
-    "events": 22
+    "events": 23
   },
   {
     "id": "org-incose",
