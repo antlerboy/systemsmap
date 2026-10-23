@@ -6,29 +6,6 @@ X-WR-CALNAME:System Dynamics Society
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:Systems Practice Forum @ ISDC2026
-DTSTART:20260724T070000Z
-DTEND:20260724T160000Z
-DTSTAMP:20260906T191842Z
-UID:205d507841e8734b00a5bf0b@systemsmap.antlerboy.com
-SEQUENCE:1
-CATEGORIES:System dynamics
-DESCRIPTION:MIT System Dynamics Group\n<p>Explore real-world applications
- \, interactive workshops\, and case studies to enhance your organization\
- \'s impact through System Dynamics and systems thinking.</p>\\n\nLanguage:
-  Not specified\nLanguage requirements: Not specified\nInterpretation: Not 
- specified\nAccess: See organiser\nhttps://systemdynamics.org/event/systems
- -practice-forum-isdc2026/\nSource could not be fully rechecked.\nNo longer
-  found in the latest source listing\; confirmation needed.\nThis event cou
- ld not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260906T191842Z
-LOCATION:TU Delft\, Aula Conference Center\, Mekelweg 5\, 2628 CC\, Delft
- \, Netherlands
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://systemdynamics.org/event/systems-practice-forum-isdc2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:System Dynamics Learning Hub 2026 – SASDC – Stream 3 (Pollutio
  n Dynamics): Session 1
 DTSTART:20260804T160000Z
@@ -969,7 +946,9 @@ DESCRIPTION:System Dynamics Society\nOn Thursday\, October 22nd @ 5pm New
  l Interest Group (SIG) Affiliation 4. Click “Update Profile” at the bo
  t\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpre
  tation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/e
- vent/strategic-planning-meeting-for-2027-and-networking/
+ vent/strategic-planning-meeting-for-2027-and-networking/\nNo longer found 
+ in the latest source listing\; confirmation needed.\nThis event could not 
+ be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261003T095602Z
 LOCATION:https://nmsu.zoom.us/j/89089874054
 STATUS:CONFIRMED
@@ -1659,6 +1638,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/ai-in-system-dynamics-education-task-
  force-monthly-meeting-2/2027-05-11/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presenter Registration Deadline ISDC2027
+DTSTART:20270601T040000Z
+DTEND:20270602T035900Z
+DTSTAMP:20261023T092514Z
+UID:1983a65b8ec688ecebf21828@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nAuthors who are designated presenters
+  for the International System Dynamics Conference are required to register
+  for the conference by today. Submissions without a registered author will
+  be removed from the program.\nLanguage: Not specified\nLanguage requireme
+ nts: Not specified\nInterpretation: Not specified\nAccess: See organiser\n
+ https://systemdynamics.org/event/presenter-registration-deadline-isdc2027/
+LAST-MODIFIED:20261023T092514Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/presenter-registration-deadline-isdc2
+ 027/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting

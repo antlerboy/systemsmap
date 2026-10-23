@@ -666,9 +666,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261022T092918Z
+DTSTAMP:20261023T092514Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:61
+SEQUENCE:62
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -677,7 +677,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261022T092918Z
+LAST-MODIFIED:20261023T092514Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -985,9 +985,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261022T092918Z
+DTSTAMP:20261023T092514Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:40
+SEQUENCE:41
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -998,7 +998,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261022T092918Z
+LAST-MODIFIED:20261023T092514Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1536,9 +1536,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261022T092918Z
+DTSTAMP:20261023T092514Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:5
+SEQUENCE:6
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1548,7 +1548,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261022T092918Z
+LAST-MODIFIED:20261023T092514Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1565,9 +1565,9 @@ CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/openale
- x/\nNo longer found in the latest source listing\; confirmation needed.\nT
- his event could not be rechecked on the latest collection. Confirm with th
- e organiser.
+ x/\nNo longer found in the latest source listing\; confirmation needed.\nS
+ ource could not be fully rechecked.\nThis event could not be rechecked on 
+ the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261020T093032Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1616,7 +1616,8 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nEn rais
  s séances en fonction de la durée du mouvement étudiant.\nLanguage: Not
   specified\nLanguage requirements: Not specified\nInterpretation: Not spec
  ified\nAccess: See organiser\nhttps://iscpif.fr/evenements/repetition-chor
- ale-du-cnrs/
+ ale-du-cnrs/\nSource could not be fully rechecked.\nThis event could not b
+ e rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261020T093032Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -1671,6 +1672,30 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/living-in-complexity-an-sts-perspective-on-th
  e-complexity-science-hub/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Motifs: Fingerprints of Design\, or Statistical Echoes?
+DTSTART:20261027T130000Z
+DTEND:20261027T133000Z
+DTSTAMP:20261023T092514Z
+UID:54b3efaf62aee6be878b5e4e@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nNetwork motifs are small subgraphs tha
+ t occur more often than expected by chance\, and they have been proposed a
+ s the building blocks of complex networks. They have been studied extensiv
+ ely in biological and social systems\, and more recently in inter-firm and
+  supply networks\, where significant triads have been related to the buyer
+ –supplier–supplier relationships. A standard method compares the freq
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/netw
+ ork-motifs-fingerprints-of-design-or-statistical-echoes/
+LAST-MODIFIED:20261023T092514Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/network-motifs-fingerprints-of-design-or-stat
+ istical-echoes/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Structure\, Agency and Systemic Resilience: How Network Structure
@@ -2010,7 +2035,9 @@ DESCRIPTION:Complexity Science Hub\nFor everyone to benefit from technolog
  r lives. But technology is only part of the picture. Today\, the digital\n
  Language: Not specified\nLanguage requirements: Not specified\nInterpretat
  ion: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednes
- day-salon-with-dirk-helbing/
+ day-salon-with-dirk-helbing/\nNo longer found in the latest source listing
+ \; confirmation needed.\nThis event could not be rechecked on the latest c
+ ollection. Confirm with the organiser.
 LAST-MODIFIED:20261022T092918Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
@@ -2140,9 +2167,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261022T092918Z
+DTSTAMP:20261023T092514Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:4
+SEQUENCE:5
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -2153,7 +2180,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261022T092918Z
+LAST-MODIFIED:20261023T092514Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED

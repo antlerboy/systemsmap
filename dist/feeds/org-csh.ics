@@ -673,6 +673,30 @@ URL:https://csh.ac.at/events/living-in-complexity-an-sts-perspective-on-th
  e-complexity-science-hub/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Network Motifs: Fingerprints of Design\, or Statistical Echoes?
+DTSTART:20261027T130000Z
+DTEND:20261027T133000Z
+DTSTAMP:20261023T092514Z
+UID:54b3efaf62aee6be878b5e4e@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nNetwork motifs are small subgraphs tha
+ t occur more often than expected by chance\, and they have been proposed a
+ s the building blocks of complex networks. They have been studied extensiv
+ ely in biological and social systems\, and more recently in inter-firm and
+  supply networks\, where significant triads have been related to the buyer
+ –supplier–supplier relationships. A standard method compares the freq
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/netw
+ ork-motifs-fingerprints-of-design-or-statistical-echoes/
+LAST-MODIFIED:20261023T092514Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/network-motifs-fingerprints-of-design-or-stat
+ istical-echoes/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Structure\, Agency and Systemic Resilience: How Network Structure
  \, Political Agency and Influence Mechanisms shape the Absorption of Shock
  s in Simulated Policy Networks
@@ -888,7 +912,9 @@ DESCRIPTION:Complexity Science Hub\nFor everyone to benefit from technolog
  r lives. But technology is only part of the picture. Today\, the digital\n
  Language: Not specified\nLanguage requirements: Not specified\nInterpretat
  ion: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednes
- day-salon-with-dirk-helbing/
+ day-salon-with-dirk-helbing/\nNo longer found in the latest source listing
+ \; confirmation needed.\nThis event could not be rechecked on the latest c
+ ollection. Confirm with the organiser.
 LAST-MODIFIED:20261022T092918Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna

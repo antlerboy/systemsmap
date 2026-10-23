@@ -316,7 +316,9 @@ DESCRIPTION:Sociocracy For All\n<p>This is a free sociocracy info session.
  y works\, and what kind of organizations are using sociocracy. </p>\\n\nLa
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/
- event/free-info-session-october-2026/
+ event/free-info-session-october-2026/\nNo longer found in the latest sourc
+ e listing\; confirmation needed.\nThis event could not be rechecked on the
+  latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261010T104118Z
 LOCATION:Location not published
 STATUS:CONFIRMED
@@ -327,18 +329,18 @@ BEGIN:VEVENT
 SUMMARY:Sociocracy & Permaculture Community of Practice
 DTSTART:20261022T010000Z
 DTEND:20261022T020000Z
-DTSTAMP:20261022T092918Z
+DTSTAMP:20261023T092514Z
 UID:80e32e1799aa8d3a1a234a0d@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Systems thinking
 DESCRIPTION:Sociocracy For All\n<p>Join the Sociocracy & Permaculture Comm
  unity of Practice! The next gatherings will take place on: and will be hos
  ted by Rhonda Baird from the Sociocracy in Permaculture Circle. Register t
- o […]</p>\\n\nLanguage: Not specified\nLanguage requirements: Not specif
- ied\nInterpretation: Not specified\nAccess: See organiser\nhttps://www.soc
- iocracyforall.org/event/sociocracy-permaculture-community-of-practice/2026
- -10-22/
-LAST-MODIFIED:20261022T092918Z
+ o the event</p>\\n\nLanguage: Not specified\nLanguage requirements: Not sp
+ ecified\nInterpretation: Not specified\nAccess: See organiser\nhttps://www
+ .sociocracyforall.org/event/sociocracy-permaculture-community-of-practice/
+ 2026-10-22/
+LAST-MODIFIED:20261023T092514Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -458,6 +460,30 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.sociocracyforall.org/event/intentional-communities-confere
  nce-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free introduction: What is sociocracy?
+DTSTART:20261202T220000Z
+DTEND:20261202T230000Z
+DTSTAMP:20261023T092514Z
+UID:5cf402535dac49060734b929@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking
+DESCRIPTION:Sociocracy For All\nAre you tired of power games in your organ
+ izations? Do you have hope that collaboration in organizations could bring
+  out the best in people? Do you think organizations could be places of syn
+ ergy\, collaboration\, growth\, and deep and authentic connection? This we
+ binar is giving an overview of sociocracy. We will talk about: better list
+ ening consent decision making and circle structure examples from \nLanguag
+ e: Not specified\nLanguage requirements: Not specified\nInterpretation: No
+ t specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/event
+ /free-info-session-december-2026/
+LAST-MODIFIED:20261023T092514Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sociocracyforall.org/event/free-info-session-december-2026
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sociocracy in Cooperatives Community of Practice
