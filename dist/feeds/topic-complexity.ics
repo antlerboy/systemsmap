@@ -666,9 +666,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261023T092514Z
+DTSTAMP:20261024T085707Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:62
+SEQUENCE:63
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -677,7 +677,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261023T092514Z
+LAST-MODIFIED:20261024T085707Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -985,9 +985,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261023T092514Z
+DTSTAMP:20261024T085707Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:41
+SEQUENCE:42
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -998,7 +998,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261023T092514Z
+LAST-MODIFIED:20261024T085707Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1536,9 +1536,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261023T092514Z
+DTSTAMP:20261024T085707Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:6
+SEQUENCE:7
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1548,7 +1548,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261023T092514Z
+LAST-MODIFIED:20261024T085707Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1727,6 +1727,32 @@ URL:https://csh.ac.at/events/structure-agency-and-systemic-resilience-how-
  rption-of-shocks-in-simulated-policy-networks/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The impact of network structure on social contagion and neural ODE
+  generalization
+DTSTART:20261030T150000Z
+DTEND:20261030T160000Z
+DTSTAMP:20261024T085707Z
+UID:9c6805ab7e20b84c420557f7@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nA complex system’s structure\, often
+  represented as a network\, shapes not only how dynamical processes unfold
+  but also how well we can learn and predict them. First\, I will explore t
+ he influence of structure on dynamics in the context of systems that exhib
+ it both homophily\, i.e.\, a preference of individuals that are similar to
+  interact\, and group interactions\, represented as hyperedges that connec
+ t\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpre
+ tation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/the
+ -impact-of-network-structure-on-social-contagion-and-neural-ode-generaliza
+ tion/
+LAST-MODIFIED:20261024T085707Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/the-impact-of-network-structure-on-social-con
+ tagion-and-neural-ode-generalization/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Combining System Dynamics with Discrete Event and Agent-Based Meth
  ods: Why and How
 DTSTART:20261103T160000Z
@@ -1777,6 +1803,30 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/art-science-with-markus-hofer-peter-ertl-the-
  characteristics-of-viewing-conditions/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Causality at Machine Learning Scale and Complexity
+DTSTART:20261104T150000Z
+DTEND:20261104T160000Z
+DTSTAMP:20261024T085707Z
+UID:8152cef96c1c683deb0369fd@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nDistinguishing coincidence from cause-
+ and-effect relationships is a central challenge in AI (and science): which
+  patterns just co-occur\, and which signal causality? Statistical causalit
+ y offers a rigorous framework for this question\, but it assumes clean\, l
+ ow-dimensional\, structured data\, which clashes with the raw\, high-dimen
+ sional observations of machine learning applications\, including in scien
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/caus
+ ality-at-machine-learning-scale-and-complexity/
+LAST-MODIFIED:20261024T085707Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/causality-at-machine-learning-scale-and-compl
+ exity/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crisis and Resilience in Historical and Modern Societies
@@ -1854,20 +1904,23 @@ URL:https://csh.ac.at/events/doomsday-conference-on-the-sense-and-nonsense
  -of-end-of-the-world-predictions/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Public Panel Discussion: How to Survive Doomsdays
+SUMMARY:How to Survive Doomsdays
 DTSTART:20261112T170000Z
 DTEND:20261112T183000Z
-DTSTAMP:20261022T092918Z
+DTSTAMP:20261024T085707Z
 UID:141854d1afc83679f856855e@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Complexity
-DESCRIPTION:Complexity Science Hub\nWelcome: Stefan Thurner Panel Discussa
- nts: Pearl Dykstra\, Jesse Ausubel\, Geoffrey West\, Misha Glenny & Peter 
- Turchin Moderator: Helga Nowotny more information will follow.\nLanguage: 
- Not specified\nLanguage requirements: Not specified\nInterpretation: Not s
- pecified\nAccess: See organiser\nhttps://csh.ac.at/events/public-panel-dis
- cussion-how-to-survive-doomsdays/
-LAST-MODIFIED:20261022T092918Z
+DESCRIPTION:Complexity Science Hub\nOn the sense and nonsense of end-of-th
+ e-world predictions In 1960\, Vienna-born physicist Heinz von Foerster and
+  colleagues calculated the end of the world: 13 November 2026\, when popul
+ ation would reach infinity. A deliberately provocative way to make a serio
+ us point. We take the date as a cue to look at where population is really 
+ heading\, and what that means for us. Welcome: Stefan Thurner Panel D\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/public-pa
+ nel-discussion-how-to-survive-doomsdays/
+LAST-MODIFIED:20261024T085707Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1916,7 +1969,9 @@ DESCRIPTION:Complexity Science Hub\nStaying smart in a smart world. From d
  mple rules can sometimes outperform complex systems. Artificial intelli\nL
  anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
  on: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednesd
- ay-salon-with-gerd-gigerenzer/
+ ay-salon-with-gerd-gigerenzer/\nNo longer found in the latest source listi
+ ng\; confirmation needed.\nThis event could not be rechecked on the latest
+  collection. Confirm with the organiser.
 LAST-MODIFIED:20261021T092622Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1966,7 +2021,9 @@ DESCRIPTION:Complexity Science Hub\nCan you be both a scientist and an ent
  deas emerged\, and reflect on the opportunities and challenges they e\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/from-rese
- arch-to-entrepreneurship-exploring-career-paths-beyond-academia/
+ arch-to-entrepreneurship-exploring-career-paths-beyond-academia/\nNo longe
+ r found in the latest source listing\; confirmation needed.\nThis event co
+ uld not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261021T092622Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -2167,9 +2224,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261023T092514Z
+DTSTAMP:20261024T085707Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:5
+SEQUENCE:6
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -2180,7 +2237,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261023T092514Z
+LAST-MODIFIED:20261024T085707Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED
