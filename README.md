@@ -75,3 +75,7 @@ Leaflet 1.9.4 is vendored with its BSD-2-Clause licence. World boundaries derive
 ## Public interface deployment
 
 The Necessary Tangle pins a reviewed systemsmap revision in its workflows and copies `dist/` through `scripts/integrate_systems_events.py`. Update that revision and publish The Necessary Tangle when changing the interface. Daily event JSON and subscription feeds continue to load from systemsmap. The Sites project recorded in this historical hosting manifest now only redirects the vanity address; do not replace that redirect when updating the interface.
+
+## Maintenance check, 24 October 2026
+
+The reviewed local collection checked all 36 registered sources and six public link submissions, with calendar/submission tests, interface checks, and asset validation passing. Source health retains nine collection failures; robots exclusions are respected. A main-branch update reruns the existing collector and publishes its current timestamps, events, and stable subscription feeds. The Necessary Tangle release 0.34 also adds a separate private plain-text contribution inbox; event submissions remain the existing public URL queue.
