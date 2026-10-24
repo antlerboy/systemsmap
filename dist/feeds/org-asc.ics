@@ -36,9 +36,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20261024T085707Z
+DTSTAMP:20261024T210059Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:67
+SEQUENCE:68
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -49,7 +49,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20261024T085707Z
+LAST-MODIFIED:20261024T210059Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -65,7 +65,9 @@ CATEGORIES:Cybernetics
 DESCRIPTION:American Society for Cybernetics (ASC)\n\nLanguage: Not specif
  ied\nLanguage requirements: Not specified\nInterpretation: Not specified\n
  Access: See organiser\nhttps://asc-cybernetics.org/initiatives/speaker-ser
- ies-wg/speaker-series-season-71/
+ ies-wg/speaker-series-season-71/\nSource could not be fully rechecked.\nTh
+ is event could not be rechecked on the latest collection. Confirm with the
+  organiser.
 LAST-MODIFIED:20260909T085810Z
 LOCATION:Online
 STATUS:CONFIRMED
@@ -84,7 +86,8 @@ CATEGORIES:Cybernetics
 DESCRIPTION:American Society for Cybernetics (ASC)\n\nLanguage: Not specif
  ied\nLanguage requirements: Not specified\nInterpretation: Not specified\n
  Access: See organiser\nhttps://asc-cybernetics.org/speaker-series-season-7
- 2/
+ 2/\nSource could not be fully rechecked.\nThis event could not be rechecke
+ d on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261004T103900Z
 LOCATION:Online
 STATUS:CONFIRMED
@@ -100,7 +103,9 @@ SEQUENCE:0
 CATEGORIES:Cybernetics
 DESCRIPTION:American Society for Cybernetics (ASC)\n\nLanguage: Not specif
  ied\nLanguage requirements: Not specified\nInterpretation: Not specified\n
- Access: See organiser\nhttps://asc-cybernetics.org/?page_id=2733
+ Access: See organiser\nhttps://asc-cybernetics.org/?page_id=2733\nSource c
+ ould not be fully rechecked.\nThis event could not be rechecked on the lat
+ est collection. Confirm with the organiser.
 LAST-MODIFIED:20261024T085707Z
 LOCATION:Online
 STATUS:CONFIRMED
