@@ -36,9 +36,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20261024T210059Z
+DTSTAMP:20261025T091351Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:68
+SEQUENCE:69
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -49,7 +49,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20261024T210059Z
+LAST-MODIFIED:20261025T091351Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58,17 +58,15 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Speaker Series 7#1: Cyber-Renaissance
 DTSTART:20260920T160000Z
-DTSTAMP:20260909T085810Z
+DTSTAMP:20261025T091351Z
 UID:de1734466a5ee9163041163a@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Cybernetics
 DESCRIPTION:American Society for Cybernetics (ASC)\n\nLanguage: Not specif
  ied\nLanguage requirements: Not specified\nInterpretation: Not specified\n
  Access: See organiser\nhttps://asc-cybernetics.org/initiatives/speaker-ser
- ies-wg/speaker-series-season-71/\nSource could not be fully rechecked.\nTh
- is event could not be rechecked on the latest collection. Confirm with the
-  organiser.
-LAST-MODIFIED:20260909T085810Z
+ ies-wg/speaker-series-season-71/
+LAST-MODIFIED:20261025T091351Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -79,16 +77,15 @@ BEGIN:VEVENT
 SUMMARY:Speaker Series 7#2: Remaking Democracy: Systems Theory for Social 
  Change
 DTSTART:20261018T160000Z
-DTSTAMP:20261004T103900Z
+DTSTAMP:20261025T091351Z
 UID:b3d55e71f9bcc22ade82e777@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Cybernetics
 DESCRIPTION:American Society for Cybernetics (ASC)\n\nLanguage: Not specif
  ied\nLanguage requirements: Not specified\nInterpretation: Not specified\n
  Access: See organiser\nhttps://asc-cybernetics.org/speaker-series-season-7
- 2/\nSource could not be fully rechecked.\nThis event could not be rechecke
- d on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20261004T103900Z
+ 2/
+LAST-MODIFIED:20261025T091351Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -97,16 +94,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Speaker Series 7#3: Time\, Language\, Emotion\, and Experience
 DTSTART:20261115T170000Z
-DTSTAMP:20261024T085707Z
+DTSTAMP:20261025T091351Z
 UID:2c40789335cd43fbb1460bcf@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Cybernetics
 DESCRIPTION:American Society for Cybernetics (ASC)\n\nLanguage: Not specif
  ied\nLanguage requirements: Not specified\nInterpretation: Not specified\n
- Access: See organiser\nhttps://asc-cybernetics.org/?page_id=2733\nSource c
- ould not be fully rechecked.\nThis event could not be rechecked on the lat
- est collection. Confirm with the organiser.
-LAST-MODIFIED:20261024T085707Z
+ Access: See organiser\nhttps://asc-cybernetics.org/?page_id=2733
+LAST-MODIFIED:20261025T091351Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

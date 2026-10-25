@@ -9,9 +9,9 @@ BEGIN:VEVENT
 SUMMARY:Mind the System 2026 — Evento Nazionale AISE
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261024T210059Z
+DTSTAMP:20261025T091351Z
 UID:3fdee112247ab6f335871aa7@systemsmap.antlerboy.com
-SEQUENCE:7
+SEQUENCE:8
 CATEGORIES:Systems thinking
 DESCRIPTION:AISE / INCOSE Italy\nAISE national systems engineering event o
  n human factors as a core systems engineering discipline.\nLanguage: Not s
@@ -22,7 +22,7 @@ DESCRIPTION:AISE / INCOSE Italy\nAISE national systems engineering event o
   envelopes\; dates only are exported.\nOfficial organiser page and locatio
  n checked 18 October 2026.\nDate-only listing\; check the organiser for se
  ssion times.
-LAST-MODIFIED:20261024T210059Z
+LAST-MODIFIED:20261025T091351Z
 LOCATION:Salone delle Colonne\, Piazza Guglielmo Marconi 26/C\, EUR\, Rome
  \, Italy
 STATUS:CONFIRMED
@@ -33,9 +33,9 @@ BEGIN:VEVENT
 SUMMARY:The Dutch Systems Engineering Days 2026
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261024T210059Z
+DTSTAMP:20261025T091351Z
 UID:9dadb04025a3a5ad21f2fe39@systemsmap.antlerboy.com
-SEQUENCE:7
+SEQUENCE:8
 CATEGORIES:Systems thinking
 DESCRIPTION:INCOSE Netherlands\nA two-day systems engineering programme ma
  rking thirty years of INCOSE in the Netherlands.\nLanguage: Not specified
@@ -46,7 +46,7 @@ DESCRIPTION:INCOSE Netherlands\nA two-day systems engineering programme ma
  ning activities\; dates only are exported.\nOfficial organiser page and lo
  cation checked 18 October 2026.\nDate-only listing\; check the organiser f
  or session times.
-LAST-MODIFIED:20261024T210059Z
+LAST-MODIFIED:20261025T091351Z
 LOCATION:Van der Valk Eindhoven-Best\, Eindhovenseweg Zuid 144\, 5683 PX B
  est\, Netherlands
 STATUS:CONFIRMED
@@ -57,9 +57,9 @@ BEGIN:VEVENT
 SUMMARY:2026 NE INCOSE Annual Fall Workshop — AI for SE Workflows
 DTSTART:20261112T130000Z
 DTEND:20261112T210000Z
-DTSTAMP:20261024T210059Z
+DTSTAMP:20261025T091351Z
 UID:b90a2d6ef45daf0d4531b3eb@systemsmap.antlerboy.com
-SEQUENCE:7
+SEQUENCE:8
 CATEGORIES:Systems thinking
 DESCRIPTION:INCOSE New England Chapter\nA chapter workshop on AI for syste
  ms engineering workflows\, hosted at Worcester Polytechnic Institute.\nLan
@@ -69,7 +69,7 @@ DESCRIPTION:INCOSE New England Chapter\nA chapter workshop on AI for syste
  The canonical chapter page explicitly states 08:00–16:00 EST. This takes
   precedence over conflicting EDT/UTC labels on the global listing.\nOffici
  al organiser page and location checked 18 October 2026.
-LAST-MODIFIED:20261024T210059Z
+LAST-MODIFIED:20261025T091351Z
 LOCATION:Higgins House at Worcester Polytechnic Institute\, 100 Institute 
  Road\, Worcester\, Massachusetts 01609\, United States
 STATUS:CONFIRMED
@@ -80,9 +80,9 @@ BEGIN:VEVENT
 SUMMARY:Tag des Systems Engineering 2026 — TdSE
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261024T210059Z
+DTSTAMP:20261025T091351Z
 UID:d590981531b1d2be8fc24c1f@systemsmap.antlerboy.com
-SEQUENCE:7
+SEQUENCE:8
 CATEGORIES:Systems thinking
 DESCRIPTION:GfSE / INCOSE Germany\nThe German systems engineering gatherin
  g includes tutorials on 17 and 20 November and the main conference on 18
@@ -94,7 +94,7 @@ DESCRIPTION:GfSE / INCOSE Germany\nThe German systems engineering gatherin
  ganiser page and location checked 18 October 2026.\nVenue reference: https
  ://tdse.org/informationen/allgemeines.html\nDate-only listing\; check the 
  organiser for session times.
-LAST-MODIFIED:20261024T210059Z
+LAST-MODIFIED:20261025T091351Z
 LOCATION:Kongress Dortmund\, Strobelallee 45\, 44139 Dortmund\, Germany
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -104,9 +104,9 @@ BEGIN:VEVENT
 SUMMARY:Annual Systems Engineering Conference 2026 — ASEC
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261024T210059Z
+DTSTAMP:20261025T091351Z
 UID:952bd21415eebf2c2fc17aff@systemsmap.antlerboy.com
-SEQUENCE:7
+SEQUENCE:8
 CATEGORIES:Systems thinking
 DESCRIPTION:Institute for Systems Engineering (IfSE)\nThe UK Annual System
  s Engineering Conference explores the theme Purposeful Transformation.\nLa
@@ -118,7 +118,7 @@ DESCRIPTION:Institute for Systems Engineering (IfSE)\nThe UK Annual System
  page and location checked 18 October 2026.\nVenue reference: https://www.a
  sec2026.org.uk/Pages/Standard/General_Information/Venue\nDate-only listing
  \; check the organiser for session times.
-LAST-MODIFIED:20261024T210059Z
+LAST-MODIFIED:20261025T091351Z
 LOCATION:Telford International Centre\, International Way\, Telford TF3 4J
  H\, United Kingdom
 STATUS:CONFIRMED
@@ -129,9 +129,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Workshop 2027
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270203
-DTSTAMP:20261024T210059Z
+DTSTAMP:20261025T091351Z
 UID:043f3fc354ac8095f3db9b2c@systemsmap.antlerboy.com
-SEQUENCE:7
+SEQUENCE:8
 CATEGORIES:Systems thinking
 DESCRIPTION:INCOSE\nINCOSE working sessions for systems engineers and work
  ing groups. The organiser distinguishes the workshop from a paper-presenta
@@ -143,7 +143,7 @@ DESCRIPTION:INCOSE\nINCOSE working sessions for systems engineers and work
  ticipation are not established.\nOfficial organiser page and location chec
  ked 18 October 2026.\nDate-only listing\; check the organiser for session 
  times.
-LAST-MODIFIED:20261024T210059Z
+LAST-MODIFIED:20261025T091351Z
 LOCATION:Torrance Marriott Redondo Beach\, 3635 Fashion Way\, Torrance\, C
  alifornia 90503\, United States
 STATUS:CONFIRMED
@@ -154,9 +154,9 @@ BEGIN:VEVENT
 SUMMARY:Conference on Systems Engineering Research 2027 — CSER
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270415
-DTSTAMP:20261024T210059Z
+DTSTAMP:20261025T091351Z
 UID:976fd7f0f7d7a4c40be2d4bb@systemsmap.antlerboy.com
-SEQUENCE:7
+SEQUENCE:8
 CATEGORIES:Systems thinking
 DESCRIPTION:INCOSE / Conference on Systems Engineering Research\nA confere
  nce for systems engineering research\, bringing together researchers\, pra
@@ -167,7 +167,7 @@ DESCRIPTION:INCOSE / Conference on Systems Engineering Research\nA confere
  Coming Soon\; daily session times and remote participation are not establi
  shed.\nOfficial organiser page and location checked 18 October 2026.\nDate
  -only listing\; check the organiser for session times.
-LAST-MODIFIED:20261024T210059Z
+LAST-MODIFIED:20261025T091351Z
 LOCATION:Von Braun Center\, 700 Monroe St SW\, Huntsville\, Alabama 35801
  \, United States
 STATUS:CONFIRMED
@@ -178,9 +178,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261024T210059Z
+DTSTAMP:20261025T091351Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:7
+SEQUENCE:8
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -191,7 +191,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261024T210059Z
+LAST-MODIFIED:20261025T091351Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED
