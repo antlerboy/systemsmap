@@ -36,9 +36,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20261025T091351Z
+DTSTAMP:20261026T101708Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:69
+SEQUENCE:70
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -49,7 +49,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20261025T091351Z
+LAST-MODIFIED:20261026T101708Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -100,7 +100,9 @@ SEQUENCE:1
 CATEGORIES:Cybernetics
 DESCRIPTION:American Society for Cybernetics (ASC)\n\nLanguage: Not specif
  ied\nLanguage requirements: Not specified\nInterpretation: Not specified\n
- Access: See organiser\nhttps://asc-cybernetics.org/?page_id=2733
+ Access: See organiser\nhttps://asc-cybernetics.org/?page_id=2733\nNo longe
+ r found in the latest source listing\; confirmation needed.\nThis event co
+ uld not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261025T091351Z
 LOCATION:Online
 STATUS:CONFIRMED
