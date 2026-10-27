@@ -462,6 +462,47 @@ URL:https://www.sociocracyforall.org/event/intentional-communities-confere
  nce-2026/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sociocracy in Toronto: An Open Evening
+DTSTART:20261127T113000Z
+DTEND:20261127T133000Z
+DTSTAMP:20261027T095327Z
+UID:9a9450c70ed8097f69689600@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking
+DESCRIPTION:Sociocracy For All\nAn in-person\, hands-on intro evening with
+  Jerry Koch- Gonzalez\, co-founder of Sociocracy For All.\nLanguage: Not s
+ pecified\nLanguage requirements: Not specified\nInterpretation: Not specif
+ ied\nAccess: See organiser\nhttps://www.sociocracyforall.org/event/a-taste
+ -of-sociocracy-toronto/
+LAST-MODIFIED:20261027T095327Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sociocracyforall.org/event/a-taste-of-sociocracy-toronto/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sociocracy in Toronto: An Open Evening and a Two-Day Intensive
+DTSTART:20261127T230000Z
+DTEND:20261129T213000Z
+DTSTAMP:20261027T095327Z
+UID:6e64a176001f6b88dfe532e2@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking
+DESCRIPTION:Sociocracy For All\nDoes how you decide match your values? Lea
+ rn sociocracy with Jerry Koch-Gonzalez in Toronto: Fri Nov 27 intro\, Nov 
+ 28-29 workshop.\nLanguage: en-US\nLanguage requirements: Not specified\nIn
+ terpretation: Not specified\nAccess: See organiser\nhttps://www.eventbrite
+ .ca/e/sociocracy-in-toronto-an-open-evening-and-a-two-day-intensive-ticket
+ s-2003934226215
+LAST-MODIFIED:20261027T095327Z
+LOCATION:Roncesvalles United Church\, 214 Wright Avenue\, Toronto\, ON M6R
+  2L6\, Toronto\, ON\, CA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.ca/e/sociocracy-in-toronto-an-open-evening-and-
+ a-two-day-intensive-tickets-2003934226215
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free introduction: What is sociocracy?
 DTSTART:20261202T220000Z
 DTEND:20261202T230000Z
