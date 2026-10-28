@@ -373,6 +373,29 @@ URL:https://www.sociocracyforall.org/event/introduction-to-sociocracy-in-i
  ntentional-communities-live-webinar/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sociocracy in Practice - CoP
+DTSTART:20261029T150000Z
+DTEND:20261029T163000Z
+DTSTAMP:20261028T104020Z
+UID:e4cddf37d3db3eada72b6b6c@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking
+DESCRIPTION:Sociocracy For All\nSociocracy in Practice A community of prac
+ tice (CoP) to support organizations experimenting with and implementing so
+ ciocracy. Come share\, learn\, and explore ideas for: next steps in your i
+ mplementation of sociocracy managing objections giving and receiving feedb
+ ack support for leaders and circle roles celebrate wins Or bring any real 
+ governance challenge your organization is currently facing. Toge\nLanguage
+ : Not specified\nLanguage requirements: Not specified\nInterpretation: Not
+  specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/event/
+ sociocracy-in-practice-cop/
+LAST-MODIFIED:20261028T104020Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sociocracyforall.org/event/sociocracy-in-practice-cop/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free introduction: What is sociocracy?
 DTSTART:20261104T170000Z
 DTEND:20261104T180000Z
@@ -501,6 +524,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.eventbrite.ca/e/sociocracy-in-toronto-an-open-evening-and-
  a-two-day-intensive-tickets-2003934226215
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sociocracy in Toronto: A Two-Day Intensive
+DTSTART:20261128T143000Z
+DTEND:20261129T213000Z
+DTSTAMP:20261028T104020Z
+UID:09cf7e312b0811facebc6b50@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking
+DESCRIPTION:Sociocracy For All\n\nLanguage: Not specified\nLanguage requir
+ ements: Not specified\nInterpretation: Not specified\nAccess: See organise
+ r\nhttps://www.sociocracyforall.org/event/sociocracy-in-toronto-intensive/
+LAST-MODIFIED:20261028T104020Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sociocracyforall.org/event/sociocracy-in-toronto-intensive
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free introduction: What is sociocracy?

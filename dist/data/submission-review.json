@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-27T09:54:16+00:00",
+  "checkedAt": "2026-10-28T10:41:17+00:00",
   "submissions": [
     {
       "id": "af54c356-c0b6-4732-bcbe-e868d622e5b2",
@@ -81,6 +81,22 @@
       },
       "createdAt": "2026-10-18T20:28:27.265Z",
       "status": "published"
+    },
+    {
+      "id": "1df38151-3672-404f-abed-3b083f5b80ad",
+      "url": "https://lnkd.in/p/eda_38WS",
+      "proposal": {
+        "kind": "event",
+        "url": "https://lnkd.in/p/eda_38WS",
+        "title": "System Dynamics Society’s Post",
+        "organiser": "lnkd.in"
+      },
+      "createdAt": "2026-10-27T10:42:22.884Z",
+      "notes": [
+        "No unambiguous event date was extracted. A maintainer needs to complete or classify this link before publication."
+      ],
+      "status": "needs-review",
+      "checkedAt": "2026-10-28T10:41:17+00:00"
     }
   ]
 }

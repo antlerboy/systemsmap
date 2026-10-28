@@ -666,9 +666,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261027T095327Z
+DTSTAMP:20261028T104020Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:67
+SEQUENCE:68
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -677,7 +677,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261027T095327Z
+LAST-MODIFIED:20261028T104020Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -985,9 +985,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261027T095327Z
+DTSTAMP:20261028T104020Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:46
+SEQUENCE:47
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -998,7 +998,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261027T095327Z
+LAST-MODIFIED:20261028T104020Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1536,9 +1536,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261027T095327Z
+DTSTAMP:20261028T104020Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:11
+SEQUENCE:12
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1548,7 +1548,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261027T095327Z
+LAST-MODIFIED:20261028T104020Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1640,7 +1640,10 @@ DESCRIPTION:System Dynamics Society\nTuesday\, October 27 at 11 am New Yor
  rview This webinar goes on to explain the mechanisms by which collaboratio
  n a\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
  retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
- /event/implementing-the-self-managing-enterprise-with-agentic-ai/
+ /event/implementing-the-self-managing-enterprise-with-agentic-ai/\nNo long
+ er found in the latest source listing\; confirmation needed.\nThis event c
+ ould not be rechecked on the latest collection. Confirm with the organiser
+ .
 LAST-MODIFIED:20260922T092210Z
 LOCATION:https://us02web.zoom.us/j/87049920798
 STATUS:CONFIRMED
@@ -1666,6 +1669,9 @@ DESCRIPTION:Complexity Science Hub\nDespite existing as a scientific label
   over t\nLanguage: Not specified\nLanguage requirements: Not specified\nIn
  terpretation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/even
  ts/living-in-complexity-an-sts-perspective-on-the-complexity-science-hub/
+ \nNo longer found in the latest source listing\; confirmation needed.\nThi
+ s event could not be rechecked on the latest collection. Confirm with the 
+ organiser.
 LAST-MODIFIED:20261016T090631Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1689,7 +1695,9 @@ DESCRIPTION:Complexity Science Hub\nNetwork motifs are small subgraphs tha
  –supplier–supplier relationships. A standard method compares the freq
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/netw
- ork-motifs-fingerprints-of-design-or-statistical-echoes/
+ ork-motifs-fingerprints-of-design-or-statistical-echoes/\nNo longer found 
+ in the latest source listing\; confirmation needed.\nThis event could not 
+ be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261023T092514Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1953,13 +1961,37 @@ URL:https://systemdynamics.org/event/webinar-community-based-system-dynami
  cs/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Systems Change in Practice: Lessons from the Field
+DTSTART:20261123T120000Z
+DTEND:20261123T130000Z
+DTSTAMP:20261028T104020Z
+UID:52762ac25488d4e00a349ad5@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,System dynamics
+DESCRIPTION:System Dynamics Society\nSystems Sparks Practitioner Series Th
+ e Systems Sparks Practitioner Webinar Series is created for experienced an
+ d emerging systems practitioners\, including facilitators\, sustainability
+  leaders\, organisational change agents\, and consultants. The intent is n
+ ot academic teaching\, but practitioner-to-practitioner sensemaking. We wa
+ nt to help participants deepen their practice\, sharpen their judgment in
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
+ ent/systems-change-in-practice-lessons-from-the-field/
+LAST-MODIFIED:20261028T104020Z
+LOCATION:https://us02web.zoom.us/j/82588978553
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/systems-change-in-practice-lessons-fr
+ om-the-field/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WEdnesday SALON – When to Trust AI and When to Think for Ourselv
  es
 DTSTART:20261123T180000Z
 DTEND:20261123T192000Z
-DTSTAMP:20261021T092622Z
+DTSTAMP:20261028T104020Z
 UID:c58d30077f596439a12f9271@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nStaying smart in a smart world. From d
  ating apps to self-driving cars\, AI promises to make life easier and deci
@@ -1969,10 +2001,8 @@ DESCRIPTION:Complexity Science Hub\nStaying smart in a smart world. From d
  mple rules can sometimes outperform complex systems. Artificial intelli\nL
  anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
  on: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednesd
- ay-salon-with-gerd-gigerenzer/\nNo longer found in the latest source listi
- ng\; confirmation needed.\nThis event could not be rechecked on the latest
-  collection. Confirm with the organiser.
-LAST-MODIFIED:20261021T092622Z
+ ay-salon-with-gerd-gigerenzer/
+LAST-MODIFIED:20261028T104020Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2009,9 +2039,9 @@ SUMMARY:From Research to Entrepreneurship: Exploring Career Paths Beyond A
  cademia
 DTSTART:20261125T143000Z
 DTEND:20261125T160000Z
-DTSTAMP:20261021T092622Z
+DTSTAMP:20261028T104020Z
 UID:a0b70c1cdcf1d05c69d5198a@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nCan you be both a scientist and an ent
  repreneur? What does it take to turn a research idea into a successful bus
@@ -2021,10 +2051,8 @@ DESCRIPTION:Complexity Science Hub\nCan you be both a scientist and an ent
  deas emerged\, and reflect on the opportunities and challenges they e\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/from-rese
- arch-to-entrepreneurship-exploring-career-paths-beyond-academia/\nNo longe
- r found in the latest source listing\; confirmation needed.\nThis event co
- uld not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20261021T092622Z
+ arch-to-entrepreneurship-exploring-career-paths-beyond-academia/
+LAST-MODIFIED:20261028T104020Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2224,9 +2252,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261027T095327Z
+DTSTAMP:20261028T104020Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:10
+SEQUENCE:11
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -2237,7 +2265,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261027T095327Z
+LAST-MODIFIED:20261028T104020Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED
