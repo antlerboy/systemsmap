@@ -1003,7 +1003,9 @@ DESCRIPTION:System Dynamics Society\nThe iSD Model is the Millennium Insti
  Language: Not specified\nLanguage requirements: Not specified\nInterpretat
  ion: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/even
  t/the-integrated-sustainable-development-isd-model-applications-and-future
- -use-in-south-africa/
+ -use-in-south-africa/\nNo longer found in the latest source listing\; conf
+ irmation needed.\nThis event could not be rechecked on the latest collecti
+ on. Confirm with the organiser.
 LAST-MODIFIED:20261028T104020Z
 LOCATION:https://docs.google.com/forms/d/e/1FAIpQLSdSszymO_f7cXRGVmAzs2OJV
  4ZFqqWZ4juf8tWSn_Ok8tZEpg/viewform
@@ -1720,9 +1722,9 @@ BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
 DTSTART:20270608T150000Z
 DTEND:20270608T160000Z
-DTSTAMP:20261024T085707Z
+DTSTAMP:20261029T105746Z
 UID:635bb73c200d85eac1ac3db2@systemsmap.antlerboy.com
-SEQUENCE:6
+SEQUENCE:7
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
   London | 11:00 p.m. BeijingWhen: First Tuesday of every month Please logi
@@ -1732,11 +1734,8 @@ DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
  ovide a space to collaborate on the responsible integration of artifi\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
- i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-06-08/\nN
- o longer found in the latest source listing\; confirmation needed.\nThis e
- vent could not be rechecked on the latest collection. Confirm with the org
- aniser.
-LAST-MODIFIED:20261024T085707Z
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-06-08/
+LAST-MODIFIED:20261029T105746Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-06-08/
 STATUS:CONFIRMED

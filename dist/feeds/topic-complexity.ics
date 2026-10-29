@@ -666,9 +666,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261028T104020Z
+DTSTAMP:20261029T105746Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:68
+SEQUENCE:69
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -677,7 +677,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261028T104020Z
+LAST-MODIFIED:20261029T105746Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -985,9 +985,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261028T104020Z
+DTSTAMP:20261029T105746Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:47
+SEQUENCE:48
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -998,7 +998,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261028T104020Z
+LAST-MODIFIED:20261029T105746Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1536,9 +1536,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261028T104020Z
+DTSTAMP:20261029T105746Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:12
+SEQUENCE:13
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1548,7 +1548,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261028T104020Z
+LAST-MODIFIED:20261029T105746Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1725,7 +1725,9 @@ DESCRIPTION:Complexity Science Hub\nDoes the resilience of a policy networ
  n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/structur
  e-agency-and-systemic-resilience-how-network-structure-political-agency-an
  d-influence-mechanisms-shape-the-absorption-of-shocks-in-simulated-policy-
- networks/
+ networks/\nNo longer found in the latest source listing\; confirmation nee
+ ded.\nThis event could not be rechecked on the latest collection. Confirm 
+ with the organiser.
 LAST-MODIFIED:20261021T092622Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
@@ -1785,6 +1787,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/combining-system-dynamics-with-discre
  te-event-and-agent-based-methods-why-and-how/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern Portfolio Theory in the Crypto-Wilderness
+DTSTART:20261103T123000Z
+DTEND:20261103T130000Z
+DTSTAMP:20261029T105746Z
+UID:b17a713dfdc840606673647e@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\n\nLanguage: Not specified\nLanguage re
+ quirements: Not specified\nInterpretation: Not specified\nAccess: See orga
+ niser\nhttps://csh.ac.at/events/modern-portfolio-theory-in-the-crypto-wild
+ erness/
+LAST-MODIFIED:20261029T105746Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/modern-portfolio-theory-in-the-crypto-wildern
+ ess/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Art & Science with Markus Hofer & Peter Ertl: “The Characteristi
@@ -1959,6 +1980,30 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/webinar-community-based-system-dynami
  cs/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Omar Kharoti and the Cybernetics Society Education Committee)
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261029T105746Z
+UID:bd24a59a2d6f0fcb98402712@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking,Complexity
+DESCRIPTION:Omar Kharoti and the Cybernetics Society Education Committee\n
+ Who: Omar Kharoti and the Cybernetics Society Education Committee The Cybe
+ rnetics Society exists to advance education\, and in particular to advance
+  and spread knowledge of cybernetics\, both pure and applied. In this sess
+ ion\, Omar Kharoti and the Cybernetics Society Education Committee will in
+ troduce the work they have been developing over the past two years. Commit
+ tee members will then present the\nLanguage: Not specified\nLanguage requi
+ rements: Not specified\nInterpretation: Not specified\nAccess: See organis
+ er\nhttps://teamup.com/ksok8ra1xif3viq4no/events/2195664710\nDate-only lis
+ ting\; check the organiser for session times.
+LAST-MODIFIED:20261029T105746Z
+LOCATION:Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2195664710
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Systems Change in Practice: Lessons from the Field
@@ -2224,6 +2269,32 @@ TRANSP:TRANSPARENT
 URL:https://cssociety.org/event/a8ad6479-58ac-4e93-8807-cba7de02ccbe/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:11th BSLAB Symposium The end of “One World”: Systemic Conseque
+ nces of De-Globalization (BSLAB and Università di Napoli Federico II)
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270130
+DTSTAMP:20261029T105746Z
+UID:f3ec09002d3ce63e5040297f@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking,Complexity
+DESCRIPTION:BSLAB and Università di Napoli Federico II\nWho: BSLAB and Un
+ iversità di Napoli Federico II The Business Systems Laboratory Internatio
+ nal Symposia aim to address the major economic\, social\, technological\, 
+ environmental\, and geopolitical challenges of our time from a systemic pe
+ rspective\, shedding light on the complex interactions among natural\, soc
+ ial\, economic\, political\, and technological systems. These criticalitie
+ s and opportunities are\nLanguage: Not specified\nLanguage requirements: N
+ ot specified\nInterpretation: Not specified\nAccess: See organiser\nhttps:
+ //teamup.com/ksok8ra1xif3viq4no/events/2195686600\nDate-only listing\; che
+ ck the organiser for session times.
+LAST-MODIFIED:20261029T105746Z
+LOCATION:Università di Napoli "Federico II" via Partenope\, 36 - Napoli\,
+  Italy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2195686600
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Winter School 2027
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
@@ -2252,9 +2323,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261028T104020Z
+DTSTAMP:20261029T105746Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:11
+SEQUENCE:12
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -2265,7 +2336,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261028T104020Z
+LAST-MODIFIED:20261029T105746Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED

@@ -721,7 +721,9 @@ DESCRIPTION:Complexity Science Hub\nDoes the resilience of a policy networ
  n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/structur
  e-agency-and-systemic-resilience-how-network-structure-political-agency-an
  d-influence-mechanisms-shape-the-absorption-of-shocks-in-simulated-policy-
- networks/
+ networks/\nNo longer found in the latest source listing\; confirmation nee
+ ded.\nThis event could not be rechecked on the latest collection. Confirm 
+ with the organiser.
 LAST-MODIFIED:20261021T092622Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
@@ -755,6 +757,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/the-impact-of-network-structure-on-social-con
  tagion-and-neural-ode-generalization/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern Portfolio Theory in the Crypto-Wilderness
+DTSTART:20261103T123000Z
+DTEND:20261103T130000Z
+DTSTAMP:20261029T105746Z
+UID:b17a713dfdc840606673647e@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\n\nLanguage: Not specified\nLanguage re
+ quirements: Not specified\nInterpretation: Not specified\nAccess: See orga
+ niser\nhttps://csh.ac.at/events/modern-portfolio-theory-in-the-crypto-wild
+ erness/
+LAST-MODIFIED:20261029T105746Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/modern-portfolio-theory-in-the-crypto-wildern
+ ess/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Art & Science with Markus Hofer & Peter Ertl: “The Characteristi

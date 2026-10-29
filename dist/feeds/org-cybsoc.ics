@@ -32,9 +32,9 @@ BEGIN:VEVENT
 SUMMARY:Ashby\, Fuzzy\, and Me
 DTSTART:20261015T160000Z
 DTEND:20261015T180000Z
-DTSTAMP:20261028T104020Z
+DTSTAMP:20261029T105746Z
 UID:e86c94bf15bd90e1ab47f5ac@systemsmap.antlerboy.com
-SEQUENCE:19
+SEQUENCE:20
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:The Cybernetics Society (CybSoc)\nDr Steve Morlidge examines w
  hy matching regulatory variety is necessary but insufficient\, considering
@@ -44,10 +44,34 @@ DESCRIPTION:The Cybernetics Society (CybSoc)\nDr Steve Morlidge examines w
  m.us/meeting/register/P2vyZNSyQ4KAsPhCcICcbg\nDate\, time\, speaker\, and 
  Zoom registration checked against the organiser's event page on 15 October
   2026.
-LAST-MODIFIED:20261028T104020Z
+LAST-MODIFIED:20261029T105746Z
 LOCATION:Online via Zoom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://us06web.zoom.us/meeting/register/P2vyZNSyQ4KAsPhCcICcbg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Omar Kharoti and the Cybernetics Society Education Committee)
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261029T105746Z
+UID:bd24a59a2d6f0fcb98402712@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking,Complexity
+DESCRIPTION:Omar Kharoti and the Cybernetics Society Education Committee\n
+ Who: Omar Kharoti and the Cybernetics Society Education Committee The Cybe
+ rnetics Society exists to advance education\, and in particular to advance
+  and spread knowledge of cybernetics\, both pure and applied. In this sess
+ ion\, Omar Kharoti and the Cybernetics Society Education Committee will in
+ troduce the work they have been developing over the past two years. Commit
+ tee members will then present the\nLanguage: Not specified\nLanguage requi
+ rements: Not specified\nInterpretation: Not specified\nAccess: See organis
+ er\nhttps://teamup.com/ksok8ra1xif3viq4no/events/2195664710\nDate-only lis
+ ting\; check the organiser for session times.
+LAST-MODIFIED:20261029T105746Z
+LOCATION:Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2195664710
 END:VEVENT
 END:VCALENDAR
