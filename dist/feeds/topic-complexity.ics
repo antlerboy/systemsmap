@@ -666,9 +666,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261029T105746Z
+DTSTAMP:20261030T064053Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:69
+SEQUENCE:70
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -677,7 +677,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261029T105746Z
+LAST-MODIFIED:20261030T064053Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -985,9 +985,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261029T105746Z
+DTSTAMP:20261030T064053Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:48
+SEQUENCE:49
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -998,7 +998,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261029T105746Z
+LAST-MODIFIED:20261030T064053Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1536,9 +1536,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261029T105746Z
+DTSTAMP:20261030T064053Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:13
+SEQUENCE:14
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1548,7 +1548,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261029T105746Z
+LAST-MODIFIED:20261030T064053Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1808,6 +1808,25 @@ URL:https://csh.ac.at/events/modern-portfolio-theory-in-the-crypto-wildern
  ess/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Universal Structure in Disease Networks Across 60 Million Patients
+DTSTART:20261103T130000Z
+DTEND:20261103T133000Z
+DTSTAMP:20261030T064053Z
+UID:a9b698cc0c353b4348c934db@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\n\nLanguage: Not specified\nLanguage re
+ quirements: Not specified\nInterpretation: Not specified\nAccess: See orga
+ niser\nhttps://csh.ac.at/events/universal-structure-in-disease-networks-ac
+ ross-60-million-patients/
+LAST-MODIFIED:20261030T064053Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/universal-structure-in-disease-networks-acros
+ s-60-million-patients/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Art & Science with Markus Hofer & Peter Ertl: “The Characteristi
  cs of Viewing Conditions”
 DTSTART:20261103T183000Z
@@ -1886,20 +1905,20 @@ BEGIN:VEVENT
 SUMMARY:Geld. Macht. Vertrauen
 DTSTART:20261111T173000Z
 DTEND:20261111T190000Z
-DTSTAMP:20260924T092314Z
+DTSTAMP:20261030T064053Z
 UID:d90350f5afd769ab03f7d3b7@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub & Kunsthistorisches Museum Wien\nVon Kr
- oisos zu digitalen TokensEine Abendveranstaltung des Kunsthistorischen Mus
- eums Wien (Münzkabinett) und des Complexity Science Hub (CSH).Geld ist me
- hr als ein Tauschmittel: Es ist Träger von Macht\, Vertrauen und Informat
- ion. Das Münzkabinett des KHM beherbergt eine der bedeutendsten numismati
- schen Sammlungen der Welt. Der Complexity Science Hub untersucht digitale 
- Geld- und Zahlungssysteme wi\nLanguage: Not specified\nLanguage requiremen
+ oisos zu digitalen Tokens Eine Abendveranstaltung des Kunsthistorischen Mu
+ seums Wien (Münzkabinett) und des Complexity Science Hub (CSH).Geld ist m
+ ehr als ein Tauschmittel: Es ist Träger von Macht\, Vertrauen und Informa
+ tion. Das Münzkabinett des KHM beherbergt eine der bedeutendsten numismat
+ ischen Sammlungen der Welt. Der Complexity Science Hub untersucht digitale
+  Geld- und Zahlungssysteme w\nLanguage: Not specified\nLanguage requiremen
  ts: Not specified\nInterpretation: Not specified\nAccess: See organiser\nh
  ttps://csh.ac.at/events/geld-macht-vertrauen/
-LAST-MODIFIED:20260924T092314Z
+LAST-MODIFIED:20261030T064053Z
 LOCATION:Kunsthistorisches Museum Wien Maria-Theresien-Platz\, 1010 Wien
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1936,20 +1955,20 @@ BEGIN:VEVENT
 SUMMARY:How to Survive Doomsdays
 DTSTART:20261112T170000Z
 DTEND:20261112T183000Z
-DTSTAMP:20261024T085707Z
+DTSTAMP:20261030T064053Z
 UID:141854d1afc83679f856855e@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nOn the sense and nonsense of end-of-th
  e-world predictions In 1960\, Vienna-born physicist Heinz von Foerster and
   colleagues calculated the end of the world: 13 November 2026\, when popul
  ation would reach infinity. A deliberately provocative way to make a serio
  us point. We take the date as a cue to look at where population is really 
- heading\, and what that means for us. Welcome: Stefan Thurner Panel D\nLan
+ heading\, and what that means for us. We are looking forward to welco\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/public-pa
  nel-discussion-how-to-survive-doomsdays/
-LAST-MODIFIED:20261024T085707Z
+LAST-MODIFIED:20261030T064053Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2096,7 +2115,9 @@ DESCRIPTION:Complexity Science Hub\nCan you be both a scientist and an ent
  deas emerged\, and reflect on the opportunities and challenges they e\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/from-rese
- arch-to-entrepreneurship-exploring-career-paths-beyond-academia/
+ arch-to-entrepreneurship-exploring-career-paths-beyond-academia/\nNo longe
+ r found in the latest source listing\; confirmation needed.\nThis event co
+ uld not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261028T104020Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -2323,9 +2344,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261029T105746Z
+DTSTAMP:20261030T064053Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:12
+SEQUENCE:13
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -2336,7 +2357,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261029T105746Z
+LAST-MODIFIED:20261030T064053Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED
