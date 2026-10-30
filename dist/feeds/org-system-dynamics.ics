@@ -1117,6 +1117,32 @@ URL:https://systemdynamics.org/event/ai-in-system-dynamics-education-task-
  force-monthly-meeting-2/2026-11-10/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A System Dynamics Model of HPV Vaccinations Among Adolescent Boys 
+ in New York State
+DTSTART:20261112T160000Z
+DTEND:20261112T170000Z
+DTSTAMP:20261030T105534Z
+UID:a8beb6ca871e6e535acab8a9@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nWe are pleased to invite you to our n
+ ext Health Policy SIG live webinar featuring Jose Mazariego\, MPH\, Resear
+ ch Fellow and PhD Student in Epidemiology at the CUNY Graduate School of P
+ ublic Health and Health Policy. Jose received the 2026 Early Career Health
+  Researcher Award for this research at the International System Dynamics C
+ onference. In this session\, Jose will present a system dynamics model\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/
+ a-system-dynamics-model-of-hpv-vaccinations-among-adolescent-boys-in-new-y
+ ork-state/
+LAST-MODIFIED:20261030T105534Z
+LOCATION:https://us02web.zoom.us/j/88176855928
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/a-system-dynamics-model-of-hpv-vaccin
+ ations-among-adolescent-boys-in-new-york-state/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Webinar: Community-Based System Dynamics - from Principles to Prac
  tice
 DTSTART:20261117T010000Z
@@ -1183,6 +1209,58 @@ LOCATION:https://us02web.zoom.us/j/89954043089?pwd=1gUGprni0qTmsnAtgvw4LrT
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/sds-policy-council-november/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesson Planning Assistant – a tool to help make systems thinking
+  mainstream
+DTSTART:20261119T170000Z
+DTEND:20261119T180000Z
+DTSTAMP:20261030T105534Z
+UID:bf18e9b82c09a8dae273d913@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nDear Colleagues\, We invite you to th
+ e upcoming System Dynamics Society Pre-College Special Interest Group webi
+ nar focused on the “Lesson Planning Assistant”\, an application we hav
+ e been developing to help make systems thinking mainstream by supporting t
+ eachers in enriching their lesson plans with system dynamics tools. The as
+ sistant works through a conversation with the teacher. Step by step\, it b
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
+ ent/lesson-planning-assistant-a-tool-to-help-make-systems-thinking-mainstr
+ eam/
+LAST-MODIFIED:20261030T105534Z
+LOCATION:https://us02web.zoom.us/j/85100372258
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/lesson-planning-assistant-a-tool-to-h
+ elp-make-systems-thinking-mainstream/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesson Planning Assistant – a tool to help make systems thinking
+  mainstream
+DTSTART:20261120T040000Z
+DTEND:20261120T050000Z
+DTSTAMP:20261030T105534Z
+UID:5bcdf6ee2f4272af16ffa7b0@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nDear Colleagues\, We invite you to th
+ e upcoming System Dynamics Society Pre-College Special Interest Group webi
+ nar focused on the “Lesson Planning Assistant”\, an application we hav
+ e been developing to help make systems thinking mainstream by supporting t
+ eachers in enriching their lesson plans with system dynamics tools. The as
+ sistant works through a conversation with the teacher. Step by step\, it b
+ \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
+ ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
+ ent/lesson-planning-assistant-a-tool-to-help-make-systems-thinking-mainstr
+ eam-2/
+LAST-MODIFIED:20261030T105534Z
+LOCATION:https://us02web.zoom.us/j/85100372258
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/lesson-planning-assistant-a-tool-to-h
+ elp-make-systems-thinking-mainstream-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Systems Change in Practice: Lessons from the Field
@@ -1713,6 +1791,9 @@ DESCRIPTION:System Dynamics Society\nAuthors who are designated presenters
   be removed from the program.\nLanguage: Not specified\nLanguage requireme
  nts: Not specified\nInterpretation: Not specified\nAccess: See organiser\n
  https://systemdynamics.org/event/presenter-registration-deadline-isdc2027/
+ \nNo longer found in the latest source listing\; confirmation needed.\nThi
+ s event could not be rechecked on the latest collection. Confirm with the 
+ organiser.
 LAST-MODIFIED:20261023T092514Z
 LOCATION:Location not published
 STATUS:CONFIRMED
@@ -1736,7 +1817,10 @@ DESCRIPTION:System Dynamics Society\nTime: 11:00 a.m. New York | 4:00 p.m.
  ovide a space to collaborate on the responsible integration of artifi\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/a
- i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-06-08/
+ i-in-system-dynamics-education-task-force-monthly-meeting-2/2027-06-08/\nN
+ o longer found in the latest source listing\; confirmation needed.\nThis e
+ vent could not be rechecked on the latest collection. Confirm with the org
+ aniser.
 LAST-MODIFIED:20261029T105746Z
 LOCATION:https://systemdynamics.org/event/ai-in-system-dynamics-education-
  task-force-monthly-meeting-2/2027-06-08/
@@ -1761,7 +1845,9 @@ DESCRIPTION:System Dynamics Society\nSubmit conference materials to share
  ocumentation as appropriate) Presentation Slides (required for Short \nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/m
- aterial-submission-deadline-isdc2027/
+ aterial-submission-deadline-isdc2027/\nNo longer found in the latest sourc
+ e listing\; confirmation needed.\nThis event could not be rechecked on the
+  latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261030T064053Z
 LOCATION:United States\, United States
 STATUS:CONFIRMED
