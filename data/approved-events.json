@@ -1134,5 +1134,33 @@
         "url": "https://www.incose.org/events-education/event-calendar/"
       }
     ]
+  },
+  {
+    "title": "SCiO UK Virtual Open Meeting - November 2026",
+    "url": "https://www.systemspractice.org/events/scio-uk-virtual-open-meeting-november-2026",
+    "organiser": "SCiO UK",
+    "start": "2026-11-16T18:30:00+00:00",
+    "end": "2026-11-16T21:00:00+00:00",
+    "timezone": "Europe/London",
+    "location": "Online event",
+    "format": "online",
+    "topics": [
+      "systems",
+      "cybernetics"
+    ],
+    "language": "English",
+    "price": "FREE",
+    "access": "All welcome",
+    "description": "An online open meeting with presentations and discussion for systems practitioners and others. See the organiser’s page for current speaker and booking details.",
+    "notes": [
+      "Manually checked against the SCiO event page on 30 October 2026. Check the organiser for later changes."
+    ],
+    "discoverySources": [
+      {
+        "id": "scio",
+        "name": "SCiO — international chapters",
+        "url": "https://www.systemspractice.org/events/scio-uk-virtual-open-meeting-november-2026"
+      }
+    ]
   }
 ]
