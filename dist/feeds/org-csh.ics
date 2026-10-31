@@ -750,7 +750,9 @@ DESCRIPTION:Complexity Science Hub\nA complex system’s structure\, often
  t\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpre
  tation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/the
  -impact-of-network-structure-on-social-contagion-and-neural-ode-generaliza
- tion/
+ tion/\nNo longer found in the latest source listing\; confirmation needed.
+ \nThis event could not be rechecked on the latest collection. Confirm with
+  the organiser.
 LAST-MODIFIED:20261024T085707Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -781,15 +783,20 @@ BEGIN:VEVENT
 SUMMARY:Universal Structure in Disease Networks Across 60 Million Patients
 DTSTART:20261103T130000Z
 DTEND:20261103T133000Z
-DTSTAMP:20261030T064053Z
+DTSTAMP:20261031T102810Z
 UID:a9b698cc0c353b4348c934db@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
-DESCRIPTION:Complexity Science Hub\n\nLanguage: Not specified\nLanguage re
- quirements: Not specified\nInterpretation: Not specified\nAccess: See orga
- niser\nhttps://csh.ac.at/events/universal-structure-in-disease-networks-ac
- ross-60-million-patients/
-LAST-MODIFIED:20261030T064053Z
+DESCRIPTION:Complexity Science Hub\nThe global population is shifting towa
+ rd older age\, with increased life expectancy not necessarily translating 
+ into prolonged periods of good health. A significant proportion of these a
+ dditional years is defined by multiple chronic conditions - multimorbidity
+ . Uncovering and understanding the patterns of disease co-occurrence and p
+ rogression is therefore important for robust prevention strategies \nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/universal-s
+ tructure-in-disease-networks-across-60-million-patients/
+LAST-MODIFIED:20261031T102810Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -974,9 +981,9 @@ SUMMARY:From Research to Entrepreneurship: Exploring Career Paths Beyond A
  cademia
 DTSTART:20261125T143000Z
 DTEND:20261125T160000Z
-DTSTAMP:20261028T104020Z
+DTSTAMP:20261031T102810Z
 UID:a0b70c1cdcf1d05c69d5198a@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nCan you be both a scientist and an ent
  repreneur? What does it take to turn a research idea into a successful bus
@@ -986,10 +993,8 @@ DESCRIPTION:Complexity Science Hub\nCan you be both a scientist and an ent
  deas emerged\, and reflect on the opportunities and challenges they e\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/from-rese
- arch-to-entrepreneurship-exploring-career-paths-beyond-academia/\nNo longe
- r found in the latest source listing\; confirmation needed.\nThis event co
- uld not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20261028T104020Z
+ arch-to-entrepreneurship-exploring-career-paths-beyond-academia/
+LAST-MODIFIED:20261031T102810Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

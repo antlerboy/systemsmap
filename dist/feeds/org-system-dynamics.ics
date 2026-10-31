@@ -1212,24 +1212,24 @@ URL:https://systemdynamics.org/event/sds-policy-council-november/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lesson Planning Assistant – a tool to help make systems thinking
-  mainstream
+  mainstream (Africa / Americas / Europe)
 DTSTART:20261119T170000Z
 DTEND:20261119T180000Z
-DTSTAMP:20261030T105534Z
+DTSTAMP:20261031T102810Z
 UID:bf18e9b82c09a8dae273d913@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:System dynamics
 DESCRIPTION:System Dynamics Society\nDear Colleagues\, We invite you to th
- e upcoming System Dynamics Society Pre-College Special Interest Group webi
- nar focused on the “Lesson Planning Assistant”\, an application we hav
- e been developing to help make systems thinking mainstream by supporting t
- eachers in enriching their lesson plans with system dynamics tools. The as
- sistant works through a conversation with the teacher. Step by step\, it b
- \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
- ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
- ent/lesson-planning-assistant-a-tool-to-help-make-systems-thinking-mainstr
- eam/
-LAST-MODIFIED:20261030T105534Z
+ e upcoming System Dynamics Society Pre-College Special Interest Group meet
+ ing focused on the Lesson Planning Assistant\, an application we have been
+  developing to help make systems thinking mainstream by supporting teacher
+ s in enriching their lesson plans with system dynamics tools. The assistan
+ t works through a conversation with the teacher\, in the teacher’s own\n
+ Language: Not specified\nLanguage requirements: Not specified\nInterpretat
+ ion: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/even
+ t/lesson-planning-assistant-a-tool-to-help-make-systems-thinking-mainstrea
+ m/
+LAST-MODIFIED:20261031T102810Z
 LOCATION:https://us02web.zoom.us/j/85100372258
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1254,8 +1254,36 @@ DESCRIPTION:System Dynamics Society\nDear Colleagues\, We invite you to th
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
  ent/lesson-planning-assistant-a-tool-to-help-make-systems-thinking-mainstr
- eam-2/
+ eam-2/\nNo longer found in the latest source listing\; confirmation needed
+ .\nThis event could not be rechecked on the latest collection. Confirm wit
+ h the organiser.
 LAST-MODIFIED:20261030T105534Z
+LOCATION:https://us02web.zoom.us/j/85100372258
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://systemdynamics.org/event/lesson-planning-assistant-a-tool-to-h
+ elp-make-systems-thinking-mainstream-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesson Planning Assistant – a tool to help make systems thinking
+  mainstream (Asia / Pacific)
+DTSTART:20261120T050000Z
+DTEND:20261120T060000Z
+DTSTAMP:20261031T102810Z
+UID:758e49fd83cef04380a8a47c@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:System dynamics
+DESCRIPTION:System Dynamics Society\nDear Colleagues\, We invite you to th
+ e upcoming System Dynamics Society Pre-College Special Interest Group meet
+ ing focused on the Lesson Planning Assistant\, an application we have been
+  developing to help make systems thinking mainstream by supporting teacher
+ s in enriching their lesson plans with system dynamics tools. The assistan
+ t works through a conversation with the teacher\, in the teacher’s own\n
+ Language: Not specified\nLanguage requirements: Not specified\nInterpretat
+ ion: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/even
+ t/lesson-planning-assistant-a-tool-to-help-make-systems-thinking-mainstrea
+ m-2/
+LAST-MODIFIED:20261031T102810Z
 LOCATION:https://us02web.zoom.us/j/85100372258
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

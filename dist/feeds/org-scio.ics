@@ -76,9 +76,9 @@ BEGIN:VEVENT
 SUMMARY:Making relational\, place-based public services ordinary
 DTSTART:20260921T124500Z
 DTEND:20260921T141500Z
-DTSTAMP:20261030T105534Z
+DTSTAMP:20261031T102810Z
 UID:8c00d12aaf979855624fa772@systemsmap.antlerboy.com
-SEQUENCE:71
+SEQUENCE:72
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:SCiO / SysPrac26\nBenjamin Taylor's workshop at SysPrac26. Con
  ference booking required.\nLanguage: Not specified\nLanguage requirements:
@@ -86,7 +86,7 @@ DESCRIPTION:SCiO / SysPrac26\nBenjamin Taylor's workshop at SysPrac26. Con
  s://www.systemspractice.org/Schedule26\nPresenter withdrew from the confer
  ence session\; organiser's follow-up offers separate online workshops. Che
  cked 7 October 2026.
-LAST-MODIFIED:20261030T105534Z
+LAST-MODIFIED:20261031T102810Z
 LOCATION:LR4\, Vincent Building\, Cranfield University\, United Kingdom
 STATUS:CANCELLED
 TRANSP:TRANSPARENT
@@ -285,6 +285,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.systemspractice.org/events/scio-uk-virtual-open-meeting-no
  vember-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Systemowy krajobraz praktyk – co nas łączy\, co nas różni?
+DTSTART:20261119T170000Z
+DTEND:20261119T183000Z
+DTSTAMP:20261031T102810Z
+UID:fbc7a831d00b92c704c83420@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics
+DESCRIPTION:SCiO Polska\n\nGeographic focus: Poland\nLanguage: Polish\nLan
+ guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
+ All welcome\nhttps://www.systemspractice.org/events/systemowy-krajobraz-pr
+ aktyk-co-nas-laczy-co-nas-rozni
+LAST-MODIFIED:20261031T102810Z
+LOCATION:Online event
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.systemspractice.org/events/systemowy-krajobraz-praktyk-co-
+ nas-laczy-co-nas-rozni
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCiO UK Virtual Development Event - December 2026

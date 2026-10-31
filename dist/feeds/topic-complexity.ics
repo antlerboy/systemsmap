@@ -666,9 +666,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261030T105534Z
+DTSTAMP:20261031T102810Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:71
+SEQUENCE:72
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -677,7 +677,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261030T105534Z
+LAST-MODIFIED:20261031T102810Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -985,9 +985,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261030T105534Z
+DTSTAMP:20261031T102810Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:50
+SEQUENCE:51
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -998,7 +998,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261030T105534Z
+LAST-MODIFIED:20261031T102810Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1536,9 +1536,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261030T105534Z
+DTSTAMP:20261031T102810Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:15
+SEQUENCE:16
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1548,7 +1548,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261030T105534Z
+LAST-MODIFIED:20261031T102810Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1754,7 +1754,9 @@ DESCRIPTION:Complexity Science Hub\nA complex system’s structure\, often
  t\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpre
  tation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/the
  -impact-of-network-structure-on-social-contagion-and-neural-ode-generaliza
- tion/
+ tion/\nNo longer found in the latest source listing\; confirmation needed.
+ \nThis event could not be rechecked on the latest collection. Confirm with
+  the organiser.
 LAST-MODIFIED:20261024T085707Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1811,15 +1813,20 @@ BEGIN:VEVENT
 SUMMARY:Universal Structure in Disease Networks Across 60 Million Patients
 DTSTART:20261103T130000Z
 DTEND:20261103T133000Z
-DTSTAMP:20261030T064053Z
+DTSTAMP:20261031T102810Z
 UID:a9b698cc0c353b4348c934db@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
-DESCRIPTION:Complexity Science Hub\n\nLanguage: Not specified\nLanguage re
- quirements: Not specified\nInterpretation: Not specified\nAccess: See orga
- niser\nhttps://csh.ac.at/events/universal-structure-in-disease-networks-ac
- ross-60-million-patients/
-LAST-MODIFIED:20261030T064053Z
+DESCRIPTION:Complexity Science Hub\nThe global population is shifting towa
+ rd older age\, with increased life expectancy not necessarily translating 
+ into prolonged periods of good health. A significant proportion of these a
+ dditional years is defined by multiple chronic conditions - multimorbidity
+ . Uncovering and understanding the patterns of disease co-occurrence and p
+ rogression is therefore important for robust prevention strategies \nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/universal-s
+ tructure-in-disease-networks-across-60-million-patients/
+LAST-MODIFIED:20261031T102810Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2103,9 +2110,9 @@ SUMMARY:From Research to Entrepreneurship: Exploring Career Paths Beyond A
  cademia
 DTSTART:20261125T143000Z
 DTEND:20261125T160000Z
-DTSTAMP:20261028T104020Z
+DTSTAMP:20261031T102810Z
 UID:a0b70c1cdcf1d05c69d5198a@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nCan you be both a scientist and an ent
  repreneur? What does it take to turn a research idea into a successful bus
@@ -2115,10 +2122,8 @@ DESCRIPTION:Complexity Science Hub\nCan you be both a scientist and an ent
  deas emerged\, and reflect on the opportunities and challenges they e\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/from-rese
- arch-to-entrepreneurship-exploring-career-paths-beyond-academia/\nNo longe
- r found in the latest source listing\; confirmation needed.\nThis event co
- uld not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20261028T104020Z
+ arch-to-entrepreneurship-exploring-career-paths-beyond-academia/
+LAST-MODIFIED:20261031T102810Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2344,9 +2349,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261030T105534Z
+DTSTAMP:20261031T102810Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:14
+SEQUENCE:15
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -2357,7 +2362,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261030T105534Z
+LAST-MODIFIED:20261031T102810Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED
