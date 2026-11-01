@@ -444,12 +444,275 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nEn rais
  s séances en fonction de la durée du mouvement étudiant.\nLanguage: Not
   specified\nLanguage requirements: Not specified\nInterpretation: Not spec
  ified\nAccess: See organiser\nhttps://iscpif.fr/evenements/repetition-chor
- ale-du-cnrs/\nSource could not be fully rechecked.\nThis event could not b
- e rechecked on the latest collection. Confirm with the organiser.
+ ale-du-cnrs/\nSource could not be fully rechecked.\nNo longer found in the
+  latest source listing\; confirmation needed.\nThis event could not be rec
+ hecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261020T093032Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://iscpif.fr/evenements/repetition-chorale-du-cnrs/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journées SINP
+DTSTART:20261102T070000Z
+DTEND:20261105T150000Z
+DTSTAMP:20261101T112259Z
+UID:58d03c4d118c3de5be3d43d3@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/journee
+ s-sinp/
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/journees-sinp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Répétition chorale du CNRS
+DTSTART:20261105T163000Z
+DTEND:20261105T190000Z
+DTSTAMP:20261101T112259Z
+UID:21f2b7b545c1afe8e04d88b8@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nRépét
+ ition chorale du CNRS à la suite de la fermeture de l’Université\, not
+ re précédent lieu de répétition.\nLanguage: Not specified\nLanguage re
+ quirements: Not specified\nInterpretation: Not specified\nAccess: See orga
+ niser\nhttps://iscpif.fr/evenements/repetition-chorale-du-cnrs-2/
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/repetition-chorale-du-cnrs-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Académie européenne de sociologie
+DTSTART:20261106T130000Z
+DTEND:20261106T150000Z
+DTSTAMP:20261101T112259Z
+UID:dbd5c4bf5f3661297fbd6954@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nCette r
+ éunion de l’Académie européenne de sociologie se centre sur l’analy
+ se de réseaux\, un domaine générique de la recherche sur les systèmes 
+ complexes.\nLanguage: Not specified\nLanguage requirements: Not specified
+ \nInterpretation: Not specified\nAccess: See organiser\nhttps://iscpif.fr/
+ evenements/academie-europeenne-de-sociologie/
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/academie-europeenne-de-sociologie/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evenement privé
+DTSTART:20261109T073000Z
+DTEND:20261113T143000Z
+DTSTAMP:20261101T112259Z
+UID:e34936afae944b6640c4f450@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/journee
+ s-du-reseau-modstatsap/
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/journees-du-reseau-modstatsap/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Férié
+DTSTART:20261111T060000Z
+DTEND:20261111T150000Z
+DTSTAMP:20261101T112259Z
+UID:3c4dcfe4f685b9509fc0cc19@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/ferie-1
+ 0/
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/ferie-10/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artpoint
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261101T112259Z
+UID:155de7021654ddb252f71aca@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/artpoin
+ t-4/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/artpoint-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:reunion du projet ANR microCOMOS
+DTSTART:20261119T070000Z
+DTEND:20261119T160000Z
+DTSTAMP:20261101T112259Z
+UID:d98901f20f8a102037776b02@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nreunion
+  de tache https://microcosmos.rennes.hub.inrae.fr/\nLanguage: Not specifie
+ d\nLanguage requirements: Not specified\nInterpretation: Not specified\nAc
+ cess: See organiser\nhttps://iscpif.fr/evenements/reunion-du-projet-anr-mi
+ crocomos/
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/reunion-du-projet-anr-microcomos/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artpoint
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20261101T112259Z
+UID:fbcec4ce88aa13492c3c2622@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/artpoin
+ t-5/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/artpoint-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artpoint
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261101T112259Z
+UID:16bcf0219878654b1225ec48@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/artpoin
+ t-2/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/artpoint-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exmodelo
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261101T112259Z
+UID:8a22a3462354209241e6ecf4@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/exmodel
+ o-3/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/exmodelo-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exmodelo
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261101T112259Z
+UID:87b60aeec0abb26e6c904cc3@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/exmodel
+ o-4/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/exmodelo-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hackathon ATLASEA nov 2026
+DTSTART:20261125T110000Z
+DTEND:20261127T100000Z
+DTSTAMP:20261101T112259Z
+UID:5ddc7eef4f89c63216be1273@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nLe Hack
+ athon ATLASEA rassemble l’ensemble des acteurs impliqués dans le dével
+ oppement des systèmes d’information du PEPR. Le hackathon vise plusieur
+ s objectifs techniques et organisationnels centrés sur la gestion des don
+ nées génomiques et l’infrastructure du projet. Les principaux objectif
+ s concernent la gestion et l’harmonisation des données\, le développem
+ ent et l’optimisation des flux de donnée\nLanguage: Not specified\nLang
+ uage requirements: Not specified\nInterpretation: Not specified\nAccess: S
+ ee organiser\nhttps://iscpif.fr/evenements/hackathon-atlasea-nov-2026/
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/hackathon-atlasea-nov-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artpoint
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261101T112259Z
+UID:0306387a1bfec045083ef3e8@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/artpoin
+ t-3/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/artpoint-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Séminaire interne Plateforme IDEAS
+DTSTART:20261127T073000Z
+DTEND:20261127T160000Z
+DTSTAMP:20261101T112259Z
+UID:2f813fde9578690204f9062c@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nSémina
+ ire de réflexion sur des scénarios prospectifs\nLanguage: Not specified
+ \nLanguage requirements: Not specified\nInterpretation: Not specified\nAcc
+ ess: See organiser\nhttps://iscpif.fr/evenements/seminaire-interne-platefo
+ rme-ideas/
+LAST-MODIFIED:20261101T112259Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/seminaire-interne-plateforme-ideas/
 END:VEVENT
 END:VCALENDAR
