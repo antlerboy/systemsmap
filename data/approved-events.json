@@ -1162,5 +1162,65 @@
         "url": "https://www.systemspractice.org/events/scio-uk-virtual-open-meeting-november-2026"
       }
     ]
+  },
+  {
+    "title": "A relational services journey: the Surrey System Conveners team’s story",
+    "url": "https://us06web.zoom.us/meeting/register/6vXIk-eJSRKWNrRliduULA",
+    "organiser": "Systems Convening community / Matthew Mezey",
+    "location": "Online (Zoom)",
+    "topics": [
+      "systems",
+      "relational-public-services"
+    ],
+    "format": "online",
+    "language": "English",
+    "languageRequirement": "",
+    "interpretation": "",
+    "access": "All welcome; Zoom registration required",
+    "price": "See organiser",
+    "audienceCountries": [],
+    "audienceRegions": [],
+    "kind": "event",
+    "description": "Liz Williams shares Surrey’s NHS/local-authority System Convening team’s experience. Main session 13:00–14:00 GMT; optional relational services community-of-practice conversation 14:00–15:00 GMT. Questions and discussion.",
+    "start": "2026-11-09T13:00:00+00:00",
+    "end": "2026-11-09T14:00:00+00:00",
+    "timezone": "Europe/London",
+    "uid": "surrey-system-conveners-2026-11-09",
+    "submission": "https://github.com/antlerboy/PSTA/issues/2#issuecomment-6563269112",
+    "notes": [
+      "Organiser’s live Zoom registration and full community invitation checked 2 November 2026. Calendar entry covers the main hour; staying until 15:00 GMT for the community-of-practice discussion is optional."
+    ]
+  },
+  {
+    "title": "Pratiche di complessità - Lab con Luca Ferri",
+    "url": "https://www.eventbrite.it/e/biglietti-pratiche-di-complessita-lab-con-luca-ferri-2004191487691",
+    "organiser": "Complexity Institute, in collaboration with Nested srl Società Benefit",
+    "location": "Online",
+    "topics": [
+      "complexity"
+    ],
+    "format": "online",
+    "language": "Italian",
+    "languageRequirement": "Italian-language event; no interpretation advertised",
+    "interpretation": "",
+    "access": "Reserved for the Complexity Institute Community; membership and Eventbrite registration required",
+    "price": "Free ticket; Community membership terms apply",
+    "audienceCountries": [
+      "Italy"
+    ],
+    "audienceRegions": [],
+    "kind": "event",
+    "description": "Sbaglia di più, sbaglia meglio: l’etica dell’errore nelle organizzazioni complesse. The 19th Pratiche di Complessità laboratory, led by Luca Ferri, explores errors, psychological safety and responsibility through organisational examples and practical work. Reserved for the Institute’s Community.",
+    "start": "2026-11-17T17:30:00+01:00",
+    "end": "2026-11-17T19:30:00+01:00",
+    "timezone": "Europe/Rome",
+    "uid": "complexity-institute-luca-ferri-2026-11-17",
+    "submission": "https://www.facebook.com/events/2270023763548357/",
+    "publicSubmissionIds": [
+      "1000d603-c215-422c-8ad9-79b70106633e"
+    ],
+    "notes": [
+      "Public organiser Facebook event and linked Eventbrite page checked 2 November 2026: both display 16:30–18:30 GMT, equivalent to 17:30–19:30 Europe/Rome. Public event visibility does not remove the stated Community-membership restriction."
+    ]
   }
 ]

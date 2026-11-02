@@ -12,6 +12,15 @@ def main():
     old=json.loads(path.read_text()) if path.exists() else {'submissions':[]}
     entries={r['id']:r for r in old['submissions']}
     published={e['url'].rstrip('/') for e in json.loads((ROOT/'dist/data/events.json').read_text())['events']}
+    # A reviewed submission may use a cleaner organiser/registration URL on the map.
+    # Match its durable inbox ID only after that approved event is actually present.
+    approvals=ROOT/'data/approved-events.json'
+    published_submissions={
+        key: e['url']
+        for e in (json.loads(approvals.read_text()) if approvals.exists() else [])
+        if e['url'].rstrip('/') in published
+        for key in e.get('publicSubmissionIds',[])
+    }
     try:
         offset=0;incoming=[]
         for _ in range(25):
@@ -23,8 +32,10 @@ def main():
     remaining=20
     for row in incoming:
         key=row['id'];known=entries.get(key)
-        if row['url'].rstrip('/') in published:
-            entries[key]={**row,'status':'published'};continue
+        if row['url'].rstrip('/') in published or key in published_submissions:
+            entries[key]={**row,'status':'published'}
+            if key in published_submissions:entries[key]['publishedUrl']=published_submissions[key]
+            continue
         if known and known.get('status') in ('extracted','needs-review','reading-resource'):continue
         if remaining<=0:
             entries.setdefault(key,{**row,'status':'awaiting-extraction'});continue
