@@ -2,17 +2,17 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 303
+    "events": 305
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 102
+    "events": 104
   },
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 134
+    "events": 135
   },
   {
     "id": "topic-cybernetics",
@@ -22,7 +22,7 @@
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 112
+    "events": 113
   },
   {
     "id": "topic-system-dynamics",
@@ -37,7 +37,7 @@
   {
     "id": "topic-relational-public-services",
     "name": "Relational public services",
-    "events": 21
+    "events": 22
   },
   {
     "id": "org-scio",

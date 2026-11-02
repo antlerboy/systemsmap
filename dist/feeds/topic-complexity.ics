@@ -670,9 +670,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261101T112259Z
+DTSTAMP:20261102T085153Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:73
+SEQUENCE:74
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -681,7 +681,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261101T112259Z
+LAST-MODIFIED:20261102T085153Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -989,9 +989,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261101T112259Z
+DTSTAMP:20261102T085153Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:52
+SEQUENCE:53
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -1002,7 +1002,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261101T112259Z
+LAST-MODIFIED:20261102T085153Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1540,9 +1540,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261101T112259Z
+DTSTAMP:20261102T085153Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:17
+SEQUENCE:18
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1552,7 +1552,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261101T112259Z
+LAST-MODIFIED:20261102T085153Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2150,6 +2150,35 @@ URL:https://systemdynamics.org/event/webinar-community-based-system-dynami
  cs/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pratiche di complessità - Lab con Luca Ferri
+DTSTART:20261117T163000Z
+DTEND:20261117T183000Z
+DTSTAMP:20261102T085153Z
+UID:216378575b2bb595eb4ff76f@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Institute\, in collaboration with Nested srl Societ
+ à Benefit\nSbaglia di più\, sbaglia meglio: l’etica dell’errore nell
+ e organizzazioni complesse. The 19th Pratiche di Complessità laboratory\,
+  led by Luca Ferri\, explores errors\, psychological safety and responsibi
+ lity through organisational examples and practical work. Reserved for the 
+ Institute’s Community.\nGeographic focus: Italy\nLanguage: Italian\nLang
+ uage requirements: Italian-language event\; no interpretation advertised\n
+ Interpretation: Not specified\nAccess: Reserved for the Complexity Institu
+ te Community\; membership and Eventbrite registration required\nhttps://ww
+ w.eventbrite.it/e/biglietti-pratiche-di-complessita-lab-con-luca-ferri-200
+ 4191487691\nPublic organiser Facebook event and linked Eventbrite page che
+ cked 2 November 2026: both display 16:30–18:30 GMT\, equivalent to 17:30
+ –19:30 Europe/Rome. Public event visibility does not remove the stated C
+ ommunity-membership restriction.
+LAST-MODIFIED:20261102T085153Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.eventbrite.it/e/biglietti-pratiche-di-complessita-lab-con-
+ luca-ferri-2004191487691
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:(Omar Kharoti and the Cybernetics Society Education Committee)
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
@@ -2275,20 +2304,20 @@ SUMMARY:WEdnesday SALON – When to Trust AI and When to Think for Ourselv
  es
 DTSTART:20261123T180000Z
 DTEND:20261123T192000Z
-DTSTAMP:20261028T104020Z
+DTSTAMP:20261102T085153Z
 UID:c58d30077f596439a12f9271@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nStaying smart in a smart world. From d
  ating apps to self-driving cars\, AI promises to make life easier and deci
  sions better. But what can algorithms really do – and when should we tru
- st our own judgment? Join Gerd Gigerenzer (exceptionally not on a WEdnesda
- y but on a Monday) for a look at AI hype\, human intelligence\, and why si
- mple rules can sometimes outperform complex systems. Artificial intelli\nL
- anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
- on: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednesd
- ay-salon-with-gerd-gigerenzer/
-LAST-MODIFIED:20261028T104020Z
+ st our own judgment? ❗️ PLEASE NOTE: This edition will\, exceptionally
+ \, take place on a Monday.Join Gerd Gigerenzer for a look at AI hype\, hum
+ an intelligence\, and why simple rules can sometimes outperform complex sy
+ ste\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
+ retation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/w
+ ednesday-salon-with-gerd-gigerenzer/
+LAST-MODIFIED:20261102T085153Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2642,9 +2671,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261101T112259Z
+DTSTAMP:20261102T085153Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:16
+SEQUENCE:17
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -2655,7 +2684,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261101T112259Z
+LAST-MODIFIED:20261102T085153Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED

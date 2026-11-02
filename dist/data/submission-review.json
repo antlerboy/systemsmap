@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-01T11:23:39+00:00",
+  "checkedAt": "2026-11-02T08:52:55+00:00",
   "submissions": [
     {
       "id": "af54c356-c0b6-4732-bcbe-e868d622e5b2",
@@ -97,6 +97,17 @@
       ],
       "status": "needs-review",
       "checkedAt": "2026-10-28T10:41:17+00:00"
+    },
+    {
+      "id": "1000d603-c215-422c-8ad9-79b70106633e",
+      "url": "https://www.facebook.com/events/2270023763548357/?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&notif_id=1793557453620564&notif_t=plan_user_invited&ref=notif",
+      "proposal": {
+        "kind": "auto",
+        "url": "https://www.facebook.com/events/2270023763548357/?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&notif_id=1793557453620564&notif_t=plan_user_invited&ref=notif"
+      },
+      "createdAt": "2026-11-01T20:32:54.106Z",
+      "status": "published",
+      "publishedUrl": "https://www.eventbrite.it/e/biglietti-pratiche-di-complessita-lab-con-luca-ferri-2004191487691"
     }
   ]
 }
