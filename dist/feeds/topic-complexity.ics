@@ -6,34 +6,6 @@ X-WR-CALNAME:Complexity
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:System Dynamics Learning Hub 2026 – SASDC – Stream 3 (Pollutio
- n Dynamics): Session 1
-DTSTART:20260804T160000Z
-DTEND:20260804T180000Z
-DTSTAMP:20260910T090026Z
-UID:0cecb3891ffc6ed35f46caa1@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:System dynamics,Complexity
-DESCRIPTION:The South Africa System Dynamics Chapter (SASDC)\n<p>The Learn
- ing Hub is an interactive\, hands-on learning experience that will help yo
- u explore the behaviour of complex systems through guided exercises and di
- scussions. Held in 4 streams throughout the year\, the Hub provides a stru
- ctured and engaging environment to deepen your understanding of system dyn
- amics through practical applications for all skill levels. The process [
- …]</p>\\n\nLanguage: Not specified\nLanguage requirements: Not specified
- \nInterpretation: Not specified\nAccess: See organiser\nhttps://systemdyna
- mics.org/event/system-dynamics-learning-hub-2026-sasdc-stream-3-pollution-
- dynamics-session-1/\nNo longer found in the latest source listing\; confir
- mation needed.\nSource could not be fully rechecked.\nThis event could not
-  be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260910T090026Z
-LOCATION:Location not published
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://systemdynamics.org/event/system-dynamics-learning-hub-2026-sas
- dc-stream-3-pollution-dynamics-session-1/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Social Simulation Conference 2026
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260829
@@ -670,9 +642,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261102T123823Z
+DTSTAMP:20261103T120418Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:75
+SEQUENCE:76
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -681,7 +653,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261102T123823Z
+LAST-MODIFIED:20261103T120418Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -989,9 +961,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261102T123823Z
+DTSTAMP:20261103T120418Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:54
+SEQUENCE:55
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -1002,7 +974,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261102T123823Z
+LAST-MODIFIED:20261103T120418Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1424,9 +1396,9 @@ DESCRIPTION:System Dynamics Society\nThe Integrated Sustainable Developmen
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event/
  the-isd-model-from-millenium-institute-a-sustainable-development-simulator
- /\nNo longer found in the latest source listing\; confirmation needed.\nTh
- is event could not be rechecked on the latest collection. Confirm with the
-  organiser.
+ /\nNo longer found in the latest source listing\; confirmation needed.\nSo
+ urce could not be fully rechecked.\nThis event could not be rechecked on t
+ he latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261002T103500Z
 LOCATION:https://us02web.zoom.us/j/83989986859
 STATUS:CONFIRMED
@@ -1472,8 +1444,8 @@ DESCRIPTION:System Dynamics Society\nWelcome to the next Chapter meeting!
  etation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/
  event/the-earth-has-humans-but-what-kind-endogenizing-behaviour-in-climate
  -models/\nNo longer found in the latest source listing\; confirmation need
- ed.\nThis event could not be rechecked on the latest collection. Confirm w
- ith the organiser.
+ ed.\nSource could not be fully rechecked.\nThis event could not be recheck
+ ed on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261001T110212Z
 LOCATION:https://kth-se.zoom.us/j/62254134636
 STATUS:CONFIRMED
@@ -1540,9 +1512,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261102T123823Z
+DTSTAMP:20261103T120418Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:19
+SEQUENCE:20
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1552,7 +1524,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261102T123823Z
+LAST-MODIFIED:20261103T120418Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1646,9 +1618,9 @@ DESCRIPTION:System Dynamics Society\nTuesday\, October 27 at 11 am New Yor
  n a\nLanguage: Not specified\nLanguage requirements: Not specified\nInterp
  retation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org
  /event/implementing-the-self-managing-enterprise-with-agentic-ai/\nNo long
- er found in the latest source listing\; confirmation needed.\nThis event c
- ould not be rechecked on the latest collection. Confirm with the organiser
- .
+ er found in the latest source listing\; confirmation needed.\nSource could
+  not be fully rechecked.\nThis event could not be rechecked on the latest 
+ collection. Confirm with the organiser.
 LAST-MODIFIED:20260922T092210Z
 LOCATION:https://us02web.zoom.us/j/87049920798
 STATUS:CONFIRMED
@@ -1805,7 +1777,8 @@ DESCRIPTION:System Dynamics Society\nNovember 3\, 2026 at 11 am New York |
  anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
  on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
  /combining-system-dynamics-with-discrete-event-and-agent-based-methods-why
- -and-how/
+ -and-how/\nSource could not be fully rechecked.\nThis event could not be r
+ echecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261014T093553Z
 LOCATION:https://us02web.zoom.us/j/81778033881
 STATUS:CONFIRMED
@@ -1817,16 +1790,21 @@ BEGIN:VEVENT
 SUMMARY:Modern Portfolio Theory in the Crypto-Wilderness
 DTSTART:20261103T123000Z
 DTEND:20261103T130000Z
-DTSTAMP:20261029T105746Z
+DTSTAMP:20261103T120418Z
 UID:b17a713dfdc840606673647e@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
-DESCRIPTION:Complexity Science Hub\n\nLanguage: Not specified\nLanguage re
- quirements: Not specified\nInterpretation: Not specified\nAccess: See orga
- niser\nhttps://csh.ac.at/events/modern-portfolio-theory-in-the-crypto-wild
- erness/
-LAST-MODIFIED:20261029T105746Z
-LOCATION:CSH Salon
+DESCRIPTION:Complexity Science Hub\nModern portfolio theory (MPT) prescrib
+ es how investors should allocate their wealth to obtain the highest expect
+ ed return for a given level of risk. Whether real investors follow this pr
+ escription\, and whether doing so pays off\, is hard to test at scale\, be
+ cause individual holdings in traditional markets are largely private. Publ
+ ic blockchains remove this barrier: every transfer is recorded openly\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/modern-po
+ rtfolio-theory-in-the-crypto-wilderness/
+LAST-MODIFIED:20261103T120418Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/modern-portfolio-theory-in-the-crypto-wildern
@@ -1836,9 +1814,9 @@ BEGIN:VEVENT
 SUMMARY:Universal Structure in Disease Networks Across 60 Million Patients
 DTSTART:20261103T130000Z
 DTEND:20261103T133000Z
-DTSTAMP:20261031T102810Z
+DTSTAMP:20261103T120418Z
 UID:a9b698cc0c353b4348c934db@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nThe global population is shifting towa
  rd older age\, with increased life expectancy not necessarily translating 
@@ -1849,8 +1827,8 @@ DESCRIPTION:Complexity Science Hub\nThe global population is shifting towa
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/universal-s
  tructure-in-disease-networks-across-60-million-patients/
-LAST-MODIFIED:20261031T102810Z
-LOCATION:CSH Salon
+LAST-MODIFIED:20261103T120418Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/universal-structure-in-disease-networks-acros
@@ -2141,7 +2119,9 @@ DESCRIPTION:System Dynamics Society\nThe Oceania Chapter of the System Dyn
  namics modelling with participatory approaches that centre the knowledg\nL
  anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
  on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
- /webinar-community-based-system-dynamics/
+ /webinar-community-based-system-dynamics/\nSource could not be fully reche
+ cked.\nThis event could not be rechecked on the latest collection. Confirm
+  with the organiser.
 LAST-MODIFIED:20261021T092622Z
 LOCATION:https://uni-sydney.zoom.us/j/83804988911
 STATUS:CONFIRMED
@@ -2153,9 +2133,9 @@ BEGIN:VEVENT
 SUMMARY:Pratiche di complessità - Lab con Luca Ferri
 DTSTART:20261117T163000Z
 DTEND:20261117T183000Z
-DTSTAMP:20261102T123823Z
+DTSTAMP:20261103T120418Z
 UID:216378575b2bb595eb4ff76f@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Institute\, in collaboration with Nested srl Societ
  à Benefit\nSbaglia di più\, sbaglia meglio: l’etica dell’errore nell
@@ -2171,7 +2151,7 @@ DESCRIPTION:Complexity Institute\, in collaboration with Nested srl Societ
  cked 2 November 2026: both display 16:30–18:30 GMT\, equivalent to 17:30
  –19:30 Europe/Rome. Public event visibility does not remove the stated C
  ommunity-membership restriction.
-LAST-MODIFIED:20261102T123823Z
+LAST-MODIFIED:20261103T120418Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2291,7 +2271,9 @@ DESCRIPTION:System Dynamics Society\nSystems Sparks Practitioner Series Th
  nt to help participants deepen their practice\, sharpen their judgment in
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
- ent/systems-change-in-practice-lessons-from-the-field/
+ ent/systems-change-in-practice-lessons-from-the-field/\nSource could not b
+ e fully rechecked.\nThis event could not be rechecked on the latest collec
+ tion. Confirm with the organiser.
 LAST-MODIFIED:20261028T104020Z
 LOCATION:https://us02web.zoom.us/j/82588978553
 STATUS:CONFIRMED
@@ -2340,7 +2322,9 @@ DESCRIPTION:System Dynamics Society\nNovember 24\, 2026 at 11 am NY | 4 pm
  s this question by enabling users to map\, explore\, and analyse complex 
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
- ent/the-next-generation-of-systems-mapping-from-insight-to-intervention/
+ ent/the-next-generation-of-systems-mapping-from-insight-to-intervention/\n
+ Source could not be fully rechecked.\nThis event could not be rechecked on
+  the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260914T095825Z
 LOCATION:https://systemdynamics.org/event/the-next-generation-of-systems-m
  apping-from-insight-to-intervention/
@@ -2470,7 +2454,8 @@ DESCRIPTION:System Dynamics Society\nDecember 1\, 2026 at 11 am New York |
  Language: Not specified\nLanguage requirements: Not specified\nInterpretat
  ion: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/even
  t/benchmarking-estimation-of-dynamic-models-in-social-and-behavioral-scien
- ces/
+ ces/\nSource could not be fully rechecked.\nThis event could not be rechec
+ ked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260922T092210Z
 LOCATION:https://us02web.zoom.us/j/88212739370
 STATUS:CONFIRMED
@@ -2590,7 +2575,9 @@ DESCRIPTION:System Dynamics Society\nJanuary 12\, 2027 at 11 am New York |
   simulated agents to interpret context\, form intentions\, and interact\nL
  anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
  on: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/event
- /generative-agent-based-models-simulating-quasi-autonomous-ai-agents/
+ /generative-agent-based-models-simulating-quasi-autonomous-ai-agents/\nSou
+ rce could not be fully rechecked.\nThis event could not be rechecked on th
+ e latest collection. Confirm with the organiser.
 LAST-MODIFIED:20260914T095825Z
 LOCATION:https://us02web.zoom.us/j/89002602905
 STATUS:CONFIRMED
@@ -2671,9 +2658,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261102T123823Z
+DTSTAMP:20261103T120418Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:18
+SEQUENCE:19
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -2684,7 +2671,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261102T123823Z
+LAST-MODIFIED:20261103T120418Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED

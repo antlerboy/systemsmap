@@ -261,6 +261,31 @@ TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Seminar: Zertifizierter VSM Coach • 26.\, 28. und 29. Januar 202
+ 7 • Zürich
+DTSTART:20270126T080000Z
+DTEND:20270129T180000Z
+DTSTAMP:20261103T120418Z
+UID:7a26e2b56211c76d41c72024@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics
+DESCRIPTION:Metaphorum\nDie Komplexität wächst – wächst Deine Steueru
+ ng mit? Ungewissheit\, Volatilität und Komplexität nehmen weiterhin zu. 
+ Und damit die Anforderungen an wirkungsvolle Führung und Steuerung. Im dr
+ eitägigen Seminar zum Zertifizierten VSM Coach (Metaphorum) erfährst Du 
+ eine umfassende Einführung in das Viable System Model (VSM)\, ein in den 
+ 1960er Jahren von Stafford Beer entwickeltes\, bewährtes kybernetisc\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://metaphorum.org/event/semin
+ ar-zertifizierter-vsm-coach-26-28-und-29-januar-2027-zurich
+LAST-MODIFIED:20261103T120418Z
+LOCATION:Zürich\, Switzerland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://metaphorum.org/event/seminar-zertifizierter-vsm-coach-26-28-un
+ d-29-januar-2027-zurich
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VSM-AI Special Integration Group
 DTSTART:20270217T170000Z
 DTEND:20270217T183000Z
@@ -276,6 +301,31 @@ LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seminar: Zertifizierter VSM Coach • 17.\, 18. und 19. März 2027
+  • Zürich
+DTSTART:20270317T080000Z
+DTEND:20270319T180000Z
+DTSTAMP:20261103T120418Z
+UID:cd167e877e3f37b83dce25e2@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics
+DESCRIPTION:Metaphorum\nDie Komplexität wächst – wächst Deine Steueru
+ ng mit? Ungewissheit\, Volatilität und Komplexität nehmen weiterhin zu. 
+ Und damit die Anforderungen an wirkungsvolle Führung und Steuerung. Im dr
+ eitägigen Seminar zum Zertifizierten VSM Coach (Metaphorum) erfährst Du 
+ eine umfassende Einführung in das Viable System Model (VSM)\, ein in den 
+ 1960er Jahren von Stafford Beer entwickeltes\, bewährtes kybernetisc\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://metaphorum.org/event/semin
+ ar-zertifizierter-vsm-coach-17-18-und-19-marz-2027-zurich
+LAST-MODIFIED:20261103T120418Z
+LOCATION:Zürich\, Switzerland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://metaphorum.org/event/seminar-zertifizierter-vsm-coach-17-18-un
+ d-19-marz-2027-zurich
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VSM-AI Special Integration Group

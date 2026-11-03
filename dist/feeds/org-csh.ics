@@ -764,16 +764,21 @@ BEGIN:VEVENT
 SUMMARY:Modern Portfolio Theory in the Crypto-Wilderness
 DTSTART:20261103T123000Z
 DTEND:20261103T130000Z
-DTSTAMP:20261029T105746Z
+DTSTAMP:20261103T120418Z
 UID:b17a713dfdc840606673647e@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
-DESCRIPTION:Complexity Science Hub\n\nLanguage: Not specified\nLanguage re
- quirements: Not specified\nInterpretation: Not specified\nAccess: See orga
- niser\nhttps://csh.ac.at/events/modern-portfolio-theory-in-the-crypto-wild
- erness/
-LAST-MODIFIED:20261029T105746Z
-LOCATION:CSH Salon
+DESCRIPTION:Complexity Science Hub\nModern portfolio theory (MPT) prescrib
+ es how investors should allocate their wealth to obtain the highest expect
+ ed return for a given level of risk. Whether real investors follow this pr
+ escription\, and whether doing so pays off\, is hard to test at scale\, be
+ cause individual holdings in traditional markets are largely private. Publ
+ ic blockchains remove this barrier: every transfer is recorded openly\nLan
+ guage: Not specified\nLanguage requirements: Not specified\nInterpretation
+ : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/modern-po
+ rtfolio-theory-in-the-crypto-wilderness/
+LAST-MODIFIED:20261103T120418Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/modern-portfolio-theory-in-the-crypto-wildern
@@ -783,9 +788,9 @@ BEGIN:VEVENT
 SUMMARY:Universal Structure in Disease Networks Across 60 Million Patients
 DTSTART:20261103T130000Z
 DTEND:20261103T133000Z
-DTSTAMP:20261031T102810Z
+DTSTAMP:20261103T120418Z
 UID:a9b698cc0c353b4348c934db@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nThe global population is shifting towa
  rd older age\, with increased life expectancy not necessarily translating 
@@ -796,8 +801,8 @@ DESCRIPTION:Complexity Science Hub\nThe global population is shifting towa
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/universal-s
  tructure-in-disease-networks-across-60-million-patients/
-LAST-MODIFIED:20261031T102810Z
-LOCATION:CSH Salon
+LAST-MODIFIED:20261103T120418Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/universal-structure-in-disease-networks-acros
