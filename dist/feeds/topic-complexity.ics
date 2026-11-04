@@ -642,9 +642,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261103T120418Z
+DTSTAMP:20261104T121739Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:76
+SEQUENCE:77
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -653,7 +653,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261103T120418Z
+LAST-MODIFIED:20261104T121739Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -961,9 +961,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261103T120418Z
+DTSTAMP:20261104T121739Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:55
+SEQUENCE:56
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -974,7 +974,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261103T120418Z
+LAST-MODIFIED:20261104T121739Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1512,9 +1512,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261103T120418Z
+DTSTAMP:20261104T121739Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:20
+SEQUENCE:21
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1524,7 +1524,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261103T120418Z
+LAST-MODIFIED:20261104T121739Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1802,7 +1802,9 @@ DESCRIPTION:Complexity Science Hub\nModern portfolio theory (MPT) prescrib
  ic blockchains remove this barrier: every transfer is recorded openly\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/modern-po
- rtfolio-theory-in-the-crypto-wilderness/
+ rtfolio-theory-in-the-crypto-wilderness/\nNo longer found in the latest so
+ urce listing\; confirmation needed.\nThis event could not be rechecked on 
+ the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261103T120418Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
@@ -1826,7 +1828,9 @@ DESCRIPTION:Complexity Science Hub\nThe global population is shifting towa
  rogression is therefore important for robust prevention strategies \nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/universal-s
- tructure-in-disease-networks-across-60-million-patients/
+ tructure-in-disease-networks-across-60-million-patients/\nNo longer found 
+ in the latest source listing\; confirmation needed.\nThis event could not 
+ be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261103T120418Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
@@ -1852,7 +1856,9 @@ DESCRIPTION:Complexity Science Hub\nOn 3 November\, the Complexity Science
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/art-
  science-with-markus-hofer-peter-ertl-the-characteristics-of-viewing-condit
- ions/
+ ions/\nNo longer found in the latest source listing\; confirmation needed.
+ \nThis event could not be rechecked on the latest collection. Confirm with
+  the organiser.
 LAST-MODIFIED:20261020T093032Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -2133,9 +2139,9 @@ BEGIN:VEVENT
 SUMMARY:Pratiche di complessità - Lab con Luca Ferri
 DTSTART:20261117T163000Z
 DTEND:20261117T183000Z
-DTSTAMP:20261103T120418Z
+DTSTAMP:20261104T121739Z
 UID:216378575b2bb595eb4ff76f@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Institute\, in collaboration with Nested srl Societ
  à Benefit\nSbaglia di più\, sbaglia meglio: l’etica dell’errore nell
@@ -2151,7 +2157,7 @@ DESCRIPTION:Complexity Institute\, in collaboration with Nested srl Societ
  cked 2 November 2026: both display 16:30–18:30 GMT\, equivalent to 17:30
  –19:30 Europe/Rome. Public event visibility does not remove the stated C
  ommunity-membership restriction.
-LAST-MODIFIED:20261103T120418Z
+LAST-MODIFIED:20261104T121739Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2486,9 +2492,9 @@ BEGIN:VEVENT
 SUMMARY:WEdnesday Salon – Re-Inventing Democracy in the Age of AI
 DTSTART:20261202T180000Z
 DTEND:20261202T192000Z
-DTSTAMP:20261022T092918Z
+DTSTAMP:20261104T121739Z
 UID:fb232060ffe098009f9ac364@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nFor everyone to benefit from technolog
  ical innovation\, social innovation is needed too – from new ways of vot
@@ -2498,10 +2504,8 @@ DESCRIPTION:Complexity Science Hub\nFor everyone to benefit from technolog
  r lives. But technology is only part of the picture. Today\, the digital\n
  Language: Not specified\nLanguage requirements: Not specified\nInterpretat
  ion: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednes
- day-salon-with-dirk-helbing/\nNo longer found in the latest source listing
- \; confirmation needed.\nThis event could not be rechecked on the latest c
- ollection. Confirm with the organiser.
-LAST-MODIFIED:20261022T092918Z
+ day-salon-with-dirk-helbing/
+LAST-MODIFIED:20261104T121739Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
 STATUS:CONFIRMED
@@ -2557,6 +2561,32 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://metaphorum.org/event/vsm-coach-course-online-by-angela-espinos
  a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Public Panel: Collective Action in the Modern World – Opportunit
+ ies and Obstacles for Collective Action in the Age of AI
+DTSTART:20261210T180000Z
+DTEND:20261210T193000Z
+DTSTAMP:20261104T121739Z
+UID:494c77a1539f73b3eb125aec@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nWhy is collective action so difficult 
+ in the modern world\, and where are new opportunities emerging? Citizens o
+ ften feel discouraged and powerless in the face of fast and sweeping chang
+ es in our political systems\, economies\, and environment. And yet\, as re
+ minded by Margaret Mead\, we should “never doubt that a small group of t
+ houghtful\, committed citizens can change the world\; indeed\, it's the on
+ ly\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
+ etation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/pu
+ blic-panel-collective-action-in-the-modern-world-opportunities-and-obstacl
+ es-for-collective-action-in-the-age-of-ai/
+LAST-MODIFIED:20261104T121739Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/public-panel-collective-action-in-the-modern-
+ world-opportunities-and-obstacles-for-collective-action-in-the-age-of-ai/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Generative Agent-Based Models: Simulating Quasi-Autonomous AI Agen
@@ -2633,9 +2663,9 @@ BEGIN:VEVENT
 SUMMARY:Winter School 2027
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
-DTSTAMP:20261015T091351Z
+DTSTAMP:20261104T121739Z
 UID:8a01d8d95b35fce685bbe6b4@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
 DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
  e Winter School program are forthcoming. Find more information on the Wint
@@ -2643,11 +2673,8 @@ DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
   have received a message with registration and payment instructions.\nLang
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/winter-sch
- ool-2027/\nDate-only listing\; check the organiser for session times.\nNo 
- longer found in the latest source listing\; confirmation needed.\nThis eve
- nt could not be rechecked on the latest collection. Confirm with the organ
- iser.
-LAST-MODIFIED:20261015T091351Z
+ ool-2027/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261104T121739Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
 STATUS:CONFIRMED
@@ -2655,12 +2682,30 @@ TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/winter-school-2027/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MACMAS 2027\, 25–28 May 2027\, Granada\, Spain
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270529
+DTSTAMP:20261104T121739Z
+UID:82f887be9176b2067738d79b@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complex Systems Society\n\nLanguage: Not specified\nLanguage r
+ equirements: Not specified\nInterpretation: Not specified\nAccess: See org
+ aniser\nhttps://cssociety.org/event/8d8fa1dd-bb50-40f5-b856-0624fc61c8fc/
+ \nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261104T121739Z
+LOCATION:Spain\, Granada
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://cssociety.org/event/8d8fa1dd-bb50-40f5-b856-0624fc61c8fc/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261103T120418Z
+DTSTAMP:20261104T121739Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:19
+SEQUENCE:20
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -2671,7 +2716,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261103T120418Z
+LAST-MODIFIED:20261104T121739Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED

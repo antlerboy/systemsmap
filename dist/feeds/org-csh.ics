@@ -776,7 +776,9 @@ DESCRIPTION:Complexity Science Hub\nModern portfolio theory (MPT) prescrib
  ic blockchains remove this barrier: every transfer is recorded openly\nLan
  guage: Not specified\nLanguage requirements: Not specified\nInterpretation
  : Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/modern-po
- rtfolio-theory-in-the-crypto-wilderness/
+ rtfolio-theory-in-the-crypto-wilderness/\nNo longer found in the latest so
+ urce listing\; confirmation needed.\nThis event could not be rechecked on 
+ the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261103T120418Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
@@ -800,7 +802,9 @@ DESCRIPTION:Complexity Science Hub\nThe global population is shifting towa
  rogression is therefore important for robust prevention strategies \nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/universal-s
- tructure-in-disease-networks-across-60-million-patients/
+ tructure-in-disease-networks-across-60-million-patients/\nNo longer found 
+ in the latest source listing\; confirmation needed.\nThis event could not 
+ be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261103T120418Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
@@ -826,7 +830,9 @@ DESCRIPTION:Complexity Science Hub\nOn 3 November\, the Complexity Science
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/art-
  science-with-markus-hofer-peter-ertl-the-characteristics-of-viewing-condit
- ions/
+ ions/\nNo longer found in the latest source listing\; confirmation needed.
+ \nThis event could not be rechecked on the latest collection. Confirm with
+  the organiser.
 LAST-MODIFIED:20261020T093032Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1010,9 +1016,9 @@ BEGIN:VEVENT
 SUMMARY:WEdnesday Salon – Re-Inventing Democracy in the Age of AI
 DTSTART:20261202T180000Z
 DTEND:20261202T192000Z
-DTSTAMP:20261022T092918Z
+DTSTAMP:20261104T121739Z
 UID:fb232060ffe098009f9ac364@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nFor everyone to benefit from technolog
  ical innovation\, social innovation is needed too – from new ways of vot
@@ -1022,10 +1028,8 @@ DESCRIPTION:Complexity Science Hub\nFor everyone to benefit from technolog
  r lives. But technology is only part of the picture. Today\, the digital\n
  Language: Not specified\nLanguage requirements: Not specified\nInterpretat
  ion: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wednes
- day-salon-with-dirk-helbing/\nNo longer found in the latest source listing
- \; confirmation needed.\nThis event could not be rechecked on the latest c
- ollection. Confirm with the organiser.
-LAST-MODIFIED:20261022T092918Z
+ day-salon-with-dirk-helbing/
+LAST-MODIFIED:20261104T121739Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
 STATUS:CONFIRMED
@@ -1033,12 +1037,38 @@ TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/wednesday-salon-with-dirk-helbing/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Public Panel: Collective Action in the Modern World – Opportunit
+ ies and Obstacles for Collective Action in the Age of AI
+DTSTART:20261210T180000Z
+DTEND:20261210T193000Z
+DTSTAMP:20261104T121739Z
+UID:494c77a1539f73b3eb125aec@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nWhy is collective action so difficult 
+ in the modern world\, and where are new opportunities emerging? Citizens o
+ ften feel discouraged and powerless in the face of fast and sweeping chang
+ es in our political systems\, economies\, and environment. And yet\, as re
+ minded by Margaret Mead\, we should “never doubt that a small group of t
+ houghtful\, committed citizens can change the world\; indeed\, it's the on
+ ly\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
+ etation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/pu
+ blic-panel-collective-action-in-the-modern-world-opportunities-and-obstacl
+ es-for-collective-action-in-the-age-of-ai/
+LAST-MODIFIED:20261104T121739Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/public-panel-collective-action-in-the-modern-
+ world-opportunities-and-obstacles-for-collective-action-in-the-age-of-ai/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Winter School 2027
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
-DTSTAMP:20261015T091351Z
+DTSTAMP:20261104T121739Z
 UID:8a01d8d95b35fce685bbe6b4@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity
 DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
  e Winter School program are forthcoming. Find more information on the Wint
@@ -1046,11 +1076,8 @@ DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
   have received a message with registration and payment instructions.\nLang
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/winter-sch
- ool-2027/\nDate-only listing\; check the organiser for session times.\nNo 
- longer found in the latest source listing\; confirmation needed.\nThis eve
- nt could not be rechecked on the latest collection. Confirm with the organ
- iser.
-LAST-MODIFIED:20261015T091351Z
+ ool-2027/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261104T121739Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
 STATUS:CONFIRMED

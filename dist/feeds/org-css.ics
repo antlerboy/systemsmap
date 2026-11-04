@@ -152,6 +152,24 @@ TRANSP:TRANSPARENT
 URL:https://cssociety.org/event/a8ad6479-58ac-4e93-8807-cba7de02ccbe/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MACMAS 2027\, 25–28 May 2027\, Granada\, Spain
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270529
+DTSTAMP:20261104T121739Z
+UID:82f887be9176b2067738d79b@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complex Systems Society\n\nLanguage: Not specified\nLanguage r
+ equirements: Not specified\nInterpretation: Not specified\nAccess: See org
+ aniser\nhttps://cssociety.org/event/8d8fa1dd-bb50-40f5-b856-0624fc61c8fc/
+ \nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261104T121739Z
+LOCATION:Spain\, Granada
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://cssociety.org/event/8d8fa1dd-bb50-40f5-b856-0624fc61c8fc/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Latin American Conference on Complex Networks (LANET 2027)
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270731
