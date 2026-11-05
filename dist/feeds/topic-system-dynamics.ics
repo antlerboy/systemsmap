@@ -1284,9 +1284,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Change in Practice: Lessons from the Field
 DTSTART:20261123T120000Z
 DTEND:20261123T130000Z
-DTSTAMP:20261105T130629Z
+DTSTAMP:20261105T132451Z
 UID:52762ac25488d4e00a349ad5@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Complexity,System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  en) and Cuauhtémoc León (CEGAM) discuss systems change practice in Indon
@@ -1300,7 +1300,7 @@ DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  ation of the page is restricted by robots.txt\; check with the organiser b
  efore attending. New York time on 23 November is EST (UTC-05:00)\, equival
  ent to 12:00-13:00 UTC.
-LAST-MODIFIED:20261105T130629Z
+LAST-MODIFIED:20261105T132451Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1654,31 +1654,37 @@ URL:https://systemdynamics.org/event/ai-in-system-dynamics-education-task-
  force-monthly-meeting-2/2027-02-09/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oceania Chapter: 2027 Systems Thinking & Modelling Symposium​
-DTSTART:20270210T230000Z
-DTEND:20270212T060000Z
-DTSTAMP:20260914T095825Z
+SUMMARY:Systems Thinking & Modelling Symposium - Oceania Chapter 2027
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+DTSTAMP:20261105T132451Z
 UID:efc297f629367b9b25ff0780@systemsmap.antlerboy.com
-SEQUENCE:4
-CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\nHYBRID EVENT 12 February 2027\, 10:00
-  am-5:00 pm – UNSW Canberra City (Reid) and online We invite you to join
-  us for the 2027 Oceania Chapter Symposium to learn about current work app
- lying systems thinking and system dynamics modelling within industry\, gov
- ernment\, and academia. Symposium Information Cost Registration is free. L
- ocation In person: UNSW Canberra City Lecture Theatre 00.25\, Ground floo
- \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
- ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
- ent/oceania-chapter-2027-systems-thinking-modelling-symposium/\nSource cou
- ld not be fully rechecked.\nThis event could not be rechecked on the lates
- t collection. Confirm with the organiser.
-LAST-MODIFIED:20260914T095825Z
-LOCATION:UNSW canberra\, UNSW Canberra City\, 37 Constitution Ave\, Reid A
- CT 2612\, Australia\, ACT\, 2612\, Australia
+SEQUENCE:5
+CATEGORIES:System dynamics,Systems thinking
+DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
+ nnouncement describes a hybrid Systems Thinking & Modelling Symposium at U
+ NSW Canberra on 12 February 2027. The advertised abstract deadline was 1 N
+ ovember 2026 and has passed. Check the organiser for current programme and
+  attendance arrangements.\nLanguage: Not specified\nLanguage requirements:
+  Not specified\nInterpretation: Not specified\nAccess: See organiser\nhttp
+ s://systemdynamics.org/chapters/oceania-chapter/oceania-chapter-annual-sym
+ posium/2027-oceania-chapter-symposium/\nDate\, hybrid format\, host locati
+ on and expired abstract deadline supplied in the chapter announcement. The
+  supplied symposium and chapter short links resolve to official System Dyn
+ amics Society pages\, but direct automated verification is restricted by r
+ obots.txt. Current programme\, clock times\, fees and registration status 
+ are not independently verified. Date-only listing\; exclusive calendar end
+  13 February.\nPreviously cached feed timestamps began on 11 February\, co
+ nflicting with its own description and the supplied announcement specifyin
+ g 12 February. Corrected to a date-only 12 February listing\; existing sub
+ scription identity retained.\nDate-only listing\; check the organiser for 
+ session times.
+LAST-MODIFIED:20261105T132451Z
+LOCATION:UNSW Canberra\, Australia / online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://systemdynamics.org/event/oceania-chapter-2027-systems-thinking
- -modelling-symposium/
+URL:https://systemdynamics.org/chapters/oceania-chapter/oceania-chapter-an
+ nual-symposium/2027-oceania-chapter-symposium/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting

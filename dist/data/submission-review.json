@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-05T13:07:08+00:00",
+  "checkedAt": "2026-11-05T13:25:33+00:00",
   "submissions": [
     {
       "id": "af54c356-c0b6-4732-bcbe-e868d622e5b2",
@@ -66,11 +66,8 @@
         "url": "https://www.facebook.com/events/1831475148274386/"
       },
       "createdAt": "2026-10-08T18:46:47.296Z",
-      "status": "needs-review",
-      "notes": [
-        "Could not extract this link: Disallowed by robots.txt"
-      ],
-      "checkedAt": "2026-10-09T11:24:50+00:00"
+      "status": "published",
+      "publishedUrl": "https://2027.fedcsis.org/"
     },
     {
       "id": "e0a0ca20-8c4e-452b-b190-ba645d9facde",
@@ -86,17 +83,12 @@
       "id": "1df38151-3672-404f-abed-3b083f5b80ad",
       "url": "https://lnkd.in/p/eda_38WS",
       "proposal": {
-        "kind": "event",
-        "url": "https://lnkd.in/p/eda_38WS",
-        "title": "System Dynamics Society’s Post",
-        "organiser": "lnkd.in"
+        "kind": "auto",
+        "url": "https://lnkd.in/p/eda_38WS"
       },
       "createdAt": "2026-10-27T10:42:22.884Z",
-      "notes": [
-        "No unambiguous event date was extracted. A maintainer needs to complete or classify this link before publication."
-      ],
-      "status": "needs-review",
-      "checkedAt": "2026-10-28T10:41:17+00:00"
+      "status": "published",
+      "publishedUrl": "https://systemdynamics.org/chapters/oceania-chapter/oceania-chapter-annual-symposium/2027-oceania-chapter-symposium/"
     },
     {
       "id": "1000d603-c215-422c-8ad9-79b70106633e",
