@@ -1222,5 +1222,64 @@
     "notes": [
       "Public organiser Facebook event and linked Eventbrite page checked 2 November 2026: both display 16:30–18:30 GMT, equivalent to 17:30–19:30 Europe/Rome. Public event visibility does not remove the stated Community-membership restriction."
     ]
+  },
+  {
+    "title": "Beer's Pedagogy: Lessons from the Concordia University Lectures",
+    "url": "https://metaphorum.org/?email_id=67&na=archive",
+    "organiser": "Metaphorum",
+    "location": "Online (Zoom)",
+    "format": "online",
+    "topics": [
+      "systems",
+      "cybernetics"
+    ],
+    "language": "Not specified",
+    "kind": "event",
+    "start": "2026-11-04T17:00:00+00:00",
+    "end": "2026-11-04T18:30:00+00:00",
+    "timezone": "Europe/London",
+    "uid": "metaphorum-beers-pedagogy-2026-11-04",
+    "description": "Marc-André Pigeon examines Stafford Beer's teaching through recordings of his Concordia University lectures. This webinar was scheduled for 4 November 2026 and is now past; this listing does not establish that a recording is available.",
+    "notes": [
+      "Metaphorum's October-December 2026 newsletter confirms the speaker, title and 4 November date. The submitted organiser announcement supplies 17:00-18:30 GMT on Zoom. Retained as a past event; no new date inferred."
+    ],
+    "discoverySources": [
+      {
+        "id": "metaphorum",
+        "name": "Metaphorum",
+        "url": "https://metaphorum.org/upcoming-webinars"
+      }
+    ]
+  },
+  {
+    "title": "Systems Change in Practice: Lessons from the Field",
+    "url": "https://systemdynamics.org/event/systems-change-in-practice-lessons-from-the-field/",
+    "organiser": "System Dynamics Society",
+    "location": "Online",
+    "format": "online",
+    "topics": [
+      "systems",
+      "system-dynamics"
+    ],
+    "language": "Not specified",
+    "kind": "event",
+    "start": "2026-11-23T07:00:00-05:00",
+    "end": "2026-11-23T08:00:00-05:00",
+    "timezone": "America/New_York",
+    "uid": "10002755-1795417200-1795420800@systemdynamics.org",
+    "price": "Free",
+    "access": "Registration required; see organiser",
+    "description": "Catharina Any Sulistyowati (KAIL Garden) and Cuauhtémoc León (CEGAM) discuss systems change practice in Indonesia and Mexico, including community learning and connections between economic, social and environmental goals.",
+    "notes": [
+      "Details transcribed from the System Dynamics Society announcement supplied for publication. The organiser's RSVP short link resolves to this event page. Direct automated verification of the page is restricted by robots.txt; check with the organiser before attending. New York time on 23 November is EST (UTC-05:00), equivalent to 12:00-13:00 UTC."
+    ],
+    "discoverySources": [
+      {
+        "id": "system-dynamics",
+        "name": "System Dynamics Society",
+        "url": "https://systemdynamics.org/event/systems-change-in-practice-lessons-from-the-field/"
+      }
+    ],
+    "recurrenceId": "2026-11-23 07:00:00-05:00"
   }
 ]
