@@ -6,28 +6,6 @@ X-WR-CALNAME:Sociocracy For All
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:Roadmap to Implement Sociocracy – Free (donations appreciated)
-DTSTART:20260806T150000Z
-DTEND:20260806T160000Z
-DTSTAMP:20260909T085810Z
-UID:f3727ffadf28bfee34b21cc9@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\n<p>Join this free one-hour webinar to lear
- n how to implement sociocracy\, common challenges\, and what resources are
-  available through Sociocracy For All to help you at each step. </p>\\n\nL
- anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
- on: Not specified\nAccess: See organiser\nhttps://www.sociocracyforall.org
- /event/roadmap-to-implement-sociocracy/
-LAST-MODIFIED:20260909T085810Z
-LOCATION:Mars – SoFA Zoom Room\, https://zoom.sociocracyforall.org/mars-
- zoom-180463541
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.sociocracyforall.org/event/roadmap-to-implement-sociocracy
- /
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nonviolent Communication Basics 3 x 2hs
 DTSTART:20260824T150000Z
 DTEND:20260824T170000Z
@@ -399,20 +377,17 @@ BEGIN:VEVENT
 SUMMARY:Free introduction: What is sociocracy?
 DTSTART:20261104T170000Z
 DTEND:20261104T180000Z
-DTSTAMP:20261007T220943Z
-UID:b4fbddaf21b0bfd900388f3e@systemsmap.antlerboy.com
+DTSTAMP:20261105T123216Z
+UID:b86f36b5f9c78d860d9f65b6@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\nAre you tired of power games in your organ
- izations? Do you have hope that collaboration in organizations could bring
-  out the best in people? Do you think organizations could be places of syn
- ergy\, collaboration\, growth\, and deep and authentic connection? This we
- binar is giving an overview of sociocracy. We will talk about: better list
- ening consent decision making and circle structure examples from \nLanguag
- e: Not specified\nLanguage requirements: Not specified\nInterpretation: No
- t specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/event
- /free-info-session-november-2026/
-LAST-MODIFIED:20261007T220943Z
+DESCRIPTION:Sociocracy For All\n<p>This is a free sociocracy info session.
+  We will look at what self-management is trying to achieve\, how sociocrac
+ y works\, and what kind of organizations are doing sociocracy. </p>\\n\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/
+ event/free-info-session-november-2026/
+LAST-MODIFIED:20261105T123216Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

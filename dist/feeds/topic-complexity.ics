@@ -642,9 +642,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261104T121739Z
+DTSTAMP:20261105T123216Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:77
+SEQUENCE:78
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -653,7 +653,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261104T121739Z
+LAST-MODIFIED:20261105T123216Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -961,9 +961,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261104T121739Z
+DTSTAMP:20261105T123216Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:56
+SEQUENCE:57
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -974,7 +974,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261104T121739Z
+LAST-MODIFIED:20261105T123216Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1512,9 +1512,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261104T121739Z
+DTSTAMP:20261105T123216Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:21
+SEQUENCE:22
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1524,7 +1524,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261104T121739Z
+LAST-MODIFIED:20261105T123216Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1882,7 +1882,9 @@ DESCRIPTION:Complexity Science Hub\nDistinguishing coincidence from cause-
  sional observations of machine learning applications\, including in scien
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/caus
- ality-at-machine-learning-scale-and-complexity/
+ ality-at-machine-learning-scale-and-complexity/\nNo longer found in the la
+ test source listing\; confirmation needed.\nThis event could not be rechec
+ ked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261024T085707Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1947,7 +1949,9 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nCette r
  se de réseaux\, un domaine générique de la recherche sur les systèmes 
  complexes.\nLanguage: Not specified\nLanguage requirements: Not specified
  \nInterpretation: Not specified\nAccess: See organiser\nhttps://iscpif.fr/
- evenements/academie-europeenne-de-sociologie/
+ evenements/academie-europeenne-de-sociologie/\nNo longer found in the late
+ st source listing\; confirmation needed.\nThis event could not be rechecke
+ d on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261101T112259Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
@@ -2139,9 +2143,9 @@ BEGIN:VEVENT
 SUMMARY:Pratiche di complessità - Lab con Luca Ferri
 DTSTART:20261117T163000Z
 DTEND:20261117T183000Z
-DTSTAMP:20261104T121739Z
+DTSTAMP:20261105T123216Z
 UID:216378575b2bb595eb4ff76f@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Institute\, in collaboration with Nested srl Societ
  à Benefit\nSbaglia di più\, sbaglia meglio: l’etica dell’errore nell
@@ -2157,7 +2161,7 @@ DESCRIPTION:Complexity Institute\, in collaboration with Nested srl Societ
  cked 2 November 2026: both display 16:30–18:30 GMT\, equivalent to 17:30
  –19:30 Europe/Rome. Public event visibility does not remove the stated C
  ommunity-membership restriction.
-LAST-MODIFIED:20261104T121739Z
+LAST-MODIFIED:20261105T123216Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2187,6 +2191,31 @@ LOCATION:Zoom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://teamup.com/ksok8ra1xif3viq4no/events/2195664710
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Complex Data & Complex Questions about the Most Complex Marine Eco
+ system
+DTSTART:20261118T150000Z
+DTEND:20261118T150000Z
+DTSTAMP:20261105T123216Z
+UID:afdffcd73bd1ac1c84ae5687@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nCoral reefs are the most biodiverse an
+ d complex marine ecosystems on Planet Earth. The coral reefs within the "C
+ oral Triangle"\, between Indonesia\, the Philippines and Papua New Guinea
+ \, are the most biodiverse. Klaus M. Stiefel recorded fish biodiversity an
+ d coral cover data over the course of a decade in Tubbataha Reefs\, the mo
+ st pristine coral reef in the Philippines. Based on these data we ask: \nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/complex
+ -data-complex-questions-about-the-most-complex-marine-ecosystem/
+LAST-MODIFIED:20261105T123216Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/complex-data-complex-questions-about-the-most
+ -complex-marine-ecosystem/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:reunion du projet ANR microCOMOS
@@ -2703,9 +2732,9 @@ BEGIN:VEVENT
 SUMMARY:INCOSE International Symposium 2027
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270723
-DTSTAMP:20261104T121739Z
+DTSTAMP:20261105T123216Z
 UID:d1eb6db9a8d7b5ee53e28f80@systemsmap.antlerboy.com
-SEQUENCE:20
+SEQUENCE:21
 CATEGORIES:Complexity,Systems thinking
 DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  ounced theme Architecting Intelligence: Engineering Complex Systems.\nLang
@@ -2716,7 +2745,7 @@ DESCRIPTION:INCOSE\nThe 37th INCOSE International Symposium\, with the ann
  rked Coming Soon\; daily session times and remote participation are not es
  tablished.\nOfficial organiser page and location checked 18 October 2026.
  \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261104T121739Z
+LAST-MODIFIED:20261105T123216Z
 LOCATION:Omni Shoreham Hotel\, 2500 Calvert St NW\, Washington\, DC 20008
  \, United States
 STATUS:CONFIRMED

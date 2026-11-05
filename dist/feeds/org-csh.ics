@@ -856,7 +856,9 @@ DESCRIPTION:Complexity Science Hub\nDistinguishing coincidence from cause-
  sional observations of machine learning applications\, including in scien
  \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
  ation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/caus
- ality-at-machine-learning-scale-and-complexity/
+ ality-at-machine-learning-scale-and-complexity/\nNo longer found in the la
+ test source listing\; confirmation needed.\nThis event could not be rechec
+ ked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261024T085707Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -962,6 +964,31 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://csh.ac.at/events/public-panel-discussion-how-to-survive-doomsd
  ays/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Complex Data & Complex Questions about the Most Complex Marine Eco
+ system
+DTSTART:20261118T150000Z
+DTEND:20261118T150000Z
+DTSTAMP:20261105T123216Z
+UID:afdffcd73bd1ac1c84ae5687@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nCoral reefs are the most biodiverse an
+ d complex marine ecosystems on Planet Earth. The coral reefs within the "C
+ oral Triangle"\, between Indonesia\, the Philippines and Papua New Guinea
+ \, are the most biodiverse. Klaus M. Stiefel recorded fish biodiversity an
+ d coral cover data over the course of a decade in Tubbataha Reefs\, the mo
+ st pristine coral reef in the Philippines. Based on these data we ask: \nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/complex
+ -data-complex-questions-about-the-most-complex-marine-ecosystem/
+LAST-MODIFIED:20261105T123216Z
+LOCATION:Library Metternichgasse 8\, 1030 Vienna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/complex-data-complex-questions-about-the-most
+ -complex-marine-ecosystem/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WEdnesday SALON – When to Trust AI and When to Think for Ourselv
