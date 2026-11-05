@@ -1281,5 +1281,63 @@
       }
     ],
     "recurrenceId": "2026-11-23 07:00:00-05:00"
+  },
+  {
+    "title": "FedCSIS 2027 - 22nd Conference on Computer Science and Intelligence Systems",
+    "url": "https://2027.fedcsis.org/",
+    "organiser": "FedCSIS",
+    "location": "Centrum Konferencyjne PPNT Gdynia, Gdynia, Poland",
+    "country": "Poland",
+    "format": "in-person",
+    "topics": [
+      "systems"
+    ],
+    "kind": "event",
+    "start": "2027-09-12",
+    "end": "2027-09-16",
+    "uid": "fedcsis-2027",
+    "language": "Not specified",
+    "description": "A research and practice conference on computer science and intelligence systems. Thematic-session proposals are due 1 December 2026; this is distinct from the paper submission deadline of 14 May 2027. Check the conference website for current participation details.",
+    "submission": "https://www.facebook.com/events/1831475148274386/",
+    "publicSubmissionIds": [
+      "c2a3c4ff-ce46-49e3-b598-d5382dc6a727"
+    ],
+    "notes": [
+      "Official conference, venue and thematic-session call pages checked 5 November 2026. Conference runs 12-15 September; calendar end 16 September is exclusive. Session times, fees and registration availability are not established. Venue: https://2027.fedcsis.org/venue ; call: https://2027.fedcsis.org/node/74"
+    ]
+  },
+  {
+    "title": "Systems Thinking & Modelling Symposium - Oceania Chapter 2027",
+    "url": "https://systemdynamics.org/chapters/oceania-chapter/oceania-chapter-annual-symposium/2027-oceania-chapter-symposium/",
+    "organiser": "System Dynamics Society Oceania Chapter",
+    "location": "UNSW Canberra, Australia / online",
+    "country": "Australia",
+    "format": "hybrid",
+    "topics": [
+      "systems",
+      "system-dynamics"
+    ],
+    "kind": "event",
+    "start": "2027-02-12",
+    "end": "2027-02-13",
+    "uid": "10002660-1802340000-1802451600@systemdynamics.org",
+    "language": "Not specified",
+    "description": "The Oceania Chapter announcement describes a hybrid Systems Thinking & Modelling Symposium at UNSW Canberra on 12 February 2027. The advertised abstract deadline was 1 November 2026 and has passed. Check the organiser for current programme and attendance arrangements.",
+    "submission": "https://lnkd.in/p/eda_38WS",
+    "publicSubmissionIds": [
+      "1df38151-3672-404f-abed-3b083f5b80ad"
+    ],
+    "discoverySources": [
+      {
+        "id": "system-dynamics",
+        "name": "System Dynamics Society",
+        "url": "https://systemdynamics.org/chapters/oceania-chapter/"
+      }
+    ],
+    "notes": [
+      "Date, hybrid format, host location and expired abstract deadline supplied in the chapter announcement. The supplied symposium and chapter short links resolve to official System Dynamics Society pages, but direct automated verification is restricted by robots.txt. Current programme, clock times, fees and registration status are not independently verified. Date-only listing; exclusive calendar end 13 February.",
+      "Previously cached feed timestamps began on 11 February, conflicting with its own description and the supplied announcement specifying 12 February. Corrected to a date-only 12 February listing; existing subscription identity retained."
+    ],
+    "recurrenceId": "2027-02-11 10:00:00+11:00"
   }
 ]

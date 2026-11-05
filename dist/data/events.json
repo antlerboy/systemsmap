@@ -13617,9 +13617,9 @@
     {
       "id": "efc297f629367b9b25ff0780",
       "title": "Oceania Chapter: 2027 Systems Thinking & Modelling Symposium​",
-      "start": "2027-02-11T10:00:00+11:00",
-      "end": "2027-02-12T17:00:00+11:00",
-      "allDay": false,
+      "start": "2027-02-12",
+      "end": "2027-02-13",
+      "allDay": true,
       "timezone": "Australia/Sydney",
       "location": "UNSW canberra, UNSW Canberra City, 37 Constitution Ave, Reid ACT 2612, Australia, ACT, 2612, Australia",
       "country": "Australia",
@@ -13637,7 +13637,7 @@
         "system-dynamics"
       ],
       "description": "HYBRID EVENT 12 February 2027, 10:00 am-5:00 pm – UNSW Canberra City (Reid) and online We invite you to join us for the 2027 Oceania Chapter Symposium to learn about current work applying systems thinking and system dynamics modelling within industry, government, and academia. Symposium Information Cost Registration is free. Location In person: UNSW Canberra City Lecture Theatre 00.25, Ground floo",
-      "url": "https://systemdynamics.org/event/oceania-chapter-2027-systems-thinking-modelling-symposium/",
+      "url": "https://systemdynamics.org/chapters/oceania-chapter/oceania-chapter-annual-symposium/2027-oceania-chapter-symposium/",
       "sources": [
         {
           "id": "system-dynamics",
