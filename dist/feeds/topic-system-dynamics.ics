@@ -1284,23 +1284,24 @@ BEGIN:VEVENT
 SUMMARY:Systems Change in Practice: Lessons from the Field
 DTSTART:20261123T120000Z
 DTEND:20261123T130000Z
-DTSTAMP:20261028T104020Z
+DTSTAMP:20261105T130629Z
 UID:52762ac25488d4e00a349ad5@systemsmap.antlerboy.com
-SEQUENCE:0
-CATEGORIES:Complexity,System dynamics
-DESCRIPTION:System Dynamics Society\nSystems Sparks Practitioner Series Th
- e Systems Sparks Practitioner Webinar Series is created for experienced an
- d emerging systems practitioners\, including facilitators\, sustainability
-  leaders\, organisational change agents\, and consultants. The intent is n
- ot academic teaching\, but practitioner-to-practitioner sensemaking. We wa
- nt to help participants deepen their practice\, sharpen their judgment in
- \nLanguage: Not specified\nLanguage requirements: Not specified\nInterpret
- ation: Not specified\nAccess: See organiser\nhttps://systemdynamics.org/ev
- ent/systems-change-in-practice-lessons-from-the-field/\nSource could not b
- e fully rechecked.\nThis event could not be rechecked on the latest collec
- tion. Confirm with the organiser.
-LAST-MODIFIED:20261028T104020Z
-LOCATION:https://us02web.zoom.us/j/82588978553
+SEQUENCE:1
+CATEGORIES:Complexity,System dynamics,Systems thinking
+DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
+ en) and Cuauhtémoc León (CEGAM) discuss systems change practice in Indon
+ esia and Mexico\, including community learning and connections between eco
+ nomic\, social and environmental goals.\nLanguage: Not specified\nLanguage
+  requirements: Not specified\nInterpretation: Not specified\nAccess: Regis
+ tration required\; see organiser\nhttps://systemdynamics.org/event/systems
+ -change-in-practice-lessons-from-the-field/\nDetails transcribed from the 
+ System Dynamics Society announcement supplied for publication. The organis
+ er's RSVP short link resolves to this event page. Direct automated verific
+ ation of the page is restricted by robots.txt\; check with the organiser b
+ efore attending. New York time on 23 November is EST (UTC-05:00)\, equival
+ ent to 12:00-13:00 UTC.
+LAST-MODIFIED:20261105T130629Z
+LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://systemdynamics.org/event/systems-change-in-practice-lessons-fr

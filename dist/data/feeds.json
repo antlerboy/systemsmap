@@ -2,22 +2,22 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 308
+    "events": 309
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 103
+    "events": 104
   },
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 136
+    "events": 138
   },
   {
     "id": "topic-cybernetics",
     "name": "Cybernetics",
-    "events": 71
+    "events": 72
   },
   {
     "id": "topic-complexity",
@@ -107,7 +107,7 @@
   {
     "id": "org-metaphorum",
     "name": "Metaphorum",
-    "events": 29
+    "events": 30
   },
   {
     "id": "org-wosc",
