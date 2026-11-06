@@ -32,9 +32,9 @@ BEGIN:VEVENT
 SUMMARY:Ashby\, Fuzzy\, and Me
 DTSTART:20261015T160000Z
 DTEND:20261015T180000Z
-DTSTAMP:20261105T132451Z
+DTSTAMP:20261106T092642Z
 UID:e86c94bf15bd90e1ab47f5ac@systemsmap.antlerboy.com
-SEQUENCE:31
+SEQUENCE:32
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:The Cybernetics Society (CybSoc)\nDr Steve Morlidge examines w
  hy matching regulatory variety is necessary but insufficient\, considering
@@ -44,7 +44,7 @@ DESCRIPTION:The Cybernetics Society (CybSoc)\nDr Steve Morlidge examines w
  m.us/meeting/register/P2vyZNSyQ4KAsPhCcICcbg\nDate\, time\, speaker\, and 
  Zoom registration checked against the organiser's event page on 15 October
   2026.
-LAST-MODIFIED:20261105T132451Z
+LAST-MODIFIED:20261106T092642Z
 LOCATION:Online via Zoom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -73,5 +73,26 @@ LOCATION:Zoom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://teamup.com/ksok8ra1xif3viq4no/events/2195664710
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cybernetics\, Art & the Synthesiser
+DTSTART:20261209T170000Z
+DTEND:20261209T190000Z
+DTSTAMP:20261106T092642Z
+UID:f5bb9a3d0b533771cac7c6c0@systemsmap.antlerboy.com
+SEQUENCE:1
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:The Cybernetics Society\nPeter Kawalek and Greg Smith discuss 
+ cybernetics\, art\, and synthesisers at the Townshend Studio\, drawing on 
+ Roy Ascott’s work and the studio’s instrument collection.\nLanguage: N
+ ot specified\nLanguage requirements: Not specified\nInterpretation: Not sp
+ ecified\nAccess: See organiser\nhttps://cybsoc.org/events.html\nTitle and 
+ 17:00–19:00 GMT times verified against the organiser’s event page on 6
+  November 2026.
+LAST-MODIFIED:20261106T092642Z
+LOCATION:Zoom
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://cybsoc.org/events.html
 END:VEVENT
 END:VCALENDAR

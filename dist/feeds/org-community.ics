@@ -202,29 +202,25 @@ TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Peter Kawalek (Centre for Information Management\, Loughborough U
- niversity) and Greg Smith (University of West London))
-DTSTART:20261209T220000Z
-DTEND:20261210T000000Z
-DTSTAMP:20261029T105746Z
+SUMMARY:Cybernetics\, Art & the Synthesiser
+DTSTART:20261209T170000Z
+DTEND:20261209T190000Z
+DTSTAMP:20261106T092642Z
 UID:f5bb9a3d0b533771cac7c6c0@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Cybernetics,Systems thinking
-DESCRIPTION:Peter Kawalek (Centre for Information Management\\\, Loughboro
- ugh University) and Greg Smith (University of West London)\nWho: Peter Kaw
- alek (Centre for Information Management\, Loughborough University) and Gre
- g Smith (University of West London) Peter Kawalek (Centre for Information 
- Management\, Loughborough University) and Greg Smith (University of West L
- ondon) will meet at the Townshend Studio to discuss Cybernetics\, Art & th
- e Synthesiser. Ealing College of Art (now UWL) is famous for the work of R
- oy Ascott who pione\nLanguage: Not specified\nLanguage requirements: Not s
- pecified\nInterpretation: Not specified\nAccess: See organiser\nhttps://te
- amup.com/ksok8ra1xif3viq4no/events/2195681597
-LAST-MODIFIED:20261029T105746Z
+DESCRIPTION:The Cybernetics Society\nPeter Kawalek and Greg Smith discuss 
+ cybernetics\, art\, and synthesisers at the Townshend Studio\, drawing on 
+ Roy Ascott’s work and the studio’s instrument collection.\nLanguage: N
+ ot specified\nLanguage requirements: Not specified\nInterpretation: Not sp
+ ecified\nAccess: See organiser\nhttps://cybsoc.org/events.html\nTitle and 
+ 17:00–19:00 GMT times verified against the organiser’s event page on 6
+  November 2026.
+LAST-MODIFIED:20261106T092642Z
 LOCATION:Zoom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://teamup.com/ksok8ra1xif3viq4no/events/2195681597
+URL:https://cybsoc.org/events.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VSM-AI Special Integration Group

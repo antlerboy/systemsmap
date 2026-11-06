@@ -892,6 +892,56 @@ URL:https://csh.ac.at/events/crisis-and-resilience-in-historical-and-moder
  n-societies/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Network Science for Planning Accessible Public Transport
+DTSTART:20261110T123000Z
+DTEND:20261110T130000Z
+DTSTAMP:20261106T092642Z
+UID:411f448b9907250be71932d4@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nHow far can you get by public transpor
+ t in half an hour\, and what does the answer say about a city? Accessibili
+ ty is key to sustainable and liveable cities\, yet transport research lack
+ s a unified framework to measure it. In this talk\, Tina will show how a d
+ edicated network representation can fill that gap: in the Access Graph\, t
+ wo stops are connected if they are reachable from one another within a\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/network-
+ science-for-planning-accessible-public-transport/
+LAST-MODIFIED:20261106T092642Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/network-science-for-planning-accessible-publi
+ c-transport/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Understanding Polarisation Through Dynamic and Individual Belief S
+ ystem Structures
+DTSTART:20261110T130000Z
+DTEND:20261110T133000Z
+DTSTAMP:20261106T092642Z
+UID:b5813cac36ca55cc73e02511@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nSocietal polarisation is a multi-facet
+ ed phenomenon that encompasses not only diverging beliefs\, but also (mis-
+ )perceived divergence\, the formation of belief clusters\, and affective p
+ olarisation. Although these facets are often studied in isolation\, they a
+ re inherently intertwined and may reinforce each other through social and 
+ cognitive feedback mechanisms. To understand how they can arise togeth\nLa
+ nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
+ n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/understa
+ nding-polarisation-through-dynamic-and-individual-belief-system-structures
+ /
+LAST-MODIFIED:20261106T092642Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/understanding-polarisation-through-dynamic-an
+ d-individual-belief-system-structures/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Geld. Macht. Vertrauen
 DTSTART:20261111T173000Z
 DTEND:20261111T190000Z
@@ -1103,7 +1153,10 @@ DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
   have received a message with registration and payment instructions.\nLang
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/winter-sch
- ool-2027/\nDate-only listing\; check the organiser for session times.
+ ool-2027/\nDate-only listing\; check the organiser for session times.\nNo 
+ longer found in the latest source listing\; confirmation needed.\nThis eve
+ nt could not be rechecked on the latest collection. Confirm with the organ
+ iser.
 LAST-MODIFIED:20261104T121739Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna

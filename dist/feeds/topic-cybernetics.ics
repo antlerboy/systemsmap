@@ -6,34 +6,6 @@ X-WR-CALNAME:Cybernetics
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:Conversational Confluences\, American Society for Cybernetics Conf
- erence 2026
-DTSTART:20260802T220000Z
-DTEND:20260807T215959Z
-DTSTAMP:20260909T085810Z
-UID:4fc08fcb2c47ef70a3e9f34c@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Systems thinking,Cybernetics
-DESCRIPTION:American Society for Cybernetics\nConversational Confluences\,
-  to be held in Ouro Preto\, Brazil\, from August 3–7\, 2026. Founded in 
- 1964\, the ASC has long been a home for those exploring cybernetics as con
- versation — a way of understanding systems\, relations\, and acts of par
- ticipation in the world. Each ASC conference offers a space for shared inq
- uiry and experimentation\, where […]\nLanguage: Not specified\nLanguage 
- requirements: Not specified\nInterpretation: Not specified\nAccess: See or
- ganiser\nhttps://ifsr.org/event/conversational-confluences-american-societ
- y-for-cybernetics-conference-2026/\nSource could not be fully rechecked.\n
- No longer found in the latest source listing\; confirmation needed.\nThis 
- event could not be rechecked on the latest collection. Confirm with the or
- ganiser.
-LAST-MODIFIED:20260909T085810Z
-LOCATION:Ouro Preto\, Brazil\, Ouro Preto\, Brazil
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://ifsr.org/event/conversational-confluences-american-society-for
- -cybernetics-conference-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VSM-AI Special Integration Group
 DTSTART:20260819T160000Z
 DTEND:20260819T173000Z
@@ -75,9 +47,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20261105T132451Z
+DTSTAMP:20261106T092642Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:84
+SEQUENCE:85
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -88,7 +60,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20261105T132451Z
+LAST-MODIFIED:20261106T092642Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -125,9 +97,9 @@ SUMMARY:Cybernetics in the Annex: Commemorating Stafford Beer's Centenary
  + Summer Conferences Recap
 DTSTART:20260908T223000Z
 DTEND:20260909T001500Z
-DTSTAMP:20261105T132451Z
+DTSTAMP:20261106T092642Z
 UID:2e96c1af7848b3132733a6fb@systemsmap.antlerboy.com
-SEQUENCE:89
+SEQUENCE:90
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  eer's work on organisational viability and participatory decision-making\,
@@ -136,7 +108,7 @@ DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Re
  gister for in-person attendance or the online link\nhttps://guild.host/eve
  nts/cybernetics-in-the-annex-tbara6
-LAST-MODIFIED:20261105T132451Z
+LAST-MODIFIED:20261106T092642Z
 LOCATION:OCAD University\, 205 Richmond St W\, Room 115\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -277,9 +249,9 @@ BEGIN:VEVENT
 SUMMARY:Fire and Ice: The Conception\, Birth and Infancy of Cybernetics.
 DTSTART:20260924T120000Z
 DTEND:20260924T140000Z
-DTSTAMP:20261105T132451Z
+DTSTAMP:20261106T092642Z
 UID:79561815b13dfb8aa2a33fdb@systemsmap.antlerboy.com
-SEQUENCE:89
+SEQUENCE:90
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Digital Futures\, University of Manchester\nThe opening semina
  r in the nine-part 'Meat the Machine' series on the history of cybernetics
@@ -288,7 +260,7 @@ DESCRIPTION:Digital Futures\, University of Manchester\nThe opening semina
  ess: General public welcome\; registration required\nhttps://events.manche
  ster.ac.uk/event/event:r2y-ms8q8jbe-n4ev9n/fire-and-ice-the-conception-bir
  th-and-infancy-of-cybernetics
-LAST-MODIFIED:20261105T132451Z
+LAST-MODIFIED:20261106T092642Z
 LOCATION:University of Manchester\, Manchester\, United Kingdom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -299,9 +271,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261105T132451Z
+DTSTAMP:20261106T092642Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:80
+SEQUENCE:81
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -310,7 +282,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261105T132451Z
+LAST-MODIFIED:20261106T092642Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -447,9 +419,9 @@ BEGIN:VEVENT
 SUMMARY:Ashby\, Fuzzy\, and Me
 DTSTART:20261015T160000Z
 DTEND:20261015T180000Z
-DTSTAMP:20261105T132451Z
+DTSTAMP:20261106T092642Z
 UID:e86c94bf15bd90e1ab47f5ac@systemsmap.antlerboy.com
-SEQUENCE:31
+SEQUENCE:32
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:The Cybernetics Society (CybSoc)\nDr Steve Morlidge examines w
  hy matching regulatory variety is necessary but insufficient\, considering
@@ -459,7 +431,7 @@ DESCRIPTION:The Cybernetics Society (CybSoc)\nDr Steve Morlidge examines w
  m.us/meeting/register/P2vyZNSyQ4KAsPhCcICcbg\nDate\, time\, speaker\, and 
  Zoom registration checked against the organiser's event page on 15 October
   2026.
-LAST-MODIFIED:20261105T132451Z
+LAST-MODIFIED:20261106T092642Z
 LOCATION:Online via Zoom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -577,9 +549,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261105T132451Z
+DTSTAMP:20261106T092642Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:24
+SEQUENCE:25
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -589,7 +561,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261105T132451Z
+LAST-MODIFIED:20261106T092642Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -666,9 +638,9 @@ BEGIN:VEVENT
 SUMMARY:Beer's Pedagogy: Lessons from the Concordia University Lectures
 DTSTART:20261104T170000Z
 DTEND:20261104T183000Z
-DTSTAMP:20261105T132451Z
+DTSTAMP:20261106T092642Z
 UID:d712cf5af68cb1fe2529b149@systemsmap.antlerboy.com
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Metaphorum\nMarc-André Pigeon examines Stafford Beer's teachi
  ng through recordings of his Concordia University lectures. This webinar w
@@ -679,7 +651,7 @@ DESCRIPTION:Metaphorum\nMarc-André Pigeon examines Stafford Beer's teachi
  ober-December 2026 newsletter confirms the speaker\, title and 4 November 
  date. The submitted organiser announcement supplies 17:00-18:30 GMT on Zoo
  m. Retained as a past event\; no new date inferred.
-LAST-MODIFIED:20261105T132451Z
+LAST-MODIFIED:20261106T092642Z
 LOCATION:Online (Zoom)
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -919,29 +891,25 @@ URL:https://www.systemspractice.org/events/scio-uk-virtual-development-eve
  nt-december-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Peter Kawalek (Centre for Information Management\, Loughborough U
- niversity) and Greg Smith (University of West London))
-DTSTART:20261209T220000Z
-DTEND:20261210T000000Z
-DTSTAMP:20261029T105746Z
+SUMMARY:Cybernetics\, Art & the Synthesiser
+DTSTART:20261209T170000Z
+DTEND:20261209T190000Z
+DTSTAMP:20261106T092642Z
 UID:f5bb9a3d0b533771cac7c6c0@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Cybernetics,Systems thinking
-DESCRIPTION:Peter Kawalek (Centre for Information Management\\\, Loughboro
- ugh University) and Greg Smith (University of West London)\nWho: Peter Kaw
- alek (Centre for Information Management\, Loughborough University) and Gre
- g Smith (University of West London) Peter Kawalek (Centre for Information 
- Management\, Loughborough University) and Greg Smith (University of West L
- ondon) will meet at the Townshend Studio to discuss Cybernetics\, Art & th
- e Synthesiser. Ealing College of Art (now UWL) is famous for the work of R
- oy Ascott who pione\nLanguage: Not specified\nLanguage requirements: Not s
- pecified\nInterpretation: Not specified\nAccess: See organiser\nhttps://te
- amup.com/ksok8ra1xif3viq4no/events/2195681597
-LAST-MODIFIED:20261029T105746Z
+DESCRIPTION:The Cybernetics Society\nPeter Kawalek and Greg Smith discuss 
+ cybernetics\, art\, and synthesisers at the Townshend Studio\, drawing on 
+ Roy Ascott’s work and the studio’s instrument collection.\nLanguage: N
+ ot specified\nLanguage requirements: Not specified\nInterpretation: Not sp
+ ecified\nAccess: See organiser\nhttps://cybsoc.org/events.html\nTitle and 
+ 17:00–19:00 GMT times verified against the organiser’s event page on 6
+  November 2026.
+LAST-MODIFIED:20261106T092642Z
 LOCATION:Zoom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://teamup.com/ksok8ra1xif3viq4no/events/2195681597
+URL:https://cybsoc.org/events.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deep Dive Intervisie: Critical Systems Heuristics
@@ -1259,9 +1227,9 @@ BEGIN:VEVENT
 SUMMARY:WOSC Congress: Addressing Planetary Challenges
 DTSTART:20270616T070000Z
 DTEND:20270618T140000Z
-DTSTAMP:20261105T132451Z
+DTSTAMP:20261106T092642Z
 UID:99998e0fda728e162d4a9f6c@systemsmap.antlerboy.com
-SEQUENCE:80
+SEQUENCE:81
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:World Organisation of Systems and Cybernetics (WOSC)\n\nLangua
  ge: Not specified\nLanguage requirements: Not specified\nInterpretation: N
@@ -1269,7 +1237,7 @@ DESCRIPTION:World Organisation of Systems and Cybernetics (WOSC)\n\nLangua
  wosc-congress-2026-addressing-planetary-challenges\nThe page title and URL
   retain 2026\, but its current Time & Location explicitly gives 16-18 June
   2027. Confirm this discrepancy with WOSC before booking.
-LAST-MODIFIED:20261105T132451Z
+LAST-MODIFIED:20261106T092642Z
 LOCATION:Ekonomsko-poslovna fakulteta UM\, Razlagova ulica 20\, Maribor\, 
  Slovenia
 STATUS:CONFIRMED

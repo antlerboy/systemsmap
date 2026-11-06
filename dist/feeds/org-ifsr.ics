@@ -6,34 +6,6 @@ X-WR-CALNAME:International Federation for Systems Research (IFSR)
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:Conversational Confluences\, American Society for Cybernetics Conf
- erence 2026
-DTSTART:20260802T220000Z
-DTEND:20260807T215959Z
-DTSTAMP:20260909T085810Z
-UID:4fc08fcb2c47ef70a3e9f34c@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Systems thinking,Cybernetics
-DESCRIPTION:American Society for Cybernetics\nConversational Confluences\,
-  to be held in Ouro Preto\, Brazil\, from August 3–7\, 2026. Founded in 
- 1964\, the ASC has long been a home for those exploring cybernetics as con
- versation — a way of understanding systems\, relations\, and acts of par
- ticipation in the world. Each ASC conference offers a space for shared inq
- uiry and experimentation\, where […]\nLanguage: Not specified\nLanguage 
- requirements: Not specified\nInterpretation: Not specified\nAccess: See or
- ganiser\nhttps://ifsr.org/event/conversational-confluences-american-societ
- y-for-cybernetics-conference-2026/\nSource could not be fully rechecked.\n
- No longer found in the latest source listing\; confirmation needed.\nThis 
- event could not be rechecked on the latest collection. Confirm with the or
- ganiser.
-LAST-MODIFIED:20260909T085810Z
-LOCATION:Ouro Preto\, Brazil\, Ouro Preto\, Brazil
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://ifsr.org/event/conversational-confluences-american-society-for
- -cybernetics-conference-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:100 Years of Stafford Beer: Celebrating his Life\, his Legacy and 
  Beyond
 DTSTART:20260917T070000Z
