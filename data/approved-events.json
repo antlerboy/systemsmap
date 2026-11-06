@@ -1339,5 +1339,45 @@
       "Previously cached feed timestamps began on 11 February, conflicting with its own description and the supplied announcement specifying 12 February. Corrected to a date-only 12 February listing; existing subscription identity retained."
     ],
     "recurrenceId": "2027-02-11 10:00:00+11:00"
+  },
+  {
+    "location": "Zoom",
+    "topics": [
+      "cybernetics",
+      "systems"
+    ],
+    "format": "online",
+    "country": "",
+    "language": "Not specified",
+    "languageRequirement": "",
+    "interpretation": "",
+    "access": "See organiser",
+    "price": "See organiser",
+    "audienceCountries": [],
+    "audienceRegions": [],
+    "title": "Cybernetics, Art & the Synthesiser",
+    "url": "https://cybsoc.org/events.html",
+    "organiser": "The Cybernetics Society",
+    "description": "Peter Kawalek and Greg Smith discuss cybernetics, art, and synthesisers at the Townshend Studio, drawing on Roy Ascott’s work and the studio’s instrument collection.",
+    "start": "2026-12-09T17:00:00+00:00",
+    "end": "2026-12-09T19:00:00+00:00",
+    "timezone": "Europe/London",
+    "uid": "TU2195681597",
+    "recurrenceId": "2026-12-09 17:00:00-05:00",
+    "notes": [
+      "Title and 17:00–19:00 GMT times verified against the organiser’s event page on 6 November 2026."
+    ],
+    "discoverySources": [
+      {
+        "id": "community",
+        "name": "Cybernetics and Systems Community Calendar",
+        "url": "https://teamup.com/ksok8ra1xif3viq4no/events/2195681597"
+      },
+      {
+        "id": "cybsoc",
+        "name": "The Cybernetics Society",
+        "url": "https://cybsoc.org/events.html"
+      }
+    ]
   }
 ]

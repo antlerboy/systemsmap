@@ -1,4 +1,4 @@
-import sys,unittest
+import json,sys,unittest
 from pathlib import Path
 from datetime import datetime,timezone
 from unittest.mock import patch
@@ -86,5 +86,33 @@ END:VCALENDAR\r
         self.assertTrue(all('relational-public-services' in e['topics'] for e in new))
         self.assertTrue(new[0]['start'].endswith('+01:00'))
         self.assertTrue(new[1]['start'].endswith('+00:00'))
+
+    def test_cybsoc_december_correction_survives_shared_feed_refresh(self):
+        shared={**SOURCE,'id':'community','timezone':'America/New_York'}
+        shared_url='https://teamup.com/ksok8ra1xif3viq4no/events/2195681597'
+        raw=dict(title='(Peter Kawalek and Greg Smith)',url=shared_url,
+                 start='2026-12-09T17:00:00-05:00',end='2026-12-09T19:00:00-05:00',
+                 uid='TU2195681597',recurrenceId='2026-12-09 17:00:00-05:00',location='Zoom')
+        old=collect.deduplicate([collect.normalise(raw,shared,shared_url)],[])
+        approved=next(e for e in json.loads((collect.ROOT/'data/approved-events.json').read_text())
+                      if e.get('uid')=='TU2195681597')
+        reviewed_source={**shared,'id':'community-submissions','timezone':'Europe/London'}
+        def corrected():
+            return collect.normalise(approved,reviewed_source,approved['url'])
+        result=collect.deduplicate([corrected(),collect.normalise(raw,shared,shared_url)],old)
+        self.assertEqual(len(result),1)
+        event=result[0]
+        self.assertEqual(event['id'],old[0]['id'])
+        self.assertEqual(event['sequence'],old[0]['sequence']+1)
+        self.assertEqual(event['title'],'Cybernetics, Art & the Synthesiser')
+        self.assertEqual(event['timezone'],'Europe/London')
+        item=Calendar.from_ical(collect.make_calendar(result,'Test')).walk('VEVENT')[0]
+        self.assertEqual(item.decoded('DTSTART').isoformat(),'2026-12-09T17:00:00+00:00')
+        self.assertEqual(item.decoded('DTEND').isoformat(),'2026-12-09T19:00:00+00:00')
+        self.assertEqual(str(item['UID']),old[0]['id']+'@systemsmap.antlerboy.com')
+        refreshed=collect.deduplicate([corrected(),collect.normalise(raw,shared,shared_url)],result)
+        self.assertEqual(len(refreshed),1)
+        self.assertEqual(refreshed[0]['sequence'],event['sequence'])
+        self.assertEqual(refreshed[0]['updatedAt'],event['updatedAt'])
 
 if __name__=='__main__':unittest.main()
