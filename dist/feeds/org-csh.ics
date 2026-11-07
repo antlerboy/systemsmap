@@ -883,7 +883,9 @@ DESCRIPTION:Complexity Science Hub\nWhat makes societies resilient? What m
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/crisis-and
  -resilience-in-historical-and-modern-societies/\nDate-only listing\; check
-  the organiser for session times.
+  the organiser for session times.\nNo longer found in the latest source li
+ sting\; confirmation needed.\nThis event could not be rechecked on the lat
+ est collection. Confirm with the organiser.
 LAST-MODIFIED:20260924T092314Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1143,9 +1145,9 @@ BEGIN:VEVENT
 SUMMARY:Winter School 2027
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
-DTSTAMP:20261104T121739Z
+DTSTAMP:20261107T111054Z
 UID:8a01d8d95b35fce685bbe6b4@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Complexity
 DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
  e Winter School program are forthcoming. Find more information on the Wint
@@ -1153,11 +1155,8 @@ DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
   have received a message with registration and payment instructions.\nLang
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/winter-sch
- ool-2027/\nDate-only listing\; check the organiser for session times.\nNo 
- longer found in the latest source listing\; confirmation needed.\nThis eve
- nt could not be rechecked on the latest collection. Confirm with the organ
- iser.
-LAST-MODIFIED:20261104T121739Z
+ ool-2027/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261107T111054Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
 STATUS:CONFIRMED
