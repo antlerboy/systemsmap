@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-08T11:22:35+00:00",
-  "windowStart": "2026-08-10",
-  "windowEnd": "2028-05-11",
+  "generatedAt": "2026-11-09T09:30:10+00:00",
+  "windowStart": "2026-08-11",
+  "windowEnd": "2028-05-12",
   "events": [
     {
       "id": "d8c293b9d8ef0e9be47b7f2c",
@@ -93,7 +93,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2026-08-19 12:00:00-04:00",
       "stale": false,
@@ -145,7 +145,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU2133404103",
       "recurrenceId": "2026-08-20",
       "stale": false,
@@ -349,13 +349,13 @@
         "Official programme checked 7 September 2026: 24-27 August. Calendar end date is exclusive.",
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "submission-3-rsdx-asc-2026",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 88,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 89,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-07T02:30:20+00:00"
     },
     {
@@ -398,7 +398,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://cssociety.org/event/075b0114-b4bd-4efc-8d1a-9d5a4d6a2eca/",
       "recurrenceId": "",
       "stale": false,
@@ -544,7 +544,7 @@
       "price": "100 USD",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/introduction-to-sociocracy-august2026/",
       "recurrenceId": "",
       "stale": false,
@@ -1101,7 +1101,7 @@
       "price": "1500 USD",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/academy-level-1/",
       "recurrenceId": "",
       "stale": false,
@@ -1209,13 +1209,13 @@
       "price": "Free",
       "access": "Register for in-person attendance or the online link",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "submission-1",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 93,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 94,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-06T19:18:42+00:00"
     },
     {
@@ -1354,7 +1354,7 @@
       "price": "0 USD",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/weaving-our-wisdom-a-professional-partner-unconference/",
       "recurrenceId": "",
       "stale": false,
@@ -1454,13 +1454,13 @@
       "notes": [
         "End time not published."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "isss-board-2026-09-11",
       "recurrenceId": "2026-09-11",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 83,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 84,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:50:57+00:00"
     },
     {
@@ -1657,13 +1657,13 @@
       "price": "�510 excluding VAT for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-1-2026-09-15",
       "recurrenceId": "2026-09-15",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -1979,13 +1979,13 @@
       "price": "�510 excluding VAT for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-2-2026-09-16",
       "recurrenceId": "2026-09-16",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -2083,7 +2083,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2026-09-16 12:00:00-04:00",
       "stale": false,
@@ -2339,13 +2339,13 @@
       "notes": [
         "End time not published."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "isss-agm-2026-09-18",
       "recurrenceId": "2026-09-18",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 83,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 84,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:50:57+00:00"
     },
     {
@@ -2386,7 +2386,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://asc-cybernetics.org/initiatives/speaker-series-wg/speaker-series-season-71/",
       "recurrenceId": "",
       "stale": false,
@@ -2596,13 +2596,13 @@
       "notes": [
         "Presenter withdrew from the conference session; organiser's follow-up offers separate online workshops. Checked 7 October 2026."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "sysprac26-workshop4",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -2692,7 +2692,7 @@
       "price": "1200 USD",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/academy-level-2/",
       "recurrenceId": "",
       "stale": false,
@@ -2739,7 +2739,7 @@
       "price": "0 USD",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/20260922-sociocracy-in-cooperatives-community-of-practice/",
       "recurrenceId": "",
       "stale": false,
@@ -2794,13 +2794,13 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://q.thenhsalliance.org/get-involved/events/exploring-the-role-of-the-knowledge-weaver",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -2841,7 +2841,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/unitarian-universalist-sociocracy/",
       "recurrenceId": "",
       "stale": false,
@@ -2895,13 +2895,13 @@
       "price": "�575 for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/#session-1-2026-09-23",
       "recurrenceId": "2026-09-23",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -2942,13 +2942,13 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://govservicedesign.net/programme/participatory-design-principles-heal-not-hinder-importance-psychologically-informed",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:43:33+00:00"
     },
     {
@@ -3193,13 +3193,13 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://govservicedesign.net/programme/who-gets-decide-sharing-power-public-services",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:43:33+00:00"
     },
     {
@@ -3241,13 +3241,13 @@
       "price": "Free",
       "access": "General public welcome; registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "submission-2",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 93,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 94,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-06T19:18:42+00:00"
     },
     {
@@ -3400,7 +3400,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/facilitation-practice-6-sessions-september-2026/",
       "recurrenceId": "",
       "stale": false,
@@ -3447,13 +3447,13 @@
       "price": "Free",
       "access": "Open to all; registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/sep/sprocket-systems-practice-seminar-1-choice-and-choosables",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -3550,7 +3550,7 @@
       "price": "50 USD",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/psychological-safety-and-conflict-resolution-planning/",
       "recurrenceId": "",
       "stale": false,
@@ -3607,13 +3607,13 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://alwaysquestion.ai/",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:43:33+00:00"
     },
     {
@@ -3656,13 +3656,13 @@
       "price": "See organiser",
       "access": "Registration through the organiser's Zoom event page",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#mapping-inclusive-learning-pre-k-to-he",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 64,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 65,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-25T07:27:16+00:00"
     },
     {
@@ -3853,13 +3853,13 @@
       "price": "See organiser",
       "access": "Registration via the organiser's event page",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://rsdsymposium.org/rsd15-cmmi/",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 65,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 66,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-25T07:19:05+00:00"
     },
     {
@@ -3958,7 +3958,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://cssociety.org/event/7fc28031-3253-4626-8492-06700bb5428a/",
       "recurrenceId": "",
       "stale": false,
@@ -4007,13 +4007,13 @@
       "price": "See organiser",
       "access": "Registration through the organiser's Zoom event page",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#systemicstories-ai-an-ai-enabled-systemic-design-atlas-for-singapore-s-health-care-sector",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 64,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 65,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-25T07:27:16+00:00"
     },
     {
@@ -4056,13 +4056,13 @@
       "price": "See organiser",
       "access": "Registration through the organiser's Zoom event page",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#mind-the-gap-transitions-between-systems-and-getting-lost-in-the-void",
       "recurrenceId": "2026-09-30T07:00:00-07:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 62,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 63,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-25T07:31:10+00:00"
     },
     {
@@ -4155,13 +4155,13 @@
       "price": "See organiser",
       "access": "Registration through the organiser's Zoom event page",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#fieldkeeper-s-log-entry-number-exploring-relational-technologies-through-dramaturgy-poetics-and-metaphor",
       "recurrenceId": "2026-09-30T09:00:00-07:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 62,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 63,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-25T07:31:10+00:00"
     },
     {
@@ -4205,13 +4205,13 @@
       "notes": [
         "Organiser page checked 7 October 2026. Separate from the cancelled conference appearance."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "sysprac26-online-consulting-20260930",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 45,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 46,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-07T22:09:43+00:00"
     },
     {
@@ -4254,13 +4254,13 @@
       "price": "See organiser",
       "access": "Registration through the organiser's Zoom event page",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A#all-tomorrow-s-policies-methods-for-dual-timeframe-policy-innovation",
       "recurrenceId": "2026-09-30T14:00:00-07:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 62,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 63,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-25T07:31:10+00:00"
     },
     {
@@ -4729,13 +4729,13 @@
       "price": "�510 excluding VAT for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-3-2026-10-06",
       "recurrenceId": "2026-10-06",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -4928,13 +4928,13 @@
       "price": "See organiser",
       "access": "Registration through the organiser's Zoom event page",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlDQGXyaqccCA#shades-of-metadesign-diversity-and-coherence-in-emergence",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 63,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 64,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-25T07:28:40+00:00"
     },
     {
@@ -5027,13 +5027,13 @@
       "price": "See organiser",
       "access": "Registration through the organiser's Zoom event page",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlDQGXyaqccCA#cmm-office-hours",
       "recurrenceId": "2026-10-07T09:00:00-07:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 62,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 63,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-25T07:31:10+00:00"
     },
     {
@@ -5081,13 +5081,13 @@
       "price": "�575 for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/#session-2-2026-10-07",
       "recurrenceId": "2026-10-07",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -5135,13 +5135,13 @@
       "price": "�510 excluding VAT for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-4-2026-10-07",
       "recurrenceId": "2026-10-07",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -5231,7 +5231,7 @@
       "price": "100.00 USD",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/practicing-shared-decision-making-a-six-session-facilitator-workshop-for-sociocracy-in-uu-communities/",
       "recurrenceId": "",
       "stale": false,
@@ -5443,7 +5443,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://rsdsymposium.org/rsd15-paper-talks/",
       "recurrenceId": "",
       "stale": false,
@@ -5599,13 +5599,13 @@
       "notes": [
         "Organiser page checked 7 October 2026. Separate from the cancelled conference appearance."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "sysprac26-online-relational-20261008",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 45,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 46,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-07T22:09:43+00:00"
     },
     {
@@ -5648,7 +5648,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://cssociety.org/event/5ea1ef85-35de-4e54-9a0c-772f4dcd0185/",
       "recurrenceId": "",
       "stale": false,
@@ -5755,7 +5755,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://rsdsymposium.org/rsd15-turin/",
       "recurrenceId": "",
       "stale": false,
@@ -6323,7 +6323,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://cssociety.org/event/9c489a0c-f18a-4960-b95c-dfb865807d46/",
       "recurrenceId": "",
       "stale": false,
@@ -6372,7 +6372,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://cssociety.org/event/ddd282c1-1830-468c-83f6-04eae91724f3/",
       "recurrenceId": "",
       "stale": false,
@@ -6421,7 +6421,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://cssociety.org/event/72e9b78b-9bd6-4014-9bf2-ac15441cf3d5/",
       "recurrenceId": "",
       "stale": false,
@@ -6630,7 +6630,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.cecan.ac.uk/events/cecan-webinar-place-based-evaluation-is-missing-the-point-about-place/",
       "recurrenceId": "",
       "stale": false,
@@ -6679,7 +6679,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU2187770082",
       "recurrenceId": "2026-10-15 12:00:00-04:00",
       "stale": false,
@@ -6786,13 +6786,13 @@
       "notes": [
         "Date, time, speaker, and Zoom registration checked against the organiser's event page on 15 October 2026."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "cybsoc-ashby-fuzzy-and-me-2026-10-15",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 35,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 36,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-15T09:23:00+00:00"
     },
     {
@@ -7004,7 +7004,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://rsdsymposium.org/rsd15-mon-viso/",
       "recurrenceId": "",
       "stale": false,
@@ -7051,7 +7051,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://asc-cybernetics.org/speaker-series-season-72/",
       "recurrenceId": "",
       "stale": false,
@@ -7262,13 +7262,13 @@
       "notes": [
         "Organiser JSON-LD checked 18 October 2026: 12:00-14:00 -04:00, equivalent to 17:00-19:00 Europe/London."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "meetup-316861213",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 28,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 29,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-18T22:34:58+00:00"
     },
     {
@@ -7422,13 +7422,13 @@
       "price": "�575 for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/#session-3-2026-10-21",
       "recurrenceId": "2026-10-21",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -7526,7 +7526,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2026-10-21 12:00:00-04:00",
       "stale": false,
@@ -7625,13 +7625,13 @@
       "notes": [
         "Checked 7 October 2026: organiser prose gives 21 October, 18:30-20:15 local time; structured dates are 22:30-00:15 UTC. The UTC date crossing is preserved."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://guild.host/events/method-showcase-logosofia-tu5ovo",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 44,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 45,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-07T22:14:54+00:00"
     },
     {
@@ -7672,7 +7672,7 @@
       "price": "0 USD",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/sociocracy-permaculture-community-of-practice/2026-10-22/",
       "recurrenceId": "",
       "stale": false,
@@ -7983,13 +7983,13 @@
         "Official organiser page and location checked 18 October 2026.",
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "incose-aise-mind-the-system-2026",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 27,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 28,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-18T23:04:03+00:00"
     },
     {
@@ -8288,7 +8288,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/sociocracy-in-practice-cop/",
       "recurrenceId": "",
       "stale": false,
@@ -8549,13 +8549,13 @@
       "price": "�510 excluding VAT for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-5-2026-11-03",
       "recurrenceId": "2026-11-03",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -8805,13 +8805,13 @@
       "price": "�575 for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/#session-4-2026-11-04",
       "recurrenceId": "2026-11-04",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -8859,13 +8859,13 @@
       "price": "�510 excluding VAT for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-6-2026-11-04",
       "recurrenceId": "2026-11-04",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -8964,13 +8964,13 @@
       "notes": [
         "Metaphorum's October-December 2026 newsletter confirms the speaker, title and 4 November date. The submitted organiser announcement supplies 17:00-18:30 GMT on Zoom. Retained as a past event; no new date inferred."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "metaphorum-beers-pedagogy-2026-11-04",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 5,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 6,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-11-05T13:06:29+00:00"
     },
     {
@@ -9011,7 +9011,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/free-info-session-november-2026/",
       "recurrenceId": "",
       "stale": false,
@@ -9108,7 +9108,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.sociocracyforall.org/event/nonviolent-communication-basics-nov-2026/",
       "recurrenceId": "",
       "stale": false,
@@ -9253,7 +9253,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "67785-1794216600-1794587400@iscpif.fr",
       "recurrenceId": "2026-11-09 09:30:00+02:00",
       "stale": false,
@@ -9303,13 +9303,13 @@
       "notes": [
         "Organiser’s live Zoom registration and full community invitation checked 2 November 2026. Calendar entry covers the main hour; staying until 15:00 GMT for the community-of-practice discussion is optional."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "surrey-system-conveners-2026-11-09",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 10,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 11,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-11-02T08:51:53+00:00"
     },
     {
@@ -9404,7 +9404,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://csh.ac.at/events/network-science-for-planning-accessible-public-transport/",
       "recurrenceId": "",
       "stale": false,
@@ -9451,7 +9451,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://csh.ac.at/events/understanding-polarisation-through-dynamic-and-individual-belief-system-structures/",
       "recurrenceId": "",
       "stale": false,
@@ -9503,7 +9503,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "10003263-1794328200-1794337200@www.sociocracyforall.org",
       "recurrenceId": "2026-11-10 16:30:00+00:00",
       "stale": false,
@@ -9550,7 +9550,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "65120-1794384000-1794416400@iscpif.fr",
       "recurrenceId": "2026-11-11 08:00:00+02:00",
       "stale": false,
@@ -9597,7 +9597,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://csh.ac.at/events/geld-macht-vertrauen/",
       "recurrenceId": "",
       "stale": false,
@@ -9646,7 +9646,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://csh.ac.at/events/doomsday-conference-on-the-sense-and-nonsense-of-end-of-the-world-predictions/",
       "recurrenceId": "",
       "stale": false,
@@ -9703,13 +9703,13 @@
         "Official organiser page and location checked 18 October 2026.",
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "incose-dutch-se-days-2026",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 27,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 28,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-18T23:04:03+00:00"
     },
     {
@@ -9759,13 +9759,13 @@
         "The canonical chapter page explicitly states 08:00–16:00 EST. This takes precedence over conflicting EDT/UTC labels on the global listing.",
         "Official organiser page and location checked 18 October 2026."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "incose-new-england-fall-workshop-2026",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 27,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 28,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-18T23:04:03+00:00"
     },
     {
@@ -9860,7 +9860,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://csh.ac.at/events/public-panel-discussion-how-to-survive-doomsdays/",
       "recurrenceId": "",
       "stale": false,
@@ -9868,6 +9868,53 @@
       "sequence": 5,
       "updatedAt": "2026-10-30T10:55:34+00:00",
       "firstSeen": "2026-10-01T11:02:12+00:00"
+    },
+    {
+      "id": "e82fc8516076e3c6c97ecf45",
+      "title": "Répétition chorale du CNRS",
+      "start": "2026-11-12T18:00:00+02:00",
+      "end": "2026-11-12T21:00:00+02:00",
+      "allDay": false,
+      "timezone": "Europe/Helsinki",
+      "location": "ISC-PIF, 113 rue Nationale, Paris, Paris, 75013, France",
+      "country": "France",
+      "latitude": 48.857,
+      "longitude": 2.352,
+      "locationPrecision": "city",
+      "format": "in-person",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "organiser": "Institut des systèmes complexes Paris Île-de-France",
+      "organisationIds": [
+        "iscpif"
+      ],
+      "topics": [
+        "complexity"
+      ],
+      "description": "Répétition chorale du CNRS en raison du blocage de l’Université UPC.",
+      "url": "https://iscpif.fr/evenements/repetition-chorale-du-cnrs-3/",
+      "sources": [
+        {
+          "id": "iscpif",
+          "name": "Institut des systèmes complexes Paris Île-de-France",
+          "url": "https://iscpif.fr/evenements/?lang=en%2F&ical=1"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "languageRequirement": "",
+      "interpretation": "",
+      "price": "See organiser",
+      "access": "See organiser",
+      "notes": [],
+      "lastSeen": "2026-11-09T09:30:10+00:00",
+      "sourceUid": "70738-1794506400-1794517200@iscpif.fr",
+      "recurrenceId": "2026-11-12 18:00:00+02:00",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
+      "firstSeen": "2026-11-09T09:30:10+00:00"
     },
     {
       "id": "32f1ffca50f269104da5d02b",
@@ -9909,16 +9956,14 @@
       "interpretation": "",
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
-      "notes": [
-        "Source could not be fully rechecked."
-      ],
-      "lastSeen": "2026-11-07T11:10:54+00:00",
+      "notes": [],
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics-2",
       "recurrenceId": "",
-      "stale": true,
+      "stale": false,
       "calendarEligible": true,
-      "sequence": 11,
-      "updatedAt": "2026-11-02T08:51:53+00:00",
+      "sequence": 12,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
     },
     {
@@ -9971,7 +10016,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "2416-1794556800-1794762000@ifsr.org",
       "recurrenceId": "2026-11-13 08:00:00+01:00",
       "stale": false,
@@ -10021,16 +10066,15 @@
       "price": "FREE",
       "access": "NL Members + Guests",
       "notes": [
-        "Title year differs from the published date. Check with the organiser.",
-        "Source could not be fully rechecked."
+        "Title year differs from the published date. Check with the organiser."
       ],
-      "lastSeen": "2026-11-07T11:10:54+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.systemspractice.org/events/scio-nl-monthly-meeting-november-2025-live-woerden-and-dutch-0",
       "recurrenceId": "",
-      "stale": true,
+      "stale": false,
       "calendarEligible": true,
-      "sequence": 9,
-      "updatedAt": "2026-10-30T06:40:53+00:00",
+      "sequence": 10,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
     },
     {
@@ -10122,7 +10166,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "69047-1794787200-1794873599@iscpif.fr",
       "recurrenceId": "2026-11-16",
       "stale": false,
@@ -10178,7 +10222,7 @@
       "notes": [
         "Manually checked against the SCiO event page on 30 October 2026. Check the organiser for later changes."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.systemspractice.org/events/scio-uk-virtual-open-meeting-november-2026",
       "recurrenceId": "",
       "stale": false,
@@ -10236,13 +10280,13 @@
         "Venue reference: https://tdse.org/informationen/allgemeines.html",
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "incose-tdse-2026",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 27,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 28,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-18T23:04:03+00:00"
     },
     {
@@ -10342,13 +10386,13 @@
       "notes": [
         "Public organiser Facebook event and linked Eventbrite page checked 2 November 2026: both display 16:30–18:30 GMT, equivalent to 17:30–19:30 Europe/Rome. Public event visibility does not remove the stated Community-membership restriction."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "complexity-institute-luca-ferri-2026-11-17",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 10,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 11,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-11-02T08:51:53+00:00"
     },
     {
@@ -10394,7 +10438,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU2195664710",
       "recurrenceId": "2026-11-18",
       "stale": false,
@@ -10448,13 +10492,13 @@
       "price": "�575 for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/#session-5-2026-11-18",
       "recurrenceId": "2026-11-18",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -10551,7 +10595,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2026-11-18 12:00:00-05:00",
       "stale": false,
@@ -10598,7 +10642,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://csh.ac.at/events/complex-data-complex-questions-about-the-most-complex-marine-ecosystem/",
       "recurrenceId": "",
       "stale": false,
@@ -10606,6 +10650,63 @@
       "sequence": 0,
       "updatedAt": "2026-11-05T12:32:16+00:00",
       "firstSeen": "2026-11-05T12:32:16+00:00"
+    },
+    {
+      "id": "ac6423f888de3c2478eae5c7",
+      "title": "Systems of Traditional Knowledge, Pluriversal Design",
+      "start": "2026-11-18T18:30:00-05:00",
+      "end": "2026-11-18T20:15:00-05:00",
+      "allDay": false,
+      "timezone": "America/Toronto",
+      "location": "OCAD University, 205 Richmond Street West, Room 115, Toronto, Canada",
+      "country": "Canada",
+      "latitude": 43.653,
+      "longitude": -79.383,
+      "locationPrecision": "city",
+      "format": "hybrid",
+      "audienceCountries": [],
+      "audienceRegions": [],
+      "organiser": "Systems Thinking Ontario",
+      "organisationIds": [
+        "community-submissions",
+        "systems-thinking-ontario"
+      ],
+      "topics": [
+        "systems",
+        "systemic-design"
+      ],
+      "description": "Herman Piʻikea Clark explores Makawalu and cognitive justice; Roberto Pires discusses design, anticipation, and plural knowledge systems. Moderated by David Ing.",
+      "url": "https://guild.host/events/systems-of-traditional-si2lqm",
+      "sources": [
+        {
+          "id": "community-submissions",
+          "name": "Systems Thinking Ontario",
+          "url": "https://guild.host/events/systems-of-traditional-si2lqm"
+        },
+        {
+          "id": "systems-thinking-ontario",
+          "name": "Systems Thinking Ontario event details",
+          "url": "https://wiki.st-on.org/2026-11-18"
+        }
+      ],
+      "status": "scheduled",
+      "language": "Not specified",
+      "languageRequirement": "",
+      "interpretation": "",
+      "price": "See organiser",
+      "access": "Register on Guild for in-person attendance or the online link; online participation via Microsoft Teams",
+      "notes": [
+        "Date, time, hybrid format, and speakers checked against Guild and the organiser's event page on 9 November 2026. Toronto time is 18:30–20:15 EST on 18 November; UK time is 23:30 GMT on 18 November to 01:15 GMT on 19 November.",
+        "Cost is not stated on the accessible event pages; check registration."
+      ],
+      "lastSeen": "2026-11-09T09:30:10+00:00",
+      "sourceUid": "https://guild.host/events/systems-of-traditional-si2lqm",
+      "recurrenceId": "",
+      "stale": false,
+      "calendarEligible": true,
+      "sequence": 0,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
+      "firstSeen": "2026-11-09T09:30:10+00:00"
     },
     {
       "id": "d98901f20f8a102037776b02",
@@ -10645,7 +10746,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "68220-1795078800-1795111200@iscpif.fr",
       "recurrenceId": "2026-11-19 09:00:00+02:00",
       "stale": false,
@@ -10802,16 +10903,14 @@
       "interpretation": "",
       "price": "FREE",
       "access": "All welcome",
-      "notes": [
-        "Source could not be fully rechecked."
-      ],
-      "lastSeen": "2026-11-07T11:10:54+00:00",
+      "notes": [],
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.systemspractice.org/events/systemowy-krajobraz-praktyk-co-nas-laczy-co-nas-rozni",
       "recurrenceId": "",
-      "stale": true,
+      "stale": false,
       "calendarEligible": true,
-      "sequence": 0,
-      "updatedAt": "2026-10-31T10:28:10+00:00",
+      "sequence": 1,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-31T10:28:10+00:00"
     },
     {
@@ -10854,7 +10953,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "69050-1795132800-1795219199@iscpif.fr",
       "recurrenceId": "2026-11-20",
       "stale": false,
@@ -11015,7 +11114,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "10003216-1795275000-1795296600@www.sociocracyforall.org",
       "recurrenceId": "2026-11-21 15:30:00+00:00",
       "stale": false,
@@ -11064,7 +11163,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "68794-1795392000-1795564799@iscpif.fr",
       "recurrenceId": "2026-11-23",
       "stale": false,
@@ -11113,7 +11212,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "67901-1795392000-1795564799@iscpif.fr",
       "recurrenceId": "2026-11-23",
       "stale": false,
@@ -11180,13 +11279,13 @@
       "notes": [
         "Details transcribed from the System Dynamics Society announcement supplied for publication. The organiser's RSVP short link resolves to this event page. Direct automated verification of the page is restricted by robots.txt; check with the organiser before attending. New York time on 23 November is EST (UTC-05:00), equivalent to 12:00-13:00 UTC."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "10002755-1795417200-1795420800@systemdynamics.org",
       "recurrenceId": "2026-11-23 07:00:00-05:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 6,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 7,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-28T10:40:20+00:00"
     },
     {
@@ -11227,7 +11326,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://csh.ac.at/events/wednesday-salon-with-gerd-gigerenzer/",
       "recurrenceId": "",
       "stale": false,
@@ -11285,13 +11384,13 @@
         "Venue reference: https://www.asec2026.org.uk/Pages/Standard/General_Information/Venue",
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "incose-asec-2026",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 27,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 28,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-18T23:04:03+00:00"
     },
     {
@@ -11389,7 +11488,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "67904-1795564800-1795651199@iscpif.fr",
       "recurrenceId": "2026-11-25",
       "stale": false,
@@ -11443,13 +11542,13 @@
       "price": "�510 excluding VAT for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-7-2026-11-25",
       "recurrenceId": "2026-11-25",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -11490,7 +11589,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "67895-1795611600-1795780800@iscpif.fr",
       "recurrenceId": "2026-11-25 13:00:00+02:00",
       "stale": false,
@@ -11537,7 +11636,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://csh.ac.at/events/from-research-to-entrepreneurship-exploring-career-paths-beyond-academia/",
       "recurrenceId": "",
       "stale": false,
@@ -11586,7 +11685,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "68797-1795651200-1795737599@iscpif.fr",
       "recurrenceId": "2026-11-26",
       "stale": false,
@@ -11638,7 +11737,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "10003265-1795761000-1795768200@www.sociocracyforall.org",
       "recurrenceId": "2026-11-27 06:30:00-05:00",
       "stale": false,
@@ -11685,7 +11784,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "68771-1795771800-1795802400@iscpif.fr",
       "recurrenceId": "2026-11-27 09:30:00+02:00",
       "stale": false,
@@ -11732,7 +11831,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.eventbrite.ca/e/sociocracy-in-toronto-an-open-evening-and-a-two-day-intensive-tickets-2003934226215",
       "recurrenceId": "",
       "stale": false,
@@ -11784,7 +11883,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "10003266-1795858200-1795969800@www.sociocracyforall.org",
       "recurrenceId": "2026-11-28 09:30:00-05:00",
       "stale": false,
@@ -11888,7 +11987,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://cssociety.org/event/48d831be-35b8-4789-81ed-6ef517743032/",
       "recurrenceId": "",
       "stale": false,
@@ -11942,13 +12041,13 @@
       "price": "�575 for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/leading-with-learning/#session-6-2026-12-02",
       "recurrenceId": "2026-12-02",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -11989,7 +12088,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://csh.ac.at/events/wednesday-salon-with-dirk-helbing/",
       "recurrenceId": "",
       "stale": false,
@@ -12041,7 +12140,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "10001906-1796248800-1796252400@www.sociocracyforall.org",
       "recurrenceId": "2026-12-02 22:00:00+00:00",
       "stale": false,
@@ -12090,7 +12189,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "11374-1796302800-1797012000@metaphorum.org",
       "recurrenceId": "2026-12-03 13:00:00+00:00",
       "stale": false,
@@ -12287,16 +12386,14 @@
       "interpretation": "",
       "price": "FREE to members",
       "access": "Members only",
-      "notes": [
-        "Source could not be fully rechecked."
-      ],
-      "lastSeen": "2026-11-07T11:10:54+00:00",
+      "notes": [],
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.systemspractice.org/events/scio-uk-virtual-development-event-december-2026",
       "recurrenceId": "",
-      "stale": true,
+      "stale": false,
       "calendarEligible": true,
-      "sequence": 3,
-      "updatedAt": "2026-10-30T06:40:53+00:00",
+      "sequence": 4,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-01T11:02:12+00:00"
     },
     {
@@ -12342,7 +12439,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "10003258-1796756400-1796760000@www.sociocracyforall.org",
       "recurrenceId": "2026-12-08 19:00:00+00:00",
       "stale": false,
@@ -12396,13 +12493,13 @@
       "price": "�510 excluding VAT for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-8-2026-12-09",
       "recurrenceId": "2026-12-09",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -12463,7 +12560,7 @@
       "notes": [
         "Title and 17:00–19:00 GMT times verified against the organiser’s event page on 6 November 2026."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU2195681597",
       "recurrenceId": "2026-12-09 17:00:00-05:00",
       "stale": false,
@@ -12515,7 +12612,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "10003278-1796835600-1796839200@www.sociocracyforall.org",
       "recurrenceId": "2026-12-09 17:00:00+00:00",
       "stale": false,
@@ -12564,16 +12661,14 @@
       "interpretation": "",
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
-      "notes": [
-        "Source could not be fully rechecked."
-      ],
-      "lastSeen": "2026-11-07T11:10:54+00:00",
+      "notes": [],
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics-0",
       "recurrenceId": "",
-      "stale": true,
+      "stale": false,
       "calendarEligible": true,
-      "sequence": 11,
-      "updatedAt": "2026-11-02T08:51:53+00:00",
+      "sequence": 12,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
     },
     {
@@ -12614,7 +12709,7 @@
       "price": "0 EUR",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://csh.ac.at/events/public-panel-collective-action-in-the-modern-world-opportunities-and-obstacles-for-collective-action-in-the-age-of-ai/",
       "recurrenceId": "",
       "stale": false,
@@ -12666,7 +12761,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "10003264-1796932800-1796938200@www.sociocracyforall.org",
       "recurrenceId": "2026-12-10 20:00:00+00:00",
       "stale": false,
@@ -12716,16 +12811,15 @@
       "price": "FREE",
       "access": "NL Members + Guests",
       "notes": [
-        "Title year differs from the published date. Check with the organiser.",
-        "Source could not be fully rechecked."
+        "Title year differs from the published date. Check with the organiser."
       ],
-      "lastSeen": "2026-11-07T11:10:54+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.systemspractice.org/events/scio-nl-monthly-meeting-december-2025-live-woerden-and-dutch",
       "recurrenceId": "",
-      "stale": true,
+      "stale": false,
       "calendarEligible": true,
-      "sequence": 9,
-      "updatedAt": "2026-10-30T06:40:53+00:00",
+      "sequence": 10,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
     },
     {
@@ -12817,7 +12911,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2026-12-16 12:00:00-05:00",
       "stale": false,
@@ -12869,7 +12963,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "10003261-1797436800-1797440400@www.sociocracyforall.org",
       "recurrenceId": "2026-12-16 16:00:00+00:00",
       "stale": false,
@@ -12971,16 +13065,14 @@
       "interpretation": "",
       "price": "kostenlos",
       "access": "Members only + Guests",
-      "notes": [
-        "Source could not be fully rechecked."
-      ],
-      "lastSeen": "2026-11-07T11:10:54+00:00",
+      "notes": [],
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.systemspractice.org/events/kybernetik-stammtisch-jahresabschluss-offene-beitrage-1",
       "recurrenceId": "",
-      "stale": true,
+      "stale": false,
       "calendarEligible": true,
-      "sequence": 9,
-      "updatedAt": "2026-10-30T06:40:53+00:00",
+      "sequence": 10,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
     },
     {
@@ -13226,13 +13318,13 @@
       "price": "�510 excluding VAT for the full course; check organiser",
       "access": "Full-course registration required",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.thempra.org.uk/thempra/our-courses/relational-leadership/#session-9-2027-01-13",
       "recurrenceId": "2027-01-13",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -13275,16 +13367,14 @@
       "interpretation": "",
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
-      "notes": [
-        "Source could not be fully rechecked."
-      ],
-      "lastSeen": "2026-11-07T11:10:54+00:00",
+      "notes": [],
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics-1",
       "recurrenceId": "",
-      "stale": true,
+      "stale": false,
       "calendarEligible": true,
-      "sequence": 10,
-      "updatedAt": "2026-10-30T06:40:53+00:00",
+      "sequence": 11,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
     },
     {
@@ -13327,7 +13417,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://cssociety.org/event/a8ad6479-58ac-4e93-8807-cba7de02ccbe/",
       "recurrenceId": "",
       "stale": false,
@@ -13426,7 +13516,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-01-20 12:00:00-05:00",
       "stale": false,
@@ -13523,7 +13613,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "12016-1800950400-1801245600@metaphorum.org",
       "recurrenceId": "2027-01-26 08:00:00+00:00",
       "stale": false,
@@ -13574,7 +13664,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU2195686600",
       "recurrenceId": "2027-01-27",
       "stale": false,
@@ -13631,13 +13721,13 @@
         "Official organiser page and location checked 18 October 2026.",
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "incose-international-workshop-2027",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 27,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 28,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-18T23:04:03+00:00"
     },
     {
@@ -13729,16 +13819,14 @@
       "interpretation": "",
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
-      "notes": [
-        "Source could not be fully rechecked."
-      ],
-      "lastSeen": "2026-11-07T11:10:54+00:00",
+      "notes": [],
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics-3",
       "recurrenceId": "",
-      "stale": true,
+      "stale": false,
       "calendarEligible": true,
-      "sequence": 10,
-      "updatedAt": "2026-10-30T06:40:53+00:00",
+      "sequence": 11,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
     },
     {
@@ -13795,13 +13883,13 @@
         "Previously cached feed timestamps began on 11 February, conflicting with its own description and the supplied announcement specifying 12 February. Corrected to a date-only 12 February listing; existing subscription identity retained.",
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "10002660-1802340000-1802451600@systemdynamics.org",
       "recurrenceId": "2027-02-11 10:00:00+11:00",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 9,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 10,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-05T16:50:03+00:00"
     },
     {
@@ -13844,7 +13932,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-02-17 12:00:00-05:00",
       "stale": false,
@@ -13893,7 +13981,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://csh.ac.at/events/winter-school-2027/",
       "recurrenceId": "",
       "stale": false,
@@ -13991,16 +14079,14 @@
       "interpretation": "",
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
-      "notes": [
-        "Source could not be fully rechecked."
-      ],
-      "lastSeen": "2026-11-07T11:10:54+00:00",
+      "notes": [],
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics-4",
       "recurrenceId": "",
-      "stale": true,
+      "stale": false,
       "calendarEligible": true,
-      "sequence": 10,
-      "updatedAt": "2026-10-30T06:40:53+00:00",
+      "sequence": 11,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
     },
     {
@@ -14091,7 +14177,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "12018-1805270400-1805479200@metaphorum.org",
       "recurrenceId": "2027-03-17 08:00:00+00:00",
       "stale": false,
@@ -14140,7 +14226,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-03-17 12:00:00-04:00",
       "stale": false,
@@ -14247,13 +14333,13 @@
         "Official organiser page and location checked 18 October 2026.",
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "incose-cser-2027",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 27,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 28,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-18T23:04:03+00:00"
     },
     {
@@ -14394,7 +14480,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-04-21 12:00:00-04:00",
       "stale": false,
@@ -14492,16 +14578,14 @@
       "interpretation": "",
       "price": "30 euro (werkingskost, we voorzien drank en broodjes)",
       "access": "Members only + Guests",
-      "notes": [
-        "Source could not be fully rechecked."
-      ],
-      "lastSeen": "2026-11-07T11:10:54+00:00",
+      "notes": [],
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.systemspractice.org/events/deep-dive-intervisie-critical-systems-heuristics-5",
       "recurrenceId": "",
-      "stale": true,
+      "stale": false,
       "calendarEligible": true,
-      "sequence": 10,
-      "updatedAt": "2026-10-30T06:40:53+00:00",
+      "sequence": 11,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-05T16:41:47+00:00"
     },
     {
@@ -14544,7 +14628,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-05-19 12:00:00-04:00",
       "stale": false,
@@ -14593,7 +14677,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://cssociety.org/event/8d8fa1dd-bb50-40f5-b856-0624fc61c8fc/",
       "recurrenceId": "",
       "stale": false,
@@ -14750,13 +14834,13 @@
       "notes": [
         "The page title and URL retain 2026, but its current Time & Location explicitly gives 16-18 June 2027. Confirm this discrepancy with WOSC before booking."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://www.wosc.world/event-details/wosc-congress-2026-addressing-planetary-challenges",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 84,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 85,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-09-09T08:23:11+00:00"
     },
     {
@@ -14799,7 +14883,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-06-16 12:00:00-04:00",
       "stale": false,
@@ -14847,7 +14931,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU2191231031",
       "recurrenceId": "2027-06-23 13:00:00+02:00",
       "stale": false,
@@ -15005,13 +15089,13 @@
         "Official organiser page and location checked 18 October 2026.",
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "incose-international-symposium-2027",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 27,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 28,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-10-18T23:04:03+00:00"
     },
     {
@@ -15054,7 +15138,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-07-21 12:00:00-04:00",
       "stale": false,
@@ -15103,7 +15187,7 @@
       "notes": [
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "https://cssociety.org/event/5bc59df7-f92a-47d3-8f82-c4f18928f4f6/",
       "recurrenceId": "",
       "stale": false,
@@ -15202,7 +15286,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-08-18 12:00:00-04:00",
       "stale": false,
@@ -15252,13 +15336,13 @@
         "Official conference, venue and thematic-session call pages checked 5 November 2026. Conference runs 12-15 September; calendar end 16 September is exclusive. Session times, fees and registration availability are not established. Venue: https://2027.fedcsis.org/venue ; call: https://2027.fedcsis.org/node/74",
         "Date-only listing; check the organiser for session times."
       ],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "fedcsis-2027",
       "recurrenceId": "",
       "stale": false,
       "calendarEligible": true,
-      "sequence": 4,
-      "updatedAt": "2026-11-08T11:22:35+00:00",
+      "sequence": 5,
+      "updatedAt": "2026-11-09T09:30:10+00:00",
       "firstSeen": "2026-11-05T13:24:51+00:00"
     },
     {
@@ -15351,7 +15435,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-09-15 12:00:00-04:00",
       "stale": false,
@@ -15450,7 +15534,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-10-20 12:00:00-04:00",
       "stale": false,
@@ -15549,7 +15633,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-11-17 12:00:00-05:00",
       "stale": false,
@@ -15648,7 +15732,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2027-12-15 12:00:00-05:00",
       "stale": false,
@@ -15747,7 +15831,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2028-01-19 12:00:00-05:00",
       "stale": false,
@@ -15796,7 +15880,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2028-02-16 12:00:00-05:00",
       "stale": false,
@@ -15845,7 +15929,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2028-03-15 12:00:00-04:00",
       "stale": false,
@@ -15894,7 +15978,7 @@
       "price": "See organiser",
       "access": "See organiser",
       "notes": [],
-      "lastSeen": "2026-11-08T11:22:35+00:00",
+      "lastSeen": "2026-11-09T09:30:10+00:00",
       "sourceUid": "TU1863187423",
       "recurrenceId": "2028-04-19 12:00:00-04:00",
       "stale": false,

@@ -554,6 +554,25 @@ TRANSP:TRANSPARENT
 URL:https://iscpif.fr/evenements/ferie-10/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Répétition chorale du CNRS
+DTSTART:20261112T160000Z
+DTEND:20261112T190000Z
+DTSTAMP:20261109T093010Z
+UID:e82fc8516076e3c6c97ecf45@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nRépét
+ ition chorale du CNRS en raison du blocage de l’Université UPC.\nLangua
+ ge: Not specified\nLanguage requirements: Not specified\nInterpretation: N
+ ot specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/repetiti
+ on-chorale-du-cnrs-3/
+LAST-MODIFIED:20261109T093010Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/repetition-chorale-du-cnrs-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Artpoint
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
