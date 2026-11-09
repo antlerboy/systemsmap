@@ -1379,5 +1379,43 @@
         "url": "https://cybsoc.org/events.html"
       }
     ]
+  },
+  {
+    "title": "Systems of Traditional Knowledge, Pluriversal Design",
+    "url": "https://guild.host/events/systems-of-traditional-si2lqm",
+    "organiser": "Systems Thinking Ontario",
+    "location": "OCAD University, 205 Richmond Street West, Room 115, Toronto, Canada",
+    "topics": [
+      "systems",
+      "systemic-design"
+    ],
+    "format": "hybrid",
+    "country": "Canada",
+    "language": "Not specified",
+    "languageRequirement": "",
+    "interpretation": "",
+    "access": "Register on Guild for in-person attendance or the online link; online participation via Microsoft Teams",
+    "price": "See organiser",
+    "audienceCountries": [],
+    "audienceRegions": [],
+    "kind": "event",
+    "description": "Herman Piʻikea Clark explores Makawalu and cognitive justice; Roberto Pires discusses design, anticipation, and plural knowledge systems. Moderated by David Ing.",
+    "start": "2026-11-18T18:30:00-05:00",
+    "end": "2026-11-18T20:15:00-05:00",
+    "startTime": "18:30",
+    "endTime": "20:15",
+    "timezone": "America/Toronto",
+    "uid": "https://guild.host/events/systems-of-traditional-si2lqm",
+    "discoverySources": [
+      {
+        "id": "systems-thinking-ontario",
+        "name": "Systems Thinking Ontario event details",
+        "url": "https://wiki.st-on.org/2026-11-18"
+      }
+    ],
+    "notes": [
+      "Date, time, hybrid format, and speakers checked against Guild and the organiser's event page on 9 November 2026. Toronto time is 18:30–20:15 EST on 18 November; UK time is 23:30 GMT on 18 November to 01:15 GMT on 19 November.",
+      "Cost is not stated on the accessible event pages; check registration."
+    ]
   }
 ]
