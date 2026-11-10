@@ -591,19 +591,19 @@ TRANSP:TRANSPARENT
 URL:https://iscpif.fr/evenements/artpoint-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:reunion du projet ANR microCOMOS
+SUMMARY:reunion du projet ANR microCOSMOS
 DTSTART:20261119T070000Z
 DTEND:20261119T160000Z
-DTSTAMP:20261101T112259Z
+DTSTAMP:20261110T124655Z
 UID:d98901f20f8a102037776b02@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nreunion
   de tache https://microcosmos.rennes.hub.inrae.fr/\nLanguage: Not specifie
  d\nLanguage requirements: Not specified\nInterpretation: Not specified\nAc
  cess: See organiser\nhttps://iscpif.fr/evenements/reunion-du-projet-anr-mi
  crocomos/
-LAST-MODIFIED:20261101T112259Z
+LAST-MODIFIED:20261110T124655Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

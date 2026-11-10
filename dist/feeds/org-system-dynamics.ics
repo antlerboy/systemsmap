@@ -6,30 +6,6 @@ X-WR-CALNAME:System Dynamics Society
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:AI in System Dynamics Education | Task Force Monthly Meeting
-DTSTART:20260811T150000Z
-DTEND:20260811T160000Z
-DTSTAMP:20260910T090026Z
-UID:d8c293b9d8ef0e9be47b7f2c@systemsmap.antlerboy.com
-SEQUENCE:3
-CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\n<p>Monthly meeting led by the AI in S
- ystem Dynamics Education Task Force to guide educators in responsibly inte
- grating AI into SD teaching.</p>\\n\nLanguage: Not specified\nLanguage req
- uirements: Not specified\nInterpretation: Not specified\nAccess: See organ
- iser\nhttps://systemdynamics.org/event/ai-in-system-dynamics-education-tas
- k-force-monthly-meeting-2/2026-08-11/\nNo longer found in the latest sourc
- e listing\; confirmation needed.\nSource could not be fully rechecked.\nTh
- is event could not be rechecked on the latest collection. Confirm with the
-  organiser.
-LAST-MODIFIED:20260910T090026Z
-LOCATION:Online
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://systemdynamics.org/event/ai-in-system-dynamics-education-task-
- force-monthly-meeting-2/2026-08-11/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SDS Policy Council Meeting (August 2026)
 DTSTART:20260820T150000Z
 DTEND:20260820T163000Z
@@ -1284,9 +1260,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Change in Practice: Lessons from the Field
 DTSTART:20261123T120000Z
 DTEND:20261123T130000Z
-DTSTAMP:20261109T130308Z
+DTSTAMP:20261110T124655Z
 UID:52762ac25488d4e00a349ad5@systemsmap.antlerboy.com
-SEQUENCE:8
+SEQUENCE:9
 CATEGORIES:Complexity,System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  en) and Cuauhtémoc León (CEGAM) discuss systems change practice in Indon
@@ -1300,7 +1276,7 @@ DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  ation of the page is restricted by robots.txt\; check with the organiser b
  efore attending. New York time on 23 November is EST (UTC-05:00)\, equival
  ent to 12:00-13:00 UTC.
-LAST-MODIFIED:20261109T130308Z
+LAST-MODIFIED:20261110T124655Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1657,9 +1633,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Thinking & Modelling Symposium - Oceania Chapter 2027
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20261109T130308Z
+DTSTAMP:20261110T124655Z
 UID:efc297f629367b9b25ff0780@systemsmap.antlerboy.com
-SEQUENCE:11
+SEQUENCE:12
 CATEGORIES:System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
  nnouncement describes a hybrid Systems Thinking & Modelling Symposium at U
@@ -1679,7 +1655,7 @@ DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
  g 12 February. Corrected to a date-only 12 February listing\; existing sub
  scription identity retained.\nDate-only listing\; check the organiser for 
  session times.
-LAST-MODIFIED:20261109T130308Z
+LAST-MODIFIED:20261110T124655Z
 LOCATION:UNSW Canberra\, Australia / online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
