@@ -123,6 +123,18 @@
     "timezone": "America/New_York"
   },
   {
+    "id": "system-dynamics-linkedin",
+    "name": "System Dynamics Society: LinkedIn announcements",
+    "url": "https://www.linkedin.com/company/system-dynamics-society-inc/",
+    "adapter": "auto",
+    "topics": [
+      "system-dynamics"
+    ],
+    "region": "International",
+    "website": "https://systemdynamics.org/events/",
+    "notes": "Additional announcement source supplied by Benjamin P Taylor on 11 November 2026. The Society's main events calendar remains registered separately as system-dynamics. LinkedIn may restrict automated access; follow public announcements through to organiser event pages and verify dates and time zones before publication."
+  },
+  {
     "id": "santa-fe",
     "name": "Santa Fe Institute",
     "url": "https://www.santafe.edu/events/upcoming",
