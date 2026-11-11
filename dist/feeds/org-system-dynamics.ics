@@ -1260,9 +1260,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Change in Practice: Lessons from the Field
 DTSTART:20261123T120000Z
 DTEND:20261123T130000Z
-DTSTAMP:20261111T105400Z
+DTSTAMP:20261111T115719Z
 UID:52762ac25488d4e00a349ad5@systemsmap.antlerboy.com
-SEQUENCE:10
+SEQUENCE:11
 CATEGORIES:Complexity,System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  en) and Cuauhtémoc León (CEGAM) discuss systems change practice in Indon
@@ -1276,7 +1276,7 @@ DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  ation of the page is restricted by robots.txt\; check with the organiser b
  efore attending. New York time on 23 November is EST (UTC-05:00)\, equival
  ent to 12:00-13:00 UTC.
-LAST-MODIFIED:20261111T105400Z
+LAST-MODIFIED:20261111T115719Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1633,9 +1633,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Thinking & Modelling Symposium - Oceania Chapter 2027
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20261111T105400Z
+DTSTAMP:20261111T115719Z
 UID:efc297f629367b9b25ff0780@systemsmap.antlerboy.com
-SEQUENCE:13
+SEQUENCE:14
 CATEGORIES:System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
  nnouncement describes a hybrid Systems Thinking & Modelling Symposium at U
@@ -1655,7 +1655,7 @@ DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
  g 12 February. Corrected to a date-only 12 February listing\; existing sub
  scription identity retained.\nDate-only listing\; check the organiser for 
  session times.
-LAST-MODIFIED:20261111T105400Z
+LAST-MODIFIED:20261111T115719Z
 LOCATION:UNSW Canberra\, Australia / online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
