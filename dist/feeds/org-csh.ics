@@ -909,7 +909,9 @@ DESCRIPTION:Complexity Science Hub\nHow far can you get by public transpor
  wo stops are connected if they are reachable from one another within a\nLa
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/network-
- science-for-planning-accessible-public-transport/
+ science-for-planning-accessible-public-transport/\nNo longer found in the 
+ latest source listing\; confirmation needed.\nThis event could not be rech
+ ecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261106T092642Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -935,7 +937,9 @@ DESCRIPTION:Complexity Science Hub\nSocietal polarisation is a multi-facet
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/understa
  nding-polarisation-through-dynamic-and-individual-belief-system-structures
- /
+ /\nNo longer found in the latest source listing\; confirmation needed.\nTh
+ is event could not be rechecked on the latest collection. Confirm with the
+  organiser.
 LAST-MODIFIED:20261106T092642Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1092,6 +1096,30 @@ URL:https://csh.ac.at/events/from-research-to-entrepreneurship-exploring-c
  areer-paths-beyond-academia/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Collective Action in the Age of AI
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20261111T105400Z
+UID:3ff83487c63831f17bebb6dd@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nThe workshop explores how new technolo
+ gies\, including AI\, digital platforms\, blockchain-based systems\, and c
+ ollective intelligence tools\, shape the dynamics of collective action. It
+  examines how these technologies can help overcome barriers to collective 
+ action\, such as coordination failures\, silence\, and uncertainty\, while
+  also considering the risks of distorted perceptions of support\, fragile 
+ co\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
+ etation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/co
+ llective-action-in-the-age-of-ai/\nDate-only listing\; check the organiser
+  for session times.
+LAST-MODIFIED:20261111T105400Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/collective-action-in-the-age-of-ai/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WEdnesday Salon – Re-Inventing Democracy in the Age of AI
 DTSTART:20261202T180000Z
 DTEND:20261202T192000Z
@@ -1155,7 +1183,10 @@ DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
   have received a message with registration and payment instructions.\nLang
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/winter-sch
- ool-2027/\nDate-only listing\; check the organiser for session times.
+ ool-2027/\nDate-only listing\; check the organiser for session times.\nNo 
+ longer found in the latest source listing\; confirmation needed.\nThis eve
+ nt could not be rechecked on the latest collection. Confirm with the organ
+ iser.
 LAST-MODIFIED:20261107T111054Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna

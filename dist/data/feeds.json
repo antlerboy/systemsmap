@@ -2,7 +2,7 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 313
+    "events": 314
   },
   {
     "id": "online",
@@ -22,7 +22,7 @@
   {
     "id": "topic-complexity",
     "name": "Complexity",
-    "events": 118
+    "events": 119
   },
   {
     "id": "topic-system-dynamics",
@@ -90,6 +90,11 @@
     "events": 78
   },
   {
+    "id": "org-system-dynamics-linkedin",
+    "name": "System Dynamics Society: LinkedIn announcements",
+    "events": 0
+  },
+  {
     "id": "org-santa-fe",
     "name": "Santa Fe Institute",
     "events": 0
@@ -97,7 +102,7 @@
   {
     "id": "org-csh",
     "name": "Complexity Science Hub",
-    "events": 44
+    "events": 45
   },
   {
     "id": "org-css",
