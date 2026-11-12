@@ -963,7 +963,9 @@ DESCRIPTION:Complexity Science Hub & Kunsthistorisches Museum Wien\nVon Kr
  ischen Sammlungen der Welt. Der Complexity Science Hub untersucht digitale
   Geld- und Zahlungssysteme w\nLanguage: Not specified\nLanguage requiremen
  ts: Not specified\nInterpretation: Not specified\nAccess: See organiser\nh
- ttps://csh.ac.at/events/geld-macht-vertrauen/
+ ttps://csh.ac.at/events/geld-macht-vertrauen/\nNo longer found in the late
+ st source listing\; confirmation needed.\nThis event could not be rechecke
+ d on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261030T064053Z
 LOCATION:Kunsthistorisches Museum Wien Maria-Theresien-Platz\, 1010 Wien
 STATUS:CONFIRMED
@@ -1161,7 +1163,9 @@ DESCRIPTION:Complexity Science Hub\nWhy is collective action so difficult
  ly\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
  etation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/pu
  blic-panel-collective-action-in-the-modern-world-opportunities-and-obstacl
- es-for-collective-action-in-the-age-of-ai/
+ es-for-collective-action-in-the-age-of-ai/\nNo longer found in the latest 
+ source listing\; confirmation needed.\nThis event could not be rechecked o
+ n the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261104T121739Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1170,12 +1174,36 @@ URL:https://csh.ac.at/events/public-panel-collective-action-in-the-modern-
  world-opportunities-and-obstacles-for-collective-action-in-the-age-of-ai/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Why is collective action so challenging in the modern world?
+DTSTART:20261210T180000Z
+DTEND:20261210T193000Z
+DTSTAMP:20261112T125636Z
+UID:841c5538180fe709f959892d@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nOpportunities and obstacles for collec
+ tive action in the age of AICitizens can feel discouraged and powerless in
+  the face of rapid and sweeping changes in our political systems\, economi
+ es\, and environment. And yet\, as Margaret Mead reminded us\, we should 
+ “never doubt that a small group of thoughtful\, committed citizens can c
+ hange the world\; indeed\, it's the only thing that ever has." New technol
+ og\nLanguage: Not specified\nLanguage requirements: Not specified\nInterpr
+ etation: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/wh
+ y-is-collective-action-so-challenging-in-the-modern-world/
+LAST-MODIFIED:20261112T125636Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/why-is-collective-action-so-challenging-in-th
+ e-modern-world/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Winter School 2027
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
-DTSTAMP:20261107T111054Z
+DTSTAMP:20261112T125636Z
 UID:8a01d8d95b35fce685bbe6b4@systemsmap.antlerboy.com
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:Complexity
 DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
  e Winter School program are forthcoming. Find more information on the Wint
@@ -1183,11 +1211,8 @@ DESCRIPTION:Digital Innovation School\nHealthcare & Medicine Details of th
   have received a message with registration and payment instructions.\nLang
  uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
   Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/winter-sch
- ool-2027/\nDate-only listing\; check the organiser for session times.\nNo 
- longer found in the latest source listing\; confirmation needed.\nThis eve
- nt could not be rechecked on the latest collection. Confirm with the organ
- iser.
-LAST-MODIFIED:20261107T111054Z
+ ool-2027/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261112T125636Z
 LOCATION:Complexity Science Hub Complexity Science Hub\, Metternichgasse 8
  \, 1030 Vienna
 STATUS:CONFIRMED
