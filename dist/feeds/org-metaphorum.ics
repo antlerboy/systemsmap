@@ -163,9 +163,9 @@ BEGIN:VEVENT
 SUMMARY:Beer's Pedagogy: Lessons from the Concordia University Lectures
 DTSTART:20261104T170000Z
 DTEND:20261104T183000Z
-DTSTAMP:20261112T125636Z
+DTSTAMP:20261113T122225Z
 UID:d712cf5af68cb1fe2529b149@systemsmap.antlerboy.com
-SEQUENCE:11
+SEQUENCE:12
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Metaphorum\nMarc-André Pigeon examines Stafford Beer's teachi
  ng through recordings of his Concordia University lectures. This webinar w
@@ -176,7 +176,7 @@ DESCRIPTION:Metaphorum\nMarc-André Pigeon examines Stafford Beer's teachi
  ober-December 2026 newsletter confirms the speaker\, title and 4 November 
  date. The submitted organiser announcement supplies 17:00-18:30 GMT on Zoo
  m. Retained as a past event\; no new date inferred.
-LAST-MODIFIED:20261112T125636Z
+LAST-MODIFIED:20261113T122225Z
 LOCATION:Online (Zoom)
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -198,6 +198,30 @@ LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Theory to Practice - and Back\, by Martin Pfiffner (Martin Pf
+ iffner)
+DTSTART:20261202T170000Z
+DTEND:20261202T183000Z
+DTSTAMP:20261113T122225Z
+UID:ea2e259fb0169a7bcf95a5f4@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:Metaphorum\nWho: Martin Pfiffner **Metaphorum Webinar \\| Mart
+ in Pfiffner** **Wed 2 Dec 2026 17:00 - 18:30 GMT Zoom** Drawing on more th
+ an three decades of experience applying Stafford Beer's management cyberne
+ tics\, Martin Pfiffner explores the practical application of the Viable Sy
+ stem Model (VSM)\, Team Syntegrity\, and the Operations Room. The webinar 
+ examines the transition from cybernetic theory to organiza\nLanguage: Not 
+ specified\nLanguage requirements: Not specified\nInterpretation: Not speci
+ fied\nAccess: See organiser\nhttps://teamup.com/ksok8ra1xif3viq4no/events/
+ 2205047512
+LAST-MODIFIED:20261113T122225Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2205047512
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Viable System Model: Theory and Application

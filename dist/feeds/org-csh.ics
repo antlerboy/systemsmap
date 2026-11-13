@@ -1015,7 +1015,9 @@ DESCRIPTION:Complexity Science Hub\nOn the sense and nonsense of end-of-th
  itical consequences of the looming population peak and possible strate\nLa
  nguage: Not specified\nLanguage requirements: Not specified\nInterpretatio
  n: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/public-p
- anel-discussion-how-to-survive-doomsdays/
+ anel-discussion-how-to-survive-doomsdays/\nNo longer found in the latest s
+ ource listing\; confirmation needed.\nThis event could not be rechecked on
+  the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261030T105534Z
 LOCATION:CSH Salon
 STATUS:CONFIRMED
@@ -1024,13 +1026,38 @@ URL:https://csh.ac.at/events/public-panel-discussion-how-to-survive-doomsd
  ays/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Same Stances\, Different Networks: Individual Belief Systems in On
+ line News Comments
+DTSTART:20261117T123000Z
+DTEND:20261117T130000Z
+DTSTAMP:20261113T122225Z
+UID:09375d5fbede3895b8e5bfab@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\nTheories of belief systems describe ho
+ w individuals connect their attitudes into a coherent structure that guide
+ s how they interpret the world. Yet most evidence comes from surveys that 
+ ask everyone the same questions at a few points in time\, and it is usuall
+ y aggregated into one network for a whole population. Online comment secti
+ ons offer an alternative: years of unsolicited political talk\, in w\nLang
+ uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
+  Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/same-stanc
+ es-different-networks-individual-belief-systems-in-online-news-comments/
+LAST-MODIFIED:20261113T122225Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/same-stances-different-networks-individual-be
+ lief-systems-in-online-news-comments/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Complex Data & Complex Questions about the Most Complex Marine Eco
  system
 DTSTART:20261118T150000Z
-DTEND:20261118T150000Z
-DTSTAMP:20261105T123216Z
+DTEND:20261118T160000Z
+DTSTAMP:20261113T122225Z
 UID:afdffcd73bd1ac1c84ae5687@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Science Hub\nCoral reefs are the most biodiverse an
  d complex marine ecosystems on Planet Earth. The coral reefs within the "C
@@ -1041,7 +1068,7 @@ DESCRIPTION:Complexity Science Hub\nCoral reefs are the most biodiverse an
  anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
  on: Not specified\nAccess: See organiser\nhttps://csh.ac.at/events/complex
  -data-complex-questions-about-the-most-complex-marine-ecosystem/
-LAST-MODIFIED:20261105T123216Z
+LAST-MODIFIED:20261113T122225Z
 LOCATION:Library Metternichgasse 8\, 1030 Vienna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

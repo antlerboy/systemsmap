@@ -33,9 +33,9 @@ BEGIN:VEVENT
 SUMMARY:Introduction to Sociocracy: 2-session class
 DTSTART:20260826T160000Z
 DTEND:20260826T190000Z
-DTSTAMP:20260909T085810Z
+DTSTAMP:20261113T122225Z
 UID:de5e9a27f58cfd51073e46e8@systemsmap.antlerboy.com
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Systems thinking
 DESCRIPTION:Sociocracy For All\n<p>Learn and practice the basics of socioc
  racy In this class you will be introduced to basic principles of sociocrac
@@ -44,34 +44,13 @@ DESCRIPTION:Sociocracy For All\n<p>Learn and practice the basics of socioc
   14:00 UTC / 10:00 EDT Event time in your time zone: Class Schedule This i
  s […]</p>\\n\nLanguage: Not specified\nLanguage requirements: Not specif
  ied\nInterpretation: Not specified\nAccess: See organiser\nhttps://www.soc
- iocracyforall.org/event/introduction-to-sociocracy-august2026/\nNo longer 
- found in the latest source listing\; confirmation needed.\nThis event coul
- d not be rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260909T085810Z
+ iocracyforall.org/event/introduction-to-sociocracy-august2026/
+LAST-MODIFIED:20261113T122225Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.sociocracyforall.org/event/introduction-to-sociocracy-augu
  st2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Academy (Level 1\, two cohorts for all time zones)
-DTSTART:20260908T160000Z
-DTEND:20260908T160000Z
-DTSTAMP:20260909T085810Z
-UID:f977213224295179b906b8e6@systemsmap.antlerboy.com
-SEQUENCE:0
-CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\n<p>The 5-month program covers all the part
- s of sociocracy in weekly 2h meetings. Leads to facilitator certification.
-  </p>\\n\nLanguage: Not specified\nLanguage requirements: Not specified\nI
- nterpretation: Not specified\nAccess: See organiser\nhttps://www.sociocrac
- yforall.org/event/academy-level-1/
-LAST-MODIFIED:20260909T085810Z
-LOCATION:SoFA Zoom (Multi-Room)
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.sociocracyforall.org/event/academy-level-1/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free introduction: What is sociocracy?
@@ -488,12 +467,12 @@ DTSTAMP:20261027T095327Z
 UID:6e64a176001f6b88dfe532e2@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\nDoes how you decide match your values? Lea
- rn sociocracy with Jerry Koch-Gonzalez in Toronto: Fri Nov 27 intro\, Nov 
- 28-29 workshop.\nLanguage: en-US\nLanguage requirements: Not specified\nIn
- terpretation: Not specified\nAccess: See organiser\nhttps://www.eventbrite
- .ca/e/sociocracy-in-toronto-an-open-evening-and-a-two-day-intensive-ticket
- s-2003934226215
+DESCRIPTION:Cohousing Options Canada Non-profit\nDoes how you decide match
+  your values? Learn sociocracy with Jerry Koch-Gonzalez in Toronto: Fri No
+ v 27 intro\, Nov 28-29 workshop.\nLanguage: en-US\nLanguage requirements: 
+ Not specified\nInterpretation: Not specified\nAccess: See organiser\nhttps
+ ://www.eventbrite.ca/e/sociocracy-in-toronto-an-open-evening-and-a-two-day
+ -intensive-tickets-2003934226215
 LAST-MODIFIED:20261027T095327Z
 LOCATION:Roncesvalles United Church\, 214 Wright Avenue\, Toronto\, ON M6R
   2L6\, Toronto\, ON\, CA
@@ -665,5 +644,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.sociocracyforall.org/event/sociocracy-permaculture-communi
  ty-of-practice/2026-12-16/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Academy (Level 1\, two cohorts for all time zones)
+DTSTART:20270210T130000Z
+DTEND:20270714T210000Z
+DTSTAMP:20261113T122225Z
+UID:7363bc413efd2de62045b810@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity,Systems thinking
+DESCRIPTION:Sociocracy For All\nThe 5-month program covers all the parts o
+ f sociocracy in weekly 2h meetings Clarity on vision\, mission\, aims Desi
+ gning circle structures\, circle roles and operational roles Co-developing
+  proposals\, consent decision and integrating objections Selection process
+  (simple and complex) Sociocracy and equity and inclusion Meeting format\,
+  minutes\, backlogs Social-emotional challenges and how to address t\nLang
+ uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
+  Not specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/ev
+ ent/academy-level-1/
+LAST-MODIFIED:20261113T122225Z
+LOCATION:SoFA Zoom (Multi-Room)
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sociocracyforall.org/event/academy-level-1/
 END:VEVENT
 END:VCALENDAR

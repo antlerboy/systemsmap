@@ -161,6 +161,30 @@ TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ASC Speaker Series 7#3 — Time\, Language\, Emotion\, and Experie
+ nce (Pille Bunnell\, Frank Galuszka\, Kathleen Forsythe)
+DTSTART:20261115T170000Z
+DTEND:20261115T180000Z
+DTSTAMP:20261113T122225Z
+UID:4db24c768e2621b68e611418@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:Pille Bunnell\\\, Frank Galuszka\\\, Kathleen Forsythe\nWho: P
+ ille Bunnell\, Frank Galuszka\, Kathleen Forsythe ASC Speaker Series 7#3 
+ — Time\, Language\, Emotion\, and Experience Sunday\, November 15\, 2026
+  \\| 12:00 PM EST \\| 6:00 PM CET \\| 01:00 AM China (Monday\, November 16
+ \, 2026) Continuing *The Biology of Love... A Conversation*\, Pille Bunnel
+ l\, Frank Galuszka\, and Kathleen Forsythe reunite to explore love\, time
+ \, language\, emotion\, and experience. Hosted \nLanguage: Not specified\n
+ Language requirements: Not specified\nInterpretation: Not specified\nAcces
+ s: See organiser\nhttps://teamup.com/ksok1qhw323snqy99e/events/2205036728
+LAST-MODIFIED:20261113T122225Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok1qhw323snqy99e/events/2205036728
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:(Omar Kharoti and the Cybernetics Society Education Committee)
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
@@ -200,6 +224,30 @@ LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Theory to Practice - and Back\, by Martin Pfiffner (Martin Pf
+ iffner)
+DTSTART:20261202T170000Z
+DTEND:20261202T183000Z
+DTSTAMP:20261113T122225Z
+UID:ea2e259fb0169a7bcf95a5f4@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:Metaphorum\nWho: Martin Pfiffner **Metaphorum Webinar \\| Mart
+ in Pfiffner** **Wed 2 Dec 2026 17:00 - 18:30 GMT Zoom** Drawing on more th
+ an three decades of experience applying Stafford Beer's management cyberne
+ tics\, Martin Pfiffner explores the practical application of the Viable Sy
+ stem Model (VSM)\, Team Syntegrity\, and the Operations Room. The webinar 
+ examines the transition from cybernetic theory to organiza\nLanguage: Not 
+ specified\nLanguage requirements: Not specified\nInterpretation: Not speci
+ fied\nAccess: See organiser\nhttps://teamup.com/ksok8ra1xif3viq4no/events/
+ 2205047512
+LAST-MODIFIED:20261113T122225Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2205047512
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cybernetics\, Art & the Synthesiser
