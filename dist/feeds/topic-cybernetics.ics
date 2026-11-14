@@ -47,9 +47,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20261113T122225Z
+DTSTAMP:20261114T113657Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:95
+SEQUENCE:96
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -60,7 +60,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20261113T122225Z
+LAST-MODIFIED:20261114T113657Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -97,9 +97,9 @@ SUMMARY:Cybernetics in the Annex: Commemorating Stafford Beer's Centenary
  + Summer Conferences Recap
 DTSTART:20260908T223000Z
 DTEND:20260909T001500Z
-DTSTAMP:20261113T122225Z
+DTSTAMP:20261114T113657Z
 UID:2e96c1af7848b3132733a6fb@systemsmap.antlerboy.com
-SEQUENCE:100
+SEQUENCE:101
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  eer's work on organisational viability and participatory decision-making\,
@@ -108,7 +108,7 @@ DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Re
  gister for in-person attendance or the online link\nhttps://guild.host/eve
  nts/cybernetics-in-the-annex-tbara6
-LAST-MODIFIED:20261113T122225Z
+LAST-MODIFIED:20261114T113657Z
 LOCATION:OCAD University\, 205 Richmond St W\, Room 115\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -249,9 +249,9 @@ BEGIN:VEVENT
 SUMMARY:Fire and Ice: The Conception\, Birth and Infancy of Cybernetics.
 DTSTART:20260924T120000Z
 DTEND:20260924T140000Z
-DTSTAMP:20261113T122225Z
+DTSTAMP:20261114T113657Z
 UID:79561815b13dfb8aa2a33fdb@systemsmap.antlerboy.com
-SEQUENCE:100
+SEQUENCE:101
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Digital Futures\, University of Manchester\nThe opening semina
  r in the nine-part 'Meat the Machine' series on the history of cybernetics
@@ -260,7 +260,7 @@ DESCRIPTION:Digital Futures\, University of Manchester\nThe opening semina
  ess: General public welcome\; registration required\nhttps://events.manche
  ster.ac.uk/event/event:r2y-ms8q8jbe-n4ev9n/fire-and-ice-the-conception-bir
  th-and-infancy-of-cybernetics
-LAST-MODIFIED:20261113T122225Z
+LAST-MODIFIED:20261114T113657Z
 LOCATION:University of Manchester\, Manchester\, United Kingdom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -271,9 +271,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261113T122225Z
+DTSTAMP:20261114T113657Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:91
+SEQUENCE:92
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -282,7 +282,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261113T122225Z
+LAST-MODIFIED:20261114T113657Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -419,9 +419,9 @@ BEGIN:VEVENT
 SUMMARY:Ashby\, Fuzzy\, and Me
 DTSTART:20261015T160000Z
 DTEND:20261015T180000Z
-DTSTAMP:20261113T122225Z
+DTSTAMP:20261114T113657Z
 UID:e86c94bf15bd90e1ab47f5ac@systemsmap.antlerboy.com
-SEQUENCE:42
+SEQUENCE:43
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:The Cybernetics Society (CybSoc)\nDr Steve Morlidge examines w
  hy matching regulatory variety is necessary but insufficient\, considering
@@ -431,7 +431,7 @@ DESCRIPTION:The Cybernetics Society (CybSoc)\nDr Steve Morlidge examines w
  m.us/meeting/register/P2vyZNSyQ4KAsPhCcICcbg\nDate\, time\, speaker\, and 
  Zoom registration checked against the organiser's event page on 15 October
   2026.
-LAST-MODIFIED:20261113T122225Z
+LAST-MODIFIED:20261114T113657Z
 LOCATION:Online via Zoom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -549,9 +549,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261113T122225Z
+DTSTAMP:20261114T113657Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:35
+SEQUENCE:36
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -561,7 +561,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261113T122225Z
+LAST-MODIFIED:20261114T113657Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -638,9 +638,9 @@ BEGIN:VEVENT
 SUMMARY:Beer's Pedagogy: Lessons from the Concordia University Lectures
 DTSTART:20261104T170000Z
 DTEND:20261104T183000Z
-DTSTAMP:20261113T122225Z
+DTSTAMP:20261114T113657Z
 UID:d712cf5af68cb1fe2529b149@systemsmap.antlerboy.com
-SEQUENCE:12
+SEQUENCE:13
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Metaphorum\nMarc-André Pigeon examines Stafford Beer's teachi
  ng through recordings of his Concordia University lectures. This webinar w
@@ -651,7 +651,7 @@ DESCRIPTION:Metaphorum\nMarc-André Pigeon examines Stafford Beer's teachi
  ober-December 2026 newsletter confirms the speaker\, title and 4 November 
  date. The submitted organiser announcement supplies 17:00-18:30 GMT on Zoo
  m. Retained as a past event\; no new date inferred.
-LAST-MODIFIED:20261113T122225Z
+LAST-MODIFIED:20261114T113657Z
 LOCATION:Online (Zoom)
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -695,7 +695,9 @@ DESCRIPTION:SCiO NL\n\nGeographic focus: Netherlands\nLanguage: Dutch\nLan
  guage requirements: Not specified\nInterpretation: Not specified\nAccess: 
  NL Members + Guests\nhttps://www.systemspractice.org/events/scio-nl-monthl
  y-meeting-november-2025-live-woerden-and-dutch-0\nTitle year differs from 
- the published date. Check with the organiser.
+ the published date. Check with the organiser.\nNo longer found in the late
+ st source listing\; confirmation needed.\nThis event could not be rechecke
+ d on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261109T093010Z
 LOCATION:Woerden\, Netherlands
 STATUS:CONFIRMED
@@ -809,6 +811,29 @@ TRANSP:TRANSPARENT
 URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ISSS Book Club Critical Systems Thinking (ISSS Book Club)
+DTSTART:20261119T173000Z
+DTEND:20261119T190000Z
+DTSTAMP:20261114T113657Z
+UID:250da25528bfe26d99cc7cb5@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:ISSS\nWho: ISSS Book Club **We are currently reading:** !https
+ ://www.isss.org/editor_upload/Image/Critical%20Systems%20Thinking.jpeg Cha
+ pters 7-9 Welcome to the ISSS Book Club! The purpose of the book club is t
+ o explore the systems science literature in depth\, so books are read over
+  several months\, with monthly reading assignments of approximately 50-100
+  pages. Participants will have opportunities to bo\nLanguage: Not specifie
+ d\nLanguage requirements: Not specified\nInterpretation: Not specified\nAc
+ cess: See organiser\nhttps://teamup.com/ksok8ra1xif3viq4no/events/22056088
+ 65
+LAST-MODIFIED:20261114T113657Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2205608865
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Deep Dive Intervisie: Critical Systems Heuristics
 DTSTART:20261119T170000Z
 DTEND:20261119T190000Z
@@ -847,6 +872,53 @@ URL:https://www.systemspractice.org/events/systemowy-krajobraz-praktyk-co-
  nas-laczy-co-nas-rozni
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ISSS Mini Symposia 2025-2026: Peaceful Futures: The Evolutionary I
+ mperative and the Pathways Ahead (Pavel Luksha)
+DTSTART:20261120T170000Z
+DTEND:20261120T180000Z
+DTSTAMP:20261114T113657Z
+UID:0207c7aaf13b2bba763a2189@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:ISSS\nWho: Pavel Luksha Please use a timezone converter such a
+ s the one below to convert this time to your location. Timezone_Converter:
+  https://www.timeanddate.com/worldclock/converter.html The Zoom link will 
+ remain the same until December 31 https://us06web.zoom.us/j/89582961108 Hu
+ manity is entering a phase of unprecedented systemic stress. In 2024–202
+ 5\, the world saw the highest number of armed confl\nLanguage: Not specifi
+ ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
+ ccess: See organiser\nhttps://teamup.com/ksok8ra1xif3viq4no/events/2205605
+ 753
+LAST-MODIFIED:20261114T113657Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2205605753
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIG: The DEI in the Systems Sciences (Marty Jacobs)
+DTSTART:20261123T160000Z
+DTEND:20261123T173000Z
+DTSTAMP:20261114T113657Z
+UID:16f5ac20291ee55145b800e6@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:Marty Jacobs\nWho: Marty Jacobs Contact Marty Jacobs\, SIG Cha
+ ir (click link below to verify time) for more information or to be added t
+ o the DEI in the Systems Sciences SIG email list. The DEI in the Systems S
+ ciences SIG will provide larger DEI standards under which the SIGs\, Explo
+ ratory Groups\, and Projects will pursue overall ISSS DEI goals. The DEI i
+ n the Systems Sciences SIG will provide these various group\nLanguage: Not
+  specified\nLanguage requirements: Not specified\nInterpretation: Not spec
+ ified\nAccess: See organiser\nhttps://teamup.com/ksok8ra1xif3viq4no/events
+ /2205616161
+LAST-MODIFIED:20261114T113657Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2205616161
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:From Theory to Practice - and Back\, by Martin Pfiffner (Martin Pf
  iffner)
 DTSTART:20261202T170000Z
@@ -869,6 +941,30 @@ LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://teamup.com/ksok8ra1xif3viq4no/events/2205047512
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[#NewMacy] #4 CYBERNETICS AND THE STATE OF INTERACTION (Larry Rich
+ ards\, Fiona Szeto\, Fatima Shah\, and Alex Durran)
+DTSTART:20261203T170000Z
+DTEND:20261203T181500Z
+DTSTAMP:20261114T113657Z
+UID:c8945159750cea8a30bbe0d1@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:Larry Richards\\\, Fiona Szeto\\\, Fatima Shah\\\, and Alex Du
+ rran\nWho: Larry Richards\, Fiona Szeto\, Fatima Shah\, and Alex Durran **
+ We write to announce the next session of our #NewMacy #NewThursdays Series
+  for Fall 2026—**opportunities for new conversations that extend and exp
+ and our intentions for the \\#NewMacy_Initiative: http://newmacy.org/. **T
+ his session will feature a slightly different format: four scholar-practit
+ ioners will begin the session by briefly s\nLanguage: Not specified\nLangu
+ age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
+ e organiser\nhttps://teamup.com/ksok1qhw323snqy99e/events/2205620523
+LAST-MODIFIED:20261114T113657Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok1qhw323snqy99e/events/2205620523
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Viable System Model: Theory and Application
@@ -919,6 +1015,30 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://metaphorum.org/event/vsm-coach-course-online-by-angela-espinos
  a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISSS Mini Systemic Strategic Thinking as an Effective Tool for Fos
+ tering Integral Development of Regions (Carlos FLORES ALCOCER)
+DTSTART:20261204T170000Z
+DTEND:20261204T180000Z
+DTSTAMP:20261114T113657Z
+UID:18f9c64f9ebc9395bd12dea2@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking,Complexity
+DESCRIPTION:ISSS\nWho: Carlos FLORES ALCOCER Strategic Management consulta
+ nt (i.e. Strategic Planning)\, with more than 40 years ofmulticultural exp
+ erience and a holistic and comprehensive vision\, which have allowed me to
+ generate competitive advantages in the organizations where I have worked. 
+ My StrategicManagement model\, under a systemic approach (derived from my 
+ PhD) is based on the useof cutting-edge technologie\nLanguage: Not specifi
+ ed\nLanguage requirements: Not specified\nInterpretation: Not specified\nA
+ ccess: See organiser\nhttps://teamup.com/ksok8ra1xif3viq4no/events/2205607
+ 123
+LAST-MODIFIED:20261114T113657Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2205607123
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCiO UK Virtual Development Event - December 2026
@@ -1033,6 +1153,29 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.systemspractice.org/events/kybernetik-stammtisch-jahresabs
  chluss-offene-beitrage-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISSS Book Club Critical Systems Thinking (ISSS Book Club)
+DTSTART:20261219T173000Z
+DTEND:20261219T190000Z
+DTSTAMP:20261114T113657Z
+UID:d745f7563563439cccd3422b@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:ISSS\nWho: ISSS Book Club **We are currently reading:** !https
+ ://www.isss.org/editor_upload/Image/Critical%20Systems%20Thinking.jpeg Cha
+ pters 4-6 Welcome to the ISSS Book Club! The purpose of the book club is t
+ o explore the systems science literature in depth\, so books are read over
+  several months\, with monthly reading assignments of approximately 50-100
+  pages. Participants will have opportunities to bo\nLanguage: Not specifie
+ d\nLanguage requirements: Not specified\nInterpretation: Not specified\nAc
+ cess: See organiser\nhttps://teamup.com/ksok8ra1xif3viq4no/events/22056085
+ 76
+LAST-MODIFIED:20261114T113657Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok8ra1xif3viq4no/events/2205608576
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VSM-AI Special Integration Group
@@ -1275,9 +1418,9 @@ BEGIN:VEVENT
 SUMMARY:WOSC Congress: Addressing Planetary Challenges
 DTSTART:20270616T070000Z
 DTEND:20270618T140000Z
-DTSTAMP:20261113T122225Z
+DTSTAMP:20261114T113657Z
 UID:99998e0fda728e162d4a9f6c@systemsmap.antlerboy.com
-SEQUENCE:91
+SEQUENCE:92
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:World Organisation of Systems and Cybernetics (WOSC)\n\nLangua
  ge: Not specified\nLanguage requirements: Not specified\nInterpretation: N
@@ -1285,7 +1428,7 @@ DESCRIPTION:World Organisation of Systems and Cybernetics (WOSC)\n\nLangua
  wosc-congress-2026-addressing-planetary-challenges\nThe page title and URL
   retain 2026\, but its current Time & Location explicitly gives 16-18 June
   2027. Confirm this discrepancy with WOSC before booking.
-LAST-MODIFIED:20261113T122225Z
+LAST-MODIFIED:20261114T113657Z
 LOCATION:Ekonomsko-poslovna fakulteta UM\, Razlagova ulica 20\, Maribor\, 
  Slovenia
 STATUS:CONFIRMED

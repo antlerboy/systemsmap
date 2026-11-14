@@ -9,9 +9,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15 / RSDX-ASC: Conversational Confluences online series
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20261113T122225Z
+DTSTAMP:20261114T113657Z
 UID:99e564f66eea2967812a7cf4@systemsmap.antlerboy.com
-SEQUENCE:95
+SEQUENCE:96
 CATEGORIES:Cybernetics,Systemic design,Systems thinking
 DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  on\nThe online RSD15 programme continuing conversations from the ASC confe
@@ -22,7 +22,7 @@ DESCRIPTION:American Society for Cybernetics and Systemic Design Associati
  fficial programme checked 7 September 2026: 24-27 August. Calendar end dat
  e is exclusive.\nDate-only listing\; check the organiser for session times
  .
-LAST-MODIFIED:20261113T122225Z
+LAST-MODIFIED:20261114T113657Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -105,5 +105,29 @@ LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://asc-cybernetics.org/?page_id=2733
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[#NewMacy] #4 CYBERNETICS AND THE STATE OF INTERACTION (Larry Rich
+ ards\, Fiona Szeto\, Fatima Shah\, and Alex Durran)
+DTSTART:20261203T170000Z
+DTEND:20261203T181500Z
+DTSTAMP:20261114T113657Z
+UID:c8945159750cea8a30bbe0d1@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:Larry Richards\\\, Fiona Szeto\\\, Fatima Shah\\\, and Alex Du
+ rran\nWho: Larry Richards\, Fiona Szeto\, Fatima Shah\, and Alex Durran **
+ We write to announce the next session of our #NewMacy #NewThursdays Series
+  for Fall 2026—**opportunities for new conversations that extend and exp
+ and our intentions for the \\#NewMacy_Initiative: http://newmacy.org/. **T
+ his session will feature a slightly different format: four scholar-practit
+ ioners will begin the session by briefly s\nLanguage: Not specified\nLangu
+ age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
+ e organiser\nhttps://teamup.com/ksok1qhw323snqy99e/events/2205620523
+LAST-MODIFIED:20261114T113657Z
+LOCATION:Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://teamup.com/ksok1qhw323snqy99e/events/2205620523
 END:VEVENT
 END:VCALENDAR
