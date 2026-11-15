@@ -163,9 +163,9 @@ BEGIN:VEVENT
 SUMMARY:Beer's Pedagogy: Lessons from the Concordia University Lectures
 DTSTART:20261104T170000Z
 DTEND:20261104T183000Z
-DTSTAMP:20261114T113657Z
+DTSTAMP:20261115T120227Z
 UID:d712cf5af68cb1fe2529b149@systemsmap.antlerboy.com
-SEQUENCE:13
+SEQUENCE:14
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Metaphorum\nMarc-André Pigeon examines Stafford Beer's teachi
  ng through recordings of his Concordia University lectures. This webinar w
@@ -176,7 +176,7 @@ DESCRIPTION:Metaphorum\nMarc-André Pigeon examines Stafford Beer's teachi
  ober-December 2026 newsletter confirms the speaker\, title and 4 November 
  date. The submitted organiser announcement supplies 17:00-18:30 GMT on Zoo
  m. Retained as a past event\; no new date inferred.
-LAST-MODIFIED:20261114T113657Z
+LAST-MODIFIED:20261115T120227Z
 LOCATION:Online (Zoom)
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -607,6 +607,23 @@ DESCRIPTION:Metaphorum\n\nLanguage: Not specified\nLanguage requirements:
  Not specified\nInterpretation: Not specified\nAccess: See organiser\nhttps
  ://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
 LAST-MODIFIED:20261017T223529Z
+LOCATION:Location not published
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VSM-AI Special Integration Group
+DTSTART:20280517T160000Z
+DTEND:20280517T173000Z
+DTSTAMP:20261115T120227Z
+UID:f6311c4850a0f68559297d3f@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Cybernetics,Systems thinking
+DESCRIPTION:Metaphorum\n\nLanguage: Not specified\nLanguage requirements: 
+ Not specified\nInterpretation: Not specified\nAccess: See organiser\nhttps
+ ://ics.teamup.com/feed/ksok8ra1xif3viq4no/0.ics
+LAST-MODIFIED:20261115T120227Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
