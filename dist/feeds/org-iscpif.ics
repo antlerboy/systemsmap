@@ -621,6 +621,25 @@ TRANSP:TRANSPARENT
 URL:https://iscpif.fr/evenements/reunion-du-projet-anr-microcomos/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Répétition chorale du CNRS
+DTSTART:20261119T163000Z
+DTEND:20261119T190000Z
+DTSTAMP:20261116T125543Z
+UID:dfa961172142c3d61cfe96dc@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nRépét
+ ition chorale du CNRS pendant la fermeture de l’Université UPC\nLanguag
+ e: Not specified\nLanguage requirements: Not specified\nInterpretation: No
+ t specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/repetitio
+ n-chorale-du-cnrs-4/
+LAST-MODIFIED:20261116T125543Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/repetition-chorale-du-cnrs-4/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Artpoint
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
@@ -631,7 +650,9 @@ CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/artpoin
- t-5/\nDate-only listing\; check the organiser for session times.
+ t-5/\nDate-only listing\; check the organiser for session times.\nNo longe
+ r found in the latest source listing\; confirmation needed.\nThis event co
+ uld not be rechecked on the latest collection. Confirm with the organiser.
 LAST-MODIFIED:20261101T112259Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
