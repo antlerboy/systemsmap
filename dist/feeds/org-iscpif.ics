@@ -586,20 +586,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Artpoint
 DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-DTSTAMP:20261101T112259Z
-UID:155de7021654ddb252f71aca@systemsmap.antlerboy.com
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261117T133757Z
+UID:313e80e98ef9edda08b137e6@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/artpoin
- t-4/\nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20261101T112259Z
+ t/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261117T133757Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://iscpif.fr/evenements/artpoint-4/
+URL:https://iscpif.fr/evenements/artpoint/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:reunion du projet ANR microCOSMOS
