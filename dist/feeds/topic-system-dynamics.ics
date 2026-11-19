@@ -6,31 +6,6 @@ X-WR-CALNAME:System dynamics
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:SDS Policy Council Meeting (August 2026)
-DTSTART:20260820T150000Z
-DTEND:20260820T163000Z
-DTSTAMP:20260910T090026Z
-UID:aebf90cba4d24ebd40dbe2c9@systemsmap.antlerboy.com
-SEQUENCE:3
-CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\n<p>Monthly meetings of the Policy Cou
- ncil occur on the 3rd Thursday of the month with the exception of conferen
- ce month and holiday weeks. All Society members are welcome to attend. Log
- in to access the zoom link which will be displayed here to members 15 minu
- tes prior to the start of the meeting.</p>\\n\nLanguage: Not specified\nLa
- nguage requirements: Not specified\nInterpretation: Not specified\nAccess:
-  See organiser\nhttps://systemdynamics.org/event/sds-policy-council-meetin
- g-august-2026/\nNo longer found in the latest source listing\; confirmatio
- n needed.\nSource could not be fully rechecked.\nThis event could not be r
- echecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260910T090026Z
-LOCATION:Online
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://systemdynamics.org/event/sds-policy-council-meeting-august-202
- 6/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:XMILE Technical Committee Meeting (August 2026)
 DTSTART:20260821T140000Z
 DTEND:20260821T144500Z
@@ -1260,9 +1235,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Change in Practice: Lessons from the Field
 DTSTART:20261123T120000Z
 DTEND:20261123T130000Z
-DTSTAMP:20261118T131214Z
+DTSTAMP:20261119T133112Z
 UID:52762ac25488d4e00a349ad5@systemsmap.antlerboy.com
-SEQUENCE:18
+SEQUENCE:19
 CATEGORIES:Complexity,System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  en) and Cuauhtémoc León (CEGAM) discuss systems change practice in Indon
@@ -1276,7 +1251,7 @@ DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  ation of the page is restricted by robots.txt\; check with the organiser b
  efore attending. New York time on 23 November is EST (UTC-05:00)\, equival
  ent to 12:00-13:00 UTC.
-LAST-MODIFIED:20261118T131214Z
+LAST-MODIFIED:20261119T133112Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1633,9 +1608,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Thinking & Modelling Symposium - Oceania Chapter 2027
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20261118T131214Z
+DTSTAMP:20261119T133112Z
 UID:efc297f629367b9b25ff0780@systemsmap.antlerboy.com
-SEQUENCE:21
+SEQUENCE:22
 CATEGORIES:System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
  nnouncement describes a hybrid Systems Thinking & Modelling Symposium at U
@@ -1655,7 +1630,7 @@ DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
  g 12 February. Corrected to a date-only 12 February listing\; existing sub
  scription identity retained.\nDate-only listing\; check the organiser for 
  session times.
-LAST-MODIFIED:20261118T131214Z
+LAST-MODIFIED:20261119T133112Z
 LOCATION:UNSW Canberra\, Australia / online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
