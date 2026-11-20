@@ -6,48 +6,6 @@ X-WR-CALNAME:System dynamics
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:XMILE Technical Committee Meeting (August 2026)
-DTSTART:20260821T140000Z
-DTEND:20260821T144500Z
-DTSTAMP:20260910T090026Z
-UID:523147b0ddcf8306916f9236@systemsmap.antlerboy.com
-SEQUENCE:3
-CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\n\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/xmile-technical-committee-meeting
- -august-2026/\nNo longer found in the latest source listing\; confirmation
-  needed.\nSource could not be fully rechecked.\nThis event could not be re
- checked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260910T090026Z
-LOCATION:Online
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://systemdynamics.org/event/xmile-technical-committee-meeting-aug
- ust-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SD Tools/XMILE Users Group (August 2026)
-DTSTART:20260821T150000Z
-DTEND:20260821T154500Z
-DTSTAMP:20260910T090026Z
-UID:bebc6f58da4d93c4392f3328@systemsmap.antlerboy.com
-SEQUENCE:3
-CATEGORIES:System dynamics
-DESCRIPTION:System Dynamics Society\n\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://systemdynamics.org/event/sd-tools-xmile-users-group-august
- -2026/\nNo longer found in the latest source listing\; confirmation needed
- .\nSource could not be fully rechecked.\nThis event could not be rechecked
-  on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260910T090026Z
-LOCATION:Online
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://systemdynamics.org/event/sd-tools-xmile-users-group-august-202
- 6/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Annual Psychology and Human Behavior SIG Meeting (August 2026)
 DTSTART:20260825T140000Z
 DTEND:20260825T150000Z
@@ -1235,9 +1193,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Change in Practice: Lessons from the Field
 DTSTART:20261123T120000Z
 DTEND:20261123T130000Z
-DTSTAMP:20261119T133112Z
+DTSTAMP:20261120T131206Z
 UID:52762ac25488d4e00a349ad5@systemsmap.antlerboy.com
-SEQUENCE:19
+SEQUENCE:20
 CATEGORIES:Complexity,System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  en) and Cuauhtémoc León (CEGAM) discuss systems change practice in Indon
@@ -1251,7 +1209,7 @@ DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  ation of the page is restricted by robots.txt\; check with the organiser b
  efore attending. New York time on 23 November is EST (UTC-05:00)\, equival
  ent to 12:00-13:00 UTC.
-LAST-MODIFIED:20261119T133112Z
+LAST-MODIFIED:20261120T131206Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1608,9 +1566,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Thinking & Modelling Symposium - Oceania Chapter 2027
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20261119T133112Z
+DTSTAMP:20261120T131206Z
 UID:efc297f629367b9b25ff0780@systemsmap.antlerboy.com
-SEQUENCE:22
+SEQUENCE:23
 CATEGORIES:System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
  nnouncement describes a hybrid Systems Thinking & Modelling Symposium at U
@@ -1630,7 +1588,7 @@ DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
  g 12 February. Corrected to a date-only 12 February listing\; existing sub
  scription identity retained.\nDate-only listing\; check the organiser for 
  session times.
-LAST-MODIFIED:20261119T133112Z
+LAST-MODIFIED:20261120T131206Z
 LOCATION:UNSW Canberra\, Australia / online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

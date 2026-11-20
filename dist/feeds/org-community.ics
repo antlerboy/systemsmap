@@ -6,29 +6,6 @@ X-WR-CALNAME:Cybernetics and Systems Community Calendar
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:RSD15 PLURALITIES (Systemic Design Association)
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-DTSTAMP:20260909T082311Z
-UID:c3c7111b41559bbda4dd2512@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Cybernetics,Systems thinking,Systemic design
-DESCRIPTION:Systemic Design Association\nWho: Systemic Design Association 
- Hosted by Politecnico di Torino. https://rsdsymposium.org/ On campus sessi
- ons and livestream.\nLanguage: Not specified\nLanguage requirements: Not s
- pecified\nInterpretation: Not specified\nAccess: See organiser\nhttps://te
- amup.com/ksok8ra1xif3viq4no/events/2133404103\nDate-only listing\; check t
- he organiser for session times.\nNo longer found in the latest source list
- ing\; confirmation needed.\nThis event could not be rechecked on the lates
- t collection. Confirm with the organiser.
-LAST-MODIFIED:20260909T082311Z
-LOCATION:R. Joaquim Távora\, 1240 - Vila Mariana\, São Paulo - SP\, 0401
- 5-013\, Brazil
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://teamup.com/ksok8ra1xif3viq4no/events/2133404103
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VSM-AI Special Integration Group
 DTSTART:20260916T160000Z
 DTEND:20260916T173000Z
