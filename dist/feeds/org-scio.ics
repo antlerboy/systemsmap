@@ -79,9 +79,9 @@ BEGIN:VEVENT
 SUMMARY:Making relational\, place-based public services ordinary
 DTSTART:20260921T124500Z
 DTEND:20260921T141500Z
-DTSTAMP:20261120T131206Z
+DTSTAMP:20261121T124914Z
 UID:8c00d12aaf979855624fa772@systemsmap.antlerboy.com
-SEQUENCE:98
+SEQUENCE:99
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:SCiO / SysPrac26\nBenjamin Taylor's workshop at SysPrac26. Con
  ference booking required.\nLanguage: Not specified\nLanguage requirements:
@@ -89,7 +89,7 @@ DESCRIPTION:SCiO / SysPrac26\nBenjamin Taylor's workshop at SysPrac26. Con
  s://www.systemspractice.org/Schedule26\nPresenter withdrew from the confer
  ence session\; organiser's follow-up offers separate online workshops. Che
  cked 7 October 2026.
-LAST-MODIFIED:20261120T131206Z
+LAST-MODIFIED:20261121T124914Z
 LOCATION:LR4\, Vincent Building\, Cranfield University\, United Kingdom
 STATUS:CANCELLED
 TRANSP:TRANSPARENT
@@ -254,9 +254,9 @@ BEGIN:VEVENT
 SUMMARY:SCiO UK Virtual Open Meeting - November 2026
 DTSTART:20261116T183000Z
 DTEND:20261116T210000Z
-DTSTAMP:20261120T131206Z
+DTSTAMP:20261121T124914Z
 UID:76da874472c5593ae9184169@systemsmap.antlerboy.com
-SEQUENCE:14
+SEQUENCE:15
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:SCiO UK\nAn online open meeting with presentations and discuss
  ion for systems practitioners and others. See the organiser’s page for c
@@ -265,7 +265,7 @@ DESCRIPTION:SCiO UK\nAn online open meeting with presentations and discuss
  tps://www.systemspractice.org/events/scio-uk-virtual-open-meeting-november
  -2026\nManually checked against the SCiO event page on 30 October 2026. Ch
  eck the organiser for later changes.
-LAST-MODIFIED:20261120T131206Z
+LAST-MODIFIED:20261121T124914Z
 LOCATION:Online event
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -351,6 +351,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.systemspractice.org/events/scio-nl-monthly-meeting-decembe
  r-2025-live-woerden-and-dutch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCiO Finland Systemic Pre-Christmas Party
+DTSTART:20261217T170000Z
+DTEND:20261217T210000Z
+DTSTAMP:20261121T124914Z
+UID:8c5a0678d2616af11cb9a70d@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Systems thinking,Cybernetics
+DESCRIPTION:SCiO Finland\n\nLanguage: English\, Finnish\nLanguage requirem
+ ents: Not specified\nInterpretation: Not specified\nAccess: All welcome\nh
+ ttps://www.systemspractice.org/events/scio-finland-systemic-pre-christmas-
+ party
+LAST-MODIFIED:20261121T124914Z
+LOCATION:Espoo\, Finland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.systemspractice.org/events/scio-finland-systemic-pre-chris
+ tmas-party
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deep Dive Intervisie: Critical Systems Heuristics
