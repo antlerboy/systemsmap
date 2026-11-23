@@ -673,17 +673,15 @@ BEGIN:VEVENT
 SUMMARY:Artpoint
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261101T112259Z
+DTSTAMP:20261123T145652Z
 UID:16bcf0219878654b1225ec48@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/artpoin
- t-2/\nDate-only listing\; check the organiser for session times.\nSource c
- ould not be fully rechecked.\nThis event could not be rechecked on the lat
- est collection. Confirm with the organiser.
-LAST-MODIFIED:20261101T112259Z
+ t-2/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261123T145652Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -693,17 +691,15 @@ BEGIN:VEVENT
 SUMMARY:Exmodelo
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261101T112259Z
+DTSTAMP:20261123T145652Z
 UID:8a22a3462354209241e6ecf4@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/exmodel
- o-3/\nDate-only listing\; check the organiser for session times.\nSource c
- ould not be fully rechecked.\nThis event could not be rechecked on the lat
- est collection. Confirm with the organiser.
-LAST-MODIFIED:20261101T112259Z
+ o-3/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261123T145652Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -713,17 +709,15 @@ BEGIN:VEVENT
 SUMMARY:Exmodelo
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261101T112259Z
+DTSTAMP:20261123T145652Z
 UID:87b60aeec0abb26e6c904cc3@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/exmodel
- o-4/\nDate-only listing\; check the organiser for session times.\nSource c
- ould not be fully rechecked.\nThis event could not be rechecked on the lat
- est collection. Confirm with the organiser.
-LAST-MODIFIED:20261101T112259Z
+ o-4/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261123T145652Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -733,9 +727,9 @@ BEGIN:VEVENT
 SUMMARY:Hackathon ATLASEA nov 2026
 DTSTART:20261125T110000Z
 DTEND:20261127T100000Z
-DTSTAMP:20261101T112259Z
+DTSTAMP:20261123T145652Z
 UID:5ddc7eef4f89c63216be1273@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nLe Hack
  athon ATLASEA rassemble l’ensemble des acteurs impliqués dans le dével
@@ -745,10 +739,8 @@ DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nLe Hack
  s concernent la gestion et l’harmonisation des données\, le développem
  ent et l’optimisation des flux de donnée\nLanguage: Not specified\nLang
  uage requirements: Not specified\nInterpretation: Not specified\nAccess: S
- ee organiser\nhttps://iscpif.fr/evenements/hackathon-atlasea-nov-2026/\nSo
- urce could not be fully rechecked.\nThis event could not be rechecked on t
- he latest collection. Confirm with the organiser.
-LAST-MODIFIED:20261101T112259Z
+ ee organiser\nhttps://iscpif.fr/evenements/hackathon-atlasea-nov-2026/
+LAST-MODIFIED:20261123T145652Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -758,17 +750,15 @@ BEGIN:VEVENT
 SUMMARY:Artpoint
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261101T112259Z
+DTSTAMP:20261123T145652Z
 UID:0306387a1bfec045083ef3e8@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
  age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
  Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/artpoin
- t-3/\nDate-only listing\; check the organiser for session times.\nSource c
- ould not be fully rechecked.\nThis event could not be rechecked on the lat
- est collection. Confirm with the organiser.
-LAST-MODIFIED:20261101T112259Z
+ t-3/\nDate-only listing\; check the organiser for session times.
+LAST-MODIFIED:20261123T145652Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -778,20 +768,37 @@ BEGIN:VEVENT
 SUMMARY:Séminaire interne Plateforme IDEAS
 DTSTART:20261127T073000Z
 DTEND:20261127T160000Z
-DTSTAMP:20261101T112259Z
+DTSTAMP:20261123T145652Z
 UID:2f813fde9578690204f9062c@systemsmap.antlerboy.com
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Complexity
 DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\nSémina
  ire de réflexion sur des scénarios prospectifs\nLanguage: Not specified
  \nLanguage requirements: Not specified\nInterpretation: Not specified\nAcc
  ess: See organiser\nhttps://iscpif.fr/evenements/seminaire-interne-platefo
- rme-ideas/\nSource could not be fully rechecked.\nThis event could not be 
- rechecked on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20261101T112259Z
+ rme-ideas/
+LAST-MODIFIED:20261123T145652Z
 LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://iscpif.fr/evenements/seminaire-interne-plateforme-ideas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comité de Direction
+DTSTART:20261130T070000Z
+DTEND:20261130T153000Z
+DTSTAMP:20261123T145652Z
+UID:c977593a20935caa05df8a18@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Institut des systèmes complexes Paris Île-de-France\n\nLangu
+ age: Not specified\nLanguage requirements: Not specified\nInterpretation: 
+ Not specified\nAccess: See organiser\nhttps://iscpif.fr/evenements/comite-
+ de-direction/
+LAST-MODIFIED:20261123T145652Z
+LOCATION:ISC-PIF\, 113 rue Nationale\, Paris\, Paris\, 75013\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://iscpif.fr/evenements/comite-de-direction/
 END:VEVENT
 END:VCALENDAR

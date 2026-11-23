@@ -6,30 +6,6 @@ X-WR-CALNAME:Sociocracy For All
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:Nonviolent Communication Basics 3 x 2hs
-DTSTART:20260824T150000Z
-DTEND:20260824T170000Z
-DTSTAMP:20260909T085810Z
-UID:d774192494ed8546b96529a2@systemsmap.antlerboy.com
-SEQUENCE:2
-CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\n<p>This is a 3-session introduction class 
- to compassionate communication (Nonviolent Communication\, NVC). The class
-  covers basic concepts with all sessions being participatory with time for
-  questions and answers.</p>\\n\nLanguage: Not specified\nLanguage requirem
- ents: Not specified\nInterpretation: Not specified\nAccess: See organiser
- \nhttps://www.sociocracyforall.org/event/nonviolent-communication-basics-a
- ug-2026/\nNo longer found in the latest source listing\; confirmation need
- ed.\nSource could not be fully rechecked.\nThis event could not be recheck
- ed on the latest collection. Confirm with the organiser.
-LAST-MODIFIED:20260909T085810Z
-LOCATION:Location not published
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.sociocracyforall.org/event/nonviolent-communication-basics
- -aug-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Introduction to Sociocracy: 2-session class
 DTSTART:20260826T160000Z
 DTEND:20260826T190000Z
