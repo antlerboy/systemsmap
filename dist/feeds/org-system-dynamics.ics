@@ -6,33 +6,6 @@ X-WR-CALNAME:System Dynamics Society
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:Annual Psychology and Human Behavior SIG Meeting (August 2026)
-DTSTART:20260825T140000Z
-DTEND:20260825T150000Z
-DTSTAMP:20260910T090026Z
-UID:169eea14b9f18798786086d2@systemsmap.antlerboy.com
-SEQUENCE:3
-CATEGORIES:System dynamics
-DESCRIPTION:Psychology and Human Behavior SIG\n<p>Please join us for our a
- nnual Psychology and Human Behavior SIG meeting. The first presentation wi
- ll focus on emotional dynamics\, and the second on cognitive algebra. Next
- \, we will discuss the SIG’s plans for the upcoming year. Part 1. (25 mi
- nutes) Emotions as Dynamical\, Self-Organizing Patterns of Salience: An Il
- lustrative Model for Accessing Other Minds Through […]</p>\\n\nLanguage:
-  Not specified\nLanguage requirements: Not specified\nInterpretation: Not 
- specified\nAccess: See organiser\nhttps://systemdynamics.org/event/psychol
- ogy-and-human-behavior-sig-meeting-august-2026/\nNo longer found in the la
- test source listing\; confirmation needed.\nSource could not be fully rech
- ecked.\nThis event could not be rechecked on the latest collection. Confir
- m with the organiser.
-LAST-MODIFIED:20260910T090026Z
-LOCATION:Online
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://systemdynamics.org/event/psychology-and-human-behavior-sig-mee
- ting-august-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Place\, Poly-Capital\, and the Power to Change Systems
 DTSTART:20260827T120000Z
 DTEND:20260827T130000Z
@@ -1193,9 +1166,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Change in Practice: Lessons from the Field
 DTSTART:20261123T120000Z
 DTEND:20261123T130000Z
-DTSTAMP:20261123T145652Z
+DTSTAMP:20261124T145920Z
 UID:52762ac25488d4e00a349ad5@systemsmap.antlerboy.com
-SEQUENCE:23
+SEQUENCE:24
 CATEGORIES:Complexity,System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  en) and Cuauhtémoc León (CEGAM) discuss systems change practice in Indon
@@ -1209,7 +1182,7 @@ DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  ation of the page is restricted by robots.txt\; check with the organiser b
  efore attending. New York time on 23 November is EST (UTC-05:00)\, equival
  ent to 12:00-13:00 UTC.
-LAST-MODIFIED:20261123T145652Z
+LAST-MODIFIED:20261124T145920Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1566,9 +1539,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Thinking & Modelling Symposium - Oceania Chapter 2027
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20261123T145652Z
+DTSTAMP:20261124T145920Z
 UID:efc297f629367b9b25ff0780@systemsmap.antlerboy.com
-SEQUENCE:26
+SEQUENCE:27
 CATEGORIES:System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
  nnouncement describes a hybrid Systems Thinking & Modelling Symposium at U
@@ -1588,7 +1561,7 @@ DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
  g 12 February. Corrected to a date-only 12 February listing\; existing sub
  scription identity retained.\nDate-only listing\; check the organiser for 
  session times.
-LAST-MODIFIED:20261123T145652Z
+LAST-MODIFIED:20261124T145920Z
 LOCATION:UNSW Canberra\, Australia / online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

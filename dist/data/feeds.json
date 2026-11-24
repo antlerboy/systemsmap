@@ -2,22 +2,22 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 323
+    "events": 324
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 106
+    "events": 107
   },
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 149
+    "events": 151
   },
   {
     "id": "topic-cybernetics",
     "name": "Cybernetics",
-    "events": 79
+    "events": 81
   },
   {
     "id": "topic-complexity",
@@ -27,7 +27,7 @@
   {
     "id": "topic-system-dynamics",
     "name": "System dynamics",
-    "events": 75
+    "events": 74
   },
   {
     "id": "topic-systemic-design",
@@ -42,7 +42,7 @@
   {
     "id": "org-scio",
     "name": "SCiO — international chapters",
-    "events": 23
+    "events": 25
   },
   {
     "id": "org-scio-courses",
@@ -87,7 +87,7 @@
   {
     "id": "org-system-dynamics",
     "name": "System Dynamics Society",
-    "events": 75
+    "events": 74
   },
   {
     "id": "org-system-dynamics-linkedin",
