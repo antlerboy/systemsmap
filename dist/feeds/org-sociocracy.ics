@@ -6,29 +6,6 @@ X-WR-CALNAME:Sociocracy For All
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:Introduction to Sociocracy: 2-session class
-DTSTART:20260826T160000Z
-DTEND:20260826T190000Z
-DTSTAMP:20261113T122225Z
-UID:de5e9a27f58cfd51073e46e8@systemsmap.antlerboy.com
-SEQUENCE:3
-CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\n<p>Learn and practice the basics of socioc
- racy In this class you will be introduced to basic principles of sociocrac
- y with many examples and practice opportunities. All sessions are particip
- atory with time for questions and answers. Friday\, September 19\, 2025 at
-  14:00 UTC / 10:00 EDT Event time in your time zone: Class Schedule This i
- s […]</p>\\n\nLanguage: Not specified\nLanguage requirements: Not specif
- ied\nInterpretation: Not specified\nAccess: See organiser\nhttps://www.soc
- iocracyforall.org/event/introduction-to-sociocracy-august2026/
-LAST-MODIFIED:20261113T122225Z
-LOCATION:Location not published
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.sociocracyforall.org/event/introduction-to-sociocracy-augu
- st2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free introduction: What is sociocracy?
 DTSTART:20260909T220000Z
 DTEND:20260909T230000Z
