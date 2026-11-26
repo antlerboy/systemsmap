@@ -2,12 +2,12 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 323
+    "events": 319
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 107
+    "events": 103
   },
   {
     "id": "topic-systems",
@@ -27,7 +27,7 @@
   {
     "id": "topic-system-dynamics",
     "name": "System dynamics",
-    "events": 74
+    "events": 70
   },
   {
     "id": "topic-systemic-design",
@@ -87,7 +87,7 @@
   {
     "id": "org-system-dynamics",
     "name": "System Dynamics Society",
-    "events": 74
+    "events": 70
   },
   {
     "id": "org-system-dynamics-linkedin",
