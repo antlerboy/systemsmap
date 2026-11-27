@@ -2,22 +2,22 @@
   {
     "id": "all",
     "name": "All systems, cybernetics, and complexity events",
-    "events": 319
+    "events": 318
   },
   {
     "id": "online",
     "name": "Online events",
-    "events": 103
+    "events": 102
   },
   {
     "id": "topic-systems",
     "name": "Systems thinking",
-    "events": 150
+    "events": 149
   },
   {
     "id": "topic-cybernetics",
     "name": "Cybernetics",
-    "events": 81
+    "events": 80
   },
   {
     "id": "topic-complexity",
@@ -32,7 +32,7 @@
   {
     "id": "topic-systemic-design",
     "name": "Systemic design",
-    "events": 15
+    "events": 14
   },
   {
     "id": "topic-relational-public-services",
@@ -52,7 +52,7 @@
   {
     "id": "org-asc",
     "name": "American Society for Cybernetics (ASC)",
-    "events": 6
+    "events": 5
   },
   {
     "id": "org-community",
@@ -122,7 +122,7 @@
   {
     "id": "org-rsd",
     "name": "Relating Systems Thinking and Design (RSD)",
-    "events": 12
+    "events": 11
   },
   {
     "id": "org-sda",

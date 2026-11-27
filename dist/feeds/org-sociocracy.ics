@@ -406,16 +406,16 @@ BEGIN:VEVENT
 SUMMARY:Sociocracy in Toronto: An Open Evening
 DTSTART:20261127T113000Z
 DTEND:20261127T133000Z
-DTSTAMP:20261027T095327Z
-UID:9a9450c70ed8097f69689600@systemsmap.antlerboy.com
+DTSTAMP:20261127T140017Z
+UID:593ea27ef1d0fbe5bbe432a9@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\nAn in-person\, hands-on intro evening with
-  Jerry Koch- Gonzalez\, co-founder of Sociocracy For All.\nLanguage: Not s
- pecified\nLanguage requirements: Not specified\nInterpretation: Not specif
- ied\nAccess: See organiser\nhttps://www.sociocracyforall.org/event/a-taste
- -of-sociocracy-toronto/
-LAST-MODIFIED:20261027T095327Z
+DESCRIPTION:Sociocracy For All\n<p>A hands-on intro evening with Jerry Koc
+ h- Gonzalez\, co-founder of Sociocracy For All. </p>\\n\nLanguage: Not spe
+ cified\nLanguage requirements: Not specified\nInterpretation: Not specifie
+ d\nAccess: See organiser\nhttps://www.sociocracyforall.org/event/a-taste-o
+ f-sociocracy-toronto/
+LAST-MODIFIED:20261127T140017Z
 LOCATION:Location not published
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
