@@ -59,9 +59,9 @@ SUMMARY:Cybernetics in the Annex: Commemorating Stafford Beer's Centenary
  + Summer Conferences Recap
 DTSTART:20260908T223000Z
 DTEND:20260909T001500Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:2e96c1af7848b3132733a6fb@systemsmap.antlerboy.com
-SEQUENCE:114
+SEQUENCE:115
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  eer's work on organisational viability and participatory decision-making\,
@@ -70,7 +70,7 @@ DESCRIPTION:Systems Thinking Ontario\nAllenna Leonard discusses Stafford B
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Re
  gister for in-person attendance or the online link\nhttps://guild.host/eve
  nts/cybernetics-in-the-annex-tbara6
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:OCAD University\, 205 Richmond St W\, Room 115\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -79,9 +79,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISSS Board of Directors meeting
 DTSTART:20260911T200000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:03c306f9fde126bcae14d368@systemsmap.antlerboy.com
-SEQUENCE:104
+SEQUENCE:105
 CATEGORIES:Systems thinking
 DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ed on the official ISSS events page. Check registration and participation 
@@ -89,7 +89,7 @@ DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ot specified\nInterpretation: Not specified\nAccess: Registration required
  \; ISSS membership rules apply\nhttps://wiki.lab.isss.org/events\nEnd time
   not published.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -99,16 +99,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 1
 DTSTART:20260915T083000Z
 DTEND:20260915T113000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:4e7b926f96306901c1d0da21@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -168,16 +168,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 2
 DTSTART:20260916T083000Z
 DTEND:20260916T113000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:0df209cfb40823db80b351a7@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -235,9 +235,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISSS Annual General Meeting
 DTSTART:20260918T200000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:a1f3b2af02e11db18a32b82e@systemsmap.antlerboy.com
-SEQUENCE:104
+SEQUENCE:105
 CATEGORIES:Systems thinking
 DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ed on the official ISSS events page. Check registration and participation 
@@ -245,7 +245,7 @@ DESCRIPTION:International Society for the Systems Sciences (ISSS)\nPublish
  ot specified\nInterpretation: Not specified\nAccess: Registration required
  \; ISSS membership rules apply\nhttps://wiki.lab.isss.org/events\nEnd time
   not published.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -281,7 +281,9 @@ DESCRIPTION:Sociocracy For All\n<p>Learn how to train and implement socioc
  racy! Requires facilitators certification. 2h sessions every two weeks for
   5 months</p>\\n\nLanguage: Not specified\nLanguage requirements: Not spec
  ified\nInterpretation: Not specified\nAccess: See organiser\nhttps://www.s
- ociocracyforall.org/event/academy-level-2/
+ ociocracyforall.org/event/academy-level-2/\nSource could not be fully rech
+ ecked.\nThis event could not be rechecked on the latest collection. Confir
+ m with the organiser.
 LAST-MODIFIED:20260922T092210Z
 LOCATION:SoFA Zoom (Multi-Room)
 STATUS:CONFIRMED
@@ -292,16 +294,16 @@ BEGIN:VEVENT
 SUMMARY:Exploring the role of the Knowledge Weaver
 DTSTART:20260922T120000Z
 DTEND:20260922T130000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:e4ccdfd6cb1fb968ada0d1b3@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:Q Network Weaving group / COPE Scotland\nA conversation with J
  une Holley about knowledge weaving and collective learning in health and c
  are.\nLanguage: Not specified\nLanguage requirements: Not specified\nInter
  pretation: Not specified\nAccess: See organiser\nhttps://q.thenhsalliance.
  org/get-involved/events/exploring-the-role-of-the-knowledge-weaver
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -312,16 +314,16 @@ BEGIN:VEVENT
 SUMMARY:Leading with Learning � session 1
 DTSTART:20260923T083000Z
 DTEND:20260923T113000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:2c6644602391deac77173c72@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/leading-with-learning/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -331,9 +333,9 @@ BEGIN:VEVENT
 SUMMARY:SPROCKET Systems Practice Seminar 1: Choice and Choosables
 DTSTART:20260925T090000Z
 DTEND:20260925T100000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:541a60db34040c11df667d76@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Systems thinking
 DESCRIPTION:UCL SPROCKET\nJeremy Hilton explores making choices and unders
  tanding different perspectives in innovation.\nLanguage: Not specified\nLa
@@ -341,7 +343,7 @@ DESCRIPTION:UCL SPROCKET\nJeremy Hilton explores making choices and unders
   Open to all\; registration required\nhttps://www.ucl.ac.uk/mathematical-p
  hysical-sciences/events/2026/sep/sprocket-systems-practice-seminar-1-choic
  e-and-choosables
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -352,9 +354,9 @@ BEGIN:VEVENT
 SUMMARY:Designing AI's Boundaries: Respecting Human Agency
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:53fe868f7f0be1ba79b3dafe@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Complexity,Cybernetics,Systemic design
 DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  ialogue event chaired by Michael Lissack\, with remote participation descr
@@ -363,7 +365,7 @@ DESCRIPTION:World Design Cities Conference / SUES and Tongji University\nD
  age requirements: Not specified\nInterpretation: Not specified\nAccess: Se
  e organiser\nhttps://alwaysquestion.ai/\nDate-only listing\; check the org
  aniser for session times.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Shanghai\, China
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -373,9 +375,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Mapping Inclusive Learning: Pre-K to HE
 DTSTART:20260928T150000Z
 DTEND:20260928T160000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:161d0319dc2bbfa5b0d3a661@systemsmap.antlerboy.com
-SEQUENCE:85
+SEQUENCE:86
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Communication Perspectives hub. Listed contributors: Ma
@@ -386,7 +388,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  : Not specified\nAccess: Registration through the organiser's Zoom event p
  age\nhttps://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1
  558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -398,9 +400,9 @@ SUMMARY:RSD15 Communications Perspectives: Coordinated Management of Meani
  ng
 DTSTART:20260929T153000Z
 DTEND:20260930T000000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:55230e3a3adac1c04b3eefd2@systemsmap.antlerboy.com
-SEQUENCE:86
+SEQUENCE:87
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:CMM Institute / Relating Systems Thinking and Design\nSeventee
  n half-hour sessions exploring Coordinated Management of Meaning across fi
@@ -411,7 +413,7 @@ DESCRIPTION:CMM Institute / Relating Systems Thinking and Design\nSeventee
  schedule: https://events\nLanguage: Not specified\nLanguage requirements: 
  Not specified\nInterpretation: Not specified\nAccess: Registration via the
   organiser's event page\nhttps://rsdsymposium.org/rsd15-cmmi/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -440,9 +442,9 @@ SUMMARY:RSD15: SystemicStories AI: An AI-enabled systemic design atlas for
   Singapore's health & care sector
 DTSTART:20260930T070000Z
 DTEND:20260930T090000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:5b0a5f27d08fd0d9ccb716ec@systemsmap.antlerboy.com
-SEQUENCE:85
+SEQUENCE:86
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Communication Perspectives hub. Listed contributors: Ye
@@ -453,7 +455,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  : Not specified\nAccess: Registration through the organiser's Zoom event p
  age\nhttps://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1
  558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -465,9 +467,9 @@ SUMMARY:RSD15: Mind the Gap: Transitions between systems and getting lost
  in the void
 DTSTART:20260930T140000Z
 DTEND:20260930T160000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:a343a1cced48ec66eeac78c2@systemsmap.antlerboy.com
-SEQUENCE:83
+SEQUENCE:84
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Communication Perspectives hub. Listed contributors: Ma
@@ -478,7 +480,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  : Registration through the organiser's Zoom event page\nhttps://events.zoo
  m.us/ev/Avz8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdOD
  dV70tNswR8vSqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -490,9 +492,9 @@ SUMMARY:RSD15: Fieldkeeper's Log: entry [number]-exploring relational tech
  nologies through dramaturgy\, poetics\, and metaphor
 DTSTART:20260930T160000Z
 DTEND:20260930T180000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:994bbbc560923c11e3acb383@systemsmap.antlerboy.com
-SEQUENCE:83
+SEQUENCE:84
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Communication Perspectives hub. Listed contributors: Wi
@@ -503,7 +505,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  niser's Zoom event page\nhttps://events.zoom.us/ev/Avz8lNCiH3NBw-EJbAEc9XT
  HcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8vSqW21K7vF5ufO-vZ3kqQ
  UvwJR0RxDujL4A
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -514,16 +516,16 @@ BEGIN:VEVENT
 SUMMARY:Systemic consulting: helping without taking over
 DTSTART:20260930T111500Z
 DTEND:20260930T124500Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:3059d51c802280a2cf5f9dff@systemsmap.antlerboy.com
-SEQUENCE:66
+SEQUENCE:67
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:Benjamin P Taylor\nSession has taken place\; organiser's page 
  links the guide and session account.\nLanguage: English\nLanguage requirem
  ents: Not specified\nInterpretation: Not specified\nAccess: Registration r
  equired\nhttps://antlerboy.com/sysprac26/\nOrganiser page checked 7 Octobe
  r 2026. Separate from the cancelled conference appearance.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -534,9 +536,9 @@ SUMMARY:RSD15: All Tomorrow's Policies: Methods for Dual-Timeframe Policy
  Innovation
 DTSTART:20260930T210000Z
 DTEND:20260930T223000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:d74cfd32e1c60bf309d98a0a@systemsmap.antlerboy.com
-SEQUENCE:83
+SEQUENCE:84
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Communication Perspectives hub. Listed contributors: Ch
@@ -547,7 +549,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ion through the organiser's Zoom event page\nhttps://events.zoom.us/ev/Avz
  8lNCiH3NBw-EJbAEc9XTHcaVfk3_BgFs9GAl8IG1558rJOmfX~Ar1jNoZLQXdODdV70tNswR8v
  SqW21K7vF5ufO-vZ3kqQUvwJR0RxDujL4A
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -609,16 +611,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 3
 DTSTART:20261006T083000Z
 DTEND:20261006T113000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:27ef6321e5a0a805c80342b2@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -649,9 +651,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: Shades of Metadesign: Diversity and coherence in emergence
 DTSTART:20261007T100000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:1aaa464fcb3790f5da9f9360@systemsmap.antlerboy.com
-SEQUENCE:84
+SEQUENCE:85
 CATEGORIES:Complexity,Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Mat
@@ -662,7 +664,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  r's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQxYa
  YQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukTlD
  QGXyaqccCA
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -673,9 +675,9 @@ BEGIN:VEVENT
 SUMMARY:RSD15: CMM Office Hours
 DTSTART:20261007T160000Z
 DTEND:20261007T170000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:7637781ec999a366aac88dd3@systemsmap.antlerboy.com
-SEQUENCE:83
+SEQUENCE:84
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ssion in the RSD15 Streaming Knowledge programme. Listed contributors: Abb
@@ -686,7 +688,7 @@ DESCRIPTION:RSD15 / Systemic Design Association\nA separately scheduled se
  ser's Zoom event page\nhttps://events.zoom.us/ev/AsJqkev_ZcUPAGluSOWc6DjQx
  YaYQGd9kagT_Drg23D5OITbNgOX~ArynT6gEsXmOQjjkOI_WuC2x3_EmtEFsynXLVcvT57PukT
  lDQGXyaqccCA
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -697,16 +699,16 @@ BEGIN:VEVENT
 SUMMARY:Leading with Learning � session 2
 DTSTART:20261007T083000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:ea4027a061514d8c4dadc838@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/leading-with-learning/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -716,16 +718,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 4
 DTSTART:20261007T083000Z
 DTEND:20261007T113000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:df002fc665aa7ccc34ed74ab@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -807,16 +809,16 @@ BEGIN:VEVENT
 SUMMARY:Making relational\, place-based public services ordinary
 DTSTART:20261008T113000Z
 DTEND:20261008T130000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:404260241b69921dac1f85d6@systemsmap.antlerboy.com
-SEQUENCE:66
+SEQUENCE:67
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:Benjamin P Taylor\nBenjamin P Taylor's replacement online work
  shop\; registration through the organiser's page.\nLanguage: English\nLang
  uage requirements: Not specified\nInterpretation: Not specified\nAccess: R
  egistration required\nhttps://antlerboy.com/sysprac26/\nOrganiser page che
  cked 7 October 2026. Separate from the cancelled conference appearance.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1024,9 +1026,9 @@ BEGIN:VEVENT
 SUMMARY:Ashby\, Fuzzy\, and Me
 DTSTART:20261015T160000Z
 DTEND:20261015T180000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:e86c94bf15bd90e1ab47f5ac@systemsmap.antlerboy.com
-SEQUENCE:56
+SEQUENCE:57
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:The Cybernetics Society (CybSoc)\nDr Steve Morlidge examines w
  hy matching regulatory variety is necessary but insufficient\, considering
@@ -1036,7 +1038,7 @@ DESCRIPTION:The Cybernetics Society (CybSoc)\nDr Steve Morlidge examines w
  m.us/meeting/register/P2vyZNSyQ4KAsPhCcICcbg\nDate\, time\, speaker\, and 
  Zoom registration checked against the organiser's event page on 15 October
   2026.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online via Zoom
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1117,9 +1119,9 @@ SUMMARY:Bernhard Sterchi - Complexity Theory and Neo-Kantian Theory of Sci
  ence
 DTSTART:20261020T160000Z
 DTEND:20261020T180000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:713d6c13ee642d282c8f0e07@systemsmap.antlerboy.com
-SEQUENCE:49
+SEQUENCE:50
 CATEGORIES:Complexity,Cybernetics,Systems thinking
 DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  ory with Neo-Kantian approaches to scientific explanation\, followed by di
@@ -1129,7 +1131,7 @@ DESCRIPTION:The Complexity Lounge\nAn online talk comparing complexity the
  event\nhttps://www.meetup.com/complexitylounge/events/316861213/\nOrganise
  r JSON-LD checked 18 October 2026: 12:00-14:00 -04:00\, equivalent to 17:0
  0-19:00 Europe/London.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1139,16 +1141,16 @@ BEGIN:VEVENT
 SUMMARY:Leading with Learning � session 3
 DTSTART:20261021T083000Z
 DTEND:20261021T113000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:81f69c86530c1e56426a9ffa@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/leading-with-learning/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1183,9 +1185,9 @@ SUMMARY:Method Showcase: Logosofia\, Software for Collective Inquiry and D
  ecision-Making
 DTSTART:20261021T223000Z
 DTEND:20261022T001500Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:cdf675220425a68c547b6750@systemsmap.antlerboy.com
-SEQUENCE:65
+SEQUENCE:66
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:Systems Thinking Ontario\nPeter Jones presents Logosofia for s
  tructured collective inquiry\; Su Lynn Myat discusses a participatory tech
@@ -1195,7 +1197,7 @@ DESCRIPTION:Systems Thinking Ontario\nPeter Jones presents Logosofia for s
  ents/method-showcase-logosofia-tu5ovo\nChecked 7 October 2026: organiser p
  rose gives 21 October\, 18:30-20:15 local time\; structured dates are 22:3
  0-00:15 UTC. The UTC date crossing is preserved.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:OCAD University\, 205 Richmond St W\, Room 115\, Toronto\, Canada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1285,16 +1287,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 5
 DTSTART:20261103T093000Z
 DTEND:20261103T123000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:a62f61c2b48e0ec75c97329f@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1331,16 +1333,16 @@ BEGIN:VEVENT
 SUMMARY:Leading with Learning � session 4
 DTSTART:20261104T093000Z
 DTEND:20261104T123000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:a036d2c3c5cc49a4e03bb29e@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/leading-with-learning/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1350,16 +1352,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 6
 DTSTART:20261104T093000Z
 DTEND:20261104T123000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:633dab02a32699e1cc0fd2eb@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1369,9 +1371,9 @@ BEGIN:VEVENT
 SUMMARY:Beer's Pedagogy: Lessons from the Concordia University Lectures
 DTSTART:20261104T170000Z
 DTEND:20261104T183000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:d712cf5af68cb1fe2529b149@systemsmap.antlerboy.com
-SEQUENCE:26
+SEQUENCE:27
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:Metaphorum\nMarc-André Pigeon examines Stafford Beer's teachi
  ng through recordings of his Concordia University lectures. This webinar w
@@ -1382,7 +1384,7 @@ DESCRIPTION:Metaphorum\nMarc-André Pigeon examines Stafford Beer's teachi
  ober-December 2026 newsletter confirms the speaker\, title and 4 November 
  date. The submitted organiser announcement supplies 17:00-18:30 GMT on Zoo
  m. Retained as a past event\; no new date inferred.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online (Zoom)
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1393,9 +1395,9 @@ SUMMARY:A relational services journey: the Surrey System Conveners team’
  s story
 DTSTART:20261109T130000Z
 DTEND:20261109T140000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:5a800207061101c6668e19c9@systemsmap.antlerboy.com
-SEQUENCE:31
+SEQUENCE:32
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:Systems Convening community / Matthew Mezey\nLiz Williams shar
  es Surrey’s NHS/local-authority System Convening team’s experience. Ma
@@ -1407,7 +1409,7 @@ DESCRIPTION:Systems Convening community / Matthew Mezey\nLiz Williams shar
  gistration and full community invitation checked 2 November 2026. Calendar
   entry covers the main hour\; staying until 15:00 GMT for the community-of
  -practice discussion is optional.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online (Zoom)
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1486,9 +1488,9 @@ BEGIN:VEVENT
 SUMMARY:SCiO UK Virtual Open Meeting - November 2026
 DTSTART:20261116T183000Z
 DTEND:20261116T210000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:76da874472c5593ae9184169@systemsmap.antlerboy.com
-SEQUENCE:21
+SEQUENCE:22
 CATEGORIES:Cybernetics,Systems thinking
 DESCRIPTION:SCiO UK\nAn online open meeting with presentations and discuss
  ion for systems practitioners and others. See the organiser’s page for c
@@ -1497,7 +1499,7 @@ DESCRIPTION:SCiO UK\nAn online open meeting with presentations and discuss
  tps://www.systemspractice.org/events/scio-uk-virtual-open-meeting-november
  -2026\nManually checked against the SCiO event page on 30 October 2026. Ch
  eck the organiser for later changes.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online event
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1535,9 +1537,9 @@ BEGIN:VEVENT
 SUMMARY:Pratiche di complessità - Lab con Luca Ferri
 DTSTART:20261117T163000Z
 DTEND:20261117T183000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:216378575b2bb595eb4ff76f@systemsmap.antlerboy.com
-SEQUENCE:31
+SEQUENCE:32
 CATEGORIES:Complexity
 DESCRIPTION:Complexity Institute\, in collaboration with Nested srl Societ
  à Benefit\nSbaglia di più\, sbaglia meglio: l’etica dell’errore nell
@@ -1553,7 +1555,7 @@ DESCRIPTION:Complexity Institute\, in collaboration with Nested srl Societ
  cked 2 November 2026: both display 16:30–18:30 GMT\, equivalent to 17:30
  –19:30 Europe/Rome. Public event visibility does not remove the stated C
  ommunity-membership restriction.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1588,16 +1590,16 @@ BEGIN:VEVENT
 SUMMARY:Leading with Learning � session 5
 DTSTART:20261118T093000Z
 DTEND:20261118T123000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:0e34140cb434858ca2cc25e9@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/leading-with-learning/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1630,9 +1632,9 @@ BEGIN:VEVENT
 SUMMARY:Systems of Traditional Knowledge\, Pluriversal Design
 DTSTART:20261118T233000Z
 DTEND:20261119T011500Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:ac6423f888de3c2478eae5c7@systemsmap.antlerboy.com
-SEQUENCE:20
+SEQUENCE:21
 CATEGORIES:Systemic design,Systems thinking
 DESCRIPTION:Systems Thinking Ontario\nHerman Piʻikea Clark explores Makaw
  alu and cognitive justice\; Roberto Pires discusses design\, anticipation
@@ -1645,7 +1647,7 @@ DESCRIPTION:Systems Thinking Ontario\nHerman Piʻikea Clark explores Makaw
  nto time is 18:30–20:15 EST on 18 November\; UK time is 23:30 GMT on 18 
  November to 01:15 GMT on 19 November.\nCost is not stated on the accessibl
  e event pages\; check registration.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:OCAD University\, 205 Richmond Street West\, Room 115\, Toronto\,
   Canada
 STATUS:CONFIRMED
@@ -1808,9 +1810,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Change in Practice: Lessons from the Field
 DTSTART:20261123T120000Z
 DTEND:20261123T130000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:52762ac25488d4e00a349ad5@systemsmap.antlerboy.com
-SEQUENCE:27
+SEQUENCE:28
 CATEGORIES:Complexity,System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  en) and Cuauhtémoc León (CEGAM) discuss systems change practice in Indon
@@ -1824,7 +1826,7 @@ DESCRIPTION:System Dynamics Society\nCatharina Any Sulistyowati (KAIL Gard
  ation of the page is restricted by robots.txt\; check with the organiser b
  efore attending. New York time on 23 November is EST (UTC-05:00)\, equival
  ent to 12:00-13:00 UTC.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1858,16 +1860,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 7
 DTSTART:20261125T093000Z
 DTEND:20261125T123000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:a22486a9dbb015ee640a4e8a@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1904,16 +1906,16 @@ BEGIN:VEVENT
 SUMMARY:Leading with Learning � session 6
 DTSTART:20261202T093000Z
 DTEND:20261202T123000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:ee91b2a9fcce228d13d506bb@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/leading-with-learning/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1991,16 +1993,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 8
 DTSTART:20261209T093000Z
 DTEND:20261209T123000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:0c81a6c32154049c3fdd2fb4@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2028,23 +2030,20 @@ TRANSP:TRANSPARENT
 URL:https://cybsoc.org/events.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roadmap to Implement Sociocracy - Free (donations appreciated)
+SUMMARY:Roadmap to Implement Sociocracy – Free (donations appreciated)
 DTSTART:20261209T170000Z
 DTEND:20261209T180000Z
-DTSTAMP:20261030T064053Z
-UID:44c8d2017e0a2b7f89a651b2@systemsmap.antlerboy.com
+DTSTAMP:20261128T131554Z
+UID:ac486e6c5ee4dba74fe12abc@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\nJoin this free one-hour webinar to learn h
- ow to implement sociocracy. Participants will receive a 20% discount for t
- he implementation handbook From Here To There. Register This is a free web
- inar but donations are welcome! About this class Are you introducing socio
- cracy in your organization\, or thinking about it? It’s not easy! We nee
- d to think about bringing people along\, explaining what sociocrac\nLangua
- ge: Not specified\nLanguage requirements: Not specified\nInterpretation: N
- ot specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/even
- t/roadmap-to-implement-sociocracy-december/
-LAST-MODIFIED:20261030T064053Z
+DESCRIPTION:Sociocracy For All\n<p>Join this free one-hour webinar to lear
+ n how to implement sociocracy\, common challenges\, and what resources are
+  available through Sociocracy For All to help you at each step. </p>\\n\nL
+ anguage: Not specified\nLanguage requirements: Not specified\nInterpretati
+ on: Not specified\nAccess: See organiser\nhttps://www.sociocracyforall.org
+ /event/roadmap-to-implement-sociocracy-december/
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Mars – SoFA Zoom Room\, https://zoom.sociocracyforall.org/mars-
  zoom-180463541
 STATUS:CONFIRMED
@@ -2053,24 +2052,23 @@ URL:https://www.sociocracyforall.org/event/roadmap-to-implement-sociocracy
  -december/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Let's Build the Future: How to (re)start a group - Free (donations
-  appreciated)
+SUMMARY:Let’s Build the Future: How to (re)start a group – Free (donat
+ ions appreciated)
 DTSTART:20261214T140000Z
 DTEND:20261214T153000Z
-DTSTAMP:20261110T124655Z
-UID:365cdcbbcc73bb50f52adfc3@systemsmap.antlerboy.com
+DTSTAMP:20261128T131554Z
+UID:dacd94abd474cf30809ed9a1@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Systems thinking
-DESCRIPTION:Sociocracy For All\nJoin this free 90 min webinar for an overv
- iew of what it takes for you to start or re-vive a group that supports act
- ion\, clarity\, while building on collective wisdom and participation from
-  the first moment Register This is a free webinar but donations are welcom
- e! About this class Are you part of a group that is still small or young a
- nd wants to get off the ground? Maybe you’re organizing mutual a\nLangua
- ge: Not specified\nLanguage requirements: Not specified\nInterpretation: N
- ot specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/even
- t/lets-build-the-future/
-LAST-MODIFIED:20261110T124655Z
+DESCRIPTION:Sociocracy For All\n<p>Are you part of a group that is still s
+ mall or young and wants to get off the ground? In this 90min webinar\, we 
+ will give you an overview of what it takes for you to start or re-vive a g
+ roup in a way that supports action\, clarity\, while building on collectiv
+ e wisdom and participation from the first moment. </p>\\n\nLanguage: Not s
+ pecified\nLanguage requirements: Not specified\nInterpretation: Not specif
+ ied\nAccess: See organiser\nhttps://www.sociocracyforall.org/event/lets-bu
+ ild-the-future/
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Mars – SoFA Zoom Room\, https://zoom.sociocracyforall.org/mars-
  zoom-180463541
 STATUS:CONFIRMED
@@ -2229,16 +2227,16 @@ BEGIN:VEVENT
 SUMMARY:Relational Leadership � session 9
 DTSTART:20270113T093000Z
 DTEND:20270113T123000Z
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:caf49aa274590bf1d9f905bd@systemsmap.antlerboy.com
-SEQUENCE:105
+SEQUENCE:106
 CATEGORIES:Relational public services,Systems thinking
 DESCRIPTION:ThemPra Social Pedagogy\nApplied learning connected to Human L
  earning Systems and relational public services.\nLanguage: Not specified\n
  Language requirements: Not specified\nInterpretation: Not specified\nAcces
  s: Full-course registration required\nhttps://www.thempra.org.uk/thempra/o
  ur-courses/relational-leadership/
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2295,20 +2293,16 @@ BEGIN:VEVENT
 SUMMARY:Academy (Level 1\, two cohorts for all time zones)
 DTSTART:20270210T130000Z
 DTEND:20270714T210000Z
-DTSTAMP:20261113T122225Z
-UID:7363bc413efd2de62045b810@systemsmap.antlerboy.com
+DTSTAMP:20261128T131554Z
+UID:f977213224295179b906b8e6@systemsmap.antlerboy.com
 SEQUENCE:0
 CATEGORIES:Complexity,Systems thinking
-DESCRIPTION:Sociocracy For All\nThe 5-month program covers all the parts o
- f sociocracy in weekly 2h meetings Clarity on vision\, mission\, aims Desi
- gning circle structures\, circle roles and operational roles Co-developing
-  proposals\, consent decision and integrating objections Selection process
-  (simple and complex) Sociocracy and equity and inclusion Meeting format\,
-  minutes\, backlogs Social-emotional challenges and how to address t\nLang
- uage: Not specified\nLanguage requirements: Not specified\nInterpretation:
-  Not specified\nAccess: See organiser\nhttps://www.sociocracyforall.org/ev
- ent/academy-level-1/
-LAST-MODIFIED:20261113T122225Z
+DESCRIPTION:Sociocracy For All\n<p>The 5-month program covers all the part
+ s of sociocracy in weekly 2h meetings. Leads to facilitator certification.
+  </p>\\n\nLanguage: Not specified\nLanguage requirements: Not specified\nI
+ nterpretation: Not specified\nAccess: See organiser\nhttps://www.sociocrac
+ yforall.org/event/academy-level-1/
+LAST-MODIFIED:20261128T131554Z
 LOCATION:SoFA Zoom (Multi-Room)
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2318,9 +2312,9 @@ BEGIN:VEVENT
 SUMMARY:Systems Thinking & Modelling Symposium - Oceania Chapter 2027
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
-DTSTAMP:20261127T140017Z
+DTSTAMP:20261128T131554Z
 UID:efc297f629367b9b25ff0780@systemsmap.antlerboy.com
-SEQUENCE:30
+SEQUENCE:31
 CATEGORIES:System dynamics,Systems thinking
 DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
  nnouncement describes a hybrid Systems Thinking & Modelling Symposium at U
@@ -2340,7 +2334,7 @@ DESCRIPTION:System Dynamics Society Oceania Chapter\nThe Oceania Chapter a
  g 12 February. Corrected to a date-only 12 February listing\; existing sub
  scription identity retained.\nDate-only listing\; check the organiser for 
  session times.
-LAST-MODIFIED:20261127T140017Z
+LAST-MODIFIED:20261128T131554Z
 LOCATION:UNSW Canberra\, Australia / online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -1136,6 +1136,25 @@ URL:https://csh.ac.at/events/from-research-to-entrepreneurship-exploring-c
  areer-paths-beyond-academia/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joint inference of networks and the rules of interaction
+DTSTART:20261201T123000Z
+DTEND:20261201T130000Z
+DTSTAMP:20261128T131554Z
+UID:fbb434b9eff4cb1c30c924e8@systemsmap.antlerboy.com
+SEQUENCE:0
+CATEGORIES:Complexity
+DESCRIPTION:Complexity Science Hub\n\nLanguage: Not specified\nLanguage re
+ quirements: Not specified\nInterpretation: Not specified\nAccess: See orga
+ niser\nhttps://csh.ac.at/events/joint-inference-of-networks-and-the-rules-
+ of-interaction/
+LAST-MODIFIED:20261128T131554Z
+LOCATION:CSH Salon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://csh.ac.at/events/joint-inference-of-networks-and-the-rules-of-
+ interaction/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Collective Action in the Age of AI
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204

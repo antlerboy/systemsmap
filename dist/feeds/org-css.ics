@@ -6,24 +6,6 @@ X-WR-CALNAME:Complex Systems Society
 REFRESH-INTERVAL:P1D
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-SUMMARY:Social Simulation Conference 2026
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260829
-DTSTAMP:20260906T191842Z
-UID:c61960ae94820bda3b8defa3@systemsmap.antlerboy.com
-SEQUENCE:1
-CATEGORIES:Complexity
-DESCRIPTION:Complex Systems Society\n\nLanguage: Not specified\nLanguage r
- equirements: Not specified\nInterpretation: Not specified\nAccess: See org
- aniser\nhttps://cssociety.org/event/075b0114-b4bd-4efc-8d1a-9d5a4d6a2eca/
- \nDate-only listing\; check the organiser for session times.
-LAST-MODIFIED:20260906T191842Z
-LOCATION:Location not published
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://cssociety.org/event/075b0114-b4bd-4efc-8d1a-9d5a4d6a2eca/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Complex R.O.M.E. Workshop
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261002
